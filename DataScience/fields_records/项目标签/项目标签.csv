@@ -1,0 +1,359 @@
+﻿大学英文名称,学位,专业英文名称,所属院系,项目标签（英文）,项目标签（中文）,response_used
+Harvard University,MS,Data Science SEAS,约翰·保尔森工程与应用科学学院,"Data Science, Computer Science, Statistics, Mathematics, Interdisciplinary","数据科学, 计算机科学, 统计学, 数学, 跨学科",response_1
+Harvard University,MS,Data Science,Harvard Extension School,"Data Science, Machine Learning, Artificial Intelligence, Data Visualization, Interdisciplinary","数据科学, 机器学习, 人工智能, 数据可视化, 跨学科",response_1
+Stanford University,MS,Data Science,工程学院,"Computational Mathematics, Computational Engineering, Data Science, Statistics, Interdisciplinary","计算数学, 计算工程, 数据科学, 统计学, 跨学科",response_2
+Stanford University,MS,Data Science,人文科学学院,"Statistics, Data Science, Mathematics, Computer Science, Interdisciplinary","统计学, 数据科学, 数学, 计算机科学, 跨学科",response_1
+Yale University,MS,Statistics and Data Science,艺术与科学研究生院,"Statistics, Data Science, Machine Learning, Probability Theory, Interdisciplinary","统计学, 数据科学, 机器学习, 概率论, 跨学科",response_1
+Yale University,PH.D.,Statistics and Data Science,艺术与科学研究生院,"Statistics, Data Science, Probability Theory, Machine Learning, Interdisciplinary","统计学, 数据科学, 概率论, 机器学习, 跨学科",response_1
+University of Pennsylvania,PHD,Statistics and Data Science ,商学院,"Statistics, Data Science, Interdisciplinary, Mathematics, Computer Science","统计学, 数据科学, 跨学科, 数学, 计算机科学",response_1
+University of Pennsylvania,MSE,Data Science,工程学院,"Data Science, Machine Learning, Big Data Analytics, Statistics, Interdisciplinary","数据科学, 机器学习, 大数据分析, 统计学, 跨学科",response_1
+Duke University,MS,Electrical and Computer Engineering-Machine Learning & Big Data,工程学院,"Electrical Engineering, Computer Engineering, Interdisciplinary, Machine Learning & Big Data, Quantum Computing","电气工程, 计算机工程, 跨学科, 机器学习与大数据, 量子计算",response_1
+Duke University,Meng,Electrical and Computer Engineering-Machine Learning & Big Data,工程学院,"Engineering, Computer Science, Machine Learning/Ai, Mathematics/Statistics, Interdisciplinary","工程学, 计算机科学, 机器学习/人工智能, 数学/统计学, 跨学科",response_3
+Duke University,MS,Statistical Science（Data Science & Analytics ）,文理学院,"Statistics, Interdisciplinary, Machine Learning, Bayesian Methods, Data Science","统计学, 跨学科, 机器学习, 贝叶斯方法, 数据科学",response_1
+Duke University,MS,Interdisciplinary Data Science,文理学院,"Data Science, Interdisciplinary, Computational Training, Technical Training, Teamwork","数据科学, 跨学科, 计算训练, 技术培训, 团队合作",response_1
+Duke University,MENG,Electrical and Computer Engineering,杜克昆山分校,"Electrical Engineering, Computer Engineering, Interdisciplinary, Software Development, Big Data Analysis","电气工程, 计算机工程, 跨学科, 软件开发, 大数据分析",response_2
+" 
+Brown University",MS,Data Science,研究生院,"Data Science, Computer Science, Mathematics, Statistics, Interdisciplinary","数据科学, 计算机科学, 数学, 统计学, 跨学科",response_1
+Northwestern University,MS,Master of Science in Machine Learning and Data Science,工程与应用科学学院,"Machine Learning, Data Science, Artificial Intelligence, Statistics, Interdisciplinary","机器学习, 数据科学, 人工智能, 统计学, 跨学科",response_1
+Northwestern University,MS,Statistics and Data Science,文理学院,"Statistics, Data Science, Mathematics, Interdisciplinary","统计学, 数据科学, 数学, 跨学科",response_1
+Johns Hopkins University,MSE,Data Science,工程学院,"Applied Mathematics, Statistics, Computer Science, Data Science, Interdisciplinary","应用数学, 统计学, 计算机科学, 数据科学, 跨学科",response_1
+Johns Hopkins University,MSE,Data Science,工程学院,"Data Science, Applied Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 应用数学, 统计学, 计算机科学, 跨学科",response_1
+Johns Hopkins University,PHD,Applied Mathematics and Statistics,工程学院,"Applied Mathematics, Statistics, Interdisciplinary, Data Science, Machine Learning","应用数学, 统计学, 跨学科, 数据科学, 机器学习",response_1
+Johns Hopkins University,PHD,Applied Mathematics and Statistics,工程学院,"Applied Mathematics, Statistics, Interdisciplinary, Data Science, Financial Mathematics","应用数学, 统计学, 跨学科, 数据科学, 金融数学",response_1
+Johns Hopkins University,MSEM,Master of Science in Global Innovation and Leadership：Technical Concentrations,工程学院,需要额外确认,需要额外确认,none
+Columbia University,MS,Data Science,工程与应用科学研究生学院,"Data Science, Statistics, Computer Science, Engineering, Interdisciplinary","数据科学, 统计学, 计算机科学, 工程学, 跨学科",response_1
+Columbia University,PhD,The PhD specialization in Data Science,工程与应用科学研究生学院,"Data Science, Interdisciplinary, Applied Mathematics, Computer Science, Statistics","数据科学, 跨学科, 应用数学, 计算机科学, 统计学",response_1
+Columbia University,MS,Applied Analytics,School of Professional Studies,"Data Analytics, Artificial Intelligence, Management, Interdisciplinary, Quantitative","数据分析, 人工智能, 管理学, 跨学科, 定量",response_1
+Columbia University,MS,Applied Analytics,School of Professional Studies,"Data Analytics, Quantitative Analysis, Interdisciplinary, Leadership, Artificial Intelligence","数据分析, 定量分析, 跨学科, 领导力, 人工智能",response_1
+Cornell University,M.Eng.,Operations Research and Information Engineering ：Data Analytics (DA),工程学院,"Operations Research, Information Engineering, Data Science, Financial Engineering, Interdisciplinary","运筹学, 信息工程, 数据科学, 金融工程, 跨学科",response_1
+Cornell University,M.Eng.,Operations Research and Information Engineering ：Data Analytics (DA),工程学院,"Operations Research, Information Engineering, Data Science, Financial Engineering, Interdisciplinary","运筹学, 信息工程, 数据科学, 金融工程, 跨学科",response_1
+Cornell University,M.Eng.,Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech),康奈尔科技学院,"Operations Research, Data Science, Machine Learning, Optimization, Interdisciplinary","运筹学, 数据科学, 机器学习, 优化, 跨学科",response_1
+Cornell University,M.P.S.,Information Science (M.P.S.) , 计算与信息科学学院,"Interdisciplinary, Information Science, Computer Science, Social And Behavioral Aspects, Data Science","跨学科, 信息科学, 计算机科学, 社会与行为方面, 数据科学",response_1
+Cornell University,Ph.D.,Information Science (Ph.D.) , 计算与信息科学学院,"Interdisciplinary, Information Systems, Social Aspects Of Computing, Computer Science, Human-Computer Interaction","跨学科, 信息系统, 计算的社会方面, 计算机科学, 人机交互",response_1
+Cornell University,M.P.S.,Applied Statistics (Data Science) , 计算与信息科学学院,"Statistics, Data Science, Applied Mathematics, Computer Science, Interdisciplinary","统计学, 数据科学, 应用数学, 计算机科学, 跨学科",response_1
+Cornell University,M.P.S.,Applied Statistics (Data Science) , 计算与信息科学学院,"Statistics, Data Science, Applied, Interdisciplinary, Mathematics","统计学, 数据科学, 应用的, 跨学科, 数学",response_1
+University of Chicago,MScA,Applied Data Science,物理科学部,"Data Science, Computational Analysis, Applied, Interdisciplinary, Programming","数据科学, 计算分析, 应用的, 跨学科, 编程",response_1
+University of Chicago,MS,Data Science ,物理科学部,"Data Science, Statistics, Computer Science, Interdisciplinary, Machine Learning","数据科学, 统计学, 计算机科学, 跨学科, 机器学习",response_1
+University of Chicago,Ph.D,Data Science ,物理科学部,"Data Science, Mathematics, Computer Science, Statistics, Interdisciplinary","数据科学, 数学, 计算机科学, 统计学, 跨学科",response_1
+"University of California, Berkeley",M.Eng,Data Science  ,电子工程和计算机科学系,"Electrical Engineering, Computer Science, Interdisciplinary, Leadership, Data Science","电气工程, 计算机科学, 跨学科, 领导力, 数据科学",response_1
+"University of California, Berkeley",MAna,Master of Analytics,工业工程与运筹学系,"Analytics, Data Science, Optimization, Statistics, Interdisciplinary","分析学, 数据科学, 优化, 统计学, 跨学科",response_1
+"University of California, Los Angeles",MENG,Data Science ,工程与应用科学学院,"Interdisciplinary, Engineering, Artificial Intelligence, Data Science, Technical Management","跨学科, 工程学, 人工智能, 数据科学, 技术管理",response_2
+"University of California, Los Angeles",M.A.S.D.S,Master of Applied Statistics and Data Science,物理科学学院,"Statistics, Data Science, Applied, Quantitative Analytics, Interdisciplinary","统计学, 数据科学, 应用的, 定量分析, 跨学科",response_1
+Rice University,MDS,Master of Data Science,工程学院,"Data Science, Interdisciplinary, Statistics, Computer Science, Mathematics","数据科学, 跨学科, 统计学, 计算机科学, 数学",response_1
+Vanderbilt University,MS,Data Science ,文理学院,"Data Science, Statistics, Computer Science, Interdisciplinary, Machine Learning","数据科学, 统计学, 计算机科学, 跨学科, 机器学习",response_1
+" 
+University of Notre Dame",PHD,PHD IN ANALYTICS,商学院,"Analytics, Data Science, Statistics, Machine Learning, Interdisciplinary","分析学, 数据科学, 统计学, 机器学习, 跨学科",response_1
+" 
+University of Notre Dame",M.S.,Applied and Computational Mathematics ,理学院,"Applied Mathematics, Computational Mathematics, Statistics, Predictive Analytics, Actuarial Science","应用数学, 计算数学, 统计学, 预测分析, 精算科学",response_1
+" 
+University of Notre Dame",M.S.,Applied and Computational Mathematics ,理学院,"Statistics, Applied Mathematics, Computational Science, Predictive Analytics, Interdisciplinary","统计学, 应用数学, 计算科学, 预测分析, 跨学科",response_1
+"University of Michigan, Ann Arbor",MENG,Data Science and Machine Learning,工程学院,"Electrical Engineering, Computer Engineering, Data Science, Machine Learning, Autonomous Systems","电气工程, 计算机工程, 数据科学, 机器学习, 自动化系统",response_1
+"University of Michigan, Ann Arbor",Ph.D,Industrial and Operations Engineering,工程学院,"Industrial Engineering, Operations Engineering, Data Analytics, Optimization, Stochastic Systems, Interdisciplinary","工业工程, 运营工程, 数据分析, 优化, 随机系统, 跨学科",response_1
+"University of Michigan, Ann Arbor",MS,Industrial and Operations Engineering,工程学院,"Industrial Engineering, Operations Research, Data Analytics, Statistics, Interdisciplinary","工业工程, 运筹学, 数据分析, 统计学, 跨学科",response_1
+"University of Michigan, Ann Arbor",MSE,Industrial and Operations Engineering,工程学院,"Industrial Engineering, Operations Research, Data Analytics, Statistics, Interdisciplinary","工业工程, 运筹学, 数据分析, 统计学, 跨学科",response_2
+"University of Michigan, Ann Arbor",MS,Industrial and Operations Engineering,工程学院,"Industrial Engineering, Operations Research, Data Analytics, Statistics, Interdisciplinary","工业工程, 运筹学, 数据分析, 统计学, 跨学科",response_1
+"University of Michigan, Ann Arbor",MSE,Industrial and Operations Engineering,工程学院,"Industrial Engineering, Operations Research, Data Analytics, Statistics, Interdisciplinary","工业工程, 运筹学, 数据分析, 统计学, 跨学科",response_1
+"University of Michigan, Ann Arbor",Ph.D,Information,信息学院,"Information Science, Data Science, Artificial Intelligence, Human Computer Interaction, Interdisciplinary","信息科学, 数据科学, 人工智能, 人机交互, 跨学科",response_1
+"University of Michigan, Ann Arbor",MS,Information,信息学院,"Data Science, User Experience (Ux), Information Science, Technology, Interdisciplinary","数据科学, 用户体验, 信息科学, 技术, 跨学科",response_1
+"University of Michigan, Ann Arbor",MS,Data Science ,文化、科学与艺术学院,"Data Science, Statistics, Computer Science, Mathematics, Interdisciplinary","数据科学, 统计学, 计算机科学, 数学, 跨学科",response_1
+"University of North Carolina, Chapel Hill",MS,"MS program in Statistics, Analytics and Data Science (STANDS)",文理学院,"Statistics, Operations Research, Data Science, Interdisciplinary, Optimization","统计学, 运筹学, 数据科学, 跨学科, 优化",response_3
+Georgetown University,M.S.,Master of Science in Data Science and Analytics,文理研究生院,"Data Science, Analytics, Mathematics, Statistics, Interdisciplinary","数据科学, 分析学, 数学, 统计学, 跨学科",response_2
+Georgetown University,M.S.,Mathematics & Statistics ,文理研究生院,"Mathematics, Statistics, Applied Mathematics, Interdisciplinary, Data Science","数学, 统计学, 应用数学, 跨学科, 数据科学",response_1
+Georgetown University,M.S.,Mathematics & Statistics ,文理研究生院,"Mathematics, Statistics, Data Science, Machine Learning, Interdisciplinary","数学, 统计学, 数据科学, 机器学习, 跨学科",response_1
+Emory University,MS,Quantitative Theory and Methods,研究生院,"Quantitative Theory And Methods, Data Science, Statistics, Interdisciplinary, Mathematics","定量理论与方法, 数据科学, 统计学, 跨学科, 数学",response_1
+University of Virginia,PHD,Data Analytics and Decision Science,达顿商学院,"Data Analytics, Decision Science, Mathematics, Statistics, Interdisciplinary","数据分析, 决策科学, 数学, 统计学, 跨学科",response_1
+University of Virginia,MSDS,Data Science,数据科学学院,"Data Science, Mathematics, Statistics, Programming, Interdisciplinary","数据科学, 数学, 统计学, 编程, 跨学科",response_1
+University of Virginia,PHD,Data Science,数据科学学院,"Data Science, Mathematics, Statistics, Computational, Interdisciplinary","数据科学, 数学, 统计学, 计算的, 跨学科",response_1
+Carnegie Mellon University,MITS,Master of Information Technology Strategy (MITS),人文与社会科学学院,"Information Technology Strategy, Interdisciplinary, Data Analytics, Information Security, Software And Networked Systems, Security Studies, Technology, International Relations, Political Science","信息技术战略, 跨学科, 数据分析, 信息安全, 软件与网络系统, 安全研究, 技术, 国际关系, 政治学",response_1
+Carnegie Mellon University,MADS,Master of Science in Applied Data Science (MADS),人文与社会科学学院,"Data Science, Statistics, Applied, Interdisciplinary, Computational","数据科学, 统计学, 应用的, 跨学科, 计算的",response_1
+Carnegie Mellon University,MISM,Information Systems Management（BUSINESS INTELLIGENCE & DATA ANALYTICS）,信息系统与公共政策学院 ,"Information Systems, Business Intelligence, Data Analytics, Programming, Statistics, Interdisciplinary","信息系统, 商业智能, 数据分析, 编程, 统计学, 跨学科",response_1
+Carnegie Mellon University,MISM,Information Systems Management（BUSINESS INTELLIGENCE & DATA ANALYTICS）,信息系统与公共政策学院 ,"Information Systems Management, Data Analytics, Programming, Statistics, Interdisciplinary","信息系统管理, 数据分析, 编程, 统计学, 跨学科",response_1
+Carnegie Mellon University,MS,MS in DATA ANALYTICS FOR SCIENCE,科学学院,"Data Science, Interdisciplinary, Artificial Intelligence, Machine Learning, Statistics","数据科学, 跨学科, 人工智能, 机器学习, 统计学",response_1
+Carnegie Mellon University,MCDS,Computational Data Science,计算机科学学院,"Computational Data Science, Computer Science, Machine Learning, Analytics, Interdisciplinary","计算数据科学, 计算机科学, 机器学习, 分析学, 跨学科",response_1
+Carnegie Mellon University,MCDS,Computational Data Science,计算机科学学院,"Data Science, Computational, Machine Learning, Interdisciplinary, Analytics","数据科学, 计算的, 机器学习, 跨学科, 分析学",response_2
+Washington University in St. Louis,MS,MS in Engineering Data Analytics & Statistics,工程学院,"Data Analytics, Statistics, Interdisciplinary, Systems Science, Computer Science","数据分析, 统计学, 跨学科, 系统科学, 计算机科学",response_1
+Washington University in St. Louis,MS,MS in Engineering Data Analytics & Statistics,工程学院,"Data Analytics, Statistics, Interdisciplinary, Systems Science, Mathematics","数据分析, 统计学, 跨学科, 系统科学, 数学",response_2
+Washington University in St. Louis,PHD,Computational & Data Sciences ,工程学院,"Data Science, Computational Science, Statistics, Interdisciplinary, Social Science Applications","数据科学, 计算科学, 统计学, 跨学科, 社会科学应用",response_1
+Washington University in St. Louis,MS,Master of Data Analytics & Applications,继续和专业教育学院,"Data Analytics, Interdisciplinary, Data Systems, Statistical Modeling, Applications","数据分析, 跨学科, 数据系统, 统计建模, 应用",response_1
+Washington University in St. Louis,MS,Master of Data Analytics & Applications,继续和专业教育学院,"Data Analytics, Applications, Interdisciplinary, Data Systems, Analytics Techniques","数据分析, 应用, 跨学科, 数据系统, 分析技术",response_3
+University of Florida,M.S.,Information Systems and Operations Management：Data Science,商学院,"Information Systems, Operations Management, Analytics, Artificial Intelligence, Interdisciplinary","信息系统, 运营管理, 分析学, 人工智能, 跨学科",response_1
+University of Florida,M.S.,Information Systems and Operations Management：Data Science,商学院,"Information Systems, Operations Management, Analytics, Artificial Intelligence, Interdisciplinary","信息系统, 运营管理, 分析学, 人工智能, 跨学科",response_1
+University of Florida,M.S.,Information Systems and Operations Management：Data Science,商学院,"Information Systems, Operations Management, Analytics, Artificial Intelligence, Interdisciplinary","信息系统, 运营管理, 分析学, 人工智能, 跨学科",response_1
+University of Florida,M.S.,Information Systems and Operations Management：Data Science,商学院,"Information Systems, Operations Management, Analytics, Artificial Intelligence, Data Science, Interdisciplinary","信息系统, 运营管理, 分析学, 人工智能, 数据科学, 跨学科",response_1
+"University of California, Davis",MS,Statistics- DATA SCIENCE TRACK (48 units),文学与科学学院,"Statistics, Mathematics, Data Science, Computational Statistics, Interdisciplinary","统计学, 数学, 数据科学, 计算统计学, 跨学科",response_1
+"University of California, San Diego",PhD,Data Science,数据科学研究所,"Data Science, Interdisciplinary, Statistics, Mathematical Models, Machine Learning","数据科学, 跨学科, 统计学, 数学模型, 机器学习",response_1
+"University of California, San Diego",MS,Data Science,数据科学研究所,"Data Science, Interdisciplinary, Mathematics, Statistics, Programming","数据科学, 跨学科, 数学, 统计学, 编程",response_1
+"University of California, San Diego",MS,Machine Learning and Data Science ,工程学院,"Electrical Engineering, Computer Engineering, Machine Learning, Data Science, Interdisciplinary","电气工程, 计算机工程, 机器学习, 数据科学, 跨学科",response_2
+"University of California, San Diego",PHD,Machine Learning and Data Science ,工程学院,"Electrical Engineering, Computer Engineering, Machine Learning, Data Science, Interdisciplinary","电气工程, 计算机工程, 机器学习, 数据科学, 跨学科",response_1
+University of Southern California,PhD,Business Administration( Data Sciences & Operations),商学院,"Data Science, Operations Management, Statistics, Interdisciplinary, Quantitative Techniques","数据科学, 运营管理, 统计学, 跨学科, 定量技术",response_1
+University of Southern California,M.S.,Computer Science (Data Science),工程学院,"Computer Science, Data Science, Algorithmic, Statistical, Interdisciplinary","计算机科学, 数据科学, 算法的, 统计的, 跨学科",response_1
+University of Southern California,M.S.,Computer Science (Data Science),工程学院,"Computer Science, Data Science, Algorithms, Statistics, Interdisciplinary","计算机科学, 数据科学, 算法, 统计学, 跨学科",response_2
+University of Southern California,M.S.,Applied Data Science,工程学院,"Data Science, Interdisciplinary, Machine Learning, Data Mining, Computer Science","数据科学, 跨学科, 机器学习, 数据挖掘, 计算机科学",response_1
+University of Southern California,M.S.,Applied Data Science,工程学院,"Data Science, Machine Learning, Data Mining, Computer Science, Interdisciplinary","数据科学, 机器学习, 数据挖掘, 计算机科学, 跨学科",response_1
+University of Southern California,M.S.,ECE-Machine Learning and Data Science,工程学院,"Machine Learning, Data Science, Electrical Engineering, Computer Engineering, Interdisciplinary","机器学习, 数据科学, 电气工程, 计算机工程, 跨学科",response_1
+University of Southern California,M.S.,ECE-Machine Learning and Data Science,工程学院,"Machine Learning, Data Science, Electrical And Computer Engineering, Signal And Information Processing, Interdisciplinary","机器学习, 数据科学, 电气与计算机工程, 信号与信息处理, 跨学科",response_1
+University of Southern California,M.S.,Analytics,工程学院,"Data Science, Statistics, Mathematics, Machine Learning, Interdisciplinary","数据科学, 统计学, 数学, 机器学习, 跨学科",response_1
+University of Southern California,M.S.,Analytics,工程学院,"Analytics, Data Science, Statistics, Machine Learning, Interdisciplinary","分析学, 数据科学, 统计学, 机器学习, 跨学科",response_1
+University of Southern California,M.S.,Mathematical Data Science M.S.,文理学院,"Mathematics, Data Science, Statistics, Machine Learning, Interdisciplinary","数学, 数据科学, 统计学, 机器学习, 跨学科",response_1
+"University of Texas, Austin", Ph.D.,Electrical and Computer Engineering ,工程学院,"Electrical Engineering, Computer Engineering, Software Engineering, Interdisciplinary","电气工程, 计算机工程, 软件工程, 跨学科",response_2
+"University of Texas, Austin", Ph.D.,Electrical and Computer Engineering ,工程学院,"Electrical Engineering, Computer Engineering, Software Engineering, Interdisciplinary","电气工程, 计算机工程, 软件工程, 跨学科",response_1
+"University of Texas, Austin",MSE ,Electrical and Computer Engineering,工程学院,"Electrical Engineering, Computer Engineering, Software Engineering, Interdisciplinary","电气工程, 计算机工程, 软件工程, 跨学科",response_1
+"University of Texas, Austin",MSE ,Electrical and Computer Engineering,工程学院,"Electrical Engineering, Computer Engineering, Software Engineering, Interdisciplinary","电气工程, 计算机工程, 软件工程, 跨学科",response_1
+"University of California, Irvine",MDS,Master of Data Science,信息与计算机科学学院,"Data Science, Computational, Statistical, Interdisciplinary, Machine Learning","数据科学, 计算的, 统计的, 跨学科, 机器学习",response_1
+Georgia Institute of Technology,MS,Analytics,商学院,"Interdisciplinary, Data Science, Analytics, Business Analytics, Statistics, Computing","跨学科, 数据科学, 分析学, 商业分析, 统计学, 计算",response_1
+"University of California, Santa Barbara",MA,Statistics-Data Science,文理学院,"Statistics, Data Science, Applied Statistics, Mathematical Statistics, Interdisciplinary","统计学, 数据科学, 应用统计学, 数理统计学, 跨学科",response_1
+"University of California, Santa Barbara",MA,Statistics-Data Science,文理学院,"Statistics, Applied Probability, Data Science, Mathematical Statistics, Applied Statistics, Interdisciplinary","统计学, 应用概率论, 数据科学, 数理统计学, 应用统计学, 跨学科",response_1
+"University of California, Santa Barbara",MA,Statistics-Data Science,文理学院,"Statistics, Data Science, Applied Statistics, Mathematical Statistics, Interdisciplinary","统计学, 数据科学, 应用统计学, 数理统计学, 跨学科",response_1
+New York University,Ph.D,Data Science ,文理研究生院,"Data Science, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 数学, 统计学, 计算机科学, 跨学科",response_3
+New York University,MS,Data Science ,文理研究生院,"Data Science, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 数学, 统计学, 计算机科学, 跨学科",response_1
+New York University,MS,Data Science （Industry Concentration）,文理研究生院,"Data Science, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 数学, 统计学, 计算机科学, 跨学科",response_1
+New York University,MS,MS in Data Analytics & Business Computing,商学院,"Data Analytics, Business Computing, Interdisciplinary, Data Science, Management Science","数据分析, 商业计算, 跨学科, 数据科学, 管理科学",response_2
+"University of Wisconsin, Madison",M.S.,MS – Data Engineering,文理学院,"Data Engineering, Computer Science, Data Science, Statistics, Interdisciplinary","数据工程, 计算机科学, 数据科学, 统计学, 跨学科",response_1
+"University of Wisconsin, Madison",MS,Statistics and Data Science,文理学院,"Statistics, Data Science, Mathematics, Interdisciplinary, Computational","统计学, 数据科学, 数学, 跨学科, 计算的",response_1
+"University of Wisconsin, Madison",MS,Statistics and Data Science,文理学院,"Statistics, Data Science, Mathematics, Interdisciplinary, Computational","统计学, 数据科学, 数学, 跨学科, 计算的",response_1
+"University of Wisconsin, Madison",MS,Data Science,文理学院,"Data Science, Statistics, Computer Sciences, Interdisciplinary, Machine Learning","数据科学, 统计学, 计算机科学, 跨学科, 机器学习",response_1
+"University of Illinois, Urbana-Champaign",MS,Data Science + CEE M.S.,工程学院,"Civil Engineering, Environmental Engineering, Artificial Intelligence, Data Science, Interdisciplinary","土木工程, 环境工程, 人工智能, 数据科学, 跨学科",response_1
+"University of Illinois, Urbana-Champaign",MS,Data Science + CEE M.S.,工程学院,"Civil Engineering, Environmental Engineering, Data Science, Artificial Intelligence, Interdisciplinary","土木工程, 环境工程, 数据科学, 人工智能, 跨学科",response_1
+"University of Illinois, Urbana-Champaign",MS,MS in Industrial Engineering with the Advanced Analytics Concentration,工程学院,"Industrial Engineering, Advanced Analytics, Data Analytics, Operations Research, Interdisciplinary","工业工程, 高级分析, 数据分析, 运筹学, 跨学科",response_1
+"University of Illinois, Urbana-Champaign",MS,MS in Industrial Engineering with the Advanced Analytics Concentration,工程学院,"Industrial Engineering, Advanced Analytics, Data Analytics, Operations Research, Interdisciplinary","工业工程, 高级分析, 数据分析, 运筹学, 跨学科",response_1
+"University of Illinois, Urbana-Champaign",,Data Science & Engineering (DSE),工程学院,"Data Science, Computational Science And Engineering, Mathematical Foundations, Statistical Thinking, Interdisciplinary","数据科学, 计算科学与工程, 数学基础, 统计思维, 跨学科",response_1
+"University of Illinois, Urbana-Champaign",MS,MS in Information Management,信息科学学院,"Information Management, Data Science, Artificial Intelligence, Machine Learning, Interdisciplinary","信息管理, 数据科学, 人工智能, 机器学习, 跨学科",response_1
+"University of Illinois, Urbana-Champaign",MS,MS in Information Management,信息科学学院,"Information Management, Data Science, Technology, Interdisciplinary, Business","信息管理, 数据科学, 技术, 跨学科, 商业",response_2
+"University of Illinois, Urbana-Champaign",MS,statistics-analytics,文理学院,"Statistics, Data Science, Mathematics, Computational, Interdisciplinary","统计学, 数据科学, 数学, 计算的, 跨学科",response_2
+"University of Illinois, Urbana-Champaign",MS,statistics-analytics,文理学院,"Statistics, Data Science, Mathematics, Computational, Interdisciplinary","统计学, 数据科学, 数学, 计算的, 跨学科",response_3
+Boston College,MS,Master of Science (M.S.) in Applied Analytics,高级研究学院,"Applied Analytics, Data Science, Machine Learning, Artificial Intelligence, Statistics, Interdisciplinary","应用分析学, 数据科学, 机器学习, 人工智能, 统计学, 跨学科",response_2
+Boston College,MS,Master of Science (M.S.) in Applied Analytics,高级研究学院,"Applied Analytics, Machine Learning, Artificial Intelligence, Statistics, Interdisciplinary","应用分析学, 机器学习, 人工智能, 统计学, 跨学科",response_1
+Boston College,MS,Master of Science (M.S.) in Applied Analytics,高级研究学院,"Applied Analytics, Data Science, Machine Learning, Artificial Intelligence, Interdisciplinary","应用分析学, 数据科学, 机器学习, 人工智能, 跨学科",response_3
+University of Washington,MS,Data Science - Interdisciplinary Group (MS in Data Science) ,文理学院,"Data Science, Statistical Modeling, Machine Learning, Data Management, Interdisciplinary","数据科学, 统计建模, 机器学习, 数据管理, 跨学科",response_1
+University of Washington,PHD,Mathematics (PhD) —Data Science Option,文理学院,Mathematics,数学,response_1
+University of Washington,PHD,Statistics (PhD)：ADVANCED DATA SCIENCE (ADS) TRACK,文理学院,"Statistics, Mathematics, Data Science, Machine Learning, Interdisciplinary","统计学, 数学, 数据科学, 机器学习, 跨学科",response_1
+University of Washington,PHD,Statistics (PhD)-Machine Learning and Big Data,文理学院,"Statistics, Interdisciplinary, Machine Learning, Data Science, Social Sciences","统计学, 跨学科, 机器学习, 数据科学, 社会科学",response_1
+University of Washington,MS,Statistics - (MS - Advanced Methods & Data Analysis - Fulltime) ,文理学院,"Statistics, Data Analysis, Data Science, Computation, Interdisciplinary","统计学, 数据分析, 数据科学, 计算, 跨学科",response_1
+"Rutgers University, New Brunswick",M.S.,MS in Information Technology and Analytics,商学院,"Information Technology, Analytics, Interdisciplinary, Data Science, Cyber Security","信息技术, 分析学, 跨学科, 数据科学, 网络安全",response_1
+"Rutgers University, New Brunswick",M.S.,MS in Information Technology and Analytics,商学院,"Information Technology, Analytics, Interdisciplinary, Data Science, Business","信息技术, 分析学, 跨学科, 数据科学, 商业",response_1
+"Rutgers University, New Brunswick",MI,Master of Information,传播与信息学院,"Information Science, Library Science, Data Science, Human-Computer Interaction, Interdisciplinary","信息科学, 图书馆学, 数据科学, 人机交互, 跨学科",response_1
+"Rutgers University, New Brunswick",MI,Master of Information,传播与信息学院,"Library And Information Science, Data Science, Human-Computer Interaction, Technology Management, Interdisciplinary","图书馆与信息科学, 数据科学, 人机交互, 技术管理, 跨学科",response_1
+"Rutgers University, New Brunswick",MI,Master of Information,传播与信息学院,"Information Science, Library Science, Data Science, Human-Computer Interaction, Technology Management, Interdisciplinary","信息科学, 图书馆学, 数据科学, 人机交互, 技术管理, 跨学科",response_1
+"Rutgers University, New Brunswick",MS,Data Science  ,文理学院,"Data Science, Statistics, Computer Science, Interdisciplinary","数据科学, 统计学, 计算机科学, 跨学科",response_1
+"Rutgers University, New Brunswick",MS,Data Science  ,文理学院,"Data Science, Statistics, Computer Science, Interdisciplinary","数据科学, 统计学, 计算机科学, 跨学科",response_1
+"Rutgers University, New Brunswick",MBS,Business and Science - Computer and Information Sciences,文理学院,"Computer Science, Information Technology, Business, Interdisciplinary, Data Science","计算机科学, 信息技术, 商业, 跨学科, 数据科学",response_3
+"Rutgers University, New Brunswick",MBS,Business and Science - Computer and Information Sciences,文理学院,"Science, Business, Interdisciplinary, Data Science, Engineering","科学, 商业, 跨学科, 数据科学, 工程学",response_2
+Tufts University,MS,Data Analytics ,文理学院,"Data Analytics, Statistics, Programming, Machine Learning, Interdisciplinary","数据分析, 统计学, 编程, 机器学习, 跨学科",response_1
+Tufts University,MS,Data Science ,工程学院,"Data Science, Statistics, Machine Learning, Interdisciplinary, Computer Science","数据科学, 统计学, 机器学习, 跨学科, 计算机科学",response_2
+Tufts University,MS,Data Science ,工程学院,"Data Science, Statistics, Machine Learning, Computer Science, Interdisciplinary","数据科学, 统计学, 机器学习, 计算机科学, 跨学科",response_1
+Boston University,MS,Computer Science ：data-centric computing.,艺术与科学学院,"Computer Science, Data Science, Cybersecurity, Artificial Intelligence, Interdisciplinary","计算机科学, 数据科学, 网络安全, 人工智能, 跨学科",response_1
+Boston University,MS, Master of Science in Statistical Practice,艺术与科学学院,"Statistics, Data Science, Interdisciplinary, Applied, Programming","统计学, 数据科学, 跨学科, 应用的, 编程",response_1
+Boston University,MS,Data Analytics,工程学院,"Interdisciplinary, Engineering, Data Science, Computer Science, Systems Engineering","跨学科, 工程学, 数据科学, 计算机科学, 系统工程",response_1
+Boston University,PHD, PhD program in Computing & Data Sciences,计算与数据科学学院,"Computing, Data Sciences, Interdisciplinary, Computer Science, Electrical And Computer Engineering, Mathematics, Statistics","计算, 数据科学, 跨学科, 计算机科学, 电气与计算机工程, 数学, 统计学",response_1
+Boston University,M.S.,MS in Data Science (MSDS),计算与数据科学学院,"Data Science, Computer Science, Mathematics, Statistics, Interdisciplinary","数据科学, 计算机科学, 数学, 统计学, 跨学科",response_1
+Boston University,MS,MS in Applied Data Analytics,Metropolitan College,"Data Analytics, Data Science, Machine Learning, Statistics, Computer Science","数据分析, 数据科学, 机器学习, 统计学, 计算机科学",response_1
+Boston University,MS,"MS in Computer Information Systems, Data Analytics Concentration",Metropolitan College,"Data Analytics, Computer Information Systems, Statistics, Machine Learning, Interdisciplinary","数据分析, 计算机信息系统, 统计学, 机器学习, 跨学科",response_1
+Boston University,MS,"MS in Computer Information Systems, Database Management & Business Intelligence Concentration",Metropolitan College,"Computer Information Systems, Database Management, Business Intelligence, Data Analytics, Interdisciplinary","计算机信息系统, 数据库管理, 商业智能, 数据分析, 跨学科",response_1
+Boston University,MS,"MS in Computer Science, Data Analytics Concentration",Metropolitan College,"Computer Science, Data Analytics, Statistics, Machine Learning, Interdisciplinary","计算机科学, 数据分析, 统计学, 机器学习, 跨学科",response_1
+"Ohio State University, Columbus",MS,Industrial and Systems Engineering（Data Analytics and Optimization）,工程学院,"Industrial Engineering, Systems Engineering, Data Analytics, Optimization, Operations Research, Interdisciplinary","工业工程, 系统工程, 数据分析, 优化, 运筹学, 跨学科",response_1
+"Ohio State University, Columbus",MS,Industrial and Systems Engineering（Data Analytics and Optimization）,工程学院,"Industrial Engineering, Systems Engineering, Data Analytics, Optimization, Interdisciplinary","工业工程, 系统工程, 数据分析, 优化, 跨学科",response_1
+"Ohio State University, Columbus",MS,Industrial and Systems Engineering（Data Analytics and Optimization）,工程学院,"Industrial And Systems Engineering, Data Analytics, Optimization, Operations Research, Interdisciplinary","工业与系统工程, 数据分析, 优化, 运筹学, 跨学科",response_1
+"University of Maryland, College Park",MPS,Data Science ,计算机、数学与自然科学学院,"Data Science, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 数学, 统计学, 计算机科学, 跨学科",response_1
+"Texas A&M University, College Station",MS,"Master of Science in Industrial Engineering, Data Science",工程学院,"Industrial Engineering, Systems Engineering, Data Science, Operations Research, Interdisciplinary","工业工程, 系统工程, 数据科学, 运筹学, 跨学科",response_1
+"Texas A&M University, College Station",MS,"Master of Science in Industrial Engineering, Data Science",工程学院,"Industrial Engineering, Systems Engineering, Data Science, Operations Research, Interdisciplinary","工业工程, 系统工程, 数据科学, 运筹学, 跨学科",response_1
+"Texas A&M University, College Station",MS,MS IN STATISTICAL DATA SCIENCE,文理学院,"Statistics, Data Science, Interdisciplinary, Applied, Research","统计学, 数据科学, 跨学科, 应用的, 研究",response_2
+"Texas A&M University, College Station",MS,Master of Science in Data Science,文理学院,"Data Science, Interdisciplinary, Mathematics, Statistics, Computer Science","数据科学, 跨学科, 数学, 统计学, 计算机科学",response_1
+Virginia Tech,MS,ata Analysis + Applied Statistics,理学院,"Data Analysis, Applied Statistics, Statistics, Interdisciplinary, Mathematics","数据分析, 应用统计学, 统计学, 跨学科, 数学",response_1
+Lehigh University,MS,"M.S., Data Science",工程与应用科学学院,"Data Science, Mathematics, Statistics, Machine Learning, Interdisciplinary","数据科学, 数学, 统计学, 机器学习, 跨学科",response_1
+University of Rochester,MS,Data Science,文理学院,"Data Science, Artificial Intelligence, Statistics, Computer Science, Interdisciplinary","数据科学, 人工智能, 统计学, 计算机科学, 跨学科",response_1
+University of Rochester,MS,MS in Data Science—Genomics Track,文理学院,"Data Science, Genomics, Statistics, Computational Biology, Interdisciplinary","数据科学, 基因组学, 统计学, 计算生物学, 跨学科",response_1
+University of Georgia,MS,MS in Data Science,文理学院,"Data Science, Statistics, Computer Science, Machine Learning, Interdisciplinary, Mathematics, Computer Programming","数据科学, 统计学, 计算机科学, 机器学习, 跨学科, 数学, 计算机编程",response_1
+University of Georgia,MS,MS in Data Science,文理学院,"Statistics, Mathematics, Data Science, Computer Science, Interdisciplinary","统计学, 数学, 数据科学, 计算机科学, 跨学科",response_1
+University of Georgia,MS,MS in Data Science,文理学院,"Data Science, Statistics, Computer Science, Mathematics, Interdisciplinary","数据科学, 统计学, 计算机科学, 数学, 跨学科",response_1
+Northeastern University（Boston）,MS,Align DATA SCIENCE,计算机科学学院,"Data Science, Computer Science, Interdisciplinary, Machine Learning, Data Management","数据科学, 计算机科学, 跨学科, 机器学习, 数据管理",response_1
+Northeastern University（Boston）,MS,Align DATA SCIENCE,计算机科学学院,"Data Science, Computer Science, Machine Learning, Statistics, Interdisciplinary","数据科学, 计算机科学, 机器学习, 统计学, 跨学科",response_1
+Northeastern University（Boston）,MS,DATA SCIENCE,计算机科学学院,"Data Science, Mathematics, Computing, Interdisciplinary, Machine Learning","数据科学, 数学, 计算, 跨学科, 机器学习",response_1
+Northeastern University（Boston）,MS,DATA SCIENCE,计算机科学学院,"Mathematics, Computing, Data Engineering, Machine Learning, Interdisciplinary","数学, 计算, 数据工程, 机器学习, 跨学科",response_1
+Northeastern University（Boston）,MS,Master of Science in Data Analytics Engineering,工程学院,"Interdisciplinary, Data Analytics, Data Mining, Machine Learning, Statistics","跨学科, 数据分析, 数据挖掘, 机器学习, 统计学",response_1
+Northeastern University（Boston）,MS,Master of Science in Data Analytics Engineering,工程学院,"Data Analytics, Engineering, Interdisciplinary, Machine Learning, Statistics","数据分析, 工程学, 跨学科, 机器学习, 统计学",response_1
+Northeastern University（Boston）,MS,Master of Science in Data Architecture and Management,工程学院,"Data Architecture, Data Management, Data Engineering, Business Intelligence, Interdisciplinary","数据架构, 数据管理, 数据工程, 商业智能, 跨学科",response_1
+Northeastern University（Boston）,MS,Master of Science in Data Architecture and Management,工程学院,"Data Engineering, Big Data, Data Architecture, Software Engineering, Interdisciplinary","数据工程, 大数据, 数据架构, 软件工程, 跨学科",response_1
+Northeastern University（Boston）,MS,Applied Math,科学学院,"Applied Mathematics, Data Science, Statistics, Computer Science, Interdisciplinary","应用数学, 数据科学, 统计学, 计算机科学, 跨学科",response_1
+Northeastern University（Boston）,MS,Applied Math,科学学院,"Applied Mathematics, Data Science, Artificial Intelligence, Statistics, Interdisciplinary","应用数学, 数据科学, 人工智能, 统计学, 跨学科",response_2
+Northeastern University（Boston）,MPS,Analytics — Boston,专业研究学院,"Analytics, Statistics, Mathematics, Data Science, Interdisciplinary","分析学, 统计学, 数学, 数据科学, 跨学科",response_1
+Northeastern University ,MS,Master of Professional Studies in Analytics,东北大学（弗吉尼亚州阿灵顿）,"Analytics, Data Science, Statistics/Mathematics, Business Applications, Interdisciplinary","分析学, 数据科学, 统计学/数学, 商业应用, 跨学科",response_1
+Northeastern University ,MPS,Analytics — Oakland,东北大学（奥克兰校区）,"Analytics, Data Analysis, Statistics, Interdisciplinary, Experiential Learning","分析学, 数据分析, 统计学, 跨学科, 体验式学习",response_1
+Northeastern University ,MPS,Analytics — Portland,东北大学（波特兰校区）,"Analytics, Statistics, Mathematics, Data Science, Interdisciplinary","分析学, 统计学, 数学, 数据科学, 跨学科",response_1
+Northeastern University ,MS,Align DATA SCIENCE,东北大学（波特兰校区）,"Interdisciplinary, Data Science, Computer Science, Machine Learning, Statistics","跨学科, 数据科学, 计算机科学, 机器学习, 统计学",response_1
+Northeastern University ,MS,Align DATA SCIENCE,东北大学（波特兰校区）,"Data Science, Interdisciplinary, Computational Modeling, Machine Learning, Statistics","数据科学, 跨学科, 计算建模, 机器学习, 统计学",response_2
+Northeastern University ,MS,DATA SCIENCE,东北大学（波特兰校区）,"Data Science, Interdisciplinary, Computer Science, Engineering, Mathematics","数据科学, 跨学科, 计算机科学, 工程学, 数学",response_1
+Northeastern University ,MS,DATA SCIENCE,东北大学（波特兰校区）,"Computer Science, Artificial Intelligence, Cybersecurity, Data Science, Programming, Interdisciplinary, Mathematics, Statistics","计算机科学, 人工智能, 网络安全, 数据科学, 编程, 跨学科, 数学, 统计学",response_1
+Northeastern University ,MS,Analytics — Silicon Valley,东北大学（硅谷校区）,"Analytics, Data Science, Data Modeling, Data Visualization, Interdisciplinary","分析学, 数据科学, 数据建模, 数据可视化, 跨学科",response_1
+Northeastern University ,MS,Align DATA SCIENCE,东北大学（硅谷校区）,"Data Science, Interdisciplinary, Machine Learning, Artificial Intelligence, Statistics","数据科学, 跨学科, 机器学习, 人工智能, 统计学",response_1
+Northeastern University ,MS,Align DATA SCIENCE,东北大学（硅谷校区）,"Data Science, Interdisciplinary, Machine Learning, Artificial Intelligence, Statistics","数据科学, 跨学科, 机器学习, 人工智能, 统计学",response_1
+Northeastern University ,MS,DATA SCIENCE,东北大学（硅谷校区）,"Data Science, Interdisciplinary, Mathematics, Statistics, Programming","数据科学, 跨学科, 数学, 统计学, 编程",response_3
+Northeastern University ,MS,DATA SCIENCE,东北大学（硅谷校区）,"Data Science, Computer Science, Engineering, Mathematics, Interdisciplinary","数据科学, 计算机科学, 工程学, 数学, 跨学科",response_1
+Northeastern University ,MS,Analytics  ,东北大学（西雅图校区）,"Analytics, Statistics, Mathematics, Data Science, Interdisciplinary","分析学, 统计学, 数学, 数据科学, 跨学科",response_1
+Northeastern University ,MS,Master of Science in Data Analytics Engineering,东北大学（西雅图校区）,"Data Analytics, Engineering, Interdisciplinary, Machine Learning, Statistics","数据分析, 工程学, 跨学科, 机器学习, 统计学",response_1
+Northeastern University ,MS,Master of Science in Data Analytics Engineering,东北大学（西雅图校区）,"Data Analytics Engineering, Interdisciplinary, Machine Learning, Statistics, Artificial Intelligence","数据分析工程, 跨学科, 机器学习, 统计学, 人工智能",response_1
+Northeastern University ,MS,Master of Science in Data Architecture and Management,东北大学（西雅图校区）,"Data Architecture, Data Management, Big Data, Software Engineering, Interdisciplinary","数据架构, 数据管理, 大数据, 软件工程, 跨学科",response_1
+Northeastern University ,MS,Master of Science in Data Architecture and Management,东北大学（西雅图校区）,"Data Architecture, Data Management, Big Data Engineering, Machine Learning, Interdisciplinary","数据架构, 数据管理, 大数据工程, 机器学习, 跨学科",response_1
+Northeastern University ,MS,Analytics ,东北大学（西雅图校区）,"Analytics, Statistical Modeling, Data Science, Management, Interdisciplinary","分析学, 统计建模, 数据科学, 管理学, 跨学科",response_1
+Northeastern University（Toronto）,MS,Analytics — Toronto,东北大学（加拿大多伦多校区）,"Analytics, Statistics, Mathematics, Business Intelligence, Interdisciplinary","分析学, 统计学, 数学, 商业智能, 跨学科",response_1
+Northeastern University（Vancouver）,MS,Analytics — Vancouver,东北大学（加拿大温哥华校区）,"Analytics, Data Science, Interdisciplinary, Statistics, Business Application","分析学, 数据科学, 跨学科, 统计学, 商业应用",response_1
+Northeastern University（Vancouver）,MS,Master of Science in Data Analytics Engineering,东北大学（加拿大温哥华校区）,"Data Analytics, Engineering, Statistics, Machine Learning, Interdisciplinary","数据分析, 工程学, 统计学, 机器学习, 跨学科",response_1
+Northeastern University（Vancouver）,MS,Master of Science in Data Analytics Engineering,东北大学（加拿大温哥华校区）,"Data Analytics, Statistics, Machine Learning, Data Visualization, Interdisciplinary","数据分析, 统计学, 机器学习, 数据可视化, 跨学科",response_1
+Northeastern University（Boston）,硕士预科项目,Analytics（College of Professional Studies）,Global Pathways项目,"Analytics, Data Science, Interdisciplinary","分析学, 数据科学, 跨学科",response_1
+Northeastern University（Boston）,硕士预科项目,Data Analytics Engineering（College of Engineering）,Global Pathways项目,"Data Analytics, Engineering, Analytical Skills, Interdisciplinary","数据分析, 工程学, 分析技能, 跨学科",response_1
+Northeastern University（Boston）,硕士预科项目,Data Analytics Engineering（College of Engineering）,Global Pathways项目,"Data Analytics, Engineering, Analytical Skills, Research, Interdisciplinary","数据分析, 工程学, 分析技能, 研究, 跨学科",response_1
+Northeastern University（Boston）,硕士预科项目,Data Architecture and Management（College of Engineering）,Global Pathways项目,"Data Architecture, Data Management, Data Engineering, Data Preparation, Interdisciplinary","数据架构, 数据管理, 数据工程, 数据准备, 跨学科",response_1
+Northeastern University（Boston）,硕士预科项目,Data Architecture and Management（College of Engineering）,Global Pathways项目,"Data Architecture, Data Management, Data Engineering, Data Preparation, Data Curation","数据架构, 数据管理, 数据工程, 数据准备, 数据管理",response_1
+Florida State University,PHD,Data Science,文理学院,"Mathematics, Financial Mathematics, Biomathematics, Data Science, Interdisciplinary","数学, 金融数学, 生物数学, 数据科学, 跨学科",response_1
+Florida State University,MS,Data Science,文理学院,"Mathematics, Pure Mathematics, Applied And Computational Mathematics, Financial Mathematics, Biomathematics, Data Science, Interdisciplinary","数学, 纯数学, 应用与计算数学, 金融数学, 生物数学, 数据科学, 跨学科",response_1
+Florida State University,MS,Statistical Data Science ,文理学院,"Statistics, Data Science, Biostatistics, Applied Statistics, Interdisciplinary","统计学, 数据科学, 生物统计学, 应用统计学, 跨学科",response_1
+Florida State University,MS,Statistical Data Science ,文理学院,"Statistics, Data Science, Biostatistics, Mathematics, Interdisciplinary","统计学, 数据科学, 生物统计学, 数学, 跨学科",response_1
+"University of Minnesota, Twin Cities",MS,Data Science M.S.,理工学院,"Data Science, Computer Science, Mathematics, Statistics, Interdisciplinary","数据科学, 计算机科学, 数学, 统计学, 跨学科",response_1
+"University of Minnesota, Twin Cities",MS,M.S. in Data Science in Operations Research,理工学院,"Data Science, Operations Research, Statistics, Computer Science, Interdisciplinary","数据科学, 运筹学, 统计学, 计算机科学, 跨学科",response_1
+"University of Minnesota, Twin Cities",MS,M.S. in Industrial and Systems Engineering (Analytics Track),理工学院,"Analytics, Optimization, Statistics, Data Analysis, Computer Science, Interdisciplinary","分析学, 优化, 统计学, 数据分析, 计算机科学, 跨学科",response_1
+"University of Minnesota, Twin Cities",MS,MS Mathematics: Data Science,理工学院,"Mathematics, Data Science, Applied Mathematics, Financial Mathematics, Interdisciplinary","数学, 数据科学, 应用数学, 金融数学, 跨学科",response_1
+College of William & Mary,MS,Applied Science—Data Science,文理学院,"Interdisciplinary, Applied Science, Physical Sciences, Natural Sciences, Data Science","跨学科, 应用科学, 物理科学, 自然科学, 数据科学",response_1
+College of William & Mary,Ph.D,Applied Science—Data Science,文理学院,"Interdisciplinary, Physical Sciences, Natural Sciences, Data Science, Computational & Applied Mathematics","跨学科, 物理科学, 自然科学, 数据科学, 计算与应用数学",response_1
+College of William & Mary,MS,Applied Science—Data Science,文理学院,"Interdisciplinary, Applied Science, Physical Sciences, Natural Sciences, Data Science","跨学科, 应用科学, 物理科学, 自然科学, 数据科学",response_1
+College of William & Mary,Ph.D,Applied Science—Data Science,文理学院,"Applied Science, Interdisciplinary, Data Science, Applied Mathematics, Physical Sciences","应用科学, 跨学科, 数据科学, 应用数学, 物理科学",response_1
+University of Connecticut,M.S.,Data Science,文理学院,"Data Science, Interdisciplinary, Statistics, Mathematics, Computer Science","数据科学, 跨学科, 统计学, 数学, 计算机科学",response_1
+"Stony Brook University, SUNY",MS,"Data Science 
+",工程与应用科学学院,"Data Science, Applied Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 应用数学, 统计学, 计算机科学, 跨学科",response_1
+"Stony Brook University, SUNY",PHD,"Data Science 
+",工程与应用科学学院,"Data Science, Applied Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 应用数学, 统计学, 计算机科学, 跨学科",response_1
+"Stony Brook University, SUNY",MS,"Data Science 
+",工程与应用科学学院,"Data Science, Applied Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 应用数学, 统计学, 计算机科学, 跨学科",response_1
+"Stony Brook University, SUNY",PHD,"Data Science 
+",工程与应用科学学院,"Data Science, Applied Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 应用数学, 统计学, 计算机科学, 跨学科",response_1
+"North Carolina State University, Raleigh",MCS, Computer Science- Data Science,工程学院,"Data Science, Computer Science, Mathematics, Statistics, Interdisciplinary","数据科学, 计算机科学, 数学, 统计学, 跨学科",response_1
+"North Carolina State University, Raleigh",MS,Advanced Analytics,研究生院,"Analytics, Data Science, Interdisciplinary, Practical Application, Problem-Solving","分析学, 数据科学, 跨学科, 实践应用, 问题解决",response_1
+"Pennsylvania State University, University Park",MS,Informatics(Data Sciences),信息科学与技术学院,"Informatics, Information Sciences, Technology, Sociotechnical Issues, Interdisciplinary","信息学, 信息科学, 技术, 社会技术问题, 跨学科",response_1
+Rensselaer Polytechnic Institute,MS,Information Technology,科学学院,"Information Technology, Data Analytics, Software Design And Engineering, Human-Computer Interaction, Interdisciplinary","信息技术, 数据分析, 软件设计与工程, 人机交互, 跨学科",response_1
+Rensselaer Polytechnic Institute,MS,Information Technology,科学学院,"Information Technology, Data Science, Software Engineering, Management, Interdisciplinary","信息技术, 数据科学, 软件工程, 管理学, 跨学科",response_1
+Michigan State University,MS,MASTER'S IN BUSINESS DATA SCIENCE & ANALYTICS,商学院,"Business Data Science, Data Analytics, Interdisciplinary, Applied Statistics, Ai/Machine Learning","商业数据科学, 数据分析, 跨学科, 应用统计学, 人工智能/机器学习",response_1
+Michigan State University,MS,Master of Science  in Data Science,自然科学学院,"Data Science, Interdisciplinary, Computational Mathematics, Computer Science, Statistics","数据科学, 跨学科, 计算数学, 计算机科学, 统计学",response_1
+"University of Massachusetts, Amherst",MS,Master of Science in Computer Science（DATA SCIENCE ）,信息与计算机科学学院,"Computer Science, Data Science, Security, Machine Learning, Interdisciplinary","计算机科学, 数据科学, 安全, 机器学习, 跨学科",response_1
+"University of Massachusetts, Amherst",MS,Master of Science in Computer Science（DATA SCIENCE ）,信息与计算机科学学院,"Computer Science, Data Science, Machine Learning, Statistics, Interdisciplinary","计算机科学, 数据科学, 机器学习, 统计学, 跨学科",response_1
+University of Miami,MS, Master of Science in Data Science,文理学院,"Data Science, Statistics, Mathematics, Computer Science, Interdisciplinary","数据科学, 统计学, 数学, 计算机科学, 跨学科",response_1
+University of Miami,MS, Master of Science in Data Science：Technical Data Science (College of Arts & Sciences and College of Engineering),文理学院,"Data Science, Interdisciplinary, Statistics, Computer Science, Machine Learning","数据科学, 跨学科, 统计学, 计算机科学, 机器学习",response_1
+University of Pittsburgh,MS,Master of Science in Information Science,计算机和信息学院,"Information Science, Interdisciplinary, Computer Science, Data Science, Human-Centered Computing","信息科学, 跨学科, 计算机科学, 数据科学, 以人为中心的计算",response_1
+University of Pittsburgh,MS,Master of Science in Information Science,计算机和信息学院,"Information Science, Interdisciplinary, Data Science, Cybersecurity, Human-Centered Computing","信息科学, 跨学科, 数据科学, 网络安全, 以人为中心的计算",response_1
+University of Pittsburgh,MS,Master of Science in Information Science,计算机和信息学院,"Information Science, Computer Science, Data Science, Human-Computer Interaction, Interdisciplinary","信息科学, 计算机科学, 数据科学, 人机交互, 跨学科",response_1
+University of Pittsburgh,PHD,Doctor of Philosophy in Information Science,计算机和信息学院,"Information Science, Interdisciplinary, Data Science, Computer Science, Health Informatics","信息科学, 跨学科, 数据科学, 计算机科学, 健康信息学",response_1
+University of Pittsburgh,MS,Industrial Engineering：Data Science,工程学院,"Industrial Engineering, Data Science, Engineering Management, Interdisciplinary, Statistics","工业工程, 数据科学, 工程管理, 跨学科, 统计学",response_1
+University of Pittsburgh,MS,Industrial Engineering：Data Science,工程学院,"Industrial Engineering, Data Science, Engineering Management, Statistics, Interdisciplinary","工业工程, 数据科学, 工程管理, 统计学, 跨学科",response_1
+George Washington University,MS,Data Science ,文理学院,"Data Science, Interdisciplinary, Statistics, Computer Science, Mathematics","数据科学, 跨学科, 统计学, 计算机科学, 数学",response_1
+George Washington University,MS,Data Science ,文理学院,"Data Science, Statistics, Computer Science, Mathematics, Interdisciplinary","数据科学, 统计学, 计算机科学, 数学, 跨学科",response_1
+George Washington University,MS,Data Analytics ,工程学院,"Interdisciplinary, Data Analytics, Computer Science, Systems Engineering, Business Analytics","跨学科, 数据分析, 计算机科学, 系统工程, 商业分析",response_1
+George Washington University,MS,Data Analytics ,工程学院,"Interdisciplinary, Data Analytics, Computer Science, Engineering, Business Analytics","跨学科, 数据分析, 计算机科学, 工程学, 商业分析",response_1
+Villanova University,MS,MS IN APPLIED STATISTICS AND DATA SCIENCE,文理学院,"Applied Statistics, Data Science, Interdisciplinary, Biostatistics, Mathematics","应用统计学, 数据科学, 跨学科, 生物统计学, 数学",response_1
+Villanova University,MS,MS IN APPLIED STATISTICS AND DATA SCIENCE,文理学院,"Applied Statistics, Data Science, Statistics, Biostatistics, Interdisciplinary","应用统计学, 数据科学, 统计学, 生物统计学, 跨学科",response_1
+Villanova University,MS,MS IN APPLIED STATISTICS AND DATA SCIENCE,文理学院,"Applied Statistics, Data Science, Biostatistics, Mathematics, Interdisciplinary","应用统计学, 数据科学, 生物统计学, 数学, 跨学科",response_1
+Syracuse University,MS,APPLIED DATA SCIENCE,信息研究学院,"Data Science, Machine Learning, Statistics, Interdisciplinary, Business Analytics","数据科学, 机器学习, 统计学, 跨学科, 商业分析",response_1
+Syracuse University,MS,APPLIED DATA SCIENCE,信息研究学院,"Data Science, Interdisciplinary, Information Science, Machine Learning, Statistics","数据科学, 跨学科, 信息科学, 机器学习, 统计学",response_1
+Syracuse University,PHD,Information Science and Technology,信息研究学院,"Interdisciplinary, Information Science, Technology, Data Science, Statistics","跨学科, 信息科学, 技术, 数据科学, 统计学",response_2
+"Binghamton University, SUNY",MS,Data Analytics (MS),研究生跨学科项目,"Data Analytics, Mathematics, Statistics, Computer Science, Interdisciplinary","数据分析, 数学, 统计学, 计算机科学, 跨学科",response_1
+"Binghamton University, SUNY",MS,MS in Information Systems: Applied Data Science,工程学院,"Information Systems, Data Science, Data Analytics, Machine Learning, Interdisciplinary","信息系统, 数据科学, 数据分析, 机器学习, 跨学科",response_1
+"Indiana University, Bloomington",M.S., Dual M.S. Degree program in Statistical Science and Data Science,文理学院,"Statistics, Data Science, Interdisciplinary","统计学, 数据科学, 跨学科",response_1
+"Indiana University, Bloomington",M.S., Dual M.S. Degree program in Data Science and Applied Statistics,文理学院,"Statistical Science, Data Science, Interdisciplinary, Computational Skills","统计科学, 数据科学, 跨学科, 计算技能",response_1
+"Indiana University, Bloomington",M.S.,Data Science—Applied Data Science Track,信息学，计算机和工程学院,"Data Science, Interdisciplinary, Computer Science, Statistics, Informatics","数据科学, 跨学科, 计算机科学, 统计学, 信息学",response_1
+"Indiana University, Bloomington",M.S.,Data Science—Big Data Systems Track,信息学，计算机和工程学院,需要额外确认,需要额外确认,none
+"Indiana University, Bloomington",M.S.,Data Science—Computational and Analytical Track,信息学，计算机和工程学院,需要额外确认,需要额外确认,none
+"Indiana University, Bloomington",M.S.,Data Science—Managerial Data Science Track,信息学，计算机和工程学院,需要额外确认,需要额外确认,none
+"University of California, Riverside",MS,MS in Computational Data Science,工程学院,"Computational Data Science, Computer Science, Electrical And Computer Engineering, Machine Learning, Interdisciplinary","计算数据科学, 计算机科学, 电气与计算机工程, 机器学习, 跨学科",response_1
+Colorado School of Mines,MS, Applied Mathematics and Statistics—DATA SCIENCE（非论文）,应用数学和统计学系,"Applied Mathematics, Statistics, Interdisciplinary, Data Science, Computational Science","应用数学, 统计学, 跨学科, 数据科学, 计算科学",response_1
+Colorado School of Mines,MS,DATA SCIENCE（非论文）,研究生跨学科项目,"Data Science, Statistics, Computer Science, Interdisciplinary, Machine Learning","数据科学, 统计学, 计算机科学, 跨学科, 机器学习",response_1
+"University at Buffalo, SUNY",MS,Industrial Engineering (Data Analytics Engineering)  ,工程与应用科学学院,"Data Analytics, Machine Learning, Statistics, Programming, Interdisciplinary","数据分析, 机器学习, 统计学, 编程, 跨学科",response_1
+"University at Buffalo, SUNY",MS,Industrial Engineering (Data Analytics Engineering)  ,工程与应用科学学院,"Data Analytics, Industrial Engineering, Statistics, Computer Programming, Interdisciplinary","数据分析, 工业工程, 统计学, 计算机编程, 跨学科",response_1
+"University at Buffalo, SUNY",MPS,Data Sciences and Applications MPS,工程与应用科学学院,"Data Science, Analytics, Machine Learning, Statistics, Interdisciplinary","数据科学, 分析学, 机器学习, 统计学, 跨学科",response_1
+"University at Buffalo, SUNY",MPS,Data Sciences and Applications MPS,工程与应用科学学院,"Data Science, Analytics, Machine Learning, Mathematics, Statistics, Interdisciplinary","数据科学, 分析学, 机器学习, 数学, 统计学, 跨学科",response_1
+"University at Buffalo, SUNY",MS,Engineering Science (Data Science) MS,工程与应用科学学院,"Data Science, Engineering Science, Mathematics, Statistics, Interdisciplinary","数据科学, 工程科学, 数学, 统计学, 跨学科",response_1
+"University at Buffalo, SUNY",MS,Engineering Science (Data Science) MS,工程与应用科学学院,"Data Science, Computer Science, Statistics, Mathematics, Interdisciplinary","数据科学, 计算机科学, 统计学, 数学, 跨学科",response_1
+"University at Buffalo, SUNY",PhD,Computational and Data Enabled Sciences PhD,工程与应用科学学院,"Interdisciplinary, Data Science, Computational Science, Numerical Algorithms, High-Performance Computing","跨学科, 数据科学, 计算科学, 数值算法, 高性能计算",response_1
+Stevens Institute of Technology,PHD,Ph.D. in Data Science,商学院,"Interdisciplinary, Data Science, Mathematical Modeling, Statistical Modeling, Machine Learning","跨学科, 数据科学, 数学建模, 统计建模, 机器学习",response_2
+Stevens Institute of Technology,MBA,ANALYTICS MBA,商学院,"Analytics, Business, Data Science, Artificial Intelligence, Interdisciplinary","分析学, 商业, 数据科学, 人工智能, 跨学科",response_1
+Stevens Institute of Technology,MBA,ANALYTICS MBA,商学院,"Analytics, Business, Data Science, Artificial Intelligence, Interdisciplinary","分析学, 商业, 数据科学, 人工智能, 跨学科",response_1
+Stevens Institute of Technology,MS,"DATA SCIENCE, M.S. ",工程与科学学院,"Data Science, Mathematics, Statistics, Artificial Intelligence, Interdisciplinary","数据科学, 数学, 统计学, 人工智能, 跨学科",response_1
+Stevens Institute of Technology,MS,"DATA SCIENCE, M.S. ",工程与科学学院,"Data Science, Mathematical Sciences, Statistics, Artificial Intelligence, Interdisciplinary","数据科学, 数学科学, 统计学, 人工智能, 跨学科",response_1
+University of Delaware,MS,Data Science,文理学院,"Mathematics, Applied Mathematics, Data Science, Statistics, Interdisciplinary","数学, 应用数学, 数据科学, 统计学, 跨学科",response_1
+University of Delaware,MS,INTERDISCIPLINARY EVALUATION SCIENCE,跨学科项目,"Interdisciplinary, Evaluation Science, Quantitative Data Analysis, Qualitative Data Analysis, Social Sciences","跨学科, 评估科学, 定量数据分析, 定性数据分析, 社会科学",response_1
+Worcester Polytechnic Institute,MS,DATA SCIENCE,文理学院,"Data Science, Interdisciplinary, Computer Science, Mathematical Sciences, Business","数据科学, 跨学科, 计算机科学, 数学科学, 商业",response_1
+Worcester Polytechnic Institute,MS,DATA SCIENCE,文理学院,"Data Science, Interdisciplinary, Computer Science, Mathematical Sciences, Artificial Intelligence","数据科学, 跨学科, 计算机科学, 数学科学, 人工智能",response_1
+Worcester Polytechnic Institute,Ph.D,DATA SCIENCE,文理学院,"Data Science, Interdisciplinary, Computer Science, Mathematical Sciences, Business","数据科学, 跨学科, 计算机科学, 数学科学, 商业",response_1
+Worcester Polytechnic Institute,Ph.D,DATA SCIENCE,文理学院,"Data Science, Interdisciplinary, Computer Science, Mathematics, Business","数据科学, 跨学科, 计算机科学, 数学, 商业",response_1
+Clemson University,MS,Master of Applied Computing,工程，计算机和应用科学学院,"Applied Computing, Artificial Intelligence And Machine Learning, Cybersecurity, Data Science, Interdisciplinary","应用计算, 人工智能与机器学习, 网络安全, 数据科学, 跨学科",response_1
+Clemson University,MS,Master of Applied Computing,工程，计算机和应用科学学院,"Applied Computing, Artificial Intelligence, Machine Learning, Data Science, Cybersecurity","应用计算, 人工智能, 机器学习, 数据科学, 网络安全",response_1
+Clemson University,MS,Computer Science,工程，计算机和应用科学学院,"Computer Science, Computing, Software Development, Artificial Intelligence, Research, Interdisciplinary, Data Science, Biomedical Sciences, Computing, Public Health, Digital Art, Software Development, Computer Graphics, Creative Education, Technical, Human-Computer Interaction, Computational Technologies, Societal Impact, Design, Research, Advanced Computing, Artificial Intelligence, Machine Learning, Data Science, Cybersecurity","计算机科学, 计算, 软件开发, 人工智能, 研究, 跨学科, 数据科学, 生物医学科学, 计算, 公共卫生, 数字艺术, 软件开发, 计算机图形学, 创意教育, 技术的, 人机交互, 计算技术, 社会影响, 设计, 研究, 高级计算, 人工智能, 机器学习, 数据科学, 网络安全",response_1
+Clemson University,MS,Computer Science,工程，计算机和应用科学学院,"Computer Science, Research, Software Engineering, Artificial Intelligence, Theoretical Computing","计算机科学, 研究, 软件工程, 人工智能, 理论计算",response_1
+Clemson University,MS,Data Science and Analytics,理学院,"Data Science And Analytics, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学与分析, 数学, 统计学, 计算机科学, 跨学科",response_1
+Marquette University,MS,COMPUTER AND INFORMATION SCIENCE：AI and Analytics ,文理学院,"Computer Science, Information Technology, Artificial Intelligence, Cybersecurity, Interdisciplinary","计算机科学, 信息技术, 人工智能, 网络安全, 跨学科",response_3
+Marquette University,MS,COMPUTER AND INFORMATION SCIENCE：AI and Analytics ,文理学院,"Master'S In Computer And Information Science, Computer Science, Information Science, Interdisciplinary, Ai And Analytics, Cyber Defense, Master'S In Bioinformatics, Bioinformatics, Computational Mathematical Sciences, Biological Science, Interdisciplinary, Master'S In Data Science, Data Science, Data Analytics, Computer Science, Interdisciplinary, Ph.D. In Computer Science, Computer Science, Applied Research, Data Science Certificate, Data Science, Data Analytics, Interdisciplinary","计算机与信息科学硕士, 计算机科学, 信息科学, 跨学科, 人工智能与分析, 网络防御, 生物信息学硕士, 生物信息学, 计算数学科学, 生物科学, 跨学科, 数据科学硕士, 数据科学, 数据分析, 计算机科学, 跨学科, 计算机科学博士, 计算机科学, 应用研究, 数据科学证书, 数据科学, 数据分析, 跨学科",response_1
+Marquette University,MS, Master of Science in Data Science,文理学院,"Data Science, Data Analytics, Computer Science, Statistics, Interdisciplinary, Information Science, Computer Engineering, Software Engineering","数据科学, 数据分析, 计算机科学, 统计学, 跨学科, 信息科学, 计算机工程, 软件工程",response_2
+Marquette University,MS, Master of Science in Data Science,文理学院,"Data Science, Data Analytics, Computer Science, Statistics, Interdisciplinary","数据科学, 数据分析, 计算机科学, 统计学, 跨学科",response_1
+Marquette University,MS,APPLIED PSYCHOLOGY DATA ANALYTICS,文理学院,"Psychology, Data Analytics, Interdisciplinary, Computer Science, Data Science","心理学, 数据分析, 跨学科, 计算机科学, 数据科学",response_1
+New Jersey Institute of Technology,M.S.,Masters of Science in Data Science - Statistics Track,科学与人文学院,"Data Science, Statistics, Mathematics, Interdisciplinary, Machine Learning","数据科学, 统计学, 数学, 跨学科, 机器学习",response_1
+New Jersey Institute of Technology,M.S.,Data Science - M.S.（Newark）,计算机学院,"Data Science, Statistics, Machine Learning, Computational, Interdisciplinary","数据科学, 统计学, 机器学习, 计算的, 跨学科",response_1
+New Jersey Institute of Technology,M.S.,Data Science - M.S.（Jersey City）,计算机学院,"Data Science, Statistical Inference, Machine Learning, Big Data, Interdisciplinary","数据科学, 统计推断, 机器学习, 大数据, 跨学科",response_1
+New Jersey Institute of Technology,PhD,Data Science - M.S.,计算机学院,"Data Science, Computing, Mathematics, Statistics, Interdisciplinary","数据科学, 计算, 数学, 统计学, 跨学科",response_1
+New Jersey Institute of Technology,PhD,Business Data Science - Ph.D.,管理学院,"Business Data Science, Interdisciplinary, Statistics, Computer Science, Mathematics","商业数据科学, 跨学科, 统计学, 计算机科学, 数学",response_1
+Fordham University,M.A.,Master of Science in Data Science and Quantitative Economics,文理研究生院,"Data Science, Economics, Mathematics, Statistics, Interdisciplinary","数据科学, 经济学, 数学, 统计学, 跨学科",response_2
+Fordham University,MS,Master of Science in Data Science,文理研究生院,"Data Science, Computer Science, Statistics, Mathematics, Interdisciplinary","数据科学, 计算机科学, 统计学, 数学, 跨学科",response_1
+Fordham University,MS,Master of Science in Data Science,文理研究生院,"Data Science, Computer Science, Information Science, Mathematics, Statistics, Interdisciplinary, Machine Learning, Deep Learning, Natural Language Processing, Cloud Computing, Artificial Intelligence, Computational Finance, Bioinformatics, Cybersecurity, Economics","数据科学, 计算机科学, 信息科学, 数学, 统计学, 跨学科, 机器学习, 深度学习, 自然语言处理, 云计算, 人工智能, 计算金融, 生物信息学, 网络安全, 经济学",response_1
+Fordham University,MS,Master of Science in Data Science,文理研究生院,"Data Science, Interdisciplinary, Computer Science, Statistics, Machine Learning","数据科学, 跨学科, 计算机科学, 统计学, 机器学习",response_1
+University of South Florida,PhD,Big Data Analytics,商学院,"Big Data Analytics, Interdisciplinary, Statistics, Mathematics, Computer Science","大数据分析, 跨学科, 统计学, 数学, 计算机科学",response_2
+University of South Florida,MS,Industrial Engineering：Master of Science in Data Intelligence,工程学院,"Data Intelligence, Interdisciplinary, Industrial Engineering, Computer Science, Statistics","数据智能, 跨学科, 工业工程, 计算机科学, 统计学",response_2
+University of South Florida,MS,Industrial Engineering：Master of Science in Data Intelligence,工程学院,"Data Science, Statistics, Computer Science, Engineering, Interdisciplinary","数据科学, 统计学, 计算机科学, 工程学, 跨学科",response_1
+Southern Methodist University,PHD,Ph.D. in Data Science,人文与科学学院,"Statistics, Data Science, Mathematics, Interdisciplinary, Biostatistics","统计学, 数据科学, 数学, 跨学科, 生物统计学",response_1
+Southern Methodist University,MS,Data Science & Applied Statistics MS,人文与科学学院,"Statistics, Data Science, Biostatistics, Mathematics, Interdisciplinary","统计学, 数据科学, 生物统计学, 数学, 跨学科",response_1
+Southern Methodist University,MS,M.S in OR and Analytics ,工程学院,"Operations Research, Analytics, Quantitative Methods, Statistics, Interdisciplinary","运筹学, 分析学, 定量方法, 统计学, 跨学科",response_1
+Southern Methodist University,MS,M.S in OR and Analytics ,工程学院,"Operations Research, Analytics, Quantitative Methods, Interdisciplinary, Data Science","运筹学, 分析学, 定量方法, 跨学科, 数据科学",response_1
+Southern Methodist University,MS,M.S. Data Engineering,工程学院,"Data Engineering, Database Management, Analytics, Machine Learning, Interdisciplinary","数据工程, 数据库管理, 分析学, 机器学习, 跨学科",response_1
+Southern Methodist University,MS,M.S. Datacenter Systems Engineering,工程学院,"Electrical Engineering, It, Facilities Management, Business Continuity, Cybersecurity, Interdisciplinary","电气工程, 信息技术, 设施管理, 业务连续性, 网络安全, 跨学科",response_1
+Southern Methodist University,MS,M.S. Data Engineering,工程学院,"Data Engineering, Multidisciplinary, Machine Learning, Statistics, Database Management","数据工程, 多学科, 机器学习, 统计学, 数据库管理",response_1
+Southern Methodist University,MS,M.S. Datacenter Systems Engineering,工程学院,"Datacenter Systems Engineering, Interdisciplinary, Electrical Engineering, It, Cybersecurity","数据中心系统工程, 跨学科, 电气工程, 信息技术, 网络安全",response_1
+Temple University,MS,Statistics and Data Science,商学院,需要额外确认,需要额外确认,none
+Temple University,MS,Computational Data Science MS,科学技术学院,需要额外确认,需要额外确认,none
+University of Iowa,Ph.D,Statistics—data science,文理学院,"Statistics, Biostatistics, Data Science, Actuarial Science, Interdisciplinary","统计学, 生物统计学, 数据科学, 精算科学, 跨学科",response_1
+University of Iowa,MS,data science,文理学院,"Data Science, Statistics, Computer Science, Mathematics, Interdisciplinary","数据科学, 统计学, 计算机科学, 数学, 跨学科",response_1
+University of Iowa,MS,data science,文理学院,"Data Science, Statistics, Computer Science, Interdisciplinary, Business Analytics","数据科学, 统计学, 计算机科学, 跨学科, 商业分析",response_1
+Auburn University,MS,Data Science and Engineering – Data Engineering Option,工程学院,"Data Science, Data Engineering, Statistics, Computer Science, Interdisciplinary","数据科学, 数据工程, 统计学, 计算机科学, 跨学科",response_1
+Auburn University,MS,Data Science and Engineering – Data Engineering Option,工程学院,"Data Science, Data Engineering, Interdisciplinary, Mathematics, Statistics","数据科学, 数据工程, 跨学科, 数学, 统计学",response_2
+Auburn University,MS,Data Science and Engineering – Data Science Option,科学与数学学院,"Data Science, Data Engineering, Mathematics, Statistics, Interdisciplinary","数据科学, 数据工程, 数学, 统计学, 跨学科",response_1
+Auburn University,MS,Data Science and Engineering – Data Science Option,科学与数学学院,"Data Science, Data Engineering, Mathematics, Statistics, Interdisciplinary","数据科学, 数据工程, 数学, 统计学, 跨学科",response_1
+Baylor University,Ph.D.,Statistical Science  Concentration in Data Science,文理学院,"Statistics, Data Science, Biostatistics, Interdisciplinary, Research","统计学, 数据科学, 生物统计学, 跨学科, 研究",response_1
+Drexel University,MS,MS in Data Science,计算与信息学院,"Data Science, Interdisciplinary, Analytics, Algorithms, Machine Learning","数据科学, 跨学科, 分析学, 算法, 机器学习",response_1
+Drexel University,MS,MS in Data Science,计算与信息学院,"Data Science, Analytics, Algorithms, Data Management, Interdisciplinary","数据科学, 分析学, 算法, 数据管理, 跨学科",response_1
+Drexel University,PhD,PhD in Information Science,计算与信息学院,"Information Science, Data Science, Human-Centered Computing, Interdisciplinary","信息科学, 数据科学, 以人为中心的计算, 跨学科",response_1
+University of Oregon,MS,Data Science,Phil and Penny Knight Campus for Accelerating Scientific Impact,"Interdisciplinary, Biology, Chemistry, Physics, Data Science","跨学科, 生物学, 化学, 物理学, 数据科学",response_2
+"Rutgers University, Camden",M.S.,COMPUTER SCIENCE M.S.,文理研究生院,"Computer Science, Scientific Computing, Data Science, Algorithms And Programming, Interdisciplinary","计算机科学, 科学计算, 数据科学, 算法与编程, 跨学科",response_1
+"Rutgers University, Camden",M.S.,DATA SCIENCE M.S.,文理研究生院,"Data Science, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 数学, 统计学, 计算机科学, 跨学科",response_2
+Rochester Institute of Technology,MS,Data Science MS  ,罗切斯特理工学院,"Data Science, Computing, Statistics, Machine Learning, Interdisciplinary","数据科学, 计算, 统计学, 机器学习, 跨学科",response_1
+Illinois Institute of Technology,M.S.,Economics and Data Analytics (M.S.),商学院,"Economics, Data Analytics, Interdisciplinary, Statistics, Machine Learning","经济学, 数据分析, 跨学科, 统计学, 机器学习",response_1
+Illinois Institute of Technology,M.A.S,Data Science Master’s—Master of Applied Science (M.A.S.),计算机学院,"Data Science, Mathematics, Statistics, Computer Science, Interdisciplinary","数据科学, 数学, 统计学, 计算机科学, 跨学科",response_1
+"University of Colorado, Boulder",MS,Professional Master's in Data Science,工程与应用科学学院,"Data Science, Interdisciplinary, Applied Mathematics, Computer Science, Information Science","数据科学, 跨学科, 应用数学, 计算机科学, 信息科学",response_1
+"University of Colorado, Boulder",MS,Statistics and Data Science,工程与应用科学学院,"Applied Mathematics, Statistics, Data Science, Interdisciplinary, Programming","应用数学, 统计学, 数据科学, 跨学科, 编程",response_1
+"University of Colorado, Boulder",MS,Statistics and Data Science,工程与应用科学学院,"Applied Mathematics, Statistics, Data Science, Interdisciplinary, Computing","应用数学, 统计学, 数据科学, 跨学科, 计算",response_1
+American University,MS,Quantitative Analysis MS,文理学院,"Data Science, Statistics, Mathematics, Interdisciplinary, Biostatistics","数据科学, 统计学, 数学, 跨学科, 生物统计学",response_1
+American University,MS,Quantitative Analysis MS,文理学院,"Mathematics, Statistics, Data Science, Biostatistics, Interdisciplinary","数学, 统计学, 数据科学, 生物统计学, 跨学科",response_1
+American University,MS,Data Science MS,文理学院,"Data Science, Interdisciplinary, Statistics, Computational, Quantitative Methods","数据科学, 跨学科, 统计学, 计算的, 定量方法",response_1
+American University,MS,Data Science MS,文理学院,"Data Science, Interdisciplinary, Statistics, Computer Science, Mathematics","数据科学, 跨学科, 统计学, 计算机科学, 数学",response_1
+American University,MS,MS Analytics,商学院,"Analytics, Artificial Intelligence, Business, Data Science, Interdisciplinary","分析学, 人工智能, 商业, 数据科学, 跨学科",response_1
+Yeshiva University,MS,Data Analytics and Visualization (MS),科学与卫生学院,"Data Analytics, Data Visualization, Artificial Intelligence, Interdisciplinary, Predictive Analytics","数据分析, 数据可视化, 人工智能, 跨学科, 预测分析",response_1
+Yeshiva University,MS,Data Analytics and Visualization (MS),科学与卫生学院,"Data Analytics, Visualization, Artificial Intelligence, Machine Learning, Interdisciplinary","数据分析, 可视化, 人工智能, 机器学习, 跨学科",response_1
+University of San Francisco,MS,Data Science (formerly Analytics),文理学院,"Data Science, Artificial Intelligence, Machine Learning, Statistics, Interdisciplinary","数据科学, 人工智能, 机器学习, 统计学, 跨学科",response_1
+University of Arizona,MS,Statistics and Data Science (MS),研究生院跨学科课程,"Statistics, Data Science, Interdisciplinary, Statistical Machine Learning, Applied Statistics","统计学, 数据科学, 跨学科, 统计机器学习, 应用统计学",response_2
+University of Arizona,PHD,Statistics and Data Science (PHD),研究生院跨学科课程,"Statistics, Data Science, Interdisciplinary, Mathematics, Machine Learning","统计学, 数据科学, 跨学科, 数学, 机器学习",response_3
+University of Arizona,PHD,Statistics and Data Science (PHD) - Statistical Informatics,研究生院跨学科课程,"Statistics, Data Science, Interdisciplinary, Statistical Theory And Methodologies, Machine Learning And Ai Tools","统计学, 数据科学, 跨学科, 统计理论与方法, 机器学习与人工智能工具",response_1
+University of Arizona,MS,Statistics and Data Science (MS),研究生院跨学科课程,"Statistics, Data Science, Statistical Machine Learning, Interdisciplinary, Applied Statistics","统计学, 数据科学, 统计机器学习, 跨学科, 应用统计学",response_1
+University of Arizona,PHD,Statistics and Data Science (PHD),研究生院跨学科课程,需要额外确认,需要额外确认,none
+University of Arizona,PHD,Statistics and Data Science (PHD) - Statistical Informatics,研究生院跨学科课程,"Statistics, Data Science, Mathematics, Computer Programming, Interdisciplinary","统计学, 数据科学, 数学, 计算机编程, 跨学科",response_1
+University of Utah,MS,Computing—Data Management and Analysis,工程学院,"Computer Science, Artificial Intelligence, Data Science, Cybersecurity, Interdisciplinary","计算机科学, 人工智能, 数据科学, 网络安全, 跨学科",response_1
+University of Utah,Ph.D.,Computing—Data Management and Analysis,工程学院,"Computer Science, Software Development","计算机科学, 软件开发",response_1
+University of Utah,M.S.T.,Master of Science and Technology：COMPUTATIONAL AND DATA SCIENCE,跨学科项目,"Interdisciplinary, Stem, Computational Science, Data Science, Biotechnology","跨学科, STEM, 计算科学, 数据科学, 生物技术",response_1
+University of Utah,M.S.T.,Master of Science and Technology：COMPUTATIONAL AND DATA SCIENCE,跨学科项目,"Stem, Business Skills, Interdisciplinary, Computational & Data Science, Biotechnology","STEM, 商业技能, 跨学科, 计算与数据科学, 生物技术",response_1
+University of Denver,MS,DATA SCIENCE,工程与计算机科学学院,"Data Science, Artificial Intelligence, Data Engineering, Mathematics, Interdisciplinary","数据科学, 人工智能, 数据工程, 数学, 跨学科",response_1
+University of Vermont,MS,Complex Systems and Data Science ,工程与数学科学学院,"Complex Systems, Data Science, Interdisciplinary, Mathematics, Statistics","复杂系统, 数据科学, 跨学科, 数学, 统计学",response_1
+University of Vermont,PHD,Complex Systems and Data Science ,工程与数学科学学院,"Complex Systems, Data Science, Mathematics, Statistics, Interdisciplinary","复杂系统, 数据科学, 数学, 统计学, 跨学科",response_1
+University of Vermont,MS,Complex Systems and Data Science ,工程与数学科学学院,"Complex Systems, Data Science, Interdisciplinary, Mathematics, Statistics","复杂系统, 数据科学, 跨学科, 数学, 统计学",response_1
+University of Vermont,PHD,Complex Systems and Data Science ,工程与数学科学学院,"Complex Systems, Data Science, Mathematics, Statistics, Interdisciplinary","复杂系统, 数据科学, 数学, 统计学, 跨学科",response_1
+Loyola University Chicago,MSBDA,MS in Business Data Analytics,商学院,"Business Data Analytics, Information Systems, Applied Statistics, Data Science, Interdisciplinary","商业数据分析, 信息系统, 应用统计学, 数据科学, 跨学科",response_1
+Clark University,MS,Data Analytics*,专业学院,"Data Analytics, Machine Learning, Statistics, Python Programming, Interdisciplinary","数据分析, 机器学习, 统计学, Python编程, 跨学科",response_1

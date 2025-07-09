@@ -1,0 +1,962 @@
+[
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "招生网址": "https://seas.harvard.edu/masters-data-science/how-apply",
+    "专业网址": "https://seas.harvard.edu/masters-data-science",
+    "学费": "$65,536 per year",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "Harvard Extension School",
+    "招生网址": "https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/",
+    "专业网址": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "学费": "$3,440 per course",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "人文科学学院",
+    "招生网址": "https://statistics.stanford.edu/msadmissionsms/how-apply",
+    "专业网址": "https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science tuition fee', 'stanford graduate tuition', 'Stanford registrar tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$20,365 per quarter",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science tuition fee', 'Stanford University graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science tuition fee', '\"graduate tuition and fees\"', '\"Stanford graduate tuition\"', '\"student financial services\" \"graduate tuition\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/terminal-ma-program",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Not found\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Yale University MS Statistics and Data Science tuition fee', '\"graduate school tuition fees']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$49,500 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science tuition fee', '\"Tuition and Fees\"', ' \"graduate school of arts and sciences\" tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$49,500 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnoB0oAZk8jilQr9KPNRf8Gq1SOLXGgE47G6wp9rJfMXF8A81Z0AjskszxAD6Ls6JGRG0l8ApSfn5CQGAFUbAQEgXiZOav-dlf5WHcgGcfbQU_3YLa7HSVhSGgVtKFlO_ocgAiX-ooaHdC1iMvfX93TDgqDSk7WJIgdxBz8Mc7uqs=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science tuition fee', 'Yale University Graduate School of Arts and Sciences tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnoB0oAZk8jilQr9KPNRf8Gq1SOLXGgE47G6wp9rJfMXF8A81Z0AjskszxAD6Ls6JGRG0l8ApSfn5CQGAFUbAQEgXiZOav-dlf5WHcgGcfbQU_3YLa7HSVhSGgVtKFlO_ocgAiX-ooaHdC1iMvfX93TDgqDSk7WJIgdxBz8Mc7uqs='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/phd-program",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Statistics and Data Science ",
+    "所属院系": "商学院",
+    "招生网址": "https://doctoral.wharton.upenn.edu/application-requirements/",
+    "专业网址": "https://doctoral.wharton.upenn.edu/statistics/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradadm.seas.upenn.edu/how-to-apply/",
+    "专业网址": "https://dats.seas.upenn.edu/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/",
+    "专业网址": "https://ece.duke.edu/academics/masters/ms/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "Meng",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://masters.pratt.duke.edu/apply/requirements/",
+    "专业网址": "https://ece.duke.edu/academics/masters/meng/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$34,310 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9XATvuZCGA56cKx1QS2CuJ60blmS-HkDN0cMfatTLEHnf9xDITVhTECYOdaGcXQ6HAL8qzneSshkTvtPVQyWgYayp6wzk46GfC2Cn6Q0TzDklHZ8JM4r0aqCgtF9Fmv4Q8DTw6nPRdo1vCc46dyH7jU2el-ZZRPov2YY=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9XATvuZCGA56cKx1QS2CuJ60blmS-HkDN0cMfatTLEHnf9xDITVhTECYOdaGcXQ6HAL8qzneSshkTvtPVQyWgYayp6wzk46GfC2Cn6Q0TzDklHZ8JM4r0aqCgtF9Fmv4Q8DTw6nPRdo1vCc46dyH7jU2el-ZZRPov2YY='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$34,310 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$34,310 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFf8lSzeqiHrp2JTx5E3Aji1ibQz_6ayrfc-QD72ggeccRP8n6oQ63LvK1esFxNmrCie1J8IP7owFfDdsESQf1iAjG8zuA6-d_J_48bgV7UTGdNm-hKuuqFua5vwrDadJTnR1-2qhMnMflllMzVtFPZM32RD7RfTd1k50=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFf8lSzeqiHrp2JTx5E3Aji1ibQz_6ayrfc-QD72ggeccRP8n6oQ63LvK1esFxNmrCie1J8IP7owFfDdsESQf1iAjG8zuA6-d_J_48bgV7UTGdNm-hKuuqFua5vwrDadJTnR1-2qhMnMflllMzVtFPZM32RD7RfTd1k50='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Statistical Science（Data Science & Analytics ）",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/",
+    "专业网址": "https://stat.duke.edu/ms/ms-focus-areas-tracks",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Interdisciplinary Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/",
+    "专业网址": "https://datascience.duke.edu/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MENG",
+    "专业英文名称": "Electrical and Computer Engineering",
+    "所属院系": "杜克昆山分校",
+    "招生网址": "https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/",
+    "专业网址": "https://iapse.dukekunshan.edu.cn/ece/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nBrown University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "研究生院",
+    "招生网址": "https://graduateprograms.brown.edu/graduate-program/data-science-scm",
+    "专业网址": "https://dsi.brown.edu/academics/masters-degree",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Master of Science in Machine Learning and Data Science",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/",
+    "专业网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html",
+    "专业网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$64,730 per academic year\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science tuition fee', ' graduate tuition costs', ' \"Whiting School of Engineering\" graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$64,730 annually",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science tuition fee', 'Whiting School of Engineering graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$64,730 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science tuition fee', ' whiting school of engineering graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSEM",
+    "专业英文名称": "Master of Science in Global Innovation and Leadership：Technical Concentrations",
+    "所属院系": "工程学院",
+    "招生网址": "https://msil.engineering.jhu.edu/admissions/",
+    "专业网址": "https://msil.engineering.jhu.edu/academics/technical-track/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "The PhD specialization in Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$28,422 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$28,422 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$28,422 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech)",
+    "所属院系": "康奈尔科技学院",
+    "招生网址": "https://tech.cornell.edu/admissions/meng-application/",
+    "专业网址": "https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Information Science (M.P.S.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/masters/mps",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Cornell University M.P.S. Information Science (M.P.S.)\\xa0 tuition fee', '\"Cornell University\" \"Graduate School\" \"Tuition Rates\"', '\"Cornell University\" \"Bursar\" \"tuition rates\" \"professional master\"', ' \"Tuition Rates\" \"Professional\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Not found\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Cornell University M.P.S. Information Science (M.P.S.)\\xa0 tuition fee', '\"Tuition Rates\"', '\"Information Science\" \"M.P.S.\" \"tuition\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.P.S. Information Science (M.P.S.) tuition fee', 'graduate school tuition rates', 'professional master degree tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Information Science (Ph.D.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/phd",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$20,800 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqF18wRA-8NlKrDIccbO2kEwQCyS4uA54lk83aVdn440hc4FlDYZ2Q-MX00gE3_yPK9WWHOPKyVPG65W5MRMCouAELzvQzSl1Z2Y4aqyVTvlk3TpKzFLWPH5r7qSmHn5bfDK6_TsQk2n8kpNGKqiFd1BtnWAHx4IjkkRPKSSHF0FshDtYi9nhnvNIHYDudg90=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University Ph.D. Information Science (Ph.D.) tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqF18wRA-8NlKrDIccbO2kEwQCyS4uA54lk83aVdn440hc4FlDYZ2Q-MX00gE3_yPK9WWHOPKyVPG65W5MRMCouAELzvQzSl1Z2Y4aqyVTvlk3TpKzFLWPH5r7qSmHn5bfDK6_TsQk2n8kpNGKqiFd1BtnWAHx4IjkkRPKSSHF0FshDtYi9nhnvNIHYDudg90='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$20,800 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5hwQTgjW9uiUbs68bQyqBoj-F2JZiigbYaulvlqRhmsi5xdGz73WLHAdnefLpTyTfeLlxP9_-EZDqCZUfgdp90tWXLsjxNr4D3FTYVouovWRkbS11Rlswiq9pGALI9M1E1Iv78fyz1jKsODDVs1tGALozl1ZuS3bGjdRS-jgyPCJa9phklokcNuCKGIC8t-E3', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University Graduate School Tuition Rates']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5hwQTgjW9uiUbs68bQyqBoj-F2JZiigbYaulvlqRhmsi5xdGz73WLHAdnefLpTyTfeLlxP9_-EZDqCZUfgdp90tWXLsjxNr4D3FTYVouovWRkbS11Rlswiq9pGALI9M1E1Iv78fyz1jKsODDVs1tGALozl1ZuS3bGjdRS-jgyPCJa9phklokcNuCKGIC8t-E3'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

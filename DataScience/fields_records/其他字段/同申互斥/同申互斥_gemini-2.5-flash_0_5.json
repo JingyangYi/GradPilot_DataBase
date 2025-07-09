@@ -1,0 +1,162 @@
+[
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "招生网址": "https://seas.harvard.edu/masters-data-science/how-apply",
+    "专业网址": "https://seas.harvard.edu/masters-data-science",
+    "同申互斥": "Cannot apply to both Data Science and CSE programs",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants to the Harvard University MS Data Science program cannot simultaneously apply to the Computational Science and Engineering (CSE) master's program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science SEAS 约翰·保尔森工程与应用科学学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Boston, MA, US.', uri='https://www.google.com/search?q=time+in+Boston,+MA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBXZUaYc2CfSPp9aku-5jvYscDd0pIjUJFKYEtrJBtGCmaZEKein3HjyVmZI3hpq1rSgBvSKjwFGOFeBgqvHyeFnPsSmN_K_FflpYyNIKax9fWPimY6lB_Nkz1lupL-exTFPJ3y9yoPiJpBOkyjVTSCeA='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The Harvard University MS Data Science program has a mutual exclusive application constraint, as applicants cannot apply to both the Data Science and Computational Science and Engineering (CSE) programs.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science SEAS 约翰·保尔森工程与应用科学学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Boston, MA, US.', uri='https://www.google.com/search?q=time+in+Boston,+MA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG_kHp0MXo0HHE4oftrIMmYDvbL2rb9v621PxkV19-m45mupQb5EjxrP5DlRhWMe6c5YtmmXU9H50cwpsRIeV7F1q5PMWCmNG9YaYxCShTDG91f1hpX1MDP6te1Ou084yILJ7EwT44NgauqynHrctz0mI='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The Harvard University MS Data Science program has a mutual exclusive application constraint, meaning applicants cannot apply to both the Data Science and Computational Science and Engineering (CSE) master's programs simultaneously.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science SEAS 约翰·保尔森工程与应用科学学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Boston, MA, US.', uri='https://www.google.com/search?q=time+in+Boston,+MA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7TchCojMIYkKpMWZTDO5ULBNCQhcFx8o2fQfarcA183SSfhdsiVCmC2AMCMy6276o86Xheva7qU76MH0ZiOawEbq0zA4uj0V1xrmEuE-5LWAwpeU3yt0gilz9wW7uw-GAZed3C0B7J9ZmKGLL5QZ86A='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "Harvard Extension School",
+    "招生网址": "https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/",
+    "专业网址": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "同申互斥": "not mentioned",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Harvard University MS Data Science program at Harvard Extension School does not explicitly state mutual exclusive application constraints with other Harvard University graduate programs, operating on an \"earn your way in\" admissions model.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Boston, MA, US.', uri='https://www.google.com/search?q=time+in+Boston,+MA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2wEmD3oLrBDp_aGDWFZNVUyS0hf73IadtrSS2y8JnoJG9phB9LlE2_y3Xv4l9NKOw5YUJkw36WJNNqby1W2cjAL4L2eg4QUmWICk8fb90iesyU-A4FPx43GxnXOIVSCowv4jACJhep3WOYpSZ_lHhV1m4DuzP5lHfiPL6VfRtN0EtqsKMkfzaJJc=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTl7msTloDt0d8FR8XYWg6DSZGGxFWDDYuOXr6lwGaJrZTzswM9l4-nYfjQHezqF4YFDQ4UVf54t1thOXDiLz_uvzC_fdz6QXBWXW-G3E4SUxFDpdHGf0iPZG7ocwq5YlHxZUgtuJKcjq9BIO6c3zOwSzx06gK8AKD9SAmZhrtVQ0lAEEeCmCcOPX_uZB1V8cIzIIdxiLW1-xrvW8-zpGcz9VT_JvP0C7YT8='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The Harvard University MS Data Science program at Harvard Extension School does not explicitly state mutual exclusive application constraints, instead featuring an \"earn your way in\" admissions process based on prerequisite coursework.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Boston, MA, US.', uri='https://www.google.com/search?q=time+in+Boston,+MA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxGDjvLrJPp0DxzSl6TTqe3X3C4tp_TOsoicslmHA1G2JGGxrCVZE-G-bPOxxzHLTU51p74cz0Ut3JtX-8NlIQ8_wAKaSCzgg0V3Puwr5_hq6NDo0wGkYDdtzYF98iu1ENDh3Jbkj-qv5HPmpK1DqNtjjk8OLo0iB1Wy9oHhA_y1ztO-S3x2_DRA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvY9Q2YxqmMfIRmv_yO7O4F_CimUbJg0HMtkM6QA1JYbc3z9ohX8Shl0FR_jwjeIgxrlVu300vEqeWq37-9I6HBcGXZWz74NhnqNRtRkL3LG6XlWuaLe8xCkwahyw_mBy_TKR_SLMYlYPUYEXw28hj90hqc63se3ttuf_9k4XUtUIB36OetF6T6OVA5Ebk1k_dlIJMc6-9MwuJEsFtbBN2kd7iQitEO7gAfw=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The Harvard University MS Data Science program, offered through Harvard Extension School, does not have mutual exclusive application constraints but rather features an \"earn your way in\" admissions process requiring specific coursework for eligibility.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJSIgli8ArH3IHAdfURxHxy5Jc0yZbBv_D7JEEBeTv7xKb6yzd9RowmaolUzUpH590WzX6TYFoly9o4pFyFaLNL-jc3Kk-pxH-q3wRbe5PcDlgY1MToIsgo6D1kau_CfJ_PWnZbZUWdwX_hM40SUrDxD9Rmqv6CWzW6mpkH9WY95LrblqBsyqJ6D0=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxqMONMC3M0-Cop8-es--P61JML48FjQeAXFnLCTC_vjOjj3e0aA9LEA6vINv-aOUs_P5iwUprcagh82oRouNqasrWQ58sd_V_gp7uqVsyL7eonBrZny7eGVlmHmtio-R2cwTosmdSnsQ6IG42rVB_e_ygi5uAhWQOqE2Y5Is5QPGgYbrr7UHj91YUTlWRcLnTaD6eF3n0mYSeI9LubQWFpyn_L3jMpzX7fl0='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Stanford University's ICME graduate program, including the MS Data Science track, has a mutual exclusive application constraint, allowing applicants to apply to only one program (either PhD or MS) per academic year.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in San Jose, CA, US.', uri='https://www.google.com/search?q=time+in+San+Jose,+CA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE45NH461w4sBmK7CjuUrlE56laL7N0c_fZC5TZuSBP2qtsjDVJzB_ln8H7OdGc9CGrN_LteRdv8OYdRLC_zg6H_MJuVTR3GUskaUAZ6aq0jhxDnGGnKrtFJOotcmknpQoDWrkc76wsLaQ-y8a5R_xgxlrOz6rUB3Le'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Stanford University's ICME MS in Data Science program has mutual exclusive application constraints, allowing applicants to apply to only one graduate program per academic year.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in San Jose, CA, US.', uri='https://www.google.com/search?q=time+in+San+Jose,+CA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKhpmiYVBrU17WjO3YNensjLQbQQ0lRlg6_0n-5hN6GG6cIE6nWFa6RC7b9-KdwEmptuAu7xxmacV6UiOZZhltV1Z_fjDogc4m33Dnv37aIaSIvLO5gMwcS1INDkIJ5WDiA1-7YuyAueA2AnuA0fD5IlAM2DoTKAbo'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Stanford University's ICME graduate program has an application constraint where applicants can only apply to one program (either the MS or PhD) per academic year within ICME.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in San Jose, CA, US.', uri='https://www.google.com/search?q=time+in+San+Jose,+CA,+US'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "人文科学学院",
+    "招生网址": "https://statistics.stanford.edu/msadmissionsms/how-apply",
+    "专业网址": "https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Stanford University's MS Data Science program has a mutual exclusive application constraint, meaning applicants will only be considered for the Data Science program and not simultaneously for the Statistics M.S. degree program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJdZlEAlG5roLHm7KcGPPRiDZ35KMwKFGXpQbt4-3Hbic0k45pH_RWIPnsMO25snh8jQYwR3nU-UqpXLkTz1wuo63CBes-bG2YHbnEwTQ0eR4yJMzyvb2Ln1BvzTBflyqYS4nVh3B9BCGUOp7rMVAgGgZJWnl0pUza'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Stanford University's MS Data Science program has mutual exclusive application constraints, meaning applicants can only be considered for either the Data Science program or the Statistics M.S. degree program, not both simultaneously.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhZ8ZxU2-2vhG4730nf7oABkR3KcILnGCkBK3KlAQ_LkvVCm95jJA2jnZ1BMp0e1cgp0yIbrQjkTUTWu_rssHd17Yq0_VgiPHoi8GDBcUy7xaLa0u_us-Odwuj2gn3HY1nClPUIZsoombklkpGN7I0rKdHC2YhigEL'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Stanford University's MS Data Science program has a mutual exclusive application constraint, meaning applicants cannot also be considered for the Statistics M.S. degree program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBE7tQIN_kf3oKGWc6EPdoCnR1_upnb6gs1Dy3TkJkmaF166wo0fQrcaqKaXXNZwls36W3EmZmJUmXZ7mmCK-poSnHFP6005D9Z0gt8gvxdourQEHce_BuX-KufHnMDsyhKewdZplBty4DJ6nNk67LQv8ozaX8F4s='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/terminal-ma-program",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Yale University MS Statistics and Data Science program does not have mutual exclusive application constraints with its related MA program, and applicants can even switch between the two during their studies.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmcdmGVxYDoAasi8L7s88o-3kUB7blJ4i_tHzsb8TMJcqlIJU1u6LCDQPUQ3gHcCm1zVkSGwfPvX7FLyKm83_cW6PqwwVXnfdIZt21X9q5ZwkRfpBM92J5P4EKkyCti7yg7yQajwlwrlAtybeBBLcZL3qVfjt-TEOCA=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Yale University's MS Statistics and Data Science program does not have mutual exclusive application constraints, as students can apply to either the MA or MS program and even switch between them during their studies, and combined PhD programs are also offered.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The Yale University MS Statistics and Data Science program does not have mutual exclusive application constraints with its MA counterpart, allowing students to apply to either program or change between them during their study.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLNze12wGGtuy0sDXC2_5G94BHlqpTa7nVT7ZQit48v48bwSRGeGrNjH0BrDXMtnrUo79tJQp-wj3uMJ0_pD0Em-1Dp-MI-sfBokxzkPMHQ6A3qguV4LxE6yTh9ZDnt56MoajjvxwEZm368QmiDYyu7E_Lx85EeUbEGg=='))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

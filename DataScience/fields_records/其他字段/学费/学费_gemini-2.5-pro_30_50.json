@@ -1,0 +1,642 @@
+[
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Applied Statistics (Data Science) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/",
+    "专业网址": "https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University Graduate School tuition rates', 'Cornell University M.P.S. Applied Statistics (Data Science) tuition fee', 'Cornell University \"Master of Professional Studies\" tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnAH0xUeMdu0LztyPDenX4G8UiF_mv7qtWf4Uqd-Tj52aM_3gdCCJcJCYFL5cXUxBFgWdSrvt7Pj4ENmuW1E0Ncoqf0iLdfymVtvebL2-KbEe1NsUrqVejTTgEESVFW7VPllAvz6kaEp3wSTUMo8BzqGKtD6K4nH3t7rnpgg==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.P.S. Applied Statistics (Data Science) tuition fee', '\"Graduate School\" \"Tuition Rates\"', 'Cornell University Bursar tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Cornell University M.P.S. Applied Statistics (Data Science) tuition fee', '\"Cornell University Bursar endowed graduate tuition rates\"', '\"Cornell University Office of the Bursar\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Applied Statistics (Data Science) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/",
+    "专业网址": "https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Not found",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Cornell University M.P.S. Applied Statistics (Data Science) tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuyLlDtPTH4vxFzk1Cz7Cb-00URIV9UGF4wp-OzJf4HSgbW4HBmTifwjrcIRXZjMxpYJlwP0zzjMjcc3UXEgE7QiwYQesVBg2Uo9Kym8gUZdmSdSBFkP9GH6EOhjYOjq3OmSKYqunevrfqnj7400wwDodky_TCVl5B3xFCWvY_V8NiVXTraITsH8DXEFujSpcX', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMBGptotLMTF2Fup7FHypqO20yCuDjU38GE7crvWKkriIY8W6X1ObZI_7adB1nF7t4BaFkP47rdhGZm56cOOoEo71XRshQnUoeH24pRrt_HHhMyjfPYyE1sSonTzVFg2wWCWV6S9oDIdzi1D2Xv_ZjxH-zuLu2XE0705V8rg==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.P.S. Applied Statistics (Data Science) tuition fee', 'Cornell University graduate school tuition', 'Cornell University Professional Degree Program Tuition Rates']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuyLlDtPTH4vxFzk1Cz7Cb-00URIV9UGF4wp-OzJf4HSgbW4HBmTifwjrcIRXZjMxpYJlwP0zzjMjcc3UXEgE7QiwYQesVBg2Uo9Kym8gUZdmSdSBFkP9GH6EOhjYOjq3OmSKYqunevrfqnj7400wwDodky_TCVl5B3xFCWvY_V8NiVXTraITsH8DXEFujSpcX'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Cornell University M.P.S. Applied Statistics (Data Science) tuition fee', '\"Cornell University\" \"Graduate School\" \"Tuition Rates\"', '\"Cornell University\" \"Bursar\" \"tuition rates\" \"professional master\"', ' \"tuition rates\" \"professional\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MScA",
+    "专业英文名称": "Applied Data Science",
+    "所属院系": "物理科学部",
+    "招生网址": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+    "专业网址": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$5,967 per course",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago MScA Applied Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Applied Data Science – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$5,967 per course",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago MScA Applied Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Applied Data Science – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$5,967 per course",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago MScA Applied Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Applied Data Science – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MS",
+    "专业英文名称": "Data Science ",
+    "所属院系": "物理科学部",
+    "招生网址": "https://codas.uchicago.edu/how-to-apply/",
+    "专业网址": "https://codas.uchicago.edu/academics/ms-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$19,784 per quarter",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/ms-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELmDLtluWBqkxSyPdAY0CSbQ5NmnYwEZGt-p0FrShwSd6RmCrRFTU0LGQYfgetbAHval0Gkmnr09kMm3EuNzkJ_byKT4Lnin5m9SVgdJ-muL6t8GIWgTc1QRHUfYOIHavlUhL8WfR4n-q9uAfApHHToT9QWfm7LLbA4nUko9diHMENaVH8wYN5inWhohHOrxovp4wegZzRsYYlvlpkp4-DbzSfNy3zxhmcM1myFQ8Bn4t_YVg=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago MS Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MS in Data Science | CDS', uri='https://codas.uchicago.edu/academics/ms-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='uchicago.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELmDLtluWBqkxSyPdAY0CSbQ5NmnYwEZGt-p0FrShwSd6RmCrRFTU0LGQYfgetbAHval0Gkmnr09kMm3EuNzkJ_byKT4Lnin5m9SVgdJ-muL6t8GIWgTc1QRHUfYOIHavlUhL8WfR4n-q9uAfApHHToT9QWfm7LLbA4nUko9diHMENaVH8wYN5inWhohHOrxovp4wegZzRsYYlvlpkp4-DbzSfNy3zxhmcM1myFQ8Bn4t_YVg='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$20,575 per quarter",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/ms-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9ir9pEFCi77aJ5lm6LJMnXpSVgqC2by2Rk3-Hg5MT4wheonk_mLzMlhHzegKtSTt2FzJTBZy1Zzzd-v9OycO0F7JtkEVHx-U0H1YHFimlHaMizss3jkcCRqrnpsC8VG_nNc-yIdVz3ObQcRQOa-l7uMTnuVnDCcBMBFG1ZUDMWojcTf7zB09kg1xAkErk_tNZhors9KVFn3Rn1lfneAHyjA6UZWcza9S5BPXMpxOS9E1z0r0=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmVqgkexLIzE7qOVTDDR_1qGq92ToFxT-XeXlXzZsHDX_j4-TJNtazT-E0-mhZcE5nMA_mCWxfa5c3CVqgbyW1OEv3J-k8f-BHrLA4FlHXbFBUZ3oEo4r3McE9_TwSHp836-ZTDn_Z0pkNTXpAmnAT4V7N1SAjGw_4TPVyv2KEyaSYi0h1AJ6Gzt4Jwf4gUDYO_O2GnkufBbqvNQAD5V0oGwz7B7YtAcRFPCRujXw2bOd_Haa1FQ==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago MS Data Science tuition fee', 'University of Chicago Physical Sciences Division graduate tuition 2024-2025']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MS in Data Science | CDS', uri='https://codas.uchicago.edu/academics/ms-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='uchicago.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9ir9pEFCi77aJ5lm6LJMnXpSVgqC2by2Rk3-Hg5MT4wheonk_mLzMlhHzegKtSTt2FzJTBZy1Zzzd-v9OycO0F7JtkEVHx-U0H1YHFimlHaMizss3jkcCRqrnpsC8VG_nNc-yIdVz3ObQcRQOa-l7uMTnuVnDCcBMBFG1ZUDMWojcTf7zB09kg1xAkErk_tNZhors9KVFn3Rn1lfneAHyjA6UZWcza9S5BPXMpxOS9E1z0r0=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='uchicago.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmVqgkexLIzE7qOVTDDR_1qGq92ToFxT-XeXlXzZsHDX_j4-TJNtazT-E0-mhZcE5nMA_mCWxfa5c3CVqgbyW1OEv3J-k8f-BHrLA4FlHXbFBUZ3oEo4r3McE9_TwSHp836-ZTDn_Z0pkNTXpAmnAT4V7N1SAjGw_4TPVyv2KEyaSYi0h1AJ6Gzt4Jwf4gUDYO_O2GnkufBbqvNQAD5V0oGwz7B7YtAcRFPCRujXw2bOd_Haa1FQ=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Not found",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/ms-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago MS Data Science tuition fee', 'University of Chicago graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MS in Data Science | CDS', uri='https://codas.uchicago.edu/academics/ms-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "Ph.D",
+    "专业英文名称": "Data Science ",
+    "所属院系": "物理科学部",
+    "招生网址": "https://codas.uchicago.edu/how-to-apply/",
+    "专业网址": "https://codas.uchicago.edu/academics/phd-in-data-science/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$19,784 per Quarter",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/phd-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago Ph.D Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD in Data Science | CDS', uri='https://codas.uchicago.edu/academics/phd-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$19,784 per Quarter",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/phd-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago Ph.D Data Science tuition fee', ' graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD in Data Science | CDS', uri='https://codas.uchicago.edu/academics/phd-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$19,784 per quarter",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/phd-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Chicago Ph.D Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD in Data Science | CDS', uri='https://codas.uchicago.edu/academics/phd-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Berkeley",
+    "学位": "M.Eng",
+    "专业英文名称": "Data Science  ",
+    "所属院系": "电子工程和计算机科学系",
+    "招生网址": "https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/",
+    "专业网址": "https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$24,783 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Berkeley M.Eng Data Science tuition fee', 'UC Berkeley registrar graduate tuition and fees M.Eng']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Electrical Engineering &amp; Computer Sciences MEng - Berkeley ...', uri='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering (MEng) - EECS at Berkeley', uri='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$28,134.00 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Berkeley M.Eng Data Science tuition fee', 'UC Berkeley graduate tuition and fees schedule', 'UC Berkeley professional masters tuition 2024-2025']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Electrical Engineering &amp; Computer Sciences MEng - Berkeley ...', uri='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering (MEng) - EECS at Berkeley', uri='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Not found",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Berkeley M.Eng Data Science tuition fee', ' \"professional master\\'s\" fee schedule', ' \"College of Engineering\" \"Master of Engineering\" fee schedule 2024-2025']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Electrical Engineering &amp; Computer Sciences MEng - Berkeley ...', uri='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering (MEng) - EECS at Berkeley', uri='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Berkeley",
+    "学位": "MAna",
+    "专业英文名称": "Master of Analytics",
+    "所属院系": "工业工程与运筹学系",
+    "招生网址": "https://grad.berkeley.edu/program/master-of-analytics-manlytx/",
+    "专业网址": "https://analytics.berkeley.edu/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$72,862 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/master-of-analytics-manlytx/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://analytics.berkeley.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Berkeley MAna Master of Analytics tuition fee', ' \"Master of Analytics\" \"cost of attendance\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics MAnlytx - Berkeley Graduate Division', uri='https://grad.berkeley.edu/program/master-of-analytics-manlytx/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics - Master of Analytics', uri='https://analytics.berkeley.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$35,431 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/master-of-analytics-manlytx/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://analytics.berkeley.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Berkeley MAna Master of Analytics tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics MAnlytx - Berkeley Graduate Division', uri='https://grad.berkeley.edu/program/master-of-analytics-manlytx/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics - Master of Analytics', uri='https://analytics.berkeley.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$35,431 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/master-of-analytics-manlytx/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://analytics.berkeley.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Berkeley MAna Master of Analytics tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics MAnlytx - Berkeley Graduate Division', uri='https://grad.berkeley.edu/program/master-of-analytics-manlytx/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics - Master of Analytics', uri='https://analytics.berkeley.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Los Angeles",
+    "学位": "MENG",
+    "专业英文名称": "Data Science ",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/",
+    "专业网址": "https://www.meng.ucla.edu/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.meng.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Los Angeles MENG Data Science tuition fee', 'UCLA graduate tuition', \"UCLA Registrar's Annual Fees for UCLA Graduate Programs\", 'Master of Engineering fees 2024-2025']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='', uri='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering | UCLA Samueli | 1-year professional degree', uri='https://www.meng.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$1,400 per unit\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.meng.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Los Angeles MENG Data Science tuition fee', ' tuition', ' \"master of engineering\" tuition', ' \"self-supporting program\" tuition \"master of engineering\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='', uri='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering | UCLA Samueli | 1-year professional degree', uri='https://www.meng.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$52,920 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.meng.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Los Angeles MENG Data Science tuition fee', 'University of California, Los Angeles MENG Data Science tuition fee', 'ucla master of engineering tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='', uri='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering | UCLA Samueli | 1-year professional degree', uri='https://www.meng.ucla.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Los Angeles",
+    "学位": "M.A.S.D.S",
+    "专业英文名称": "Master of Applied Statistics and Data Science",
+    "所属院系": "物理科学学院",
+    "招生网址": "https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/",
+    "专业网址": "https://master.stat.ucla.edu/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$28,104 per year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://master.stat.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Los Angeles M.A.S.D.S Master of Applied Statistics and Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics – Master of Applied Statistics and Data Science | UCLA ...', uri='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Applied Statistics and Data Science | Homepage', uri='https://master.stat.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$28,104 per year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://master.stat.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Los Angeles M.A.S.D.S Master of Applied Statistics and Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics – Master of Applied Statistics and Data Science | UCLA ...', uri='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Applied Statistics and Data Science | Homepage', uri='https://master.stat.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$28,104 per year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://master.stat.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of California, Los Angeles M.A.S.D.S Master of Applied Statistics and Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics – Master of Applied Statistics and Data Science | UCLA ...', uri='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Applied Statistics and Data Science | Homepage', uri='https://master.stat.ucla.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Rice University",
+    "学位": "MDS",
+    "专业英文名称": "Master of Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application",
+    "专业网址": "https://cs.rice.edu/academics/graduate-programs/professional-master-data-science",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Rice University MDS Master of Data Science tuition fee', '\"Rice University\" graduate tuition', '\"public on-campus MDS rate\"', 'Rice University Cashier Office graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Application | Computer Science | Rice University', uri='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Professional Master of Data Science |Computer Science | Rice ...', uri='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVi1MVFTW0rtQO8Piu4XnzkyK9_cJmlgRQ3rPcehryfpwVJHSrokMZK873gq-muUkTtF5Cow8UZGMaBNuhLEyDhFw9OkYqkto2VBvThz5uzwPWbx9_3eUSjRoU9Q==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFXYLCxaNa06vjjRDutt7X_ksY8Up7as8BRgCUpoxve4Ng_pWCxcTBnIZuCOy99kHmZAM7NWpshkQ-jTsrndGRrEACe12RCEN4ybH-FGblKG1Q3DZEvFGl2Zz1em782vvSxXl2SFyu3yYMhFcGN-DrkGJNoe0pPekC7HRWaJLUdbQW', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Rice University MDS Master of Data Science tuition fee', 'Rice University Engineering Professional Masters Program tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Professional Master of Data Science |Computer Science | Rice ...', uri='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Application | Computer Science | Rice University', uri='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='rice.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVi1MVFTW0rtQO8Piu4XnzkyK9_cJmlgRQ3rPcehryfpwVJHSrokMZK873gq-muUkTtF5Cow8UZGMaBNuhLEyDhFw9OkYqkto2VBvThz5uzwPWbx9_3eUSjRoU9Q=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$56,820 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Rice University MDS Master of Data Science tuition fee', ' graduate tuition', ' professional master tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Professional Master of Data Science |Computer Science | Rice ...', uri='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Application | Computer Science | Rice University', uri='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Vanderbilt University",
+    "学位": "MS",
+    "专业英文名称": "Data Science ",
+    "所属院系": "文理学院",
+    "招生网址": "https://www.vanderbilt.edu/datascience/msprogram/admissions/",
+    "专业网址": "https://www.vanderbilt.edu/datascience/msprogram/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Not found\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.vanderbilt.edu/datascience/msprogram/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.vanderbilt.edu/datascience/msprogram/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Vanderbilt University MS Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | DSI | Vanderbilt University', uri='https://www.vanderbilt.edu/datascience/msprogram/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters in Data Science | DSI | Vanderbilt University', uri='https://www.vanderbilt.edu/datascience/msprogram/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Not found",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.vanderbilt.edu/datascience/msprogram/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.vanderbilt.edu/datascience/msprogram/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Vanderbilt University MS Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | DSI | Vanderbilt University', uri='https://www.vanderbilt.edu/datascience/msprogram/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters in Data Science | DSI | Vanderbilt University', uri='https://www.vanderbilt.edu/datascience/msprogram/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Not found",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.vanderbilt.edu/datascience/msprogram/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.vanderbilt.edu/datascience/msprogram/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Vanderbilt University MS Data Science tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | DSI | Vanderbilt University', uri='https://www.vanderbilt.edu/datascience/msprogram/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters in Data Science | DSI | Vanderbilt University', uri='https://www.vanderbilt.edu/datascience/msprogram/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nUniversity of Notre Dame",
+    "学位": "PHD",
+    "专业英文名称": "PHD IN ANALYTICS",
+    "所属院系": "商学院",
+    "招生网址": "https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/",
+    "专业网址": "https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$66,934.00 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame PHD PHD IN ANALYTICS tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Analytics: PhD | The Graduate School | University of Notre Dame', uri='https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. in Analytics - Notre Dame Mendoza College of Business', uri='https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$66,934.00 per year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7uCoL3HVpnHnpt0TulfdCKPniR9VF8SVAxy8Lb2bbaTdbs-qmS-ImHyB4kcxYd2FLXZlURWyQcEwRlu3txsQ9ZVfIjreQPPC7edORXHeRcMbojjeeGgTrtO25Z5tuVBbZ4xLoJ5VFLv2GUI3B0eSXNbU=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame PHD PHD IN ANALYTICS tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Analytics: PhD | The Graduate School | University of Notre Dame', uri='https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. in Analytics - Notre Dame Mendoza College of Business', uri='https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7uCoL3HVpnHnpt0TulfdCKPniR9VF8SVAxy8Lb2bbaTdbs-qmS-ImHyB4kcxYd2FLXZlURWyQcEwRlu3txsQ9ZVfIjreQPPC7edORXHeRcMbojjeeGgTrtO25Z5tuVBbZ4xLoJ5VFLv2GUI3B0eSXNbU='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$66,934.00 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame PHD PHD IN ANALYTICS tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Analytics: PhD | The Graduate School | University of Notre Dame', uri='https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. in Analytics - Notre Dame Mendoza College of Business', uri='https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nUniversity of Notre Dame",
+    "学位": "M.S.",
+    "专业英文名称": "Applied and Computational Mathematics ",
+    "所属院系": "理学院",
+    "招生网址": "https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/",
+    "专业网址": "https://acms.nd.edu/graduate/professional-masters-programs/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$2,145.20 per credit hour",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://acms.nd.edu/graduate/professional-masters-programs/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQIkwbT2qhf_N1PMr2FAXsJYpntqpyzKa3sJH6LZ8i6n_T_Bdxrf0Ezs7n86NopPQ4zCBjMAt05rfMkLXWmrX4SwGkWPMoiTa8T0fROozeWYmYrWy1ZQPUFcheKE9Zjw2OX436OZc4Pl-aErkEQdjyJKGxOQHIYDcBqsHrZQMMwUnhOXWlGGQ0H3b_1rwAzQo=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"University of Notre Dame M.S. Applied and Computational Mathematics tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied and Computational Mathematics and Statistics: MS | The ...', uri='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters Program (Professional) | Graduate | Department of Applied ...', uri='https://acms.nd.edu/graduate/professional-masters-programs/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQIkwbT2qhf_N1PMr2FAXsJYpntqpyzKa3sJH6LZ8i6n_T_Bdxrf0Ezs7n86NopPQ4zCBjMAt05rfMkLXWmrX4SwGkWPMoiTa8T0fROozeWYmYrWy1ZQPUFcheKE9Zjw2OX436OZc4Pl-aErkEQdjyJKGxOQHIYDcBqsHrZQMMwUnhOXWlGGQ0H3b_1rwAzQo='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$2,145.20 per credit\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://acms.nd.edu/graduate/professional-masters-programs/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfiotttL2jW6Xj6r5qyWAh9F11IRwg4NUChGs7YMF8KDMofEUmTAF2IdniVCdzyBj5TMB6R2nAaMjZObOX9Z6dmGHQqRbmw-S5__Sg9jnzBz8XRFPo8-kJkD0nKpuEVB0bBA2_hg29j2ti9701Mowl0iajClgxFM016L413bT0eCtVNBzQuxdCxb2pzb5pOg==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame M.S. Applied and Computational Mathematics tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied and Computational Mathematics and Statistics: MS | The ...', uri='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters Program (Professional) | Graduate | Department of Applied ...', uri='https://acms.nd.edu/graduate/professional-masters-programs/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfiotttL2jW6Xj6r5qyWAh9F11IRwg4NUChGs7YMF8KDMofEUmTAF2IdniVCdzyBj5TMB6R2nAaMjZObOX9Z6dmGHQqRbmw-S5__Sg9jnzBz8XRFPo8-kJkD0nKpuEVB0bBA2_hg29j2ti9701Mowl0iajClgxFM016L413bT0eCtVNBzQuxdCxb2pzb5pOg=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$26,760.00 per semester\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://acms.nd.edu/graduate/professional-masters-programs/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyYrq_HWpQRCIbo6UNDarOEfKzryGJlTJZKFdNVDGzTQ2PHb6U3a7zclszj1KL9gP6BlDnFwvmNx0pJPzuD4nKZNxs3DBhFWqlnaqwd7BiLlFaxsk9DseHp2LSJBX2Vivkun1csa9r5VG0wlLLncLwmPoWLYG3Cnz-dRZTQIacRt_vUSogImw7hUzhJWoqOA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4WBoPbt_xZ9zhXqR6N9dKhWAV0GVvFqayLwCfwZhtcKRmDAY5M5GJ-PnToTzRST6lfoHowS45Dt-T3za8e2YrqXttC10f3wm1Honz1mBWeGLLKbf5F8d1doyqxkAQzfw0Fl8kFXqgg9wFlETLGLc5ahI=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame M.S. Applied and Computational Mathematics tuition fee', 'University of Notre Dame graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied and Computational Mathematics and Statistics: MS | The ...', uri='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters Program (Professional) | Graduate | Department of Applied ...', uri='https://acms.nd.edu/graduate/professional-masters-programs/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyYrq_HWpQRCIbo6UNDarOEfKzryGJlTJZKFdNVDGzTQ2PHb6U3a7zclszj1KL9gP6BlDnFwvmNx0pJPzuD4nKZNxs3DBhFWqlnaqwd7BiLlFaxsk9DseHp2LSJBX2Vivkun1csa9r5VG0wlLLncLwmPoWLYG3Cnz-dRZTQIacRt_vUSogImw7hUzhJWoqOA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4WBoPbt_xZ9zhXqR6N9dKhWAV0GVvFqayLwCfwZhtcKRmDAY5M5GJ-PnToTzRST6lfoHowS45Dt-T3za8e2YrqXttC10f3wm1Honz1mBWeGLLKbf5F8d1doyqxkAQzfw0Fl8kFXqgg9wFlETLGLc5ahI='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nUniversity of Notre Dame",
+    "学位": "M.S.",
+    "专业英文名称": "Applied and Computational Mathematics ",
+    "所属院系": "理学院",
+    "招生网址": "https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/",
+    "专业网址": "https://acms.nd.edu/graduate/professional-masters-programs/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$2,145.20 per credit hour",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://acms.nd.edu/graduate/professional-masters-programs/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfNQ83BohzcnsKJm9pFbsBh-_pMTVKXP8b4b0Q9OEdwQh_UCLHCjPTiLkm5Qkf11anB_vZvc_y1HKpkoHE5Wg-ekUAxcmrvgAbKnq4lVregYsmq1o6tyJXeZCxHnErrg6PgducdnwcfFMJm7d9MVN4ec8NajCsRGsgNGVoS_2-g8Zsd3mQqkP5ATabq5afMCM=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame M.S. Applied and Computational Mathematics tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied and Computational Mathematics and Statistics: MS | The ...', uri='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters Program (Professional) | Graduate | Department of Applied ...', uri='https://acms.nd.edu/graduate/professional-masters-programs/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfNQ83BohzcnsKJm9pFbsBh-_pMTVKXP8b4b0Q9OEdwQh_UCLHCjPTiLkm5Qkf11anB_vZvc_y1HKpkoHE5Wg-ekUAxcmrvgAbKnq4lVregYsmq1o6tyJXeZCxHnErrg6PgducdnwcfFMJm7d9MVN4ec8NajCsRGsgNGVoS_2-g8Zsd3mQqkP5ATabq5afMCM='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "$13,630.00 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://acms.nd.edu/graduate/professional-masters-programs/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Notre Dame M.S. Applied and Computational Mathematics tuition fee', 'notre dame graduate school tuition and fees']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied and Computational Mathematics and Statistics: MS | The ...', uri='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters Program (Professional) | Graduate | Department of Applied ...', uri='https://acms.nd.edu/graduate/professional-masters-programs/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$2,145.20 per credit hour",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://acms.nd.edu/graduate/professional-masters-programs/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybggmZKfg_Hd5A_QHV2nMCs9IT8BMdgjZhbXk5Z2Ycx2AXA8Rzzhkk2brQRM2ay3sEUFonfdOmuOqkakEwdzY18nzI4FMZhbK-Jrq1AgDX1sBQZEGIfWPdfFiQqo9rlswW-FlXhmVqQxVgCy_kx9J5U4Ltq3DadQO3nSrqGhETgUUhAnCjidNVEVsdhUFow==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"University of Notre Dame M.S. Applied and Computational Mathematics tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied and Computational Mathematics and Statistics: MS | The ...', uri='https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Masters Program (Professional) | Graduate | Department of Applied ...', uri='https://acms.nd.edu/graduate/professional-masters-programs/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='nd.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybggmZKfg_Hd5A_QHV2nMCs9IT8BMdgjZhbXk5Z2Ycx2AXA8Rzzhkk2brQRM2ay3sEUFonfdOmuOqkakEwdzY18nzI4FMZhbK-Jrq1AgDX1sBQZEGIfWPdfFiQqo9rlswW-FlXhmVqQxVgCy_kx9J5U4Ltq3DadQO3nSrqGhETgUUhAnCjidNVEVsdhUFow=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MENG",
+    "专业英文名称": "Data Science and Machine Learning",
+    "所属院系": "工程学院",
+    "招生网址": "https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/",
+    "专业网址": "https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$30,960 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUAueSmk010lkm1xgv5lk7gy2mMLzVKDCIzDjrxbTqGjarK0CY-ZZNKMpUfQ-9fDwYTKzItrl0gGkmVa4od0kZY-4Y-fBpqjp-sjJ97-v910fwf40rdDxwqK72Ys-9GGHW0px-oP7mDsuHWP1RUdDaeNJelcwSadzl57IA8OeUcZNUVB7DIybuzVVS3-XiBg-WgOZ5cLOSba_AOhun3GGgvUvLhN_fbWpgrWqQCHiJBjw2', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MENG Data Science and Machine Learning tuition fee', '\"University of Michigan\" \"College of Engineering\" \"graduate tuition\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Apply for MEng | Electrical and Computer Engineering at Michigan', uri='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='About the Master of Engineering (MEng) Program', uri='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='umich.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUAueSmk010lkm1xgv5lk7gy2mMLzVKDCIzDjrxbTqGjarK0CY-ZZNKMpUfQ-9fDwYTKzItrl0gGkmVa4od0kZY-4Y-fBpqjp-sjJ97-v910fwf40rdDxwqK72Ys-9GGHW0px-oP7mDsuHWP1RUdDaeNJelcwSadzl57IA8OeUcZNUVB7DIybuzVVS3-XiBg-WgOZ5cLOSba_AOhun3GGgvUvLhN_fbWpgrWqQCHiJBjw2'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Not found\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MENG Data Science and Machine Learning tuition fee', 'University of Michigan College of Engineering graduate tuition', 'University of Michigan College of Engineering graduate tuition \"cost of attendance\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Apply for MEng | Electrical and Computer Engineering at Michigan', uri='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='About the Master of Engineering (MEng) Program', uri='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Not found",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MENG Data Science and Machine Learning tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='About the Master of Engineering (MEng) Program', uri='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Apply for MEng | Electrical and Computer Engineering at Michigan', uri='https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "Ph.D",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/phd-program/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$29,492 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/phd-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7qxFlA6q4_35niinUzQXLZRScQIDI6TQXEn-XIqy9K2XdKkYxGpgRmlH38GfvTJLY8NAMH6Xt6PY-cLoO9bLPOhJJxYCfPe9hWRdnVD5KoPDF7F_xkG7iqahmTZGUz9_Rj13CoMh6dbPjiJpDlAaRR2fY-Aqor9vzXW_hX4bMBY0NOUBmsD_epoTRwFyl_qh0KVe5fyQQvtaUyJgOR-FN5vNvy5J0HSyIrFjCgJIyb5jB', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor Ph.D Industrial and Operations Engineering tuition fee', ' \"College of Engineering\" \"Graduate\" tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD admissions and planning - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/phd-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='umich.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7qxFlA6q4_35niinUzQXLZRScQIDI6TQXEn-XIqy9K2XdKkYxGpgRmlH38GfvTJLY8NAMH6Xt6PY-cLoO9bLPOhJJxYCfPe9hWRdnVD5KoPDF7F_xkG7iqahmTZGUz9_Rj13CoMh6dbPjiJpDlAaRR2fY-Aqor9vzXW_hX4bMBY0NOUBmsD_epoTRwFyl_qh0KVe5fyQQvtaUyJgOR-FN5vNvy5J0HSyIrFjCgJIyb5jB'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/phd-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor Ph.D Industrial and Operations Engineering tuition fee', 'University of Michigan Ann Arbor graduate tuition and fees', 'University of Michigan Ann Arbor Office of the Registrar graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD admissions and planning - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/phd-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$28,094 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/phd-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor Ph.D Industrial and Operations Engineering tuition fee', ' \"College of Engineering\" graduate tuition 2024-2025']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD admissions and planning - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/phd-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MS",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MS Industrial and Operations Engineering tuition fee', 'University of Michigan Rackham Graduate School tuition', 'University of Michigan Office of the Registrar tuition and fees']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MS Industrial and Operations Engineering tuition fee', 'University of Michigan graduate tuition', ' \"tuition and fees\"', '\"tuition and fees for the College of Engineering\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$16,688 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-vwt4_pS_w-5jI3RZrvfs6HbKAfzBtOsGKu2lPGT94rogKo3kBnzDUCgOUuC9mVGWw7tSqH-U_hXqhaei2B0VCYFEEFF_JGD-e01ir-gLIx-_lMHqvQn_UW135HoQi5CddOq9sJ7pRjBrXXCqmMC5YLCBF5xIj6Z9K7pePZOJUc-Ef4yb3uWYW7-znN4G8BiLMYxvOUidneXgfl6cEsUR_da9mvYLCPoC61ZyWHEXOl0=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MS Industrial and Operations Engineering tuition fee', '\"University of Michigan College of Engineering graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='umich.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-vwt4_pS_w-5jI3RZrvfs6HbKAfzBtOsGKu2lPGT94rogKo3kBnzDUCgOUuC9mVGWw7tSqH-U_hXqhaei2B0VCYFEEFF_JGD-e01ir-gLIx-_lMHqvQn_UW135HoQi5CddOq9sJ7pRjBrXXCqmMC5YLCBF5xIj6Z9K7pePZOJUc-Ef4yb3uWYW7-znN4G8BiLMYxvOUidneXgfl6cEsUR_da9mvYLCPoC61ZyWHEXOl0='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MSE",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvF2r1rarTT8OZhMLzK6uZG-68CYtodrxcLRq7lepaMclMP_utMMR-C-UPkW8XZXtAdsMsbjpfcCMrKoTwenl1Oo6e50HGsLKmMz9_oZAmaFbj8FaQkVf3zrPzZe8GAYdY393VFf1I9nuXHY15J3mAqWh_1rJ4I1pb0F7-azoDoDaqRrnf1rj96vQyoGJ-6-59-kvDAYI=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhbxNiYImtt8tew1RZDw8ie6GfpN3C24Q_-rA3Qq37pgC52iY4gKwIz8AIpu9rUKUmasv1mh_mP9X4jxDRV4NnPyf1yhXae3cV4plrneo0NT0QS7bizIIaU6bvK6kDUUb8B3g51mrqhgLaWilwdB-rTcXfbodEMJHOVFMXu5znR3FIq96OD0oWG3nizT32wcnN6cnEte7BLcpRgeCeOQJG3LMmrEU1N1wrEsQxJOLFUN5E', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MSE Industrial and Operations Engineering tuition fee', 'University of Michigan registrar tuition fees \"College of Engineering\" graduate']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='umich.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvF2r1rarTT8OZhMLzK6uZG-68CYtodrxcLRq7lepaMclMP_utMMR-C-UPkW8XZXtAdsMsbjpfcCMrKoTwenl1Oo6e50HGsLKmMz9_oZAmaFbj8FaQkVf3zrPzZe8GAYdY393VFf1I9nuXHY15J3mAqWh_1rJ4I1pb0F7-azoDoDaqRrnf1rj96vQyoGJ-6-59-kvDAYI='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpq5iWwzaZA3c6YD8HXhmsYTUIE1MrxXHSTYlXA6bELUYibgIyHYwdv4H2AoJ89-pXi31QEPYZU4IRcK0V_7HL0K42Z-7SEumQJT1ypmPNU8gxdjfxqFHWz_6PCMnVYUOBGIdUNz_xCDpjRcDMxoSvdGN2HCbwUzbBl_JblnEoE3Vle7NQA6Yxj-2VnpPjp_QqnxZl2FVgKITsUYJi3OZDgRUCip8k8KV_QF5oK_0lLSi-', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFsn2dO3nKoeD29FGqnVYPa-RQDtSrqZea-e5BEuywsffMnVA5HVu9FsCWynAsNi4-0u0IdA85t9dWeNlbyGhSuz9pBwDZmcVaCw7qsMmMAz9Xs-wY5yavqjbEkqPEouOeLF44gYtBaDvtkzvTewv6LXGxMSU1ABDHPdC_hmnUHKIRJGqpkpbsIo5oBlo7LaCizIlWkrn9pstlAGTn705X5Ak8p8bSsFICT9feYqG7iEm1', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MSE Industrial and Operations Engineering tuition fee', ' \"tuition\"', ' \"College of Engineering, Graduate, Full Term, 2024-2025\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='umich.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpq5iWwzaZA3c6YD8HXhmsYTUIE1MrxXHSTYlXA6bELUYibgIyHYwdv4H2AoJ89-pXi31QEPYZU4IRcK0V_7HL0K42Z-7SEumQJT1ypmPNU8gxdjfxqFHWz_6PCMnVYUOBGIdUNz_xCDpjRcDMxoSvdGN2HCbwUzbBl_JblnEoE3Vle7NQA6Yxj-2VnpPjp_QqnxZl2FVgKITsUYJi3OZDgRUCip8k8KV_QF5oK_0lLSi-'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "$28,094 per semester",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfhJPFFycErEKBIFW70ljQWXMSznMvbOoOET_S6DP-Hi9SmCw0h4JZfv9AfVmZ50te1c_mCl88ARH5WrkXYrr7wuwp9UDQ_lz5RaXnXv0zyj_ujeuSVDxkFy5p6m2Dv4Z5EznCC4tBZdYDdRxO9EVM21HvSFodyUqq4qcAjd-wkb4N_wu_-AbVpWPfqbBWl5OYUD6DsmKqoCsa91Vr26xXR-m5lHbSO7pO6irfZzcv6m4=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MSE Industrial and Operations Engineering tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='umich.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfhJPFFycErEKBIFW70ljQWXMSznMvbOoOET_S6DP-Hi9SmCw0h4JZfv9AfVmZ50te1c_mCl88ARH5WrkXYrr7wuwp9UDQ_lz5RaXnXv0zyj_ujeuSVDxkFy5p6m2Dv4Z5EznCC4tBZdYDdRxO9EVM21HvSFodyUqq4qcAjd-wkb4N_wu_-AbVpWPfqbBWl5OYUD6DsmKqoCsa91Vr26xXR-m5lHbSO7pO6irfZzcv6m4='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MS",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MS Industrial and Operations Engineering tuition fee', ' \"tuition and fees\"', '\"College of Engineering\" \"tuition\"', '\"College of Engineering\" \"graduate tuition\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MS Industrial and Operations Engineering tuition fee', ' graduate tuition', ' graduate tuition \"College of Engineering\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Not found\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MS Industrial and Operations Engineering tuition fee']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MSE",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "学费": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "$60,300 per academic year",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MSE Industrial and Operations Engineering tuition fee', ' \"College of Engineering\" graduate tuition']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MSE Industrial and Operations Engineering tuition fee', '\"University of Michigan\" \"College of Engineering\" \"graduate tuition\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s application deadlines - Industrial &amp; Operations Engineering', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s program areas and curriculum - Industrial &amp; Operations ...', uri='https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Search Query: ['University of Michigan, Ann Arbor MSE Industrial and Operations Engineering tuition fee', 'University of Michigan tuition and fees', 'University of Michigan Office of the Registrar tuition', ' \"college of engineering\" graduate tuition']",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

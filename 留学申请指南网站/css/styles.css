@@ -1,0 +1,331 @@
+/* 留学申请指南网站自定义样式 */
+
+/* 基础设置 */
+.content-section {
+    scroll-margin-top: 100px;
+}
+
+.nav-link:hover {
+    background-color: rgba(59, 130, 246, 0.1);
+}
+
+.nav-link.active {
+    background-color: #3b82f6;
+    color: white;
+}
+
+.sidebar {
+    transition: transform 0.3s ease-in-out;
+}
+
+.sidebar.hidden {
+    transform: translateX(-100%);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .sidebar {
+        position: fixed;
+        z-index: 50;
+        transform: translateX(-100%);
+    }
+    .sidebar.show {
+        transform: translateX(0);
+    }
+    .main-content {
+        margin-left: 0;
+    }
+}
+
+/* 打印样式 */
+@media print {
+    .sidebar, .search-container, .print-hide, .mobile-menu-btn {
+        display: none !important;
+    }
+    .main-content {
+        margin-left: 0 !important;
+        max-width: 100% !important;
+    }
+    .hero-bg {
+        background: #1e40af !important;
+        color: white !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    .fade-in-up {
+        animation: none !important;
+    }
+}
+
+/* 滚动效果 */
+.smooth-scroll {
+    scroll-behavior: smooth;
+}
+
+/* 表格响应式 */
+.table-container {
+    overflow-x: auto;
+}
+
+.table-container table {
+    min-width: 600px;
+}
+
+/* 搜索高亮 */
+.highlight {
+    background-color: #fef3c7;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+/* 国家卡片动效 */
+.country-card {
+    transition: all 0.3s ease;
+}
+
+.country-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* 英雄区域背景 */
+.hero-bg {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* 自定义滚动条 */
+.sidebar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 3px;
+}
+
+.sidebar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* 动画效果 */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in-up {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* 加载动画 */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading-spinner {
+    animation: spin 2s linear infinite;
+}
+
+/* 改进的表格样式 */
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+table th {
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+table tr:hover {
+    background-color: rgba(59, 130, 246, 0.05);
+}
+
+/* 改进的按钮样式 */
+.btn-primary {
+    background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+/* 改进的卡片样式 */
+.card {
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 提示框样式 */
+.tip-box {
+    border-left: 4px solid #3b82f6;
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+    border-radius: 0 8px 8px 0;
+}
+
+.warning-box {
+    border-left: 4px solid #f59e0b;
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+    border-radius: 0 8px 8px 0;
+}
+
+.success-box {
+    border-left: 4px solid #10b981;
+    background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+    border-radius: 0 8px 8px 0;
+}
+
+.error-box {
+    border-left: 4px solid #ef4444;
+    background: linear-gradient(135deg, #fef2f2 0%, #fecaca 100%);
+    border-radius: 0 8px 8px 0;
+}
+
+/* 图标动画 */
+.icon-bounce {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%, 20%, 53%, 80%, 100% {
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        transform: translate3d(0, 0, 0);
+    }
+    40%, 43% {
+        animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+        transform: translate3d(0, -30px, 0);
+    }
+    70% {
+        animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+        transform: translate3d(0, -15px, 0);
+    }
+    90% {
+        transform: translate3d(0, -4px, 0);
+    }
+}
+
+/* 渐变文字效果 */
+.gradient-text {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* 搜索框增强 */
+.search-container input:focus {
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+    border-color: #3b82f6;
+}
+
+/* 进度指示器 */
+.progress-bar {
+    height: 4px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6, #06b6d4);
+    background-size: 200% 100%;
+    animation: gradient 2s ease infinite;
+}
+
+@keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* 改进的移动端样式 */
+@media (max-width: 640px) {
+    .hero-bg {
+        padding: 1.5rem;
+    }
+    
+    .hero-bg h1 {
+        font-size: 1.5rem;
+    }
+    
+    .hero-bg p {
+        font-size: 1rem;
+    }
+    
+    .country-card {
+        padding: 1rem;
+    }
+    
+    .table-container {
+        font-size: 0.875rem;
+    }
+}
+
+/* 深色模式支持（预留） */
+@media (prefers-color-scheme: dark) {
+    /* 可以在这里添加深色模式样式 */
+}
+
+/* 减少动画偏好支持 */
+@media (prefers-reduced-motion: reduce) {
+    .fade-in-up,
+    .country-card,
+    .btn-primary,
+    .card {
+        animation: none !important;
+        transition: none !important;
+    }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+    .hero-bg {
+        background: #000;
+        color: #fff;
+    }
+    
+    .nav-link.active {
+        background-color: #000;
+        color: #fff;
+    }
+}
+
+/* 打印优化 */
+@page {
+    margin: 2cm;
+}
+
+@media print {
+    .content-section {
+        break-inside: avoid;
+    }
+    
+    h2, h3 {
+        break-after: avoid;
+    }
+    
+    .country-card,
+    .tip-box,
+    .warning-box {
+        break-inside: avoid;
+    }
+}

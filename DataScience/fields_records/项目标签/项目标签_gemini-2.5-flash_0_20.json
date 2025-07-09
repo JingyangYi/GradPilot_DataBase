@@ -1,0 +1,642 @@
+[
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "招生网址": "https://seas.harvard.edu/masters-data-science/how-apply",
+    "专业网址": "https://seas.harvard.edu/masters-data-science",
+    "项目标签": "Data Science, Statistics, Machine Learning, Data Analysis, Computational Science",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Master's in Data Science program at Harvard University is jointly led by the Computer Science and Statistics faculties. It provides strong preparation in statistical modeling, machine learning, optimization, management and analysis of massive data sets, and data acquisition. The program emphasizes topics such as reproducible data analysis, collaborative problem solving, visualization and communication, and security and ethical issues.\n\nThe program is explicitly described as an \"interdisciplinary field\", attracting students from a wide range of academic disciplines. Applicants are expected to have a sufficient background in calculus, linear algebra, differential equations, probability, statistical inference, and fluency in programming languages like Python or R, along with basic computer science concepts.\n\n<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The Harvard Master's in Data Science program has the following characteristics:\n\n<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>math</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "Harvard Extension School",
+    "招生网址": "https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/",
+    "专业网址": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "项目标签": "Professional; Data Science；Data Analysis",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematics</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>machine learning</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>data mining</Tag>\n<Tag>data visualization</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>business intelligence</Tag>\n<Tag>ethics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>data mining</Tag>\n<Tag>data visualization</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>computational mathematics</Tag>\n<Tag>scientific computing</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>engineering</Tag>\n<Tag>finance</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>computational mathematics</Tag>\n<Tag>scientific computing</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>numerical methods</Tag>\n<Tag>programming</Tag>\n<Tag>computational finance</Tag>\n<Tag>imaging science</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>computational mathematics</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>scientific computing</Tag>\n<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematical modeling</Tag>\n<Tag>numerical methods</Tag>\n<Tag>machine learning</Tag>\n<Tag>financial applications</Tag>\n<Tag>high performance computing</Tag>\n<Tag>computer science</Tag>\n<Tag>engineering</Tag>\n<Tag>imaging science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "人文科学学院",
+    "招生网址": "https://statistics.stanford.edu/msadmissionsms/how-apply",
+    "专业网址": "https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>programming</Tag>\n<Tag>machine learning</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>machine learning</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>machine learning</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/terminal-ma-program",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability theory</Tag>\n<Tag>information theory</Tag>\n<Tag>machine learning</Tag>\n<Tag>bioinformatics</Tag>\n<Tag>genetics</Tag>\n<Tag>political science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>probability theory</Tag>\n<Tag>information theory</Tag>\n<Tag>statistical computing</Tag>\n<Tag>data analysis</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/phd-program",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The first URL states that the \"Fields of study include the main areas of statistical theory..., probability theory..., information theory, bioinformatics and genetics, classification, data mining and machine learning, neural nets, network science, optimization, statistical computing, and graphical models and methods.\" It also mentions \"Statistics & Data Science offers a combined PhD in conjunction with Political Science.\"\n\nThe second URL similarly lists \"Fields of study include the main areas of statistical theory..., probability theory..., information theory, bioinformatics and genetics, classification, data mining and machine learning, neural nets, network science, optimization, statistical computing, and graphical models and methods.\"\n\nBoth URLs consistently highlight that the program covers statistics and data science, and the first URL explicitly states its interdisciplinary nature through a combined PhD program with Political Science.\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability theory</Tag>\n<Tag>information theory</Tag>\n<Tag>bioinformatics</Tag>\n<Tag>genetics</Tag>\n<Tag>machine learning</Tag>\n<Tag>neural nets</Tag>\n<Tag>network science</Tag>\n<Tag>optimization</Tag>\n<Tag>statistical computing</Tag>\n<Tag>graphical models</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability theory</Tag>\n<Tag>information theory</Tag>\n<Tag>bioinformatics</Tag>\n<Tag>genetics</Tag>\n<Tag>machine learning</Tag>\n<Tag>statistical computing</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Statistics and Data Science ",
+    "所属院系": "商学院",
+    "招生网址": "https://doctoral.wharton.upenn.edu/application-requirements/",
+    "专业网址": "https://doctoral.wharton.upenn.edu/statistics/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The first URL lists various PhD programs offered by Wharton, including \"Statistics and Data Science.\" It also mentions \"Applied Economics,\" \"Operations, Information and Decisions,\" and other business-related fields.\n\nThe second URL specifically details the \"Statistics and Data Science\" PhD program. It states that the program provides foundational education for both \"cutting-edge theory and applied problems.\" It explicitly mentions \"theoretical research in mathematical statistics\" and \"interdisciplinary research in the social sciences, biology and computer science.\" It also notes that students typically have a strong undergraduate background in \"mathematics,\" with \"knowledge of linear algebra and advanced calculus\" being required. \"Skills in mathematics and computer science\" are highlighted as more important than prior exposure to undergraduate probability and statistics. The program also draws from fields within Wharton such as finance, marketing, and public policy, as well as biostatistics within the Medical School and computer science within the Engineering School.\n\nBased on this, I can identify the following characteristics for the \"Statistics and Data Science\" program:\n- Disciplinary: Statistics, Data Science, Mathematics, Computer Science, Economics (Applied Economics), Finance, Marketing, Public Policy, Biostatistics.\n- Interdisciplinary: The program explicitly states \"interdisciplinary research in the social sciences, biology and computer science\" and draws from various fields across Wharton and the University.\n\nI will consolidate and provide the tags.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The first URL lists the various PhD programs offered, including \"Statistics and Data Science\". The second URL specifically describes the \"Statistics and Data Science\" PhD program.\n\nThis program focuses on both cutting-edge theory and applied problems, encompassing theoretical research in mathematical statistics. It explicitly states its interdisciplinary nature, involving research in social sciences, biology, and computer science. Additionally, it draws problems from fields within Wharton like finance, marketing, and public policy, as well as from the Medical School (biostatistics) and Engineering School (computer science). Students are expected to have a strong background in mathematics, including linear algebra and advanced calculus, with skills in mathematics and computer science being more important than prior exposure to undergraduate probability and statistics. The major areas of departmental research include bioinformatics, machine learning, and time series analysis, among others.\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>social sciences</Tag>\n<Tag>biology</Tag>\n<Tag>finance</Tag>\n<Tag>marketing</Tag>\n<Tag>public policy</Tag>\n<Tag>biostatistics</Tag>\n<Tag>machine learning</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The first URL lists the different PhD programs offered, including \"Statistics and Data Science\". The second URL specifically describes the \"Statistics and Data Science\" PhD program.\n\nFrom the second URL, I can extract the following characteristics:\n\n*   **Disciplinary characteristics**:\n    *   \"Wharton's PhD program in Statistics and Data Science provides the foundational education that allows students to engage both cutting-edge theory and applied problems.\"\n    *   \"These include theoretical research in mathematical statistics as well as interdisciplinary research in the social sciences, biology and computer science.\"\n    *   \"Major areas of departmental research include: analysis of observational studies; Bayesian inference, bioinformatics; decision theory; game theory; high dimensional inference; information theory; machine learning; model selection; nonparametric function estimation; and time series analysis.\"\n    *   \"Students typically have a strong undergraduate background in mathematics. Knowledge of linear algebra and advanced calculus is required, and experience with real analysis is helpful. Although some exposure to undergraduate probability and statistics is expected, skills in mathematics and computer science are more important.\"\n    *   A faculty member is listed as \"Associate Professor of Statistics and Data Science\" and \"Associate Professor of Mathematics (secondary appointment)\".\n\n*   **Interdisciplinary nature**:\n    *   The program explicitly mentions \"interdisciplinary research in the social sciences, biology and computer science.\"\n    *   It also states that problems come from \"a wide variety of fields within Wharton, such as finance, marketing, and public policy, as well as fields across the rest of the University such as biostatistics within the Medical School and computer science within the Engineering School.\"\n\nBased on this, the characteristics are: statistics, data science, mathematics, computer science, and interdisciplinary.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradadm.seas.upenn.edu/how-to-apply/",
+    "专业网址": "https://dats.seas.upenn.edu/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>big data analytics</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>big data analytics</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>big data analytics</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/",
+    "专业网址": "https://ece.duke.edu/academics/masters/ms/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>Electrical Engineering</Tag>\n<Tag>Computer Engineering</Tag>\n<Tag>Computer Science</Tag>\n<Tag>Machine Learning</Tag>\n<Tag>Data Science</Tag>\n<Tag>Physics</Tag>\n<Tag>Mathematics</Tag>\n<Tag>Statistics</Tag>\n<Tag>Software Engineering</Tag>\n<Tag>Hardware Engineering</Tag>\n<Tag>Photonics</Tag>\n<Tag>Nanotechnology</Tag>\n<Tag>Quantum Computing</Tag>\n<Tag>Interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>electrical engineering</Tag>\n<Tag>computer engineering</Tag>\n<Tag>computer science</Tag>\n<Tag>engineering physics</Tag>\n<Tag>microelectronics</Tag>\n<Tag>photonics</Tag>\n<Tag>nanotechnology</Tag>\n<Tag>signals</Tag>\n<Tag>information processing</Tag>\n<Tag>machine learning</Tag>\n<Tag>software engineering</Tag>\n<Tag>computer hardware engineering</Tag>\n<Tag>big data</Tag>\n<Tag>quantum software</Tag>\n<Tag>quantum hardware</Tag>\n<Tag>semiconductor technology</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>physics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>electrical engineering</Tag>\n<Tag>computer engineering</Tag>\n<Tag>engineering physics</Tag>\n<Tag>microelectronics</Tag>\n<Tag>photonics</Tag>\n<Tag>nanotechnology</Tag>\n<Tag>signals processing</Tag>\n<Tag>information processing</Tag>\n<Tag>machine learning</Tag>\n<Tag>biocomputing</Tag>\n<Tag>biomedical devices and systems</Tag>\n<Tag>circuits and systems</Tag>\n<Tag>computer architecture and systems</Tag>\n<Tag>electronic devices and materials</Tag>\n<Tag>quantum computing</Tag>\n<Tag>sensing</Tag>\n<Tag>waves and metamaterials</Tag>\n<Tag>software engineering</Tag>\n<Tag>computer hardware engineering</Tag>\n<Tag>big data</Tag>\n<Tag>semiconductor technology</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>physics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "Meng",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://masters.pratt.duke.edu/apply/requirements/",
+    "专业网址": "https://ece.duke.edu/academics/masters/meng/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>engineering</Tag>\n<Tag>electrical engineering</Tag>\n<Tag>computer engineering</Tag>\n<Tag>computer science</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>machine learning</Tag>\n<Tag>data science</Tag>\n<Tag>software engineering</Tag>\n<Tag>computer hardware engineering</Tag>\n<Tag>quantum computing</Tag>\n<Tag>semiconductor technology</Tag>\n<Tag>biomedical engineering</Tag>\n<Tag>civil engineering</Tag>\n<Tag>climate engineering</Tag>\n<Tag>sustainability engineering</Tag>\n<Tag>computational mechanics</Tag>\n<Tag>scientific computing</Tag>\n<Tag>cybersecurity</Tag>\n<Tag>design</Tag>\n<Tag>innovation</Tag>\n<Tag>environmental engineering</Tag>\n<Tag>financial technology</Tag>\n<Tag>game design</Tag>\n<Tag>game development</Tag>\n<Tag>materials science</Tag>\n<Tag>mechanical engineering</Tag>\n<Tag>medical technology</Tag>\n<Tag>photonics</Tag>\n<Tag>optical sciences</Tag>\n<Tag>risk engineering</Tag>\n<Tag>math</Tag>\n<Tag>calculus</Tag>\n<Tag>linear algebra</Tag>\n<Tag>statistics</Tag>\n<Tag>probability</Tag>\n<Tag>physics</Tag>\n<Tag>biology</Tag>\n<Tag>chemistry</Tag>\n<Tag>business</Tag>\n<Tag>management</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The Duke Master of Engineering (MEng) program has the following characteristics:\n\n<Tag>engineering</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>programming</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>statistics</Tag>\n<Tag>linear algebra</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>engineering</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>business</Tag>\n<Tag>management</Tag>\n<Tag>physics</Tag>\n<Tag>finance</Tag>\n<Tag>programming</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Statistical Science（Data Science & Analytics ）",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/",
+    "专业网址": "https://stat.duke.edu/ms/ms-focus-areas-tracks",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>computation</Tag>\n<Tag>machine learning</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.duke.edu/ms/ms-focus-areas-tracks', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Statistical Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.duke.edu/ms/ms-focus-areas-tracks', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Statistical Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>computation</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.duke.edu/ms/ms-focus-areas-tracks', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Statistical Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Interdisciplinary Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/",
+    "专业网址": "https://datascience.duke.edu/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The first URL, \"Master in Interdisciplinary Data Science | The Graduate School\", explicitly states in its \"Program Description\" that \"The Duke University Master in Interdisciplinary Data Science (MIDS) is home for creative problem-solvers who want to use data strategically to advance society.\" It also mentions that \"MIDS combines rigorous computational and technical training with field knowledge\". The program title itself also includes \"Interdisciplinary Data Science\".\n\nThe second URL, \"Duke Master in Interdisciplinary Data Science\", reinforces this by having a section titled \"Data Science is Interdisciplinary\". It also states that \"Duke University Master in Interdisciplinary Data Science (MIDS) combines rigorous computational and technical training with field knowledge\". Furthermore, it lists \"Interdisciplinary curriculum\" as one of the reasons to \"Why Choose Duke MIDS?\". Student testimonials also highlight the \"interdisciplinary nature of the program\" and \"interdisciplinary nature of the courses\".\n\nBased on this information, the program is clearly interdisciplinary and involves data science, with a strong emphasis on computational and technical training.\n\n<Tag>data science</Tag>\n<Tag>computational training</Tag>\n<Tag>technical training</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.duke.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Interdisciplinary Data Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Duke Master in Interdisciplinary Data Science', uri='https://datascience.duke.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.duke.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Interdisciplinary Data Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Duke Master in Interdisciplinary Data Science', uri='https://datascience.duke.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The first URL clearly states \"Master in Interdisciplinary Data Science (MIDS)\" and describes the program as combining \"rigorous computational and technical training with field knowledge.\" It aims to cultivate \"a new type of quantitative thought leader who uses disruptive computational strategies\". The second URL further emphasizes that \"Data Science is Interdisciplinary\" and mentions an \"Interdisciplinary curriculum\".\n\nBased on the content, the program is clearly interdisciplinary and focuses on data science, which inherently involves computational and quantitative aspects.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.duke.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Interdisciplinary Data Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Duke Master in Interdisciplinary Data Science', uri='https://datascience.duke.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MENG",
+    "专业英文名称": "Electrical and Computer Engineering",
+    "所属院系": "杜克昆山分校",
+    "招生网址": "https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/",
+    "专业网址": "https://iapse.dukekunshan.edu.cn/ece/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>Electrical Engineering</Tag>\n<Tag>Computer Engineering</Tag>\n<Tag>Software Development</Tag>\n<Tag>Big Data Analysis</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ECE Homepage - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>electrical engineering</Tag>\n<Tag>computer engineering</Tag>\n<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ECE Homepage - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>Electrical Engineering</Tag>\n<Tag>Computer Engineering</Tag>\n<Tag>Software Development</Tag>\n<Tag>Big Data Analysis</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ECE Homepage - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nBrown University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "研究生院",
+    "招生网址": "https://graduateprograms.brown.edu/graduate-program/data-science-scm",
+    "专业网址": "https://dsi.brown.edu/academics/masters-degree",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateprograms.brown.edu/graduate-program/data-science-scm', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dsi.brown.edu/academics/masters-degree', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science | Graduate Programs | Brown University', uri='https://graduateprograms.brown.edu/graduate-program/data-science-scm')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Data Science Institute | Brown University', uri='https://dsi.brown.edu/academics/masters-degree'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The Master's in Data Science program at Brown University integrates foundational elements from computer science, mathematics, and statistics. It is an interdisciplinary program designed for students from a wide range of disciplinary backgrounds. The curriculum covers essential areas such as machine learning, data mining, visualization, and data management, and addresses ethical and societal implications of data science.\n\n<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateprograms.brown.edu/graduate-program/data-science-scm', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dsi.brown.edu/academics/masters-degree', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science | Graduate Programs | Brown University', uri='https://graduateprograms.brown.edu/graduate-program/data-science-scm')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Data Science Institute | Brown University', uri='https://dsi.brown.edu/academics/masters-degree'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateprograms.brown.edu/graduate-program/data-science-scm', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dsi.brown.edu/academics/masters-degree', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science | Graduate Programs | Brown University', uri='https://graduateprograms.brown.edu/graduate-program/data-science-scm')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Data Science Institute | Brown University', uri='https://dsi.brown.edu/academics/masters-degree'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Master of Science in Machine Learning and Data Science",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/",
+    "专业网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Master of Science in Machine Learning and Data Science program at Northwestern University involves machine learning, data science, artificial intelligence, statistics, optimization, databases, and data engineering. It is an interdisciplinary program, drawing faculty from the Department of Industrial Engineering and Management Sciences, Department of Computer Science, Kellogg School of Management, and Medill School of Journalism, Media, Integrated Marketing Communications, along with industry experts.\n\n<Tag>machine learning</Tag>\n<Tag>data science</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>statistics</Tag>\n<Tag>optimization</Tag>\n<Tag>databases</Tag>\n<Tag>data engineering</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Overview | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>machine learning</Tag>\n<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematics</Tag>\n<Tag>programming</Tag>\n<Tag>data engineering</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>optimization</Tag>\n<Tag>databases</Tag>\n<Tag>business</Tag>\n<Tag>engineering</Tag>\n<Tag>computer science</Tag>\n<Tag>industrial engineering</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Overview | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>machine learning</Tag>\n<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematics</Tag>\n<Tag>programming</Tag>\n<Tag>data engineering</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>optimization</Tag>\n<Tag>databases</Tag>\n<Tag>business analytics</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Overview | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html",
+    "专业网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>math</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s Program: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s Program: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The program is called \"MS in Statistics and Data Science\".\nThe program provides training in advanced theory and methodology in statistics and data science.\nThe faculty have strong and diverse research interests in statistical theory, applications, and recent frontier fields in data science.\nMost faculty have interdisciplinary collaborations with researchers in other fields, including life sciences, computer sciences, social sciences and policy, medicine, and business.\n\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s Program: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>math</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>math</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The first URL was not accessible. The second URL, for the Data Science MSE at Johns Hopkins University, indicates that the program provides training in applied mathematics, statistics, and computer science. It aims to produce leaders in data science by emphasizing the translation of real-world data-driven problems into mathematical ones and solving them using diverse scientific tools. Therefore, the program is disciplinary in data science, applied mathematics, statistics, and computer science, and it is interdisciplinary due to the combination of these fields.\n\n<Tag>data science</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability</Tag>\n<Tag>machine learning</Tag>\n<Tag>financial mathematics</Tag>\n<Tag>optimization</Tag>\n<Tag>operations research</Tag>\n<Tag>discrete mathematics</Tag>\n<Tag>combinatorics</Tag>\n<Tag>graph theory</Tag>\n<Tag>computational mathematics</Tag>\n<Tag>mathematical modeling</Tag>\n<Tag>computational medicine</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>mathematical modeling</Tag>\n<Tag>computation</Tag>\n<Tag>data science</Tag>\n<Tag>probability</Tag>\n<Tag>financial mathematics</Tag>\n<Tag>optimization</Tag>\n<Tag>operations research</Tag>\n<Tag>discrete mathematics</Tag>\n<Tag>computational mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability</Tag>\n<Tag>financial mathematics</Tag>\n<Tag>optimization</Tag>\n<Tag>operations research</Tag>\n<Tag>discrete mathematics</Tag>\n<Tag>computational mathematics</Tag>\n<Tag>machine learning</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability</Tag>\n<Tag>machine learning</Tag>\n<Tag>financial mathematics</Tag>\n<Tag>optimization</Tag>\n<Tag>operations research</Tag>\n<Tag>discrete mathematics</Tag>\n<Tag>computational mathematics</Tag>\n<Tag>computational medicine</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>applied mathematics</Tag>\n<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>probability</Tag>\n<Tag>financial mathematics</Tag>\n<Tag>optimization</Tag>\n<Tag>operations research</Tag>\n<Tag>discrete mathematics</Tag>\n<Tag>computational mathematics</Tag>\n<Tag>mathematical biology</Tag>\n<Tag>mathematical medicine</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

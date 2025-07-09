@@ -1,0 +1,962 @@
+[
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "招生网址": "https://seas.harvard.edu/masters-data-science/how-apply",
+    "专业网址": "https://seas.harvard.edu/masters-data-science",
+    "推荐信": 3.0,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The first URL, `https://seas.harvard.edu/masters-data-science/how-apply`, explicitly states under the \"Recommendations\" section: \"Three (3) letters of recommendation are required from faculty, advisors, and/or employment supervisors. The letters should be from those who can speak to your abilities as a potential graduate student. No more than four (4) letters should support an application.\"\n\nThe second URL, `https://seas.harvard.edu/masters-data-science`, provides an overview of the program and links to the \"How to Apply\" page, but does not directly state the number of letters of recommendation.\n\nTherefore, the information is found in the first browsed URL. I do not need to use Google search.\nThree letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "Harvard Extension School",
+    "招生网址": "https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/",
+    "专业网址": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit demands on letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit demands on letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit demands on letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "人文科学学院",
+    "招生网址": "https://statistics.stanford.edu/msadmissionsms/how-apply",
+    "专业网址": "https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGLtDjKsK5bu9OaZtPqO_Jc1so0EApheJJIvUg0rThCJXsGUekF_sxr5Y2pZ43mFPlYOWCguIyfbRZqCvTc6AmcEMM2J9J6kGwtpdjoS-eVTHm2spj-2Zy0Hkd1F7CcFaxfTO6jtEf6v3IDeQk1ndE1WclGyVj_MEu')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSN-K0R4mq4aMxKm8em14kRHfikdFNofXY_iaxBNdk7mlB2pYk1Xxh6LxcOZRpAJ8FlJjjS8NoR_ArfXyTYrGUPCT--xd2fv45M3jkkcd1yhKMDO9vF194FYmhKCkdXvcbPeEHQZgs_gSfVqpR4Is3c1jnWw=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH35aYFEvDJDaUE-TQlXp1r7nuA-sOhuNj3LKajJnOcGCHXq6xUShkPChEGiMuk9hZ6udZHp3FnfztkPBa4NCDLXtfzonVA9bsH15-h2Os-i8hxsqJFbLc65bqUNrA0z10U7KRi4PK7YWjF5FnEcRds7MCdCKMgpcB1')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq7qYDGaHMgzsgl4A1yGuvCH9ecC_FNDCJ57Hh2vfLlPFwsDwAYr8ODu1zDwy4ywkPPu43QaliKSeDacwkBeKmSxuaQhq2iJYDZBuobOM0i_8l92_yQBb10LNt7n6WIpfsqFwfndA7iNujr4EeOkCM7giAOA=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMTJftG2f89SDETR_c4oa_xGxnoD62QxsMX8nnCIna5KI3OFpLW-NTWVQ2T2Mp0tMgO91_BOiTTO2d6XJ-mtOLqN_ls7G_yLIk9J5IaHn0MKJBdxFdCBOWLEz5YDEJ2D9w1y33ogKX24lYktATY2__zxY2o_gL4LLU')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2_a9ZbmwT3LCrHoToNQOxMVikluJB9qk1v982gRaYG6TjzOwZPdSyb82Bv1HcIWehWlv94DbtTWoC47iF4nd5jt28HQ5b0jigBT-CN0Xm7CvLSuER6MiLlxDBGJtnbf7YeT1yli2pJs2l7sMYQ_SWBD8bAw=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/terminal-ma-program",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 number of letters of recommendation', 'Yale University MS Statistics and Data Science letters of recommendation number']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETPzduzGft03d40iFDaZpFP51UPNXKfPVE3zfPuPIRe8ycfBsLiIq5WLejqHXppdejbSVhw6vQjZ_Sus5Qh0slzqG7AmnSfOo3URSIUP9fzJ2CuCbvc_MTYs6Xop0CThIKS8Fevqmt0tYi2HILJOlhBwvq5QQ1IR97uC3OkAPisYyUVfQEVaRt2ofz-9WZGkqDHPRq7t7X4Fj5mQmKPRoD3zPKE1iBaWzeMEkt-L7v7LrvU1leLrRurTv_pA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='phdportal.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2RH1IlLusIgMiB4IEzTJvH7YyeZR8veT1luDCtKkjdY3Vsdef0967AEVR-64IejqQ3Yigdm7k-kxMM7WY619j2Bmg7UllBCAETvWDCwT5swRRkk5qr66aFzDsCethK44KZ7HIeLWeeysGBVsdpcB_3DtxqpHylD5YZQwJNKfV8nFzgSQ=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvyt0FihZzKpEWZ1w4zj-pxTj9s4oZCW77StSf6kd98YHGlm0BUxSsP_atgZPZkxWBJe6ZWT4wh7WVmwINbzy4CLdIBjhiYv-g7KhLDT7AFG3I7MW4VOlcahcGyCVv9BLo7f7rS7zIyzbhxc3MZkBV_h_YpWh6Bd_f-SWt9ql6dFsX-7iXj03Ro74lxQ==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='shiksha.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwTJDXupBdv0mEwL9407LfLii3AG0Gig1s1AQlvoo3s4zkFK9ZiS3BfixEPS1fQEPfGcJXOwNlR_jPRP2TZ1juawjpeSSlt9YPRt3dgqpg01Ei3ALDs1sqccUKCTcS-ewY6qh_Ys8gEaHBIIqn5sif-j7dUiwmv5EZ_qDdhdyMMSSGi_fKlnFwd7eT8mk='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 number of letters of recommendation', 'Yale University MS Statistics and Data Science number of letters of recommendation required']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElT7ihyXM6Vwb0mpBjEt4-eh3_8kHRzjhPTZI7SUBoPUkqBeaqdReKugbBULvXz1QLf54sZQi89tKfq5UAoGzOOHOK5CjBN7UGIFt4L8h170_3sVUVAbgpjlPQ1-oGevhcsjBmpF41hjP8XDfs8sWuOH4IRPmZzRjdVBRVYJRiR2TYmDFFIv8oMoZ8vbCw9phtj8BFm9BXHanGsKtkHrYYLZV24R1VhzRF_X_j6HcNywQZtuCpExCMqCxv')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='shiksha.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqEovL1gNzfsvR9g0eV_ECjGAVN1r_jJ93odtiSXy3YjNQyizL0AKzJU_dXCwi3oO_6Mh0z4wxO1pEXzY2bjt4oDc59HwH9PuX8opKkSzQtRfMibG2zeII1cOiB7zXIZOmsis5l1IeursIjGVAEE6LvLZZ4Z4jOZL91zUsB9jdn8ofeCc1kR--iF5sBw=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Not mentioned.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/phd-program",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='phdportal.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjF328Iy2glmqoaR8K3vO2dedJqFb8gzc5IYoG4McCwc0baLU9VMQD_kf05jXkYz6pL0aREzICA8827t6NHilXPXlHVMlQFS7UzteB5UtV0Td4gcC9bP0U1-LMy-QpjRDhAvdbyniIL8lwgInuGxq9FMYxoXqiMFDjInH25cHqQru17-k='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='phdportal.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrQtbzBJGZ0AZqa45noqMRZkXs1s78D2jF-hu2pU2Cbs6oxnvcq8aZxOdu6MjcrI_Uj7u1TuisZULQcx-L4u-4a_R7yy76FPNFxTUcsROOe4SlEncVd36oU6PPZEgANjKncGV7q5W52TibcwU3n_CdH1Z4PEHYpYkoA7Brt5ORgUaHwBY='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='phdportal.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo1tclhgaJnvaWVbHG2j5UQxY_zwA11luWAuiYhclsfxSXYw52OqyeCYFUOGZu8qfgEy9YXL2WJAf8i0QQjObLKOm9Rz7AUdKtATCqK_nhijSuL6BeIHTf7Q3c6XQtfoZBHsAKHYGmzPI2Fh9T9v4lqigcPsr4fP_7CW72EovJ0QFcWA=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Statistics and Data Science ",
+    "所属院系": "商学院",
+    "招生网址": "https://doctoral.wharton.upenn.edu/application-requirements/",
+    "专业网址": "https://doctoral.wharton.upenn.edu/statistics/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradadm.seas.upenn.edu/how-to-apply/",
+    "专业网址": "https://dats.seas.upenn.edu/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Admissions URL clearly states: \"Letters of Recommendation: Please provide two letters of recommendation (three for the CIS Ph.D. and BE Ph.D. “Medical Physics” concentration only), including one from a faculty member who is familiar with your scholarly abilities.\"\n\nSince the user is asking about the MSE Data Science program, which is a master's program, it falls under the \"two letters of recommendation\" requirement, not the PhD exception.\n\nTherefore, the answer is 2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/",
+    "专业网址": "https://ece.duke.edu/academics/masters/ms/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Durham County, US.', uri='https://www.google.com/search?q=time+in+Durham+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHCAxc6M4mjJhPztV_aHWKfrahnlncWuzmlkZfz78Gr_mlBUoT-XkF1QlYzzZ7spzyajmBKG6_tM29-oEN38uv2TTqcEJH0ENJh95w7QJqJ0OrYJDRuRj40QCX_0989FwDAQR1cz8sqofXhhTVfrAvRHoGD3BQ3hPSMg8FpPMeUARLXGdJQU5n7_e4Uv_38_f1AK4jgmvla8='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "Meng",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://masters.pratt.duke.edu/apply/requirements/",
+    "专业网址": "https://ece.duke.edu/academics/masters/meng/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Statistical Science（Data Science & Analytics ）",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/",
+    "专业网址": "https://stat.duke.edu/ms/ms-focus-areas-tracks",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.duke.edu/ms/ms-focus-areas-tracks', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Statistical Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.duke.edu/ms/ms-focus-areas-tracks', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Statistical Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The first URL clearly states \"Letters of Recommendation: 3 Required\" under \"Application Information\". The second URL was not accessible.\n\nTherefore, I have found the answer from the first URL. I do not need to perform a Google search.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.duke.edu/ms/ms-focus-areas-tracks', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Statistical Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Interdisciplinary Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/",
+    "专业网址": "https://datascience.duke.edu/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.duke.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Interdisciplinary Data Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Duke Master in Interdisciplinary Data Science', uri='https://datascience.duke.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.duke.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Interdisciplinary Data Science 文理学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Interdisciplinary Data Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Duke Master in Interdisciplinary Data Science', uri='https://datascience.duke.edu/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Durham County, US.', uri='https://www.google.com/search?q=time+in+Durham+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBnkdwGhRfrRCe9NDBJKsu0YWRvhAqJ1BNNB4lL3tXLSdS3gbq6dOdJi3x0yMu1htQNaW7gnOro40MYE6v8KVsHq-2jgVzuAp003fWihztkf2fmQUNYeaj3_LnPB51zDK2zkMb-bbW97LS7YYWCr8ofTsjC98qopyPfOj2NlLXtV_4MDkTP7nV5rgHIbGkxhM9iifctUCX')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDcZQwGyIfb4MbkWl9hFf6OvGuUsX8PN5WHXnEsc4feTTiIBAIyWZAZ5honS9dkob_lI1n8yzDnDcoat0GgzceQqPsAUbggyG-n92LVBy_kLtWiDrmrjznPgeJB2-IBwGujYYhnOs='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.duke.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Interdisciplinary Data Science | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Duke Master in Interdisciplinary Data Science', uri='https://datascience.duke.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MENG",
+    "专业英文名称": "Electrical and Computer Engineering",
+    "所属院系": "杜克昆山分校",
+    "招生网址": "https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/",
+    "专业网址": "https://iapse.dukekunshan.edu.cn/ece/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ECE Homepage - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://iapse.dukekunshan.edu.cn/ece/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ECE Homepage - Master of Engineering in Electrical and Computer ...', uri='https://iapse.dukekunshan.edu.cn/ece/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nBrown University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "研究生院",
+    "招生网址": "https://graduateprograms.brown.edu/graduate-program/data-science-scm",
+    "专业网址": "https://dsi.brown.edu/academics/masters-degree",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateprograms.brown.edu/graduate-program/data-science-scm', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dsi.brown.edu/academics/masters-degree', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science | Graduate Programs | Brown University', uri='https://graduateprograms.brown.edu/graduate-program/data-science-scm')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Data Science Institute | Brown University', uri='https://dsi.brown.edu/academics/masters-degree'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateprograms.brown.edu/graduate-program/data-science-scm', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dsi.brown.edu/academics/masters-degree', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science | Graduate Programs | Brown University', uri='https://graduateprograms.brown.edu/graduate-program/data-science-scm')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Data Science Institute | Brown University', uri='https://dsi.brown.edu/academics/masters-degree'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://graduateprograms.brown.edu/graduate-program/data-science-scm', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dsi.brown.edu/academics/masters-degree', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science | Graduate Programs | Brown University', uri='https://graduateprograms.brown.edu/graduate-program/data-science-scm')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Data Science Institute | Brown University', uri='https://dsi.brown.edu/academics/masters-degree'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Master of Science in Machine Learning and Data Science",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/",
+    "专业网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Overview | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Overview | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Overview | Master of Science in Machine Learning and Data ...', uri='https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html",
+    "专业网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s Program: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s Program: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.northwestern.edu/graduate/ms-stat-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s Program: Department of Statistics and Data Science ...', uri='https://statistics.northwestern.edu/graduate/ms-stat-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='collegedunia.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjbDuVXcnsG6qef6eiE4Xo18vmr-gcgys9DdJAxAvrkgWQdteekivq_cwgwr_5dg2_eGzAeK9cU2r7WjvVdGFCQIYj5Ex15sxy8QZsZWTfkR9K5pDAcmGG3PK-I4njzM8WdDyyO7Up0LJaNoEsvmR5T65BFJqoeDIog2iRKbIxfblKUZiCJPKw75obu4c_RP5J8uCN02jEIm_2lwW7U1fU1enrRz8sI7TMq6i7VSsD2Ps=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG15kv4Cs_XV2sZGj0nMKdZ2nyJWGFZkaMBK0I_GHVO9d6pocjQvrIcbJ__oR5l8OAtD6lBOFhFQ5T_5vaFxm-EHp3UyFJU3U0eNs_q4nhsaN9mJuSCwmEGX7EBYMuEm6qA_Fx2FEjX8sOtxxVrpsCwNWesXlUd6R96vpnhfGpms7uJqW-L')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZoTP4Ire6KAr9112uCkaWPHwaiKO0NBM_M5PiUe7JOTfsQwqAYpONp_VT-9AFw2WgM0Gq_78GEA7INNADw1G-FTkKbQAKTrcft3I9lzlSJctmt5DAjUgcspxWJmrz_RMu2HpnoFedgF0nnOpAjGWTyyUpNf7FzUug3Z1P2LIyuWVbWhGLA9O1heSabIHOjFifzR1lY3rmuxT70DdRQLjOI61qJxbnm9VzTwoDXEgmHS7QewJEOgwBBhHFtHpoBSCXuHVfCS-sw8-3_E2ocIsOsSnTKQxNFF5ZL2X8BZr_0QYhncMi44EmGP_h8g=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='collegedunia.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbZDl-JmB0-F2mQ2jCJZdII1num3inqyIunygzlGohmaOYSHzt-xzoPm5LthSh4A76TguB8sdBTz4HtLmKFRP8M9FbpBmgk62O-18B8VNqX5L3hcuTuy5dV_Y2kBRUF4Y4Ku9BwsP24dInkotRfV9IxdgVrldiJCCBGGjWMr9mAiIFryKNzLeaWWgPcTus5_d6V9bnnfxkSY-35ahcdkXigxn-4qU_3Od5IkZieTDs3HxJ')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo4k51sbNTCtuMKMedudBWyulQ40OB4ykuU13gbugxBzWFtrWvy8L2gK9u0IScCONv2mrRHcxWwQr0zSnbpDBQbdRn6KpWn1f1nggPsREMrOgN8iVPcrEfP1urN0Paur9bqjJGPQh5evJDnLUNJnCe1OgYCyttthb-YnQlYxJi2EiDQylVwg==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGM34jYvzmWlJTaBgd4iua2c_zcyIIx2fa3D96gbzLkfUIpt7pPIiFkEMDJvZzMlNayl5rWDHQNtJEiFx8Jyt7FhuPD-11meT5kntkPifU8sM59Vcy1ulh3hqFhd6oDbTrWDp6fdtyl0r4ttyu2oHwZg8P8346N82FGPdSnUffbaAh1x_gpcsPuAVLyf7dKrKs5Fjym6Ew6E2kBA=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='collegedunia.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDpLwIpTl5gVD-cMz4lUCZLbN8bG_g0EB46IfAebDhwM3DJzXqvKAd8YYpTM9FX9Wm1sn_UNTskuSUp357Yvq_JeBcGK-5bGnXSUY_ugBxNbjIPHD3zWMI6Hfc-x-Iq6GgWshN-xWVEeGufb5dj7Tmx4NLQRZRFiiuHoxwPKWAHYCPtxaXAErpnwEgoUoGUXW1K3AvFyF3FIq25y3_tqe9vAXDJSQ1kT_sufBBt9j6jeNl')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjKa6zd0rMD90tvyz_X6_4Qxb44xGhMVGbc4xXAqE2PC1vCqAYHmvU5YhGbWFVJHlO0CEAIl677_SjaPqNJYxGozpjcvmUuaIZLZ7pHR3Dz-oUi79gpP1CmCteSJXPdQQI5-Ab5Nd8phty3xmmmhINloUnIxJJDQNH2WR3_SVx7Fe6PseInQ==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu8bxx4LxYmwmBSZxPHV6_-jng-y0VzPFCfH889iNdJh37NRc1k-rwanNuulHyFzIa968BYAf1sc_33Tqopg3iS7xoM1k5CXNJQoEnxZosUJUvYu3A71Y1kXY6flCFru5pw4Ph64lBZtR49u44nr3akGwUj289Vz9P6WI0eblkVpjjGV85-gzVgUGvcbNJt9xQUwpSj7apYwwTyQEKbBf5WXiPm8Fm2HdMgyulLmrKmlu7wm3yAg6C5LvJE4mbbSsJSF6cCxQ7gAF8OeCCQcV_xnPeU03BDEEz6axMxX5CuLmLrd1gFguRwBHfJbE='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='collegedunia.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoW8rHrL6yVi9ozZrGCeMKEyBVYyGjoRkq6bI9ihfF6X8dqaB-QziP9ecA3eMW99kx51Hf_i52tzLLtRiGVwNV0L3_Qhh0z_OXa5ZVpTRK9o0woWgFT3ZwpbY1kFMaOwYSvXCxdJQtAKywj94VdbiwJPbA3wwWM11Mv2bDbBNHotI_e7CR8tu5Eff-v2D4C5yYj8Pvrg7i4xdfUMXOFh0bHaq6v-KvBlw4yGagBKGXL3pB')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuddMNerYv8xKqsTBka8B3OIc0j5n7Sdzv1Bpf3ekXNfNaHSRGsJkyN4tnmX_LEhBITnoz8XKophL9PE7LQlb4CzWcPfa6BKeNLD1MWCsLvHH_tyNS3grxvi3g8NUNG-7FKYd6lfin7sWYjf6fh96d0c8UHIiOgGWGohox05Dq3shtxg56ow==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVX-CO5kkarL5eOyOfJNM8Avj26uhTUPgt5V91svuxp45ix85REw4Ywu__gN0k7YEGEInVqf9_s9fYBseCewXQhWsSTqiyYFCbHI9DPnDkYH16eQKh6yzW-615hZl2gH92UJ3bY0PlNb2ftlOSRFh3NwUJrlPHXm78BUtNi_YHG1epg6U5GUBPCtOP627PFmd98IxmaAnxaB8Ft9FnDLuTpwK8OgDD9gHMnqjOQibcok2zyKHzJr2ji4jIJ_x9TeN6oRWKSpUxNWH1f4bDIp_UxYOgT71vVg03qwVy5tumk-CKFlkd1hiZVMpnaNs='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='collegedunia.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwOXC967sbYhGT1mXgtGfjoX6lvYe0RrSoT0jNr4LMGoMvOpU-eTQk47SxSOift3iwXKE4ISk9JJRkztEY85wbLErxBO_Ugy_3nAnfybDSApfRACqgVD-_WzLHtpt09dJcPEjuU1BhkhhMmq0B76P0kfJyLfJWYcdDshwStcNWXKzLSvLf27kwuFPSS41R4893YBu2ZntODOEs7DhP2fxREppQvwr3NgNIHdXQlBweVzM=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG87NQcOBgxAtyU-ijq1Is1iccET0dgH9hnoJf0ybUd4wcdbJ0FXcAlU2WQ-CXb-MafucW1byXeca0Gz7A2REi8Pa91leZvdcJ7ta-ORMgU1HDyXTlEUQtD9rmi85SM3-Cu9lmdVwyb6AeWO8XZNIQvOJ8ZCr95TuwNz0yA_hA7Be7THE4h')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsuP1R881w9-qASX9d_uX_NoM51ZoLpWAfQq2HPWLbaHRGJl8YFOtEtGQ9I-jWMLvI6ZBGcLGHWBXmnlaQLVBY9Uk_3deNFb2Q63lop3aYGuUl_hpFSuJqawDtBI1EvQJ2iLjZhJ7pSzOCCLdrncsFULEH6iLYITbqwWIZ8gg7l4Fqh6w91jHLGH8igSmlw7kh9pN9IKcHXWfY'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='collegedunia.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhRWbh_KyhZZ6tfegA1wXXq4mGG10TwK0LUMIzrdSc0_eZxUZBG6Xvhgox46Y6SvBdCEWFwaPAg6Kw8JEoPsfpI90XrXG2jba0Vxw1UHFBz5BOUEvZtaSqclLy6ySve6BiscLRAECaW2gvILV8c9nti9GFYgqPzhOyci4YqCJCM27lUsg4RECsqALVXnXp9XKDF0IV-3HlN7iFjHUKvnmZIeSacXNfYDSpqY8tMBbzeN2t')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvT8jsT34PGSdI_bDL0UOUQnFDrLa54XZnilBwlqSK3kjz1nCIaUhczw69nh8R6DV-IDOtpQVsvsPtpt1uZyGv2-49vnWLZrZRM_xrLab0d9u9vAxPseP9ANqdaQ9s7ZVB8xfeh4VMPKYX7XjUb6OUavbKRSzSY9azKBIdHTC6zgbdnPZITg==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsNwC_FuHTfF7pLTm1eWu5vBIKcPBUsYNTkT01OUfpzEWC2ueqQevEh5BrF9q_0Ymd1rKElkwBeVb3VjZX34TtEWmMwsKETPLlBPC5q0Il8lQf8jDgmZsqY5_YMfpqZab3OgriRxN8vVEa9VQGQhKCHlR5pmoW1vfAWC0vynjuyUpnGSqxBfdcXnrFU9dwM5ohPAvNoFiuPJNNjV6k_B5VYzLzE-ctMNR2fyWOlCuV84XypRtBssLTrtHW5BdBuOpDigWWLkW13UxI-GB0y4sN4jjayQviuAy-VOh27n6A97U-FyjiFlhFujkBTnU='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6WM3PXpVEyKOaR52-qX2SxMiDo4sEPgCW2Z1STTQubaF60Pv2y5YFrjZ46ScXoT_PfN6yotBWp37EcTlAncnuuDIefwxNgcdDsHslQ2IcYwi2OiOHXEFPmQvp6vvMmefaZLUoBelA5kEvbV3XNlCb_NSl7MuUDBr5iR-M8kQ5j2_9P1tow192cc3m7LiQG-IPjZOZ0VM_kzzjQA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJnpT-SL8XgsSKaiO9tb1IMAZ3VGB4XM6hJ89JvrL-YZxyxTSXDJkEAaxOe56eYL093su79xPwyR2CPl7vIlFnykO2OKU6Eup1p6qMGoFrfmqjd9CirU_s3BJm85aN1WMZoCbApojeNmoON9WY4NdW1RJmpTJNSKdzaW_EhN7EpVdAPaczHQeguzgdSEd6X0G5h9dB_lV-l-hBYTUc78IO1s9hEXvQ6ozOZAyVOmEROX-fhtPc6TVLT68ZmGMEqiwNYFwEWee3ihxsY5aXZfFdtRNU-LVW6-k7ERRS6vh9OqI1989UIWL11BA='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7v_2UKzD_X1Cgd_2K_EcUXt8Kg5etwyrDSUyifjTFkzTXB-tdk9QLRdzCZALZgk_F0M8vgFbd703hVxTHp2V51552KMQaAPuK6GBiVVLQTcsvZ837RVE2rzdMCmSdy2t3-n5UPWfId2BCj77mDl5VNVt-MOymtWUqY8JFncM3e-F02-k-JqQYBATGw4D14tvJtDCq-6Vtz3Ng')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHWY5OZ2D0qsYYWVa3SSgAxrubhbAQKny-e7MbrbBnUez-wCvS1fwnZOkbLYDIOnR6IxgAUzsiEOBSEa2WTfhOdFuKbwI9vtGU-TONeFpwQza7Y9461bCACALMNlIKzm3D5yXoowItohERjOX9Z3-67yUzMbt_Koo8aBDZkPnL-mnBvykhl3UHHlx4aYu1-YoNQQv3UOnKJ7zXo0zJ1jjoJjXKnfN64V0wKQBKhLMRcSodrF_S4Spwj3wSV6tuF0uCWk4_B_sDbnOB_pLI2muOm0V2CmrIvi7ikrl5-7-uMse8gK-x4Mp4pA=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH33e3yuyP1jLYpoLxMSX2j6eOwkHMccvWva8zHuWX2xwdgmBzvGMZ1SWNx4N9llofWBzhl5rfwfrZn85aEqcjBwYU89n76oQ2xmy1WOwBfYkeOpMoWs-e9jMT3LFtn9AdqGSZblxzQ5JatpHhKPn2spJRbVtJiC_tD9DSMO9wvDFVZ5JFWkk-3uODHfxcCVGAHmXMFa0o1qDtD')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTV6IsHp-F05Pww416kBbgYlRfWciAjOTb4OCjPZ25X9-EjWwEFI0HYXl21Kslqs3sQRR43hQyksfOZsHKZsnxd8oF6FM4NuIo8USoXDRIUm9OWTm9th_iOr45tsX0CUWk3pt82_-Q_RaZzWjUoA2ou6xEAr325IMCW5ck5tATmkC7rmJy9Ltpb5g-FGIeMd5zFdRM4lWsDP0OGQbNvZm0Igq-E_-sEeJ867IRWGItbtyEYsbmtEiIQm92i94KqX9vGJkoQESeU3TRiS4kX8T3rtmmJnT53n12aiQJtOYwiLqVtCAAUwHUjg=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLRaultHNZTIY-3khPKDfBFHCc7iJ_7u4UHLcj6XXxiujjoJkarSFUyvZIwkpkZjnehgboXEOuCSvyGA3_DxnounjxBeh3P0CDA6gIG2hYdbtNvkuQS1KkU4qetlRkKsXAolTbWH8L0BenFcNvXir_04AGQ-Mstnuuxe9SqCkJi_PDce75ZxrrnUSUs61JDIAT_TMsuUYMgPKTmQ==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXQZGE_nKA2BbUgcACE5b5en9husUM9LbidDlP9sdCP1zlaBpsZEpGKZ8X9jjffVSWg9CQ4W_p8-iwaM1BtCDvsWGSk3eE1uzsAzMkPAwT2debJHEx3GcbzmMx27Bo5qWQ0R31OaULFMNmcQKtKKmfOAM7Mn5ALGUomPTP2Zg7lWCU9brl2eA_2YN-NDkCWtywnoQP_m8GirMS4tiBnh8jPzHpguyn13_VQckS8FTp6Ut_geZyUh9jdETJs-4oSBdRSp9O0NIHAqmR8W9tIeY_lgxqhkiFM_VpIeRV7_W-YlVVKKk0B3cj-TY='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGqlsyY7Rlvp069Lt6I2uCeTseyxDICQeNejViep1jKZSXEFoXGQLLifLkWNxA-HBMgSkju8Mr1lvMhxEOvBT5HNe2fM0F56wCNsQufImZieD62cBzJc-ATKROYLJT7pX2cJzV0eJmWom6MnZQeQur8EzlK37ivuefD5UKW54E_T-O90r-VXT1FAyQHmdYknqyKV8d_8SMtc-z')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPju-c2sPWu4qQul9m09un2s8vQpri4NdDvQc619PE6SZQft3nSEmLl30Wsuc6Y7_NpmhDiLAfx9ki7uJzLxE1dtM5CEa4alhU4ywvMAcDxDZ4Pdg4x8LRzGTHSVMl_Edeb8PexJUgZVeVljax8GVcY4XvRybsBuCBoZys_aYQsQQ3ib1V4R3VdyorvRoaHjIAYaVAJoYNfhdseElNV3bcCyxauhyuI3zzpnCa9utlSEpnvkAgPY3yThlBrYkPNVByZJWupHkYpEm0BQZb0YWkfaIOlmiSpJuXmxo537Zs2Vu5VPIhAFrA8w=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics Engineering School number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjLaiYsJRmm5walf4bLYORK5_7gTfB_2W2gZULYRAi5vZhbCIlKSDdgFvXb7lEpcIyhcT0CCyrtAq2TBmb-KPdnAUwBWrc30ZHywVVohIXBLlnezQXU5odJY3hj_wwEsLP3are6KMRm9xTVEGWp5C94V-1DY0jO45yuBdlCnJVPcYeA_C1yfvvBOkJhGG7PwJJTYtE6LZq5ZClJw==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy60juP6ExbUpEYWkJ1zBflHaCK24MAki4hV--C7vCrPZLfEMmeoBXTOX7-2EoZiExPXFgKhIpTTfacxI6D1Hy5pFJLx9ksQ3ovDKlEyDBjBMGxX1X2O_3PUv6LzHM-z3qdGTQ5mgSdDQC90vZThR6ecWjaf5JeA9UZUNARoXnc5O_uJUObjjVIcn8_ZM_f-zHZnZ92c3deCs_KLe4svSCV8cB3FZdmxuafEwx8bs6h3aQTL0YlREQt1NBu_cNKELrfKBDQvPtucYC2IQ130cWlmz_Iw5NIEgdzaAuJvCnODOHMKbV2kESgyI='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSEM",
+    "专业英文名称": "Master of Science in Global Innovation and Leadership：Technical Concentrations",
+    "所属院系": "工程学院",
+    "招生网址": "https://msil.engineering.jhu.edu/admissions/",
+    "专业网址": "https://msil.engineering.jhu.edu/academics/technical-track/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSEM Master of Science in Global Innovation and Leadership：Technical Concentrations 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZgoXO9-g13OdgNGpBICv73hSKjq0yoIdb5DmJPb7kiBIoidwVsQgNPpe7Nk_0mr1wrE6L9t35xfisV553tPcetwl7j2EI2ybvoIH7U0ahSierV5dunBTGEsQ1pLAuUY7MNJAGLHX1aVlQViHYHmb31CyPTuvQuuuhqOyqzh9wUW2HmQPH2123wpMiIIuYDkxsfzRNMx6etNNwWegShYimoJwV5keSBfa_95VBhit5')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE97d_BzrlTQg2gqFK6it1rQcV1gnnoyEv2Gb9cDo6sOHwRzoqOw-anbRN5-IH0WNGLZGDt2VGxX63TapvckJpGvGxqp-xH2bq9znidIruDrbrsYO7wSlrLMUUJHyfCVgWoIwAP9VjdV_P5QVZLD-qCKln72Rp0Kl6XXOEu-2UN4QlxkiHL')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ameerkhatri.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGndq4WelcS7Tnhb2VkC7PZdo2DHc5lFfq0M-Rl-dhkNF6dra_b5k_mLADQkw92WWokHICxSVWm7o2TpXaHVjB0TV5chA8x23RVe1UkJBi198r94iEmjO1Ey9t8apiQUKJcJ1C_zpfhdBSQMsagpccbwmFIpnXv9i-F9lxb5ozrvXiQOBh3r7GSDDeu2RHUgm5LQsWJUnTVktFCMm7FEWIBmHPi6D0=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ0bt692rClYsxynWkTEnuDtSwWqZwFJYIjgOS_2GodOSx2p1ofWIeY5waMIbGfe8NmrFaPnV8izavmVHW_ojMyOr68ltZjSOkMfl2qALS_nxeGvzk9puVKRJC99jsq7J9y3G--htmAnk3wGg59SRm5y6DsuITYpX0CooSeiHLWtNJoJTf4cT2L1MV_-BLDP8eFnRcQbI3V__Rf-5f0B2LN3IhXF1wIGD_YZZJzkEbCNp9eApLLhci6pPDIxDIwe9xhvjP3mqE5wEVGwvOoOwMb0WO1CsLR2TeZcI='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSEM Master of Science in Global Innovation and Leadership：Technical Concentrations 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVvomO67aXHtrUalAI_FsVvq7XxR5WsdnVu6_MTPf7YzIB0x2JEb2GDO49mBET0Z_r5xebt6iVHFDiW9xs5ylr9yYk4sFmmqePhy4MvbCIz7Oyb1RMtJDvkBoWa-AxgLDhUrfw73GiAnAxmPWjGKzvWlI0i6ecSdE3oxvUK1k76LPz38mm5EMkOKDz5Qn_rc6i-CZBvNRMuHLYO7e8jixonC3n-rj4pAzsAfbNT13-')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENUOifdkU1LAOrT47EnW-SqsZB5MyA2VVhKpdPFWwjKAkzc9_dGt-1wjbmR8URYaePmVVmsXx1jlB3jp-U6UTgZQesDL60tMN52y9vgu0nEl2Nca5ucQaJsCeGnR3t_ADAKpPJ5QRj56v_CBMul35ABcV5j0qrmqw3RwDTpVAJ6Kta6Lsq')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ameerkhatri.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH0DkPVhATqpQ13kAF7M1d8wT1YE0nsPx8hYHwqdojyLgMrGxO6lWyIoWCADMffJ1jEjCCVkNUXknLNNsOaXCo_cHe-mFqZzbEFhH5HygDbZeEhJ3ULiUGvM6F0cIdrosN5DO1oxpi02gJ-e41ekhKi05oxmG1IMu5ldx3CW2sh5ZdmiFc1_Nj5D2RNdGbNJ0WLHbkJmcCXl7JrFQ_PVlFikb0y64=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqhopz6-E15VB4CrUkCV0EzmRaHaQ8DuoTfpPdsdHAoF8d9VlO9Nlf6m1oofUR4K5IeUD4ThstA5Y2C-ZHxjCEuSX0s99CajLAmwU28fDCg1JIXASzzg3A3in9sghXPmLks82M2QbPepBf6HUYfav7LqM_2EOWxd0tDqUYHCk-WK8pZXDeL7rsfNRANmBicNx6iNpylQKqXvL4rQSj_FWvyJFhuC3G0ncecQOvZ-FgpcW27SmqFrCR3DzH8WwtgN23jJTdxyraFijpIBSNhwZ4Og6DJq5QfHJzwOQ='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSEM Master of Science in Global Innovation and Leadership：Technical Concentrations 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yocket.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxe3cAi1OBg0sTGq2Ekx3be5eUZQE7JXZrMp_FpJzbh61Kx2c6Bas-3cW4sDsPVW0Fe55btNieKwe-aHA69ZXz1ybLJJulhXX5OrbxIraPZstFzAI_aAxoNtnmZ3ac6HraZRhciqe_VuYKPKBecT5f7U9UpjuHcAfQBJUDUfD33eSTzMRF0nl1Qm0xVs1BMmVyvKgPlATfHC6McqFjtCU45Y_IVF7Bn9UmMk-Y4GA=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgH8gK4WEae74Bom-UnLbv3eoMyvYT3L8OZwLqMPEQ4Z5Lm1JTW8viGj7obt0gHiDNM3l6b3-lolAtf52wPgWMXgnrmlqn6fWcDKM2q7oBIx19hugtQOJDLWE-Nk0WQJ62ShJsVoiEA2Vi1nNkGtrRusDwGhXldakBuEQg4NKFi_CgJSE=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ameerkhatri.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiYX5_olk6OFf5TE4vsCt2MsalPJUqggH0yMcBqourmcpYZs-BMtxI-Yr9CwNheFJVqAN4uSuVdUpWjnFBaKi0c9OOLFN3vs6eZQ6sE54gkiA2eDSuatSi84T1MTjIc8LP84ijEqEFvghb6m9tjzKS9qTyGugkAhq8vPaPkqE__YniAf3ZfxCS2iXO7CHQcMDf77iKa6navNBVPL4PBjp1xQ6rkw==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_bWJ7PxYv-JHcsR5Wv_W6adwn-ItxJSh2Ry1Kd4pwRyV-JEdlXF_99el3zSY3P4uhDqP_ZEMXPjd6Xp1dr7Qit1iTO3vglCKlMKjrYNYyc8trVSKrBSjYliuZDpkzJH6KZIRxCTtj7OnpDEeBmdoNUdrDLc8r_pO_i25_nnBF1jNCqougmd73PrIq8iXGQ6dO9ENrKPeOQvIKOBKCWMH_SX46D5vjhQO-ba9EfPc0Y90YFOekghw1lrSubvPJg0CP_Gvp1_VwNCWqhMjxd0B6vhGCIsf5-3nStQ=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "The PhD specialization in Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science 工程与应用科学研究生学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcPUvLiQsKxgRxfM7uwjVBLt-7viQNARpzSFqjt1Fd3s_AgnSjxOfx3MpsrH5jUDeczzZOgGUa1BKTqwMzm7aMiLjJIExktOq1L0DZVWTicXrzJxz7NLzSb1TjKjABTfUfPDU5mQPPtOM-83sr7LVoKZBu_MFdn68PoXWTsyYcGleq5BuwQwSwlodkiBkRpV_6uSxw5g6IOfRGIfjj12Ra7PW-TQ=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science 工程与应用科学研究生学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmOkDct-urPUKd9LyPlzrcXSu2d9aeAx2F2He88c_FNyAQnBpeNb05nmBtw73aifiJJW1S5yTvwPS6SrledSeTkIQA031hbZ8GJ-U-rMPx9aSdtaHovvlYp571yoReXPmRElaMjGS2e89fb6brhmiIukD46iox1NRqjd3Q1keq3HtLSefgcaee_GXNdja4ZeyDhDWEkVHV6FTZnP8z56qYxdttGIE='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science 工程与应用科学研究生学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfkRAfqopAFlB4tBQzDeS6qkvGKk-0zpwmho48dKTfV1ihbjdQ55eMXnrk5KggYxyAF2IiYTFfGhSmor0v8uW1MDik-NoWLiRpQkRv8fl37pNNNShj9gSkPQvsZcSXKBrOozdcukJuWGb8BA2eGtQI7MbjqBWdjLaoU5jJ_0th1JTtRpM5xiK_tnNUizDXFTmsiquqRHVyOI2KosqdMXtilqwRoQM='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAPV3AWFlBBQ8gLcxK7DyHt2m0DIVOvudm3q09jI1EXaP6gerprwfCkeA5uiPaBuQbw__W3MNGmotPjSbFBEb2YKlxKAZGNpgpYwPaxGbN6yShLl0twgODRK847hQnvotrok-WELAZUpkzcFQRquxjMVKKIrJNNg7xfiFSNvLLPejFNakKBD71L44dl7s5BxVHQ01CDK1boX7LTWLgpdZMNBgZYhk7u9vLgA7jWMGOudm9G3fSXbcRBwoN6aNRNCywhs3j7NFEB7JuOgh84YWYUfzv'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDb_Joxus86BSdTj81D3-uTfNAkqFsYTDtwTRcY4jksryqJWWkwXLdDOHu1fK4ET0k33mlpf5rwsXKSs7hfSM0HpyVL_gCDZqqdHe3WNM55vOIdPRBW5YrYPbTx2xjxkCJBdbl3V73yMU2AKnb29yxBwW1Y4RO2RXAnwCDhgSjGEj9Tx7VF0K39P3cbRDaAE73OM4SDRu8GTNZIxtTAr9JTY5lPjobDIZfwr3J6NGCg6SJDOQk_350ikWoouX90ciESiVVYsR23LWH-3fdC-N4xUSC'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi6Iq3G1fDbvCg6fNk1zrjZZXhXdbdAMXgA49kxwxBuCFj6m3j0tNlDsyKP6ksCA0Zg-YnsICPPirmdl_i1d_ipQM7B_n627n_ybZXJsgMWItSSdXREbbUuNpFJFjWk5lAQuo5cvRjluINUtHeH1TcMPTEgPH--unS7ePAuDLuyDsVWmfq98D4HpdiDZnw5WoZc_wwW_8trLnO7k4DkzVg8RBaUEmsr_V9YKf0-iRoWmcmVZF9bpK0Cx68UPYCqs3wrL2Bj3r-vKUpCjXpNmN9SI85qw=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "2 letters of recommendation, but 3 are preferred.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='betteredu.net', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdKpcEGsYd2PP0N_RDSbwWUxDKwyRx_eBicEf4w4XZMqDaV1q0ww21biYWiCvI5sN2-Kcr6y94WbZZg46CpZh3Z7l7QMFRMZOIuc0d20BN5NflcuiegrLgv0JUMByYRQXDR4E1-p1MFw=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzwCFk055g_jokfa4m3KOhoBGY708Hce_wbB_yk1ZBDeaI4wso6wP9JR8dz2tgaRd16foBCB-UUxtpoiZtFkF6vYXcYM4RP7-guWZ4xUmpaVraSXa6aaBoHD6OloAKRGA7beOStA5DWh-fw-HbDYIGKIYnkd1dB8eprY5BxO8cTC_qekUFcP_km6vNm1w5ODj0aWCfxiCdlP563DUKMrIQ8l8eZ8vJJz_qny4pdjrrYQDwAIuD9NNtscf4l5T5_ZUzkpi_LFveVpC_aIyhdJKJ-kigMw=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 number of letters of recommendation']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='petersons.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUYmeqmYJxGs873ss7l1RoblthKJ2WgHMAmyw-OM3zCIp4CSYppGwL-DAS9B0AIVVWNB1IX5qjfNgzPfQHAmTQqsmehJPum1ZV6cVA7LzlnJfuZLMWOJF8NsGxBwaiyZf2y19mrO0W4Hi3-EVNqnZ-5tGg2g3UYMUVphNE6fEj7Gm9AOHoI6XK5jJGUk61fG0JLuyDexhGzxde0GsH8WVSSN61AY-xj8E0eL4-a0qkxwOlNCj99uyaQRx0ixGLsoM9H0crYt5WC10nDslC8lsCxmYDLQ=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech)",
+    "所属院系": "康奈尔科技学院",
+    "招生网址": "https://tech.cornell.edu/admissions/meng-application/",
+    "专业网址": "https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "2~3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "2-3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "2-3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Information Science (M.P.S.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/masters/mps",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "2 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Information Science (Ph.D.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/phd",
+    "推荐信": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "3 letters of recommendation.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

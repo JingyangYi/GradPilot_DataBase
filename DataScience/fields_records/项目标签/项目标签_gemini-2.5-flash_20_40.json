@@ -1,0 +1,642 @@
+[
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSEM",
+    "专业英文名称": "Master of Science in Global Innovation and Leadership：Technical Concentrations",
+    "所属院系": "工程学院",
+    "招生网址": "https://msil.engineering.jhu.edu/admissions/",
+    "专业网址": "https://msil.engineering.jhu.edu/academics/technical-track/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "I am sorry, but I was unable to access the content of the provided URLs. Therefore, I cannot summarize the program characteristics or provide the requested tags.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "I am sorry, but I was unable to access the content of the provided URLs. Therefore, I cannot summarize the program characteristics or provide the requested tags.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "I am sorry, but I was unable to access the content of the provided URLs. Therefore, I cannot summarize the program characteristics or provide the requested tags.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>quantitative</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>engineering</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "The PhD specialization in Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The \"Ph.D. Specialization in Data Science\" at Columbia University is an option within several existing doctoral programs. This immediately suggests its interdisciplinary nature. The eligible departments are Applied Mathematics, Computer Science, Electrical Engineering, Industrial Engineering and Operations Research, and Statistics. The specialization also requires courses from three thematic areas: Computation, Optimization, and Statistics, further reinforcing the disciplinary characteristics.\n\nBased on the content, I can identify the following characteristics:\n1.  **Data Science**: This is the core specialization.\n2.  **Applied Mathematics**: One of the eligible departments.\n3.  **Computer Science**: One of the eligible departments and a thematic area (Computation).\n4.  **Electrical Engineering**: One of the eligible departments.\n5.  **Industrial Engineering and Operations Research**: One of the eligible departments and a thematic area (Optimization).\n6.  **Statistics**: One of the eligible departments and a thematic area (Statistics).\n7.  **Interdisciplinary**: The program is an option *within* various departments and requires courses from outside the student's home department.\n\nI need to select the most important 5 keywords. \"Interdisciplinary\" is a key characteristic. The program is explicitly a \"Data Science\" specialization. The other disciplines are the foundational pillars.\n\nTherefore, I will choose: Data Science, Applied Mathematics, Computer Science, Statistics, and Interdisciplinary.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>applied mathematics</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data analytics</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>quantitative analysis</Tag>\n<Tag>management</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data analytics</Tag>\n<Tag>leadership</Tag>\n<Tag>emerging technologies</Tag>\n<Tag>quantitative management analytics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data analytics</Tag>\n<Tag>leadership</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>quantitative analysis</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data analytics</Tag>\n<Tag>Artificial Intelligence</Tag>\n<Tag>quantitative methods</Tag>\n<Tag>technology</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The first URL `https://sps.columbia.edu/admissions/masters-degree-applicants` provides general admission information for Master's degree applicants at Columbia University School of Professional Studies. It mentions various programs and their statement of academic purpose prompts, including \"Applied Analytics\". This page confirms the existence of the Applied Analytics program and provides a prompt for its statement of purpose.\n\nThe second URL `https://sps.columbia.edu/academics/masters/applied-analytics` focuses specifically on the Master of Science in Applied Analytics program.\n\nHere's a summary of the program characteristics:\n\n*   **Disciplinary characteristics:** The program emphasizes \"data analytics\" and the use of \"data to deliver insights through analytics.\" It also combines \"in-depth knowledge of data analytics with the leadership, management, and communication principles and tactics.\" It offers concentrations in \"Emerging Technologies\" (focusing on AI-driven analytics, secure data ecosystems, scalable cloud solutions, AI of Things, blockchain, and generative AI) and \"Quantitative Management Analytics\" (focusing on translating data into strategies, optimizing operations, strengthening financial decision-making, risk analysis, portfolio management, and operations). One faculty member's profile mentions harnessing \"passion for mathematics and used data analytics to change health care.\" A new course mentioned is \"Mathematics for AI\".\n*   **Interdisciplinary nature:** The program aims to impact decision-making \"across industries and organizational functions,\" suggesting an interdisciplinary application of analytics. The concentrations also show an interdisciplinary approach, combining data analytics with technology, management, and finance aspects.\n\nBased on this information, here are the characteristics:\n\n<Tag>data analytics</Tag>\n<Tag>leadership</Tag>\n<Tag>management</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>quantitative analysis</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The user asked me to summarize the program characteristics of the Applied Analytics program at Columbia University.\nBased on the browsed content of `https://sps.columbia.edu/academics/masters/applied-analytics`, here are the characteristics:\n\n1.  **Disciplinary characteristics**:\n    *   Data analytics\n    *   Leadership\n    *   Management\n    *   Communication principles\n    *   AI-driven analytics\n    *   Secure data ecosystems\n    *   Scalable cloud solutions\n    *   AI of Things\n    *   Blockchain\n    *   Generative AI\n    *   Quantitative management analytics\n    *   Risk analysis\n    *   Portfolio management\n    *   Operations optimization\n    *   Mathematics (mentioned in a course: \"Mathematics for AI\")\n\n2.  **Interdisciplinary nature**: The program combines \"in-depth knowledge of data analytics with the leadership, management, and communication principles and tactics necessary to impact decision-making across industries and organizational functions.\" This indicates an interdisciplinary approach.\n\nI need to select up to 5 most important characteristics as tags.\n\nFrom the disciplinary characteristics, \"data analytics\" is core. The concentrations highlight \"emerging technologies\" (which includes AI, blockchain, cloud) and \"quantitative management analytics\" (which involves making smarter decisions with data, risk analysis, portfolio management, operations). The program also emphasizes \"leadership,\" \"management,\" and \"communication\" skills alongside the data skills. \"Mathematics\" is mentioned in a specific course, indicating a foundational aspect.\n\nGiven the emphasis, I'll pick:\n*   Data analytics\n*   Artificial intelligence (as part of emerging technologies)\n*   Quantitative analysis\n*   Leadership\n*   Interdisciplinary\n\nThese capture the essence of the program well.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>Operations Research</Tag>\n<Tag>Information Engineering</Tag>\n<Tag>Data Science</Tag>\n<Tag>Financial Engineering</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>operations research</Tag>\n<Tag>information engineering</Tag>\n<Tag>data science</Tag>\n<Tag>mathematical modeling</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>Operations Research</Tag>\n<Tag>Information Engineering</Tag>\n<Tag>Data Analytics</Tag>\n<Tag>Financial Engineering</Tag>\n<Tag>Interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>operations research</Tag>\n<Tag>information engineering</Tag>\n<Tag>math</Tag>\n<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>operations research</Tag>\n<Tag>information engineering</Tag>\n<Tag>data analytics</Tag>\n<Tag>mathematical modeling</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech)",
+    "所属院系": "康奈尔科技学院",
+    "招生网址": "https://tech.cornell.edu/admissions/meng-application/",
+    "专业网址": "https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>operations research</Tag>\n<Tag>data science</Tag>\n<Tag>machine learning</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>operations research</Tag>\n<Tag>machine learning</Tag>\n<Tag>data science</Tag>\n<Tag>entrepreneurship</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>Operations Research</Tag>\n<Tag>Information Engineering</Tag>\n<Tag>Data Science</Tag>\n<Tag>Machine Learning</Tag>\n<Tag>Interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Information Science (M.P.S.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/masters/mps",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>interdisciplinary</Tag>\n<Tag>computer science</Tag>\n<Tag>data science</Tag>\n<Tag>human-computer interaction</Tag>\n<Tag>social aspects of information technology</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>interdisciplinary</Tag>\n<Tag>information science</Tag>\n<Tag>computer science</Tag>\n<Tag>human-computer interaction</Tag>\n<Tag>data science</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>interdisciplinary</Tag>\n<Tag>information science</Tag>\n<Tag>computer science</Tag>\n<Tag>data science</Tag>\n<Tag>human-computer interaction</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Information Science (Ph.D.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/phd",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>Information Science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>Computer Science</Tag>\n<Tag>Social Science</Tag>\n<Tag>Human-Computer Interaction</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>interdisciplinary</Tag>\n<Tag>information science</Tag>\n<Tag>computer science</Tag>\n<Tag>social science</Tag>\n<Tag>human-computer interaction</Tag>\n<Tag>data science</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>interdisciplinary</Tag>\n<Tag>information science</Tag>\n<Tag>computer science</Tag>\n<Tag>human-computer interaction</Tag>\n<Tag>social science</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Applied Statistics (Data Science) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/",
+    "专业网址": "https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>applied statistics</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>applied mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Applied Statistics (Data Science) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/",
+    "专业网址": "https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The first URL describes the Master of Professional Studies (M.P.S.) degree in Applied Statistics. It mentions a \"two-semester core course covering a wide range of statistical applications, computing, and consulting\" and \"an in-depth statistical analysis project.\" It also states that students should have a background in \"statistics or applied mathematics\" and that the program involves \"mathematical probability/statistics.\"\n\nThe second URL describes the Master's in Data Science and Applied Statistics. It states that the program \"readies students for careers in fields where modern data analysis skills are highly coveted.\" It offers two options: \"Statistical Analysis\" and \"Data Science,\" with the latter emphasizing \"computer science including high-performance computing, databases, middleware, and scripting.\" It also mentions \"rigorous training in modern data analytical skills\" and a \"solid foundation in theoretical statistics, a broad education in many applied statistics topics.\" It also states that applicants should have a background in \"Statistics, Applied Mathematics, Engineering, Computer Science.\"\n\nBoth programs are professional master's degrees intended for careers in business, industry, or government.\n\nBased on this, the characteristics are:\n*   Statistics\n*   Applied Statistics\n*   Data Science\n*   Mathematics\n*   Computer Science (for the Data Science option)\n*   Interdisciplinary (as it draws from multiple fields and prepares for diverse industries)\n\nI will select the most important 5 characteristics.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Applied Statistics MPS (AS) (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science and Applied Statistics | Cornell University ...', uri='https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MScA",
+    "专业英文名称": "Applied Data Science",
+    "所属院系": "物理科学部",
+    "招生网址": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+    "专业网址": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The \"Master's in Applied Data Science – DSI\" page is the most relevant for program characteristics.\nFrom the content, I can identify the following:\n\n*   **Disciplinary characteristics:** The program is clearly focused on \"Data Science\". It also mentions \"computational and analytical skills\". The broader Data Science Institute (DSI) also mentions \"AI + Science\" and \"mathematical foundations of data science\" in the context of their PhD program, but the question is specifically about the MS in Applied Data Science. The \"Programming Supplement\" section in the 'How to Apply' page mentions R or Python, indicating programming skills are important.\n*   **Interdisciplinary nature:** The DSI's vision is \"Data Science as a new discipline\". The \"Data Science Clinic\" is an \"experiential project-based course where students work in teams with real-world clients from industry, academia, and social impact organizations\", which suggests an applied, interdisciplinary approach. The MBA/MS program is a \"joint degree\", which also supports interdisciplinarity. The Data Science Institute itself emphasizes \"cross-disciplinary research\" and \"interdisciplinary integration\".\n\nBased on this, the key characteristics are:\n*   Data Science\n*   Applied (from \"Applied Data Science\" and \"real-world Capstone Experience\")\n*   Interdisciplinary\n*   Computational (from \"computational and analytical skills\")\n*   Programming (from \"Programming Supplement\" R/Python)\n\nI will limit to 5 tags.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Applied Data Science – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>applied</Tag>\n<Tag>computational</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>programming</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Applied Data Science – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>computational analysis</Tag>\n<Tag>mathematical foundations</Tag>\n<Tag>AI</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Applied Data Science – DSI', uri='https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MS",
+    "专业英文名称": "Data Science ",
+    "所属院系": "物理科学部",
+    "招生网址": "https://codas.uchicago.edu/how-to-apply/",
+    "专业网址": "https://codas.uchicago.edu/academics/ms-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>machine learning</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/ms-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MS in Data Science | CDS', uri='https://codas.uchicago.edu/academics/ms-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>machine learning</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/ms-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MS in Data Science | CDS', uri='https://codas.uchicago.edu/academics/ms-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The MS in Data Science program at the University of Chicago is designed for students interested in a research career in data science. It involves faculty from Statistics, Computer Science, and other departments across the university, indicating an interdisciplinary nature. The curriculum includes foundational courses in computational, mathematical, and statistical foundations for data science. Core courses cover topics such as data science systems, data interaction, machine learning, artificial intelligence, and responsible use of data and algorithms. Students can also choose electives from Data Science, Computer Science, Statistics, and other university departments.\n\nBased on the information, the program characteristics are:\n1.  **Disciplinary characteristics:** Data Science, Statistics, Computer Science, Machine Learning, Artificial Intelligence, Mathematics, Computational Foundations.\n2.  **Interdisciplinary nature:** Courses taught by faculty from various departments across the university.\n\nI need to select the most important 5 keywords.\n\n*   Data Science (main discipline)\n*   Statistics (core discipline)\n*   Computer Science (core discipline)\n*   Machine Learning (key area)\n*   Interdisciplinary (program nature)\n*   Mathematics (foundational)\n*   Artificial Intelligence (key area)\n\nGiven the limit of 5, I will prioritize the core disciplines and the interdisciplinary nature. I will combine Machine Learning and Artificial Intelligence into \"Artificial Intelligence\".\n\nHere are the selected tags:\n*   Data Science\n*   Statistics\n*   Computer Science\n*   Artificial Intelligence\n*   Interdisciplinary\n<Tag>data science</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/ms-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MS in Data Science | CDS', uri='https://codas.uchicago.edu/academics/ms-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "Ph.D",
+    "专业英文名称": "Data Science ",
+    "所属院系": "物理科学部",
+    "招生网址": "https://codas.uchicago.edu/how-to-apply/",
+    "专业网址": "https://codas.uchicago.edu/academics/phd-in-data-science/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/phd-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD in Data Science | CDS', uri='https://codas.uchicago.edu/academics/phd-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>Data Science</Tag>\n<Tag>Mathematics</Tag>\n<Tag>Computer Science</Tag>\n<Tag>Statistics</Tag>\n<Tag>Artificial Intelligence</Tag>\n<Tag>Interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/phd-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD in Data Science | CDS', uri='https://codas.uchicago.edu/academics/phd-in-data-science/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>mathematics</Tag>\n<Tag>computer science</Tag>\n<Tag>statistics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://codas.uchicago.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://codas.uchicago.edu/academics/phd-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | CDS', uri='https://codas.uchicago.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD in Data Science | CDS', uri='https://codas.uchicago.edu/academics/phd-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Berkeley",
+    "学位": "M.Eng",
+    "专业英文名称": "Data Science  ",
+    "所属院系": "电子工程和计算机科学系",
+    "招生网址": "https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/",
+    "专业网址": "https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>Electrical Engineering</Tag>\n<Tag>Computer Sciences</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>Data Science</Tag>\n<Tag>Engineering Leadership</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Electrical Engineering &amp; Computer Sciences MEng - Berkeley ...', uri='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering (MEng) - EECS at Berkeley', uri='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>Electrical Engineering</Tag>\n<Tag>Computer Sciences</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>Data Science</Tag>\n<Tag>Engineering Leadership</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Electrical Engineering &amp; Computer Sciences MEng - Berkeley ...', uri='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering (MEng) - EECS at Berkeley', uri='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>Electrical Engineering</Tag>\n<Tag>Computer Sciences</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>Data Science</Tag>\n<Tag>Leadership</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Electrical Engineering &amp; Computer Sciences MEng - Berkeley ...', uri='https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering (MEng) - EECS at Berkeley', uri='https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Berkeley",
+    "学位": "MAna",
+    "专业英文名称": "Master of Analytics",
+    "所属院系": "工业工程与运筹学系",
+    "招生网址": "https://grad.berkeley.edu/program/master-of-analytics-manlytx/",
+    "专业网址": "https://analytics.berkeley.edu/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Master of Analytics (MAnlytx) program at UC Berkeley is offered by the Department of Industrial Engineering and Operations Research (IEOR). It focuses on data-driven analytical methods and tools for optimization, statistics, simulation, and risk management. The curriculum includes core analytics courses, hands-on capstone projects, and a summer industry internship. The program aims to train students to develop innovative models, find creative solutions to business and industry challenges, and communicate/implement their solutions. It is a STEM-designated program that emphasizes transforming data into strategic solutions for various sectors.\n\nBased on the content, the characteristics are:\n1. **Disciplinary characteristics**: Data Analytics, Optimization, Statistics, Simulation, Risk Management, Industrial Engineering, Operations Research.\n2. **Interdisciplinary nature**: The program applies quantitative models to complex systems in industrial, service, or public sectors, and prepares students to transform data into strategic solutions for any sector like technology, finance, retail, supply chain, manufacturing. This suggests an interdisciplinary application.\n\nI will select the most important 5 characteristics as requested.\n- Data Analytics\n- Optimization\n- Statistics\n- Industrial Engineering\n- Operations Research\n- Interdisciplinary (due to its broad application across sectors and industries)\n\nI should combine Industrial Engineering and Operations Research as it's a department name, and the program is rooted in it.\n\nRevised characteristics:\n- Data Analytics\n- Optimization\n- Statistics\n- Industrial Engineering & Operations Research\n- Interdisciplinary<Tag>Data Analytics</Tag>\n<Tag>Optimization</Tag>\n<Tag>Statistics</Tag>\n<Tag>Industrial Engineering & Operations Research</Tag>\n<Tag>Interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/master-of-analytics-manlytx/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://analytics.berkeley.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics MAnlytx - Berkeley Graduate Division', uri='https://grad.berkeley.edu/program/master-of-analytics-manlytx/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics - Master of Analytics', uri='https://analytics.berkeley.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The Master of Analytics (MAnlytx) program at UC Berkeley is offered by the Department of Industrial Engineering and Operations Research (IEOR). It trains students in data-driven analytical methods and tools. The program focuses on optimization, statistics, simulation, and risk management. It emphasizes transforming data into strategic solutions across various sectors, including technology, finance, retail, supply chain, and manufacturing.\n\nBased on the content, the program characteristics are:\n-   **Disciplinary characteristics**: Data-driven analytical methods, optimization, statistics, simulation, risk management, data science, industrial engineering, operations research.\n-   **Interdisciplinary nature**: The program is housed within Industrial Engineering & Operations Research and applies quantitative models to complex systems in industrial, service, or public sectors, indicating an interdisciplinary application.\n\nI will select the most relevant 5 characteristics.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/master-of-analytics-manlytx/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://analytics.berkeley.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics MAnlytx - Berkeley Graduate Division', uri='https://grad.berkeley.edu/program/master-of-analytics-manlytx/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics - Master of Analytics', uri='https://analytics.berkeley.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The Master of Analytics (MAnlytx) program at UC Berkeley, offered by the Department of Industrial Engineering and Operations Research (IEOR), focuses on data-driven analytical methods and tools. The curriculum includes optimization, statistics, simulation, and risk management. It is designed for individuals with backgrounds in engineering or mathematical sciences, emphasizing the application of quantitative models to complex systems across various sectors, including industrial, service, and public. The program integrates a \"from data to solutions\" approach, indicating a strong practical and application-oriented focus. The program is STEM-designated and appears to be interdisciplinary due to its application across various industries and its foundation in engineering and mathematical sciences, preparing students to transform data into strategic solutions for diverse sectors like technology, finance, retail, supply chain, and manufacturing.\n\n<Tag>analytics</Tag>\n<Tag>data science</Tag>\n<Tag>optimization</Tag>\n<Tag>statistics</Tag>\n<Tag>risk management</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.berkeley.edu/program/master-of-analytics-manlytx/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://analytics.berkeley.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics MAnlytx - Berkeley Graduate Division', uri='https://grad.berkeley.edu/program/master-of-analytics-manlytx/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Analytics - Master of Analytics', uri='https://analytics.berkeley.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Los Angeles",
+    "学位": "MENG",
+    "专业英文名称": "Data Science ",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/",
+    "专业网址": "https://www.meng.ucla.edu/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>interdisciplinary</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>data science</Tag>\n<Tag>engineering management</Tag>\n<Tag>systems engineering</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.meng.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Engineering – Master of Engineering | UCLA Graduate Programs', uri='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering | UCLA Samueli | 1-year professional degree', uri='https://www.meng.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>Engineering</Tag>\n<Tag>Interdisciplinary</Tag>\n<Tag>Artificial Intelligence</Tag>\n<Tag>Data Science</Tag>\n<Tag>Technology Management</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.meng.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Engineering – Master of Engineering | UCLA Graduate Programs', uri='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering | UCLA Samueli | 1-year professional degree', uri='https://www.meng.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>engineering</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>artificial intelligence</Tag>\n<Tag>data science</Tag>\n<Tag>technology management</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://www.meng.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Engineering – Master of Engineering | UCLA Graduate Programs', uri='https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering | UCLA Samueli | 1-year professional degree', uri='https://www.meng.ucla.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Los Angeles",
+    "学位": "M.A.S.D.S",
+    "专业英文名称": "Master of Applied Statistics and Data Science",
+    "所属院系": "物理科学学院",
+    "招生网址": "https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/",
+    "专业网址": "https://master.stat.ucla.edu/",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>applied</Tag>\n<Tag>quantitative analytics</Tag>\n<Tag>interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://master.stat.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics – Master of Applied Statistics and Data Science | UCLA ...', uri='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Applied Statistics and Data Science | Homepage', uri='https://master.stat.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>applied</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>quantitative analytics</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://master.stat.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics – Master of Applied Statistics and Data Science | UCLA ...', uri='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Applied Statistics and Data Science | Homepage', uri='https://master.stat.ucla.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>statistics</Tag>\n<Tag>data science</Tag>\n<Tag>applied</Tag>\n<Tag>quantitative analytics</Tag>\n<Tag>interdisciplinary</Tag>\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://master.stat.ucla.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics – Master of Applied Statistics and Data Science | UCLA ...', uri='https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Applied Statistics and Data Science | Homepage', uri='https://master.stat.ucla.edu/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Rice University",
+    "学位": "MDS",
+    "专业英文名称": "Master of Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application",
+    "专业网址": "https://cs.rice.edu/academics/graduate-programs/professional-master-data-science",
+    "项目标签": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>computational</Tag>\n<Tag>statistical</Tag>\n<Tag>machine learning</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Application | Computer Science | Rice University', uri='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Professional Master of Data Science |Computer Science | Rice ...', uri='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "<Tag>data science</Tag>\n<Tag>interdisciplinary</Tag>\n<Tag>statistics</Tag>\n<Tag>computer science</Tag>\n<Tag>mathematics</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Application | Computer Science | Rice University', uri='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Professional Master of Data Science |Computer Science | Rice ...', uri='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "<Tag>Data Science</Tag>\n<Tag>Statistics</Tag>\n<Tag>Computer Science</Tag>\n<Tag>Mathematics</Tag>\n<Tag>Interdisciplinary</Tag>",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Application | Computer Science | Rice University', uri='https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Professional Master of Data Science |Computer Science | Rice ...', uri='https://cs.rice.edu/academics/graduate-programs/professional-master-data-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

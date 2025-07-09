@@ -1,0 +1,162 @@
+[
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/phd-program",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints are found for the Yale University Ph.D. Statistics and Data Science program, except for information regarding combined degree applications.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in South Central Connecticut Planning Region, US.', uri='https://www.google.com/search?q=time+in+South+Central+Connecticut+Planning+Region,+US'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints are found for the Yale University Ph.D. Statistics and Data Science program, other than the option for a combined Ph.D. with Political Science.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in South Central Connecticut Planning Region, US.', uri='https://www.google.com/search?q=time+in+South+Central+Connecticut+Planning+Region,+US'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit mutual exclusive application constraints were found for the Yale University Ph.D. Statistics and Data Science program; a combined Ph.D. with Political Science is even offered.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in South Central Connecticut Planning Region, US.', uri='https://www.google.com/search?q=time+in+South+Central+Connecticut+Planning+Region,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbV8lQSaA3TgP1BvnUdEsODu_7s5umglSq80Z-g5rPvHOkpygLkr4GPJWYKW7dj-voOxStLNoAch1pyoYgBwZESO-byDHtqayKJO8rGGT7BJPlJJDvejU28GfOO9KzK5ZL')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdP2R1GqFEdRltC9VgeBt9qTBAf-kbH1rNSwiouD0zbBfVJrLNqV22w5EifTsw6PLfu_A8azcykYkZ1ew5UYoaf76J6W7KmRG2nAWK7rDebPOUHjYqW7f4z7L3RrIYHn8cE8nUti6IgmKXKME='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Statistics and Data Science ",
+    "所属院系": "商学院",
+    "招生网址": "https://doctoral.wharton.upenn.edu/application-requirements/",
+    "专业网址": "https://doctoral.wharton.upenn.edu/statistics/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania PHD Statistics and Data Science 商学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints are found regarding mutual exclusive applications for the University of Pennsylvania PHD Statistics and Data Science program at the Wharton School.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania PHD Statistics and Data Science 商学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Lycoming County, US.', uri='https://www.google.com/search?q=time+in+Lycoming+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='upenn.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzel14ng_oWXf2C7vWl5jAthvNwQeRKp8jXAkUak-q3E3hnhPXvzi6j0duGbxPN2-6fWhCq5QWhjRFUlP955Yn1SvrcB4bCBQ8v8RzS8Cai24UxYIDvwaQMxX0wKUCc71yADaIwcXcdNpREzD4'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints were found for the University of Pennsylvania PhD Statistics and Data Science program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania PHD Statistics and Data Science 商学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Philadelphia, PA, US.', uri='https://www.google.com/search?q=time+in+Philadelphia,+PA,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Lycoming County, US.', uri='https://www.google.com/search?q=time+in+Lycoming+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='upenn.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxqEEJb9q1_rOhmNv6iINUYGUNDAx5ocuZ-Yl1icy7-AJW_ibgCLNr-m_n7_u7c1Ur2A_yiLGnshfRPZkhg_mQlETaBN3EZVfl0dERm_YA51t2VxV-WWcWsiA7BtFsYXPGE0FAmT18GTJmknyQ')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='upenn.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbEWa_Hnc6dV9MFqjr9hbQY_M63GWbfpHmrJzZxEGWCnkn0AVl-zI1Kh9sUTZ3x3_vGuDVRqIeA9crQb5ycykPWKrCvMZisIQArQugQLV_lFIvt0i6W6OqdkLSisKbvo1O_BgQPS3rz9c='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradadm.seas.upenn.edu/how-to-apply/",
+    "专业网址": "https://dats.seas.upenn.edu/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints regarding mutual exclusive applications for the University of Pennsylvania MSE Data Science program with other MS programs in the School of Engineering were found.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania MSE Data Science 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints were found regarding mutual exclusive application for the University of Pennsylvania MSE Data Science program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania MSE Data Science 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints were found regarding mutual exclusive application for the University of Pennsylvania MSE Data Science program with other MS programs from the School of Engineering.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania MSE Data Science 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Lycoming County, US.', uri='https://www.google.com/search?q=time+in+Lycoming+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Weather information for administrative_area: PA', uri='https://www.google.com/search?q=weather+in+PA'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/",
+    "专业网址": "https://ece.duke.edu/academics/masters/ms/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints were found regarding mutual exclusive applications for the Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints were found regarding mutual exclusive application for the Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints were found regarding mutual exclusive application for the Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "Meng",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://masters.pratt.duke.edu/apply/requirements/",
+    "专业网址": "https://ece.duke.edu/academics/masters/meng/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints were found regarding mutual exclusive application for the Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Durham County, US.', uri='https://www.google.com/search?q=time+in+Durham+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZHmMRDI_4AEsSG-1lSaNBVMCHyjQ8RXY7GaAkUC0CYvgIal54J9z6hy3mdcQcw4ej-bDBucyypP6VVbshYHqFsFillKCpaNmSp1Gil1_KXwUNF82ImYL5xFejMmP36gAWTJ50fw==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcxUo5rZpx0SF_JmlSV1aKUC-YpaAOMJDet1Ks7H_C9xgEw-_4o-srg2vpN1i3VV-F0TIbCFgcuPeZ1RyvriEMV9d3iWG-cAU4iQLNkriizwrDuJmOF54RsnPOBKdw7LKi7GHRh1_L'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints were found for the Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data program based on the provided admission and program webpages and Google search results.\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Durham County, US.', uri='https://www.google.com/search?q=time+in+Durham+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGatu7DadqWAjtwI8UGZJ_cFjSz0bhlizO4ewSKycjHUAdtNh_FSmnWJWYcAhxq-u2Gef5Qunnk3oRnvvwltHoE0TOrhD1JyDDf6YRJhUTUzsEHBhMoAyr8mVpeAI1kb-aaXt-SIw==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHppnCcJJKJ-aCGYXUodkRbxMmWEiJIfxlTtjOTWA4Jgq0VWGZVLFReEcwbyyLZqpTfmbw_Vac5tnoLbihTG085w75yI5LcQc5-AUVAhIeK0woV-iR5u4Bcd5VktExdwzFYuw92ow2O'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints were found for the Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 mutual exclusive application constraints']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Durham County, US.', uri='https://www.google.com/search?q=time+in+Durham+County,+US'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

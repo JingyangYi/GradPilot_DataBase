@@ -1,0 +1,1602 @@
+[
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "招生网址": "https://seas.harvard.edu/masters-data-science/how-apply",
+    "专业网址": "https://seas.harvard.edu/masters-data-science",
+    "同申互斥": "Cannot apply to both Data Science and CSE programs",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants are limited to one Harvard Griffin GSAS degree program, which includes all SEAS programs, per admissions cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one application per admission cycle is allowed for Harvard GSAS programs, including the MS Data Science.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants may apply to only one graduate program offered by Harvard University within an academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "Harvard Extension School",
+    "招生网址": "https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/",
+    "专业网址": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "同申互斥": "not mentioned",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may apply to only one degree program per application cycle at Harvard Extension School.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Students may only apply to one degree program at Harvard Extension School per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Students cannot apply for admission to candidacy for multiple ALM degrees",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Generally, applicants can only apply to one Stanford graduate program per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can apply to only one graduate program at Stanford University for a given autumn quarter.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one application per department per academic year is allowed at Stanford University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "人文科学学院",
+    "招生网址": "https://statistics.stanford.edu/msadmissionsms/how-apply",
+    "专业网址": "https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Stanford University generally allows applicants to apply to only one graduate degree program per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Stanford University only allows applicants to apply to one graduate program per academic year across the entire university.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants may apply to only one degree program per academic year at Stanford University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/terminal-ma-program",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants can only apply to one program within the Yale Graduate School of Arts and Sciences per admissions cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Yale University allows only one graduate program application per academic year across all its schools, including the Graduate School of Arts and Sciences.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants may apply to only one program within Yale's Graduate School of Arts and Sciences for a given admissions cycle, including the MS Statistics and Data Science program.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/phd-program",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants to Yale's Graduate School of Arts and Sciences Ph.D. programs may only apply to one program per year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one application per academic year is permitted within Yale University's Graduate School of Arts and Sciences.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may only apply to one program per admissions cycle within Yale's Graduate School of Arts and Sciences.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Statistics and Data Science ",
+    "所属院系": "商学院",
+    "招生网址": "https://doctoral.wharton.upenn.edu/application-requirements/",
+    "专业网址": "https://doctoral.wharton.upenn.edu/statistics/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The Wharton School strongly recommends applying to only one PhD program per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one Wharton PhD program application is allowed per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one Wharton doctoral program application is allowed per year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradadm.seas.upenn.edu/how-to-apply/",
+    "专业网址": "https://dats.seas.upenn.edu/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants can only apply to one program within the School of Engineering and Applied Science per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one graduate program application per cycle is allowed within the University of Pennsylvania's School of Engineering and Applied Science.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants can apply to a maximum of two graduate programs within Penn Engineering if the programs are in different departments.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/",
+    "专业网址": "https://ece.duke.edu/academics/masters/ms/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one application for graduate study at Duke University is allowed per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You can only apply to one program within the ECE Department in any given application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "Meng",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://masters.pratt.duke.edu/apply/requirements/",
+    "专业网址": "https://ece.duke.edu/academics/masters/meng/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may only apply to one program per application cycle within the Duke University Pratt School of Engineering.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "For Duke University's MEng Electrical and Computer Engineering-Machine Learning & Big Data program, applicants are restricted to applying to only one ECE graduate program (MS, MEng, or PhD) per admission cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants are limited to one Duke University graduate program application per cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Statistical Science（Data Science & Analytics ）",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms/",
+    "专业网址": "https://stat.duke.edu/ms/ms-focus-areas-tracks",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one application per admission cycle is permitted by Duke University's Graduate School.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants can only apply to one graduate program at Duke University per admission cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Interdisciplinary Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/",
+    "专业网址": "https://datascience.duke.edu/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints are found, as Duke University generally allows applicants to apply to more than one graduate program, provided separate applications and fees are submitted, and the MIDS program does not state an explicit restriction.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants to Duke University's graduate programs, including MS Interdisciplinary Data Science, are permitted only one application per program per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MENG",
+    "专业英文名称": "Electrical and Computer Engineering",
+    "所属院系": "杜克昆山分校",
+    "招生网址": "https://iapse.dukekunshan.edu.cn/ece/admissions/how-to-apply/",
+    "专业网址": "https://iapse.dukekunshan.edu.cn/ece/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nBrown University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "研究生院",
+    "招生网址": "https://graduateprograms.brown.edu/graduate-program/data-science-scm",
+    "专业网址": "https://dsi.brown.edu/academics/masters-degree",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Brown University's Graduate School only permits one application per admission cycle, prohibiting multiple applications within the same school.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants to Brown University's Graduate School, including the MS Data Science program, may only apply to one program per application year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Master of Science in Machine Learning and Data Science",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/admissions/",
+    "专业网址": "https://www.mccormick.northwestern.edu/machine-learning-data-science/overview/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Within Northwestern's McCormick School of Engineering, only your most recent application will be reviewed if you apply to multiple programs.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may only apply to one McCormick master's program per admissions cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants may only apply to one graduate program within Northwestern University's McCormick School of Engineering per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "文理学院",
+    "招生网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/how_to_apply.html",
+    "专业网址": "https://statistics.northwestern.edu/graduate/ms-stat-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants cannot apply to multiple programs within the same academic department at Northwestern University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one application per program within Northwestern University's Graduate School is permitted per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The Graduate School at Northwestern University allows applicants to apply to only one program per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints. Johns Hopkins University's Whiting School of Engineering allows applicants to apply to multiple programs within the school, provided a separate application is submitted for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Johns Hopkins University does not allow more than one graduate application per academic year across the university.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants may apply to multiple programs within the Johns Hopkins Whiting School of Engineering, requiring separate applications and fees for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may only apply to one program per academic year within the Johns Hopkins University Whiting School of Engineering.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints; applicants may apply to multiple programs within the Johns Hopkins Whiting School of Engineering by submitting a separate application for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Within the Whiting School of Engineering, you may only apply to one program per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "At Johns Hopkins University, only one application per school or division is permitted per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Johns Hopkins University's Applied Mathematics and Statistics department explicitly states that applicants may apply to multiple programs or departments at JHU, provided separate applications and fees are submitted for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSEM",
+    "专业英文名称": "Master of Science in Global Innovation and Leadership：Technical Concentrations",
+    "所属院系": "工程学院",
+    "招生网址": "https://msil.engineering.jhu.edu/admissions/",
+    "专业网址": "https://msil.engineering.jhu.edu/academics/technical-track/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one program application at a time is allowed within Johns Hopkins Engineering for Professionals.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints. Johns Hopkins University Whiting School of Engineering allows applying to multiple programs, provided separate applications and fees are submitted for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants can only apply to one program per academic year within the Johns Hopkins University Whiting School of Engineering.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants are limited to one degree program application per cycle within Columbia Engineering.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one degree program application per academic year is permitted across Columbia University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one application may be submitted to Columbia Engineering, which includes the MS Data Science program.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "The PhD specialization in Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Multiple applications to different programs within Columbia University's School of Engineering and Applied Science are permitted, but each requires a separate application.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can only apply to one PhD program per academic year within Columbia University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one application per department is allowed within Columbia Engineering.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one application per program per application cycle is allowed within the Columbia University School of Professional Studies.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may submit only one application to a School of Professional Studies master's degree program per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one Columbia University program, including those within the School of Professional Studies, can be applied to per entry term.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Columbia University's School of Professional Studies explicitly permits applicants to apply to multiple programs simultaneously.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You can apply to only one program per application term within the Columbia University School of Professional Studies.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You can only apply to one degree or certificate program per application cycle within the Columbia University School of Professional Studies.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one graduate program application (Field) is allowed per academic year at Cornell University, including within the College of Engineering.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints are found as Cornell University allows applicants to apply to multiple programs across different fields in the same application cycle, requiring a separate application and fee for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants can only apply to one M.Eng. program within Cornell Engineering per admission cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech)",
+    "所属院系": "康奈尔科技学院",
+    "招生网址": "https://tech.cornell.edu/admissions/meng-application/",
+    "专业网址": "https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may only apply to one graduate program per academic year across Cornell University, which includes the M.Eng. ORIE program at Cornell Tech.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants may apply to only one degree program at Cornell Tech per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Cornell Tech allows applicants to apply to more than one program, requiring a separate application for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Information Science (M.P.S.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/masters/mps",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Information Science (Ph.D.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/phd",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may generally apply to only one graduate field or program at Cornell per application cycle, and cannot apply to two Ph.D. programs simultaneously.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one graduate program application is permitted per admission cycle at Cornell University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Applied Statistics (Data Science) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/",
+    "专业网址": "https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one graduate degree program can be applied to per academic year within Cornell University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Applied Statistics (Data Science) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/statistics/applied-statistics-mps-as-ithaca/",
+    "专业网址": "https://stat.cornell.edu/academics/mps-data-science-and-applied-statistics",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one degree program application per application cycle is allowed at Cornell University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one application per academic year to a degree program within the Cornell Graduate School is permitted.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MScA",
+    "专业英文名称": "Applied Data Science",
+    "所属院系": "物理科学部",
+    "招生网址": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+    "专业网址": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one graduate program application per academic year is allowed at the University of Chicago.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MS",
+    "专业英文名称": "Data Science ",
+    "所属院系": "物理科学部",
+    "招生网址": "https://codas.uchicago.edu/how-to-apply/",
+    "专业网址": "https://codas.uchicago.edu/academics/ms-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants to the University of Chicago can apply to only one degree program per application cycle across the university.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants may apply to only one graduate program at the University of Chicago per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "Ph.D",
+    "专业英文名称": "Data Science ",
+    "所属院系": "物理科学部",
+    "招生网址": "https://codas.uchicago.edu/how-to-apply/",
+    "专业网址": "https://codas.uchicago.edu/academics/phd-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants cannot apply to more than one program within the Physical Sciences Division in the same admissions cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You can only apply to one program within the Physical Sciences Division at the University of Chicago.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Berkeley",
+    "学位": "M.Eng",
+    "专业英文名称": "Data Science  ",
+    "所属院系": "电子工程和计算机科学系",
+    "招生网址": "https://grad.berkeley.edu/program/electrical-engineering-computer-sciences-meng/",
+    "专业网址": "https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can apply to only one graduate program per admission cycle at UC Berkeley.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants may only apply to one graduate program per admission cycle at UC Berkeley.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Berkeley",
+    "学位": "MAna",
+    "专业英文名称": "Master of Analytics",
+    "所属院系": "工业工程与运筹学系",
+    "招生网址": "https://grad.berkeley.edu/program/master-of-analytics-manlytx/",
+    "专业网址": "https://analytics.berkeley.edu/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one graduate program application per admission cycle is allowed at UC Berkeley.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can only apply to one master's program within the IEOR Department per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Within the IEOR department, you are generally only allowed to apply to one program (either the MS, PhD, or MAna) per admissions cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Los Angeles",
+    "学位": "MENG",
+    "专业英文名称": "Data Science ",
+    "所属院系": "工程与应用科学学院",
+    "招生网址": "https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/engineering-master-of-engineering/",
+    "专业网址": "https://www.meng.ucla.edu/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can only apply to one MENG program within the UCLA Samueli School of Engineering per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "Not used",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of California, Los Angeles",
+    "学位": "M.A.S.D.S",
+    "专业英文名称": "Master of Applied Statistics and Data Science",
+    "所属院系": "物理科学学院",
+    "招生网址": "https://grad.ucla.edu/programs/physical-sciences/statistics-and-data-science-department/statistics-master-of-applied-statistics-and-data-science/",
+    "专业网址": "https://master.stat.ucla.edu/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "UCLA permits only one graduate program application per academic year across the entire university.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may apply to only one graduate program per academic year at UCLA.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Rice University",
+    "学位": "MDS",
+    "专业英文名称": "Master of Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://cs.rice.edu/academics/graduate-programs/admission/graduate-program-application",
+    "专业网址": "https://cs.rice.edu/academics/graduate-programs/professional-master-data-science",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may apply to multiple graduate programs at Rice University, with each application reviewed independently.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can only apply to one program per academic year within the same department at Rice University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants can apply to a maximum of two programs at Rice University within the same application year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Vanderbilt University",
+    "学位": "MS",
+    "专业英文名称": "Data Science ",
+    "所属院系": "文理学院",
+    "招生网址": "https://www.vanderbilt.edu/datascience/msprogram/admissions/",
+    "专业网址": "https://www.vanderbilt.edu/datascience/msprogram/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may apply to only one degree program at Vanderbilt University per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Vanderbilt University's Graduate School allows applicants to apply to only one program per application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one graduate program application per academic year is allowed at Vanderbilt University.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nUniversity of Notre Dame",
+    "学位": "PHD",
+    "专业英文名称": "PHD IN ANALYTICS",
+    "所属院系": "商学院",
+    "招生网址": "https://graduateschool.nd.edu/degree-programs/analytics-phd---doctoral/",
+    "专业网址": "https://mendoza.nd.edu/research-faculty/academic-departments/phd-analytics/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants can only apply to one program per academic year across the University of Notre Dame Graduate School.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one degree program per academic year can be applied to at the University of Notre Dame.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Applicants can only apply to one PhD area within the Mendoza College of Business.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nUniversity of Notre Dame",
+    "学位": "M.S.",
+    "专业英文名称": "Applied and Computational Mathematics ",
+    "所属院系": "理学院",
+    "招生网址": "https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/",
+    "专业网址": "https://acms.nd.edu/graduate/professional-masters-programs/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one program application per application cycle is allowed by the University of Notre Dame.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "University of Notre Dame Graduate School allows only one application per applicant per academic year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may apply to only one graduate program at the University of Notre Dame in a given application cycle.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nUniversity of Notre Dame",
+    "学位": "M.S.",
+    "专业英文名称": "Applied and Computational Mathematics ",
+    "所属院系": "理学院",
+    "招生网址": "https://graduateschool.nd.edu/degree-programs/applied-and-computational-mathematics-and-statistics-ms---masters-professional/",
+    "专业网址": "https://acms.nd.edu/graduate/professional-masters-programs/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants can only apply to one graduate program per admission cycle at the University of Notre Dame.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one application per academic year is permitted for any graduate program at the University of Notre Dame.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Multiple applications are allowed, but each program requires a separate application and fee.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MENG",
+    "专业英文名称": "Data Science and Machine Learning",
+    "所属院系": "工程学院",
+    "招生网址": "https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/apply-for-grad/apply-for-meng/",
+    "专业网址": "https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/about-the-master-of-engineering-meng-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may apply to more than one master's program at the University of Michigan.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "Ph.D",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/phd-program/phd-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/phd-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Applicants can only submit one application to a given department or program at the University of Michigan.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints. University of Michigan Rackham Graduate School allows applicants to apply to more than one program, requiring a separate application and fee for each.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MS",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The University of Michigan's Rackham Graduate School explicitly allows applying to multiple graduate programs simultaneously.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MSE",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Only one application per department is allowed per term at the University of Michigan Rackham Graduate School.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You can only apply to one graduate degree program (either the MS or PhD) within the Industrial and Operations Engineering department per application year.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MS",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may apply to more than one graduate program at the University of Michigan, with each program requiring a separate application and fee.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Only one Rackham degree program application is permitted per term at the University of Michigan.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "University of Michigan, Ann Arbor only allows one application to one graduate degree program per academic term within the Rackham Graduate School.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Michigan, Ann Arbor",
+    "学位": "MSE",
+    "专业英文名称": "Industrial and Operations Engineering",
+    "所属院系": "工程学院",
+    "招生网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-admissions-planning/",
+    "专业网址": "https://ioe.engin.umich.edu/graduate/masters-program/masters-program-curriculum/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "Applicants may apply to more than one program for the same term at the University of Michigan Rackham Graduate School, which oversees the IOE program.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Only one application may be submitted to the Rackham Graduate School per academic year, but up to two program choices can be indicated on that single application.",
+        "url_context": "None",
+        "search_queries": "Not used",
+        "search_pages": "Not used",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

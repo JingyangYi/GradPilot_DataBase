@@ -1,0 +1,322 @@
+[
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "招生网址": "https://seas.harvard.edu/masters-data-science/how-apply",
+    "专业网址": "https://seas.harvard.edu/masters-data-science",
+    "网申地址": "https://apply.gsas.harvard.edu/portal/apply_now",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://gsas.harvard.edu/apply",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science SEAS 约翰·保尔森工程与应用科学学院 application portal', 'Harvard Griffin GSAS Application Instruction and Information page']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTF4Z33XIH1kRuKeNSWgWgKSa7n-VAXOytdwj1cnLbkZ8_qLQ6a_wBn0KKDFwj0k_lUfxaYwj0Ou7GgdSr1KcYai8XCDu61tPY_iOkwDxnn0T98jCgn30Z7qaFdsRmwZoO9Yu2SZL1NqOe', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science SEAS 约翰·保尔森工程与应用科学学院 application portal', 'Harvard Kenneth C. Griffin Graduate School of Arts and Sciences application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='harvard.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTF4Z33XIH1kRuKeNSWgWgKSa7n-VAXOytdwj1cnLbkZ8_qLQ6a_wBn0KKDFwj0k_lUfxaYwj0Ou7GgdSr1KcYai8XCDu61tPY_iOkwDxnn0T98jCgn30Z7qaFdsRmwZoO9Yu2SZL1NqOe'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://www.gsas.harvard.edu/apply",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://seas.harvard.edu/masters-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science SEAS 约翰·保尔森工程与应用科学学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Harvard John A. Paulson School of Engineering and ...', uri='https://seas.harvard.edu/masters-data-science/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master&#39;s in Data Science | Harvard SEAS', uri='https://seas.harvard.edu/masters-data-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "Harvard Extension School",
+    "招生网址": "https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/",
+    "专业网址": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "网申地址": "https://extension.harvard.edu/login/",
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://my.extension.harvard.edu/\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "https://my.dce.harvard.edu/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School application portal', 'Harvard Extension School MyDCE login']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://my.dce.harvard.edu/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://extension.harvard.edu/academics/programs/data-science-graduate-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Harvard University MS Data Science Harvard Extension School application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Graduate Program Admissions | Harvard Extension School', uri='https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science Master&#39;s Degree Program | Harvard Extension School', uri='https://extension.harvard.edu/academics/programs/data-science-graduate-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://gradadmissions.stanford.edu/apply/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 工程学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "https://gradadmissions.stanford.edu/apply/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcOyPlQLW5mafMkc22vQfhnA6vO8hvT5PqfknQd6-nHL7crhigF_D-qM1HyN3Qsr_qqsk7KAglhV2PJjhuSbdqqeASw-4SnyIXULQ0deazQiEYdf9nyXStB4ThE9BvLlF6JjjM1yYtBioBW5TDrA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science Engineering School application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcOyPlQLW5mafMkc22vQfhnA6vO8hvT5PqfknQd6-nHL7crhigF_D-qM1HyN3Qsr_qqsk7KAglhV2PJjhuSbdqqeASw-4SnyIXULQ0deazQiEYdf9nyXStB4ThE9BvLlF6JjjM1yYtBioBW5TDrA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://gradadmissions.stanford.edu/apply/apply-now",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-graduate-program-application', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://icme.stanford.edu/academics-admission/icme-master-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 工程学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Graduate Program Application | Institute for Computational ...', uri='https://icme.stanford.edu/academics-admission/icme-graduate-program-application')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ICME Master of Science | Institute for Computational &amp; Mathematical ...', uri='https://icme.stanford.edu/academics-admission/icme-master-science'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "人文科学学院",
+    "招生网址": "https://statistics.stanford.edu/msadmissionsms/how-apply",
+    "专业网址": "https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2nMXsWRD_puIqMKy1s7_V5nf0RQra3NLXb_CUbnr3E44C3hECJi6YUxuGprkHRn9G7URWv42QQxZ-ts_-a6qWKS1DI1DjmQfId4YLFIoChzX-0AV8lNv_xyhj5Hi5VLomU82OSL0VRCn8WK80tA==\n",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2nMXsWRD_puIqMKy1s7_V5nf0RQra3NLXb_CUbnr3E44C3hECJi6YUxuGprkHRn9G7URWv42QQxZ-ts_-a6qWKS1DI1DjmQfId4YLFIoChzX-0AV8lNv_xyhj5Hi5VLomU82OSL0VRCn8WK80tA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2nMXsWRD_puIqMKy1s7_V5nf0RQra3NLXb_CUbnr3E44C3hECJi6YUxuGprkHRn9G7URWv42QQxZ-ts_-a6qWKS1DI1DjmQfId4YLFIoChzX-0AV8lNv_xyhj5Hi5VLomU82OSL0VRCn8WK80tA=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "https://gradadmissions.stanford.edu/apply/apply-now",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsY15wVdY2WF7klS3jnEz6UfgXYT0dOEspe4_Jtcsoqgv0g1B1o9B4XrIEEhvWMDJJOocV5QmsY_Ql7aBOxNB3fOHOw7FL8jT12_v9VUwcpQlfEk9RZuRraNnVVUZcgJsiIIPp4OzIpO-M1--1lA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsY15wVdY2WF7klS3jnEz6UfgXYT0dOEspe4_Jtcsoqgv0g1B1o9B4XrIEEhvWMDJJOocV5QmsY_Ql7aBOxNB3fOHOw7FL8jT12_v9VUwcpQlfEk9RZuRraNnVVUZcgJsiIIPp4OzIpO-M1--1lA=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://gradadmissions.stanford.edu/how-to-apply/apply-now",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://statistics.stanford.edu/msadmissionsms/how-apply', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKMAt7l6rV4QtAymHwIj6p-ko6GciRsGz74I-YRSJLkTDoXY8KtlnGJAY9HCdUmQ7Jn4GB_4ViZv05cUYBs7SWAtQKoN8mjcWRdGZq0_aPziA-b0cEKveyF0i54l8PNZd3Howi8NqgUmUliCsH4Q==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Stanford University MS Data Science 人文科学学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Department of Statistics', uri='https://statistics.stanford.edu/msadmissionsms/how-apply')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics Data Science Curriculum (2023-24) | Department of Statistics', uri='https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='stanford.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKMAt7l6rV4QtAymHwIj6p-ko6GciRsGz74I-YRSJLkTDoXY8KtlnGJAY9HCdUmQ7Jn4GB_4ViZv05cUYBs7SWAtQKoN8mjcWRdGZq0_aPziA-b0cEKveyF0i54l8PNZd3Howi8NqgUmUliCsH4Q=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "MS",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/terminal-ma-program",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVeZrJt4DaNDGNFxw4aJuqpE9W_u2ymkuE-cBzsn-uYb3bCu8GSiajffnZLz92bFbtotcynjCRwbQ3uEY4wliIZ6mI2S_1qdH6v3QQ0cMuEepAJIL6dPirnUslEfU=",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/terminal-ma-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Terminal MA/MS Programs | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/terminal-ma-program'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELuYEwiZmEwdvVsnG8iRv7CVakl4kZxU25wKdWTdpxXYWqM6ZZrBNCBYsRZPuDQLPIQsDyUrb8BcUGcrs61OvpP_uzDlp5nT1XDLGVx_QwviQC6roibZdX2qNLOwQ=\n",
+        "url_context": "None",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 application portal']",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://apply.gsas.yale.edu/apply/\n",
+        "url_context": "None",
+        "search_queries": "Search Query: ['Yale University MS Statistics and Data Science 艺术与科学研究生院 application portal']",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Statistics and Data Science",
+    "所属院系": "艺术与科学研究生院",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+    "专业网址": "https://statistics.yale.edu/academics/phd-program",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrOL0BArT3AF_VTtx1lURZKviAyX5BHjQC3drGXSzVj7NQimf5nPMJ4_5tpXL1ki7L-SCu70UloXXb4ReE8v5ul60n4j3FYO4DgWTCh6BK2ThmIkIedtReby6YSY=",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrOL0BArT3AF_VTtx1lURZKviAyX5BHjQC3drGXSzVj7NQimf5nPMJ4_5tpvXL1ki7L-SCu70UloXXb4ReE8v5ul60n4j3FYO4DgWTCh6BK2ThmIkIedtReby6YSY=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 application portal', 'Yale University Graduate School application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrOL0BArT3AF_VTtx1lURZKviAyX5BHjQC3drGXSzVj7NQimf5nPMJ4_5tpvXL1ki7L-SCu70UloXXb4ReE8v5ul60n4j3FYO4DgWTCh6BK2ThmIkIedtReby6YSY='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTSxHonSaXu9yDrcVSGyPaua4Pm2L9AZTHLr_OstZNgnD-bC9xru5vjDL4xdHLmWHgh12dumFPlJ5PEU6RsYDbPIU_4vsVUjrvJzL_pNBTOiVXWGSIfQxWmQPzDs=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://gsas.yale.edu/programs-of-study/statistics-data-science', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://statistics.yale.edu/academics/phd-program', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTSxHonSaXu9yDrcVSGyPaua4Pm2L9AZTHLr_OstZNgnD-bC9xru5vjDL4xdHLmWHgh12dumFPlJ5PEU6RsYDbPIU_4vsVUjrvJzL_pNBTOiVXWGSIfQxWmQPzDs=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 application portal', 'Yale Graduate School Office of Admissions online application page', \"Yale Graduate School PhD/Master's Application Process\"]",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTSxHonSaXu9yDrcVSGyPaua4Pm2L9AZTHLr_OstZNgnD-bC9xru5vjDL4xdHLmWHgh12dumFPlJ5PEU6RsYDbPIU_4vsVUjrvJzL_pNBTOiVXWGSIfQxWmQPzDs=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics &amp; Data Science | Yale Graduate School of Arts and Sciences', uri='https://gsas.yale.edu/programs-of-study/statistics-data-science')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Program | Department of Statistics and Data Science', uri='https://statistics.yale.edu/academics/phd-program')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='yale.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzTSxHonSaXu9yDrcVSGyPaua4Pm2L9AZTHLr_OstZNgnD-bC9xru5vjDL4xdHLmWHgh12dumFPlJ5PEU6RsYDbPIU_4vsVUjrvJzL_pNBTOiVXWGSIfQxWmQPzDs='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://apply.yale.edu/",
+        "url_context": "None",
+        "search_queries": "Search Query: ['Yale University PH.D. Statistics and Data Science 艺术与科学研究生院 application portal', 'Yale University graduate school application login portal']",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Statistics and Data Science ",
+    "所属院系": "商学院",
+    "招生网址": "https://doctoral.wharton.upenn.edu/application-requirements/",
+    "专业网址": "https://doctoral.wharton.upenn.edu/statistics/",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania PHD Statistics and Data Science 商学院 application portal', 'Wharton PhD Statistics and Data Science Apply Now portal', 'University of Pennsylvania Wharton PhD Statistics and Data Science application login', 'University of Pennsylvania Wharton PhD Statistics and Data Science applyweb']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "https://www.applyweb.com/upennwhar/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania PHD Statistics and Data Science 商学院 application portal', 'Wharton Doctoral Program Apply Now']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://apply.applyweb.com/whartonphd/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/application-requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://doctoral.wharton.upenn.edu/statistics/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania PHD Statistics and Data Science 商学院 application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Requirements - Doctoral', uri='https://doctoral.wharton.upenn.edu/application-requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Statistics and Data Science - Doctoral', uri='https://doctoral.wharton.upenn.edu/statistics/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradadm.seas.upenn.edu/how-to-apply/",
+    "专业网址": "https://dats.seas.upenn.edu/",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH56ZHAYBEU98vUT6hdMj9y_pKWzeqD1SuQFqNyvIpcpcTrJCAv2oTfCYH6bzLi4-tXrgo72MmzQ6-VIvL6OD7p-RD9OJglYnrlOtUfSPHac81DdKfyEArXmIae6FfbAgTtj1r_RmbK",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGigBSFhsH8gZjwwhuBGTDGz6d2pJRwI6EEtydxmY-24RtE9BN3Ckce7U0M7C1jYsQ2bXvuZrgE8W0Gy6X72FT3iN_SFkrjjYFoGWWk6hJw8Y00cJUzGp4MpIbBY=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH56ZHAYBEU98vUT6hdMj9y_pKWzeqD1SuQFqNyvIpcpcTrJCAv2oTfCYH6bzLi4-tXrgo72MmzQ6-VIvL6OD7p-RD9OJglYnrlOtUfSPHac81DdKfyEArXmIae6FfbAgTtj1r_RmbK', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXUSe6ET1bWPOqLAubrcmdMJofDONSCWVT3haxFfM6o80Qiiz0dhstlxkUxINriIYkYe4O2NUMU7sAkOOKM8_Rxd4TJhErm_KXDq_mngJ3dG4cQVVh5WTMlnYoConY9rPjR3zr', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania MSE Data Science 工程学院 application portal', 'University of Pennsylvania School of Engineering graduate application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='upenn.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGigBSFhsH8gZjwwhuBGTDGz6d2pJRwI6EEtydxmY-24RtE9BN3Ckce7U0M7C1jYsQ2bXvuZrgE8W0Gy6X72FT3iN_SFkrjjYFoGWWk6hJw8Y00cJUzGp4MpIbBY=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='upenn.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH56ZHAYBEU98vUT6hdMj9y_pKWzeqD1SuQFqNyvIpcpcTrJCAv2oTfCYH6bzLi4-tXrgo72MmzQ6-VIvL6OD7p-RD9OJglYnrlOtUfSPHac81DdKfyEArXmIae6FfbAgTtj1r_RmbK')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='applyweb.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXUSe6ET1bWPOqLAubrcmdMJofDONSCWVT3haxFfM6o80Qiiz0dhstlxkUxINriIYkYe4O2NUMU7sAkOOKM8_Rxd4TJhErm_KXDq_mngJ3dG4cQVVh5WTMlnYoConY9rPjR3zr'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "https://gradadm.seas.upenn.edu/app/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania MSE Data Science 工程学院 application portal', 'Penn Engineering Graduate Admissions application login']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLSctfbuf1CqEsvBY0URkrx3nhqXP-oR85ljcckQjfUBV9h5dP9Y67-MIH71J8MboDbL8LAD2P-owyWv3bzZ3RMIilAsRj99VowramXCFNSgEzXr5dwv6V0264311lpia4QlrGRAw0",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://dats.seas.upenn.edu/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://gradadm.seas.upenn.edu/how-to-apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLSctfbuf1CqEsvBY0URkrx3nhqXP-oR85ljcckQjfUBV9h5dP9Y67-MIH71J8MboDbL8LAD2P-owyWv3bzZ3RMIilAsRj99VowramXCFNSgEzXr5dwv6V0264311lpia4QlrGRAw0', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['University of Pennsylvania MSE Data Science 工程学院 application portal', 'Penn Engineering Graduate Admissions online application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='MSE in Data Science', uri='https://dats.seas.upenn.edu/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='How to Apply | Penn Engineering Graduate Admissions', uri='https://gradadm.seas.upenn.edu/how-to-apply/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='upenn.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLSctfbuf1CqEsvBY0URkrx3nhqXP-oR85ljcckQjfUBV9h5dP9Y67-MIH71J8MboDbL8LAD2P-owyWv3bzZ3RMIilAsRj99VowramXCFNSgEzXr5dwv6V0264311lpia4QlrGRAw0'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "MS",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/",
+    "专业网址": "https://ece.duke.edu/academics/masters/ms/",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://gradapply.duke.edu/apply/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk0ro7LCArv-4VYTZAQ4JlvQiJShcztEhp8hto0wgg6NKspLIgwzDoTNSTEzVhNCzeESa4Yi8v40VERCBfTrXgxcY-t5fXgsVGIVvjv2YVANalRcOghBmSJUK3gTCxJ5myieHajyEpzjg_Jtn_US_qf_45Q_vT', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO6Qx9FaB-C9-TEsmCP1AH306XFh4LMbyNfH5caF8VHtUauw5vudzuLA9vAzZIntpkwKcI9zuI659lKC2Yn-8OoIP-8omyqrSrxoJqK6JzyCJRkUfd7JoMFw67IqTPbbyH3mk=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEopP9jcuSYwrKd3e6E6wuawJU7_Z2p7UuSCFFoFXSGE3M2UjL160bL5630pw6yBDGGmWM_1HKmKwFzCo_ukPJsbk9jPLzEZOMpYQupqil5Xx5NEA6KQDuw9hIffqig8E5BISEBhId05yod2cBYNWwGG33xQzwJppRAPv8=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgx7dirRcinGYScHUJ8wYNYPPdn-E-rtPegXAJ1KnRdtAte1mDv7g39UbTRegTwZ3FxRVuz2XM-rkp6MDIM3LnueqjY8g2iBbefXbcYSV31rxlQBjHM9yq0Tw=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 application portal', 'Duke University graduate application portal', 'Duke OneLink application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='dukekunshan.edu.cn', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk0ro7LCArv-4VYTZAQ4JlvQiJShcztEhp8hto0wgg6NKspLIgwzDoTNSTEzVhNCzeESa4Yi8v40VERCBfTrXgxcY-t5fXgsVGIVvjv2YVANalRcOghBmSJUK3gTCxJ5myieHajyEpzjg_Jtn_US_qf_45Q_vT')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO6Qx9FaB-C9-TEsmCP1AH306XFh4LMbyNfH5caF8VHtUauw5vudzuLA9vAzZIntpkwKcI9zuI659lKC2Yn-8OoIP-8omyqrSrxoJqK6JzyCJRkUfd7JoMFw67IqTPbbyH3mk=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEopP9jcuSYwrKd3e6E6wuawJU7_Z2p7UuSCFFoFXSGE3M2UjL160bL5630pw6yBDGGmWM_1HKmKwFzCo_ukPJsbk9jPLzEZOMpYQupqil5Xx5NEA6KQDuw9hIffqig8E5BISEBhId05yod2cBYNWwGG33xQzwJppRAPv8=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgx7dirRcinGYScHUJ8wYNYPPdn-E-rtPegXAJ1KnRdtAte1mDv7g39UbTRegTwZ3FxRVuz2XM-rkp6MDIM3LnueqjY8g2iBbefXbcYSV31rxlQBjHM9yq0Tw='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-pk2do1aa2BHMQRihqrbyIbAySu_OQc3TmshP6Pife5UWz4Vd5xc4iStee57mUzAqFjcc0J0d9wzhP9-Qgg5pmL5IYm1hkHtpdx6QK5Bz_VKm76E17VbiNBWRLmQu42F8eQ==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5pZZpVfn9GmehfhpM1vB9PQQQi3IEQBC30bPVuNOGRcBZNC8ySzPyC1BpcjduAnkox7ZEMHTF-jfDOEfIPoBwFCPi8y9OvlwERlru9DaMbxgnvZRdxiQ6jlFIuUYmyKyTapwB1zWeFLoUZEH9LCp5Ya8dOTZ835u2gQ==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://applygp.duke.edu/apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 application portal', 'Duke University Graduate School application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Science in ECE | Duke Electrical &amp; Computer Engineering', uri='https://ece.duke.edu/academics/masters/ms/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-pk2do1aa2BHMQRihqrbyIbAySu_OQc3TmshP6Pife5UWz4Vd5xc4iStee57mUzAqFjcc0J0d9wzhP9-Qgg5pmL5IYm1hkHtpdx6QK5Bz_VKm76E17VbiNBWRLmQu42F8eQ==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5pZZpVfn9GmehfhpM1vB9PQQQi3IEQBC30bPVuNOGRcBZNC8ySzPyC1BpcjduAnkox7ZEMHTF-jfDOEfIPoBwFCPi8y9OvlwERlru9DaMbxgnvZRdxiQ6jlFIuUYmyKyTapwB1zWeFLoUZEH9LCp5Ya8dOTZ835u2gQ=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFANE01BhSBjLa1_F6O-IlBLWX0Edb4CF212SaCM6ga_hWVSzp9qKXpnlno9GVtElx6rUtz7HGz5E6ORu4NLKCp70Jh88rr8jpGq1iBXboyLfrqkHT8ibURCfbukqLTwu9WAU2EIpHoGVzniwvjw6SaoPWuzw0=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University MS Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 application portal', 'Duke OneLink application portal', 'Duke Graduate School Application Management System']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Electrical and Computer Engineering | The Graduate School', uri='https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "Meng",
+    "专业英文名称": "Electrical and Computer Engineering-Machine Learning & Big Data",
+    "所属院系": "工程学院",
+    "招生网址": "https://masters.pratt.duke.edu/apply/requirements/",
+    "专业网址": "https://ece.duke.edu/academics/masters/meng/",
+    "网申地址": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 application portal', 'Duke University graduate school application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUjmH5ucWwNQjNwfNBvJpYQUHvUcIEdWrUTCH6Q8C1flcNhY9sGCW7Bp4OigzedMBjBGwdIJHYmieND-2VmCJ_ZgP1O-Ic6Ngk8GrCmyPmW6qXeXFlFbjD8kBWW4jNG0g7PSw=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEpCuMYoVlNJuMJuWc0IcGfW9VZRM9gNy0N1nT-q4hCZ45KODqT-s8tQykiY83sa9LytVcZiW7UQ1liwV8RtiWPNSagcmQinFISk3Bksp23kTMF8qOrFX-M7GIZVWvcpwjtDL0', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 application portal', \"Duke's online Application Management System login\", 'Duke OneLink account application login', 'Duke University graduate application portal']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUjmH5ucWwNQjNwfNBvJpYQUHvUcIEdWrUTCH6Q8C1flcNhY9sGCW7Bp4OigzedMBjBGwdIJHYmieND-2VmCJ_ZgP1O-Ic6Ngk8GrCmyPmW6qXeXFlFbjD8kBWW4jNG0g7PSw=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='duke-nus.edu.sg', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEpCuMYoVlNJuMJuWc0IcGfW9VZRM9gNy0N1nT-q4hCZ45KODqT-s8tQykiY83sa9LytVcZiW7UQ1liwV8RtiWPNSagcmQinFISk3Bksp23kTMF8qOrFX-M7GIZVWvcpwjtDL0'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "https://applygp.duke.edu/apply/",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://ece.duke.edu/academics/masters/meng/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://masters.pratt.duke.edu/apply/requirements/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyCAFbr11RjVnfNK2HIbeVW6fNKqR9rDvjy93xqZhKy9PYY0Eax3m8xxlaTQ0mMq1LC5OT-oPDIHCJM-9p1O5abH4giAWeZC-zJ69M9eIrKF-_3V6ovpZTuHOJA6516GH5hpBPkTQebPlLaL7jAAbDvYBoRQIN', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://applygp.duke.edu/apply/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Duke University Meng Electrical and Computer Engineering-Machine Learning & Big Data 工程学院 application portal', \"Duke's online Application Management System\"]",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering in ECE | Duke Electrical &amp; Computer ...', uri='https://ece.duke.edu/academics/masters/meng/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Application Instructions | Duke Engineering Master&#39;s Programs', uri='https://masters.pratt.duke.edu/apply/requirements/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='dukekunshan.edu.cn', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyCAFbr11RjVnfNK2HIbeVW6fNKqR9rDvjy93xqZhKy9PYY0Eax3m8xxlaTQ0mMq1LC5OT-oPDIHCJM-9p1O5abH4giAWeZC-zJ69M9eIrKF-_3V6ovpZTuHOJA6516GH5hpBPkTQebPlLaL7jAAbDvYBoRQIN')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Get Help - Duke University', uri='https://applygp.duke.edu/apply/'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

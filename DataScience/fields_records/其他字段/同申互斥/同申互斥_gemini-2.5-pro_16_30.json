@@ -1,0 +1,450 @@
+[
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "The AMS Department prefers that applicants apply to only one program within the AMS Department.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DUWnwS2snfz__pWTarxpXaCr5dYyw9gP6NI6X_kier3n6E6FCcM-7RanE1sQeDeiFm_x2jHvS61pWy5yh2_FRuXtiBMfm2JhD8QtG93AWvGT5GblMptUFvMonwyFXv8cl_Id5-eECJYJbKuxLjDzQhPxlj4H8ALU5PH533JMzvfpCISWx8UZskKuIieXaxdpdLzblqUCpokE', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRaLZre8Vk601S9ZA4Na3HY25kArQLQUUbRhbfzTfJuIMEIpIu4cQ6p02Tc_vBFEq_4PVNnzUjL_Ljs2BWI9qD2jUV5DESrqW_RotPd1MTAW8IzxjzizG7FOIK_GqPQGgE7VMmz6-elSvvqxXostAD0fbfqV5Ky-EFbC2rfGMIBiZ2lLujNb-Eang=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DUWnwS2snfz__pWTarxpXaCr5dYyw9gP6NI6X_kier3n6E6FCcM-7RanE1sQeDeiFm_x2jHvS61pWy5yh2_FRuXtiBMfm2JhD8QtG93AWvGT5GblMptUFvMonwyFXv8cl_Id5-eECJYJbKuxLjDzQhPxlj4H8ALU5PH533JMzvfpCISWx8UZskKuIieXaxdpdLzblqUCpokE')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRaLZre8Vk601S9ZA4Na3HY25kArQLQUUbRhbfzTfJuIMEIpIu4cQ6p02Tc_vBFEq_4PVNnzUjL_Ljs2BWI9qD2jUV5DESrqW_RotPd1MTAW8IzxjzizG7FOIK_GqPQGgE7VMmz6-elSvvqxXostAD0fbfqV5Ky-EFbC2rfGMIBiZ2lLujNb-Eang='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science application constraints', 'Johns Hopkins University Whiting School of Engineering graduate application policies']",
+        "search_pages": "Search Chunks: None",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The AMS Department prefers that applicants apply to only one program within the AMS Department.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm2zO8BP3-o7GR64rV7zRJqaJQv-gDH555gdI4Y7Ao-jkgI9vEJnQf5Cmm4CjYmVZta0J-vhPLRo2bqECJ8EGAWO9VXXx8tL3krm7osZlQBhq3S8uQydbutuhN9oPNP61wKXQbUhF5-TiYD4lnMdUL3I8UOcpR3ZAtkRLqRaJ_dGxvFl8F5G1av28rheSbGOptHUL45MtOTMq0', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvYCZN9sR0C_5igz7meiJckKQ2zdPGXFWco5qM9ZWg_2TiO1BPybujd0cD1H7Uu1oPfi6kUja9Mox9S2mKiAjLRnrHt-OP0NIDqhUPSjoSXZeDvlgJyHgpgSLg8M8PJ5aiyMQAZRIUe_s_tgC6tUoXnTsmFCz18aDYSPmxc0As97652lpHwstoIBA=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm2zO8BP3-o7GR64rV7zRJqaJQv-gDH555gdI4Y7Ao-jkgI9vEJnQf5Cmm4CjYmVZta0J-vhPLRo2bqECJ8EGAWO9VXXx8tL3krm7osZlQBhq3S8uQydbutuhN9oPNP61wKXQbUhF5-TiYD4lnMdUL3I8UOcpR3ZAtkRLqRaJ_dGxvFl8F5G1av28rheSbGOptHUL45MtOTMq0')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvYCZN9sR0C_5igz7meiJckKQ2zdPGXFWco5qM9ZWg_2TiO1BPybujd0cD1H7Uu1oPfi6kUja9Mox9S2mKiAjLRnrHt-OP0NIDqhUPSjoSXZeDvlgJyHgpgSLg8M8PJ5aiyMQAZRIUe_s_tgC6tUoXnTsmFCz18aDYSPmxc0As97652lpHwstoIBA='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHly7Yp0s1EFcyWFsb29HnuHyK9MhUCGvK_2lVcCJSoAY5vTAXECB8z6HN9GJ89sh8AgUPKtHkWw_HAFzo0eunF6F-POOIo67xbXNoUiHRYxqTIirKGrU8ZVe0yRI8QMBbfgqqbcNxyB33kS_Ikb5CRL5HJ7f8X_4tD8tVDfcHp-0zMNpMnGV3WyUvmwX2t', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwSoBWV0bwWa6PRhpenmxMnYSVK-Jrm6PxC2b9-8TRFWhCG__W6K6WXTSfDFk5b59zYgQL8wLl2iMzLEBRDhN3gMvqH__RKfM_ePfnIc0Av8bx6o2mkX8bdYA_4JN9Z5mueRbOOCEC11XGrWvm2WDDFz9Xv4d_7j0FbEuQgMcZ12BToFufPHaM2UQg-sdlO_Q6Dec58h5R6-zhHA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Johns Hopkins University MSE Data Science 工程学院 addmission frequently asked questions\"', '\"Johns Hopkins Whiting School of Engineering graduate admissions FAQ\"', 'Johns Hopkins Whiting School of Engineering graduate admissions', 'Johns Hopkins Applied Mathematics and Statistics graduate admissions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jh.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHly7Yp0s1EFcyWFsb29HnuHyK9MhUCGvK_2lVcCJSoAY5vTAXECB8z6HN9GJ89sh8AgUPKtHkWw_HAFzo0eunF6F-POOIo67xbXNoUiHRYxqTIirKGrU8ZVe0yRI8QMBbfgqqbcNxyB33kS_Ikb5CRL5HJ7f8X_4tD8tVDfcHp-0zMNpMnGV3WyUvmwX2t'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "The AMS Department prefers that applicants apply to only one program within the AMS Department.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgSJRQGOzlty3Ze2VZQ6qrkhXYtVTvVF0YZKZKWqErXG1DCX-4-pxYNmRCVNgqqr2c89evKS2TrpyfbZkqTwpHaDHmtqdITBWGdN5paA1Q0uV59UUK69eX-_-a9CluGZgQoXLdm7HxCL5-JKzKCvu4nD-2Oe3rVGk5Hll96G1L_2sturSaL7wd4IO6xHZ1mxHz7vmhUbtUCcXF', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCZ7-jY7M9qKgxyPpSXjRTbe4zl9Lw55z4HfhE98njIXJpA8gTvWrSDLn7sH8uw6uZDOdwXL-rJgfembthn02Xt0TfhEYiv4Pe7-qzeAjvNTtqR6aofSvjXDCAVHLSk_JsXtATtUqUTRVsUCMUBFTrsVh7lhJSF4E4EhqVYo4vpzHWh7gPIG_U8eM=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgmxQ9f88FIvoYuVBvvIdtPRd74gnJkatA7x1QaleBuv08GO1213w-ulUdGBSu-6W0REWViOhVpFhj4PzpAfNJzoNxtyRTo7ZqtCE4z50Qb2evuyYB3Toy22oJ0CAEXgCgzad15-aYjEnFUFdLyzpvIDwni1l1vRUX', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Qf68Ik-T0P4wHD3BJ6cpzTuoCGtSjHRucjVg-of18GgH0bDIuGDXxrirabCX5hrkr3PGajAqe1zZR5g-4Oo3aTClmIcwc4qVKQ47F6GuAdg7S5q5CQPM_qvPh9BZP5Q0A7w2YxGBbHxUNemQmGS7eyCVCbMfReF-x6ZfYA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgSJRQGOzlty3Ze2VZQ6qrkhXYtVTvVF0YZKZKWqErXG1DCX-4-pxYNmRCVNgqqr2c89evKS2TrpyfbZkqTwpHaDHmtqdITBWGdN5paA1Q0uV59UUK69eX-_-a9CluGZgQoXLdm7HxCL5-JKzKCvu4nD-2Oe3rVGk5Hll96G1L_2sturSaL7wd4IO6xHZ1mxHz7vmhUbtUCcXF')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCZ7-jY7M9qKgxyPpSXjRTbe4zl9Lw55z4HfhE98njIXJpA8gTvWrSDLn7sH8uw6uZDOdwXL-rJgfembthn02Xt0TfhEYiv4Pe7-qzeAjvNTtqR6aofSvjXDCAVHLSk_JsXtATtUqUTRVsUCMUBFTrsVh7lhJSF4E4EhqVYo4vpzHWh7gPIG_U8eM=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ymgrad.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgmxQ9f88FIvoYuVBvvIdtPRd74gnJkatA7x1QaleBuv08GO1213w-ulUdGBSu-6W0REWViOhVpFhj4PzpAfNJzoNxtyRTo7ZqtCE4z50Qb2evuyYB3Toy22oJ0CAEXgCgzad15-aYjEnFUFdLyzpvIDwni1l1vRUX')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='leverageedu.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9Qf68Ik-T0P4wHD3BJ6cpzTuoCGtSjHRucjVg-of18GgH0bDIuGDXxrirabCX5hrkr3PGajAqe1zZR5g-4Oo3aTClmIcwc4qVKQ47F6GuAdg7S5q5CQPM_qvPh9BZP5Q0A7w2YxGBbHxUNemQmGS7eyCVCbMfReF-x6ZfYA=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The AMS Department prefers that applicants apply to only one program within the AMS Department.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM3-sGc9R_Q5oDVnGx1pN76Lw9wh8d98CSl3Xb7MIT8HGupuxVo2_DLf5hR8a6ceuHZ_Ze2JO3qbfM0eTmsf0SKTuPmHTVUipE9jHmcEmyBvRUoaMAgG4kK95vHrnu5UIKrsmPVvM2QU8sEdgBxfBPE01LWRQ7BX1WUymQN1NsXon9ifFVUca5v4HML2VpTt3_lLxz57AXUn9OXw==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJHYaqckE7LcHrYz0-uOXF4X_v_fQ2pOWkbVB2USDRZeXPKeMKrzPYbZVKSHI4t2r6viaTGvWBn08jdh085t3OYNLECBA22KkqNDlAvidJijvoik9LyegHdZEaQB4-crzTOvaXmw1tt18HJmFI4I3JRR8Sm5zod0qOVA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFObShXwJM2r04L3b6E-BsmUMSfkZOunustqVicK2GFwKF7ON7xfMRfkVEGS4MNSObUpBJNWxNUcDf2SCcOdOOhqvrUow62wTpn7HBJdhDMX2ygdKXoqA6apxMf-B7veklWr3pcI_oku9kYYjItnVVOW4Ur67_EaRvqXdCvk58=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSE Data Science 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Data Science MSE | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM3-sGc9R_Q5oDVnGx1pN76Lw9wh8d98CSl3Xb7MIT8HGupuxVo2_DLf5hR8a6ceuHZ_Ze2JO3qbfM0eTmsf0SKTuPmHTVUipE9jHmcEmyBvRUoaMAgG4kK95vHrnu5UIKrsmPVvM2QU8sEdgBxfBPE01LWRQ7BX1WUymQN1NsXon9ifFVUca5v4HML2VpTt3_lLxz57AXUn9OXw==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='ymgrad.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJHYaqckE7LcHrYz0-uOXF4X_v_fQ2pOWkbVB2USDRZeXPKeMKrzPYbZVKSHI4t2r6viaTGvWBn08jdh085t3OYNLECBA22KkqNDlAvidJijvoik9LyegHdZEaQB4-crzTOvaXmw1tt18HJmFI4I3JRR8Sm5zod0qOVA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='leverageedu.com', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFObShXwJM2r04L3b6E-BsmUMSfkZOunustqVicK2GFwKF7ON7xfMRfkVEGS4MNSObUpBJNWxNUcDf2SCcOdOOhqvrUow62wTpn7HBJdhDMX2ygdKXoqA6apxMf-B7veklWr3pcI_oku9kYYjItnVVOW4Ur67_EaRvqXdCvk58='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Students applying to more than one department must submit a separate application for each department.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 addmission frequently asked questions\"', 'Johns Hopkins University Whiting School of Engineering graduate admissions FAQ']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jh.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs1ygkB3sVEs6bbKCb8HgxBb4u01KW38grtNAKtNif6j6ol-YhJXASetrLX6M4XgY1ftbPHAHXBG3ogCOheLAH_OxZsaux4LK7C164YL8DOUObQAx0Mvs1CBKFz4lT7bYsY-liSRO209RZ2--AWl6J8SL6lIothnwB6dRtDwJCYyxwEO6F-tLblbKResXClw=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['\"Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 addmission frequently asked questions\"', 'Johns Hopkins University Applied Mathematics and Statistics PhD admissions FAQ']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "The AMS Department prefers that applicants apply to only one program within the AMS Department.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ZQrE9uOJr448YpJvYivtpzjbCgq0H3NakC9qN_AkN_uLmfXbYUdycL_iYqFpsAenpXp4dl2IRzd4mZU8ZKv0I_YqG9fVRMejZSaNG4VRsztIPYM709lObNnbWLcAFiXYYl8ByVpK5FrP-5zaCE_Uy2QstXyMrGZST3yIo2UBLvdtRyknW82e8RaK', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOfYUsN-9Yrh2O0Ol6uORaqX_9leE2BFEz97zYGRn8To8m8-oJk5cTNgaewth5Fo6XfNdsbyriAYkZh4Jj9P1-EolNREPretnBM6yL9XTuVdPUtRwd47YF9XQuFro_vehCwWIZ8HT3TKhl4ZFmvOIkc0r1mnkKw78-LnMgzCGw4Q3-hxJK9BHM_lcW5c1lFjgDJcHkZhiVzGcJ', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University PHD Applied Mathematics and Statistics 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PhD Program | Department of Applied Mathematics and Statistics', uri='https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOfYUsN-9Yrh2O0Ol6uORaqX_9leE2BFEz97zYGRn8To8m8-oJk5cTNgaewth5Fo6XfNdsbyriAYkZh4Jj9P1-EolNREPretnBM6yL9XTuVdPUtRwd47YF9XQuFro_vehCwWIZ8HT3TKhl4ZFmvOIkc0r1mnkKw78-LnMgzCGw4Q3-hxJK9BHM_lcW5c1lFjgDJcHkZhiVzGcJ')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ZQrE9uOJr448YpJvYivtpzjbCgq0H3NakC9qN_AkN_uLmfXbYUdycL_iYqFpsAenpXp4dl2IRzd4mZU8ZKv0I_YqG9fVRMejZSaNG4VRsztIPYM709lObNnbWLcAFiXYYl8ByVpK5FrP-5zaCE_Uy2QstXyMrGZST3yIo2UBLvdtRyknW82e8RaK'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSEM",
+    "专业英文名称": "Master of Science in Global Innovation and Leadership：Technical Concentrations",
+    "所属院系": "工程学院",
+    "招生网址": "https://msil.engineering.jhu.edu/admissions/",
+    "专业网址": "https://msil.engineering.jhu.edu/academics/technical-track/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbW_0U8WNv5zESrA5zpQylWCakRXAMJUBNnR3KzQNI3zaXLSI-ykj_PN6RvsffdEZNzXZHGtP5jir3c9VazK8thaNsCfxoWqnT8PRaby4m6rcTNFzweosfAV1gAP7zdsBpG_lxMAnKFkGSzlX60x-wXdwrsnkPwg==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSEM Master of Science in Global Innovation and Leadership：Technical Concentrations 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbW_0U8WNv5zESrA5zpQylWCakRXAMJUBNnR3KzQNI3zaXLSI-ykj_PN6RvsffdEZNzXZHGtP5jir3c9VazK8thaNsCfxoWqnT8PRaby4m6rcTNFzweosfAV1gAP7zdsBpG_lxMAnKFkGSzlX60x-wXdwrsnkPwg=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXEpOKqAilbWas40Iq26Saxm-017XzIxnj9jKcYOIn8KL0X3jbjaKjgZppryZFDwlX6Rx7v8LCvxQZhNjcSztg1zL4ka0rmbLspAap_NocYRyBZf_JGdMzBv-ynrAtr3jQVOtEzpBVoXOWsAG6dofMeHEXT7b', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSEM Master of Science in Global Innovation and Leadership：Technical Concentrations 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXEpOKqAilbWas40Iq26Saxm-017XzIxnj9jKcYOIn8KL0X3jbjaKjgZppryZFDwlX6Rx7v8LCvxQZhNjcSztg1zL4ka0rmbLspAap_NocYRyBZf_JGdMzBv-ynrAtr3jQVOtEzpBVoXOWsAG6dofMeHEXT7b'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://msil.engineering.jhu.edu/academics/technical-track/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC-78RuptlUX-jsNWp9FBx8ElFDM8WQXbW5PSXzaWqQnLLhg6sypV_SP-SbivXXkKaz4dXkjnux-5LERTjAAE5mzrVRQu95-wP_qtSegwFwNS4buPa1E06CpmziZUQGboCLvRorqf2c8dAnJf4Z-Edk8An5oyo', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Johns Hopkins University MSEM Master of Science in Global Innovation and Leadership：Technical Concentrations 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='jhu.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC-78RuptlUX-jsNWp9FBx8ElFDM8WQXbW5PSXzaWqQnLLhg6sypV_SP-SbivXXkKaz4dXkjnux-5LERTjAAE5mzrVRQu95-wP_qtSegwFwNS4buPa1E06CpmziZUQGboCLvRorqf2c8dAnJf4Z-Edk8An5oyo'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/m-s-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may only apply to one program at a time at Columbia Engineering for a given term.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Data Science 工程与应用科学研究生学院 addmission frequently asked questions', 'Columbia University Engineering Graduate Admissions FAQ']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHngmhULd6fOT5zjwIboQxwMKXNpnW3TakUovLBvpXrZrLMq-SCiaZQ7FxELRMP5Rm4FM3v-DyqfaUTWadS8DPcbUx9ADggA2wKuQ5V-qKHjOfLAjtu_UoTXc6WUQCzF7OW1_MXQQj9Keb17SnwYBp09RkvMvF1Uiq9mi2Q-NYntVjqDEBkJ1n1v5k_8BfH8JI8cQ=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may apply to only one program at a time at Columbia Engineering.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Data Science \"mutual exclusive application\" OR \"application constraints\" OR \"frequently asked questions\"']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoSPvhp77sCJ_H5f96dkSTn1VVQZ4ix1578wQH944NMBRTupRsFPlP5-y3m-5476o9mkUbDV9jgidgNwEtPDCxbkTNQfcUonGy3rwGviLwogLfqdgt0hxqmHNvi_R3-zriT_THJuJuWTZ7nOa3RoYoXDtdO93h6e1egHhkf_tyWqs8Woj3qi8Z_sF9QEmXgnIg'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may only apply to one program at a time at Columbia Engineering for a given term.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/m-s-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmliXiNxcEfoa0IH9Dv5LklKx6YulkBQ9-vg5SZvBIdUP1UUuWY0B9iYgL-goCWG9QbpUGAurprGZKhuA-3bC5Ni_vGSw3RP1M0Snm6aE2OcUEnbTlsvHXWRiMEYTIEhqtI1I4Y7qoZucoj6JSHuT9puXn4ITwoyYHrFhUOJuxr2ddkdmh3h4Wx5skGydbmhJ39A==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Data Science 工程与应用科学研究生学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions - The Data Science Institute at Columbia University', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/admissions/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.S. in Data Science - The Data Science Institute at Columbia ...', uri='https://datascience.columbia.edu/education/programs/m-s-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmliXiNxcEfoa0IH9Dv5LklKx6YulkBQ9-vg5SZvBIdUP1UUuWY0B9iYgL-goCWG9QbpUGAurprGZKhuA-3bC5Ni_vGSw3RP1M0Snm6aE2OcUEnbTlsvHXWRiMEYTIEhqtI1I4Y7qoZucoj6JSHuT9puXn4ITwoyYHrFhUOJuxr2ddkdmh3h4Wx5skGydbmhJ39A=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "The PhD specialization in Data Science",
+    "所属院系": "工程与应用科学研究生学院",
+    "招生网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "专业网址": "https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No, you may apply to only one program at a time at Columbia Engineering.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUyYQzC6Rsq5z1EVMuHgsz90_mtDxsyX-Sh4T3KFdiZg1lsSNwLz-KKog3jYgbP1d7TP5_JESMsIHdk-zXEPxINBzhVCCHnZ8KPCAhnwFB2nVzJIIrc8skx_xX0MBITpwlkJnCnQBURy10wPK0e-2-JdmnboXicjzO8SspbTIxzKo82u67OdAhwBXO5kO4ynaE_w==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science 工程与应用科学研究生学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUyYQzC6Rsq5z1EVMuHgsz90_mtDxsyX-Sh4T3KFdiZg1lsSNwLz-KKog3jYgbP1d7TP5_JESMsIHdk-zXEPxINBzhVCCHnZ8KPCAhnwFB2nVzJIIrc8skx_xX0MBITpwlkJnCnQBURy10wPK0e-2-JdmnboXicjzO8SspbTIxzKo82u67OdAhwBXO5kO4ynaE_w=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "No explicit constraints are mentioned for the specialization itself, but you may only apply to one program at a time within the School of Engineering, and must be admitted to and enrolled in a participating PhD program before pursuing the Data Science specialization.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4SB9lVVTjV0sfoz9vc0DN33N7B6nqoy5mAnpkLaGVozyOGrdEUsEaNJIIZd2qbV91EFsrEK3Np3ipUZtyt5UCgafQj0T62rs95enSzcD-UKcq6jPxyw2IaX8XHqCeND8dDhY_Z76WW-s6kwNlhccKJGQaUWuwnsqoKKJO0fGRD9bPgMvpgpyhWFnwZS2SPtlp3w==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University PhD The PhD specialization in Data Science 工程与应用科学研究生学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4SB9lVVTjV0sfoz9vc0DN33N7B6nqoy5mAnpkLaGVozyOGrdEUsEaNJIIZd2qbV91EFsrEK3Np3ipUZtyt5UCgafQj0T62rs95enSzcD-UKcq6jPxyw2IaX8XHqCeND8dDhY_Z76WW-s6kwNlhccKJGQaUWuwnsqoKKJO0fGRD9bPgMvpgpyhWFnwZS2SPtlp3w=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['\"Columbia University PhD The PhD specialization in Data Science 工程与应用科学研究生学院 addmission frequently asked questions\"', 'Columbia University Data Science PhD application FAQ']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Ph.D. Specialization in Data Science - The Data Science Institute at ...', uri='https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may not apply to more than one program offered by the School of Professional Studies in any one semester.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Applied Analytics School of Professional Studies addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may not apply to more than one program offered by the School of Professional Studies in any one semester.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Applied Analytics School of Professional Studies addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may not apply to more than one program offered by the School of Professional Studies in any one semester.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Applied Analytics School of Professional Studies addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Analytics",
+    "所属院系": "School of Professional Studies",
+    "招生网址": "https://sps.columbia.edu/admissions/masters-degree-applicants",
+    "专业网址": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may not apply to more than one program offered by the School of Professional Studies in any one semester.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Applied Analytics School of Professional Studies addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in New York, NY, US.', uri='https://www.google.com/search?q=time+in+New+York,+NY,+US'))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may not apply to more than one program offered by the School of Professional Studies in the same semester.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: None",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may not apply to more than one program offered by the School of Professional Studies in any one semester.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://sps.columbia.edu/admissions/masters-degree-applicants', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://sps.columbia.edu/academics/masters/applied-analytics', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC1L_Uj99B6sAlu4Rx4xlkjy3VZzmzs7W2Kx-Y-4IHBC05lBGCGGOYzpmlBdBsYMnXRKygV7-g7t5PkvhwULZ1IAsFFZ5hlL2s4haMnyfpFLwOswoVNaOELDt_k0zg9OGgonMD9pj8vrsgQxgNCWXyg18IYRqE1rTqBwuwtlnLx1X9CTYUgCgldyMQKNhMlYsUbzY=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Columbia University MS Applied Analytics School of Professional Studies addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Admissions How to Apply | Columbia University School of ...', uri='https://sps.columbia.edu/admissions/masters-degree-applicants')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='columbia.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC1L_Uj99B6sAlu4Rx4xlkjy3VZzmzs7W2Kx-Y-4IHBC05lBGCGGOYzpmlBdBsYMnXRKygV7-g7t5PkvhwULZ1IAsFFZ5hlL2s4haMnyfpFLwOswoVNaOELDt_k0zg9OGgonMD9pj8vrsgQxgNCWXyg18IYRqE1rTqBwuwtlnLx1X9CTYUgCgldyMQKNhMlYsUbzY=')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Academics | Master&#39;s Degrees Applied Analytics | Columbia ...', uri='https://sps.columbia.edu/academics/masters/applied-analytics'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you may be able to list a second-choice program on your application.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_t0kNoHh5OQAGeMCfdHhDtapK6HteYd_wr44Zjyei2Wg1nphyhUiUDM_4uk8xzGC_l4x6CjlTblaEC7TZrL5rMXLUR95_wnAnKxtqnFvaVFTGIHomeOtYIqzhMRTv2Qhm4px_cjWvu9WGYoDTlTGi-cgyXmSIaL7QZGmlhMM6O8WdTQw='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you can list a second-choice program for consideration if you are not admitted to your first choice.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwsdznzzdGYyK-TTZ__dvFNdCE_hwb7G4BLNoSFzPRjhdOXU-mhW6TiqqdbD99ykn9pUohev5qDQMHBaVzFbdDkZrkdZwG3x0IJ7br66rTQ4Anrh0P3BcXl7jOOG0kLyqaVPibajHOn3Q0QOXPilZHocASlruQ_0y87LlGMgkgJrfRKi4=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwsdznzzdGYyK-TTZ__dvFNdCE_hwb7G4BLNoSFzPRjhdOXU-mhW6TiqqdbD99ykn9pUohev5qDQMHBaVzFbdDkZrkdZwG3x0IJ7br66rTQ4Anrh0P3BcXl7jOOG0kLyqaVPibajHOn3Q0QOXPilZHocASlruQ_0y87LlGMgkgJrfRKi4='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering Data Analytics (DA) admission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca'))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering ：Data Analytics (DA)",
+    "所属院系": "工程学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/",
+    "专业网址": "https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may only submit one application for a given term; multiple applications will not be processed.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering application constraints', 'Cornell University Graduate School application policies multiple programs']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJwCT-y0Yv3g1p_RU6xaED4cQ1f1Qsf43PCleUCFiZ5YG7It8ks3Zf5M3DxVCafAfxqCqj2au6AjV_Wf1yn7MA6s4vBvltoY51oS31zcq4HtbNgVHw_54jQ-agt6Bf59nVa89eqsVVwcRleQQ-6JDiwHItYkTVI1pY9T1v_Gg3tT_CqwI8wZS2tqeyrd-ybQNEmGVrnE='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you can list a second-choice program for consideration if you are not admitted to your first choice.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHloWQAx_4uYsed8tgmfP7cG4Rx1KoDl6xjEE75Ub_HguWk6mUmZOD_45og_9Fkw4jMOmtGV6tBaz_Cv349l7SQQbNjqk6Wwc3HD9rMSGWKz2JFs2h7ioQop0s1Rlqb2L8YjAHW1fSpN91tRVVOZvUZST6jcGLb-ivNK_xikwPIg2khaw=='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you can list a second-choice program on your application.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/operations-research-and-information-engineering/operations-research-and-information-engineering-meng-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_ERROR: 'URL_RETRIEVAL_STATUS_ERROR'>), UrlMetadata(retrieved_url='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxz3sp3wZUlIhoVFYiJ8SSyYx4Ig4-SPbKlttUjhuGepc9xJaLhsaO4IFbr6SLfHapdLbkRmk2a0fO_rifsYKWtG0N1VwwHlqaiF1vZmSRDCKY7eukIhuN1CEu2ZKta2QL77McIJBm2fp-2JkDiIoeXzpLsDYSAwtCpu-iNeelcxKkYA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering ：Data Analytics (DA) 工程学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='M.Eng. Programs in Operations Research and Information ...', uri='https://www.orie.cornell.edu/orie/programs/meng-degree-ithaca')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxz3sp3wZUlIhoVFYiJ8SSyYx4Ig4-SPbKlttUjhuGepc9xJaLhsaO4IFbr6SLfHapdLbkRmk2a0fO_rifsYKWtG0N1VwwHlqaiF1vZmSRDCKY7eukIhuN1CEu2ZKta2QL77McIJBm2fp-2JkDiIoeXzpLsDYSAwtCpu-iNeelcxKkYA=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.Eng.",
+    "专业英文名称": "Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech)",
+    "所属院系": "康奈尔科技学院",
+    "招生网址": "https://tech.cornell.edu/admissions/meng-application/",
+    "专业网址": "https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you may be able to list a second-choice program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech) admission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE66UoD6mh_S8WPeElKnzCvOpKfUJjnn69ld_KjOmDS9K_4cGGEVbyjH__TCvndJtwWabaYjxs0J1RoqUjd9VY7zNHFj1klegn8Eo98i5xUO1vBqojdqjWHqhGhUlDn4QcKRb_xMUom-7q7pZBQENI6lpcVdLkJW67DzimF69uzQEf3uOE='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you can list a second-choice program on your application.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech) 康奈尔科技学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpSF8FXpHRt2NmCFAMFCpDYrBWv8ZMahalvYOdP_I0oj3bANWyMNWv2Ck2bEk7nltVQAnvH7mYoS2dd2JEkcLtrEVwSLrs4rh9xUds9EwRyQ4PXfWJSWQPTC24dcPf68JYSVKs-cAO2QAo-fQM-CcHH7DTCGngm-wc_0aC37Nw6Rt1dx0='))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "You may only submit one graduate application to Cornell at a time, but you can list a second-choice program on your application.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://tech.cornell.edu/admissions/meng-application/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXzf_LU6c8ME4pcZSLXQYHIiQXMi95zs3jFuuphPCesJLGZFLCbOfhe8ypDqWfnYU-yXhtkx_qEBcHFU2jg926z2bHB63Fa8XN3eKvwPrfZdebgyvVKDABlZLLANhkAj717KtjVDI5l_yqnYUUzxmOFDiasOGKB7C-gtOs8_CDrKRMpE=', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.Eng. Operations Research and Information Engineering (M.Eng.) (Cornell NYC Tech) 康奈尔科技学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Engineering Application - Cornell Tech', uri='https://tech.cornell.edu/admissions/meng-application/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master in Operations Research and Information Engineering ...', uri='https://tech.cornell.edu/programs/masters-programs/master-in-operations-research-and-information-engineering/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXzf_LU6c8ME4pcZSLXQYHIiQXMi95zs3jFuuphPCesJLGZFLCbOfhe8ypDqWfnYU-yXhtkx_qEBcHFU2jg926z2bHB63Fa8XN3eKvwPrfZdebgyvVKDABlZLLANhkAj717KtjVDI5l_yqnYUUzxmOFDiasOGKB7C-gtOs8_CDrKRMpE='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "M.P.S.",
+    "专业英文名称": "Information Science (M.P.S.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/masters/mps",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "No, the MPS program is not a dual degree program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.P.S. Information Science (M.P.S.)  计算与信息科学学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqUmio6qRfTu16SOGjutB83MKufyLNEbOHf32Uy_d0xO60tskCJ8WV5v6yap6fSTUYcRZGmceI3djvyBTjyS1mrY7kYPBIrx39eP9IEHotsxsu1Q_EgAML5OyAzJL3xdZahIARyATqxdxfKWRHLN-Z-eOZy1ng9d_wbdL7A=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "Second choice field applications are not accepted, and the M.P.S. is not a dual degree program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.P.S. Information Science (M.P.S.)  计算与信息科学学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "Second choice field applications are not accepted, and the M.P.S. program is not a dual degree program.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/masters/mps', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University M.P.S. Information Science (M.P.S.)  计算与信息科学学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science MPS (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Master of Professional Studies (MPS) - Ithaca | Cornell Information ...', uri='https://infosci.cornell.edu/masters/mps')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Current time information in Tompkins County, US.', uri='https://www.google.com/search?q=time+in+Tompkins+County,+US')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnhK-diwi5qSm_chAIMzfSu6H91uWpg-zdALlv-jPUjNBieV_ZKvfjzBkuIYX7VoZ8hQMu4zrozl0dTPZXadouMuza-L_92BkQW5GE-zeUNOAVG8jiY4eqd39Jwep3iD9D8rMeSnAMSQy15zM7mFdiAZFYtDt_8VdYxCHiVA=='))]",
+        "search_support": "Not used"
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Information Science (Ph.D.) ",
+    "所属院系": " 计算与信息科学学院",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/",
+    "专业网址": "https://infosci.cornell.edu/phd",
+    "同申互斥": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "response_text": "You may not apply to both the Ph.D. and Masters of Professional Studies (MPS) degree programs in Information Science at the same time.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV2Qycm6K4jROOAHh_gca3T4FM6KVkGK6mCT5WZlGoiS0KNk_ya3j4Xmdp-vnIgUbdFjwIHF9DpQgt8wr_PKKbBzMNZUXspbT-CyJCfyLXUWhZzKLZZLThpZ9B-KAk0w9nrazshTOwmK0bviVWU0SKuy4zOpbUhdRt', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHbgUNbBkT4hNv_6Eio92PD5cUkLRCk5xZFP7HFh8Ig_ecCkehQWNajadu7Cs3EuE0P5ihrLHKHfhM9DhN_889M4jReviDiDqYqJcQzgsEPvdmUpRd8qMra0wfr_R-hvmjyJgKQg==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University Ph.D. Information Science (Ph.D.) 计算与信息科学学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV2Qycm6K4jROOAHh_gca3T4FM6KVkGK6mCT5WZlGoiS0KNk_ya3j4Xmdp-vnIgUbdFjwIHF9DpQgt8wr_PKKbBzMNZUXspbT-CyJCfyLXUWhZzKLZZLThpZ9B-KAk0w9nrazshTOwmK0bviVWU0SKuy4zOpbUhdRt')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHbgUNbBkT4hNv_6Eio92PD5cUkLRCk5xZFP7HFh8Ig_ecCkehQWNajadu7Cs3EuE0P5ihrLHKHfhM9DhN_889M4jReviDiDqYqJcQzgsEPvdmUpRd8qMra0wfr_R-hvmjyJgKQg=='))]",
+        "search_support": "Not used"
+      },
+      "response 2": {
+        "response_text": "You may not apply to both the Ph.D. and MPS degree programs in Information Science simultaneously.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPPhPosgo9F5LwhobVJK1DLcb7lToToR0RdNu14gyK-XcHb1qd4cAoHL4sYxP1RrIWmr4DrNppB_27XkIrRu2-MUCfCEwIxPNZvY1j7YbND_8B8L2waf7FfXB015rpvYC9Vci0vb0p0e-7yTEhjfcqOA_2_XLJkm7f', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEweQU4FhTtD6oM47VEJs08SVc1spdA8fFWr26FIPMfMw3FeLSCTeTSPteiM65IwF_XjYLNsnsGY4s14h3-VrVkLywJK9xz684IyBpdFyxWL_oYq16p-RlG27JOS4GCWE55GJDhKA==', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTDanwkAdez3zQSjLmNV1Si2Ol1p_0CVZAJ6Wem4H0z2ZNY6dP7AOYeCvb2DmfDq9jdtnm6wiA4PGCbR7xXiqnEih2WEZK3ZDjUR3aV1_tCZL-TGjQF3mDvZ9_jgl0L9g2TC2aYyshSqAX69Fml-BfRcI2SmEiGty45l05', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University Ph.D. Information Science (Ph.D.) 计算与信息科学学院 addmission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPPhPosgo9F5LwhobVJK1DLcb7lToToR0RdNu14gyK-XcHb1qd4cAoHL4sYxP1RrIWmr4DrNppB_27XkIrRu2-MUCfCEwIxPNZvY1j7YbND_8B8L2waf7FfXB015rpvYC9Vci0vb0p0e-7yTEhjfcqOA_2_XLJkm7f')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='cornell.edu', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEweQU4FhTtD6oM47VEJs08SVc1spdA8fFWr26FIPMfMw3FeLSCTeTSPteiM65IwF_XjYLNsnsGY4s14h3-VrVkLywJK9xz684IyBpdFyxWL_oYq16p-RlG27JOS4GCWE55GJDhKA==')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='github.io', uri='https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTDanwkAdez3zQSjLmNV1Si2Ol1p_0CVZAJ6Wem4H0z2ZNY6dP7AOYeCvb2DmfDq9jdtnm6wiA4PGCbR7xXiqnEih2WEZK3ZDjUR3aV1_tCZL-TGjQF3mDvZ9_jgl0L9g2TC2aYyshSqAX69Fml-BfRcI2SmEiGty45l05'))]",
+        "search_support": "Not used"
+      },
+      "response 3": {
+        "response_text": "No explicit constraints.",
+        "url_context": "url_metadata=[UrlMetadata(retrieved_url='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>), UrlMetadata(retrieved_url='https://infosci.cornell.edu/phd', url_retrieval_status=<UrlRetrievalStatus.URL_RETRIEVAL_STATUS_SUCCESS: 'URL_RETRIEVAL_STATUS_SUCCESS'>)]",
+        "search_queries": "Search Query: ['Cornell University Ph.D. Information Science (Ph.D.) admission frequently asked questions']",
+        "search_pages": "Search Chunks: [GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='Information Science Ph.D. (Ithaca) - Fields of Study - Graduate ...', uri='https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-phd-ithaca/')), GroundingChunk(retrieved_context=None, web=GroundingChunkWeb(domain=None, title='PHD | Cornell Information Science', uri='https://infosci.cornell.edu/phd'))]",
+        "search_support": "Not used"
+      }
+    }
+  }
+]

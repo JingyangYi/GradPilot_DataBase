@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "university_name": "Harvard University",
+    "degree": "MS",
+    "program_name": "Data Science",
+    "department": "Harvard Extension School",
+    "filename": "Harvard_University-MS-Data_Science-Harvard_Extension_School.json"
+  },
+  "metadata": {
+    "crawl_run_id": "6f43ef51-829c-434e-938f-7461c85b1fba",
+    "crawl_time": "2025-07-07T20:23:32.151318",
+    "crawler_version": "2.0.0",
+    "max_depth": 1,
+    "total_pages_crawled": 1,
+    "failed_pages": 1,
+    "success": false
+  },
+  "crawl_data": {
+    "depth": 0,
+    "parent_url": null,
+    "url": "https://extension.harvard.edu/academics/programs/data-science-graduate-program/",
+    "title": "",
+    "text_content": "",
+    "status_code": -1,
+    "crawl_timestamp": "2025-07-07T20:23:32.151245",
+    "error_message": "页面爬取失败: Timeout 30000ms exceeded.",
+    "interactive_text": {},
+    "extracted_links": [],
+    "children": []
+  }
+}
