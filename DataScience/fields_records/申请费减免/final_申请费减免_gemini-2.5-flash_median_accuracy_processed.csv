@@ -1,4 +1,4 @@
-大学英文名称,学位,专业英文名称,所属院系,招生网址,专业网址,申请费减免,判断状态,有效回答数,总回答数,Response 1 分类,Response 2 分类,Response 3 分类
+﻿大学英文名称,学位,专业英文名称,所属院系,招生网址,专业网址,申请费减免,判断状态,有效回答数,总回答数,Response 1 分类,Response 2 分类,Response 3 分类
 Harvard University,MS,Data Science SEAS,约翰·保尔森工程与应用科学学院,https://seas.harvard.edu/masters-data-science/how-apply,https://seas.harvard.edu/masters-data-science,applicable,所有3个有效回答一致,3,3,applicable,applicable,applicable
 Harvard University,MS,Data Science,Harvard Extension School,https://extension.harvard.edu/registration-admissions/degree-program-admissions/how-to-apply-to-a-graduate-degree-program/,https://extension.harvard.edu/academics/programs/data-science-graduate-program/,applicable,所有2个有效回答一致,2,3,applicable,invalid,applicable
 Stanford University,MS,Data Science,工程学院,https://icme.stanford.edu/academics-admission/icme-graduate-program-application,https://icme.stanford.edu/academics-admission/icme-master-science,applicable,所有3个有效回答一致,3,3,applicable,applicable,applicable
