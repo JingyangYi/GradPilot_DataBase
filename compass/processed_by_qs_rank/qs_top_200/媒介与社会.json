@@ -1,0 +1,1105 @@
+[
+  {
+    "completion_rate": "14 / 14",
+    "fail_count": 0,
+    "original_total": 25,
+    "classification": "QS前200"
+  },
+  {
+    "id": "07cc6342-d0c9-4220-967e-6c1f308c20dd",
+    "detail_page_url": "https://www.compassedu.hk/majr_62146",
+    "program_name": "牛津大学视觉、材料与博物馆人类学理学硕士",
+    "program_name_en": "MSc Visual, Material and Museum Anthropology",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/8.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-visual-material-and-museum-anthropology",
+    "university_name": "牛津大学",
+    "university_name_en": "University of Oxford",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-12",
+        "application_end_date": [
+          "2025-01-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "110",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "39040英镑/年",
+    "qs_2026_rank": 4,
+    "usnews_2026_rank": 4,
+    "the_2025_rank": 1,
+    "arwu_2024_rank": 6,
+    "qs_2026_communication_rank": null,
+    "qs_2026_sociology_rank": 2,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1679f9b3-617a-4ed9-942e-61d2538f388d",
+    "detail_page_url": "https://www.compassedu.hk/majr_76031",
+    "program_name": "牛津大学视觉、材料与博物馆人类学哲学硕士",
+    "program_name_en": "MPhil Visual, Material and Museum Anthropology",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/8.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ox.ac.uk/admissions/graduate/courses/mphil-visual-material-and-museum-anthropology",
+    "university_name": "牛津大学",
+    "university_name_en": "University of Oxford",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-12",
+        "application_end_date": [
+          "2025-01-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "110",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "tuition": "19520英镑/年",
+    "qs_2026_rank": 4,
+    "usnews_2026_rank": 4,
+    "the_2025_rank": 1,
+    "arwu_2024_rank": 6,
+    "qs_2026_communication_rank": null,
+    "qs_2026_sociology_rank": 2,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "50cf9a9c-0b15-4ad9-9286-ac00c700268e",
+    "detail_page_url": "https://www.compassedu.hk/majr_62311",
+    "program_name": "伦敦大学学院数字媒体（批判性研究）文学硕士",
+    "program_name_en": "MA Digital Media (Critical Studies)",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/digital-media-critical-studies-ma",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-04-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "25",
+        "写作": "25",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "76",
+        "阅读": "76",
+        "写作": "76",
+        "口语": "76"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_communication_rank": 37,
+    "qs_2026_sociology_rank": 22,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a0cbd5aa-d31e-4b15-9fa2-0d65091b8379",
+    "detail_page_url": "https://www.compassedu.hk/majr_62962",
+    "program_name": "香港大学媒体、文化与创意城市社会科学硕士",
+    "program_name_en": "MSocSc Media, Culture and Creative Cities",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-social-sciences-in-the-field-of-media,-culture-and-creative-cities-socsc",
+    "university_name": "香港大学",
+    "university_name_en": "The University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-29",
+        "application_end_date": [
+          "2025-02-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "笔试/真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "200000港币/年",
+    "qs_2026_rank": 11,
+    "usnews_2026_rank": 44,
+    "the_2025_rank": 35,
+    "arwu_2024_rank": 69,
+    "qs_2026_communication_rank": 46,
+    "qs_2026_sociology_rank": 17,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8922ce8b-6941-4936-ab60-01b95a5f170e",
+    "detail_page_url": "https://www.compassedu.hk/majr_75248",
+    "program_name": "布里斯托大学数字与技术社会理学硕士",
+    "program_name_en": "MSc Digital and Technological Society",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-digital-and-technological-society/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32100英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_communication_rank": 125.5,
+    "qs_2026_sociology_rank": 42,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "81bb7c46-69d6-4b34-9927-eaa47e67ad1f",
+    "detail_page_url": "https://www.compassedu.hk/majr_50510",
+    "program_name": "伦敦政治经济学院媒体与传播（数据与社会）理学硕士",
+    "program_name_en": "MSc Media and Communications (Data and Society)",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/1.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-media-and-communications-data-and-society",
+    "university_name": "伦敦政治经济学院",
+    "university_name_en": "The London School of Economics and Political Science",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-08",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "7",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "25",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "62",
+        "阅读": "70",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28900英镑/年",
+    "qs_2026_rank": 56,
+    "usnews_2026_rank": 234,
+    "the_2025_rank": 50,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 6,
+    "qs_2026_sociology_rank": 5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "35c2ddc1-97b1-401f-86f4-74f40cc71059",
+    "detail_page_url": "https://www.compassedu.hk/majr_50534",
+    "program_name": "伦敦政治经济学院社会与公共传播理学硕士",
+    "program_name_en": "MSc Social and Public Communication",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/1.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-social-and-public-communication",
+    "university_name": "伦敦政治经济学院",
+    "university_name_en": "The London School of Economics and Political Science",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-08",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "7",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "25",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "62",
+        "阅读": "70",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28900英镑/年",
+    "qs_2026_rank": 56,
+    "usnews_2026_rank": 234,
+    "the_2025_rank": 50,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 6,
+    "qs_2026_sociology_rank": 5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ff497e1b-19dd-40a6-b89d-763ccbad472b",
+    "detail_page_url": "https://www.compassedu.hk/majr_62107",
+    "program_name": "伦敦政治经济学院性别、媒体与文化理学硕士",
+    "program_name_en": "MSc Gender, Media and Culture",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/1.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-gender-media-and-culture",
+    "university_name": "伦敦政治经济学院",
+    "university_name_en": "The London School of Economics and Political Science",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-08",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "7",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "25",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "62",
+        "阅读": "70",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28900英镑/年",
+    "qs_2026_rank": 56,
+    "usnews_2026_rank": 234,
+    "the_2025_rank": 50,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 6,
+    "qs_2026_sociology_rank": 5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "89ccb105-4696-47cb-bf16-d2b61ef5138c",
+    "detail_page_url": "https://www.compassedu.hk/majr_50322",
+    "program_name": "华威大学数字媒体与文化文学硕士",
+    "program_name_en": "MA Digital Media and Culture",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/ma-digital-media-culture",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27680英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_communication_rank": 75.5,
+    "qs_2026_sociology_rank": 66,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bc4aa5b2-4cfa-44ad-af42-02c6ca4da3b5",
+    "detail_page_url": "https://www.compassedu.hk/majr_61526",
+    "program_name": "利兹大学社会、文化与媒体文学硕士",
+    "program_name_en": "MA Society, Culture and Media",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/i094/society-culture-and-media-ma",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 33,
+    "qs_2026_sociology_rank": 81,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a5d95109-d13c-4742-aaa0-d877ce5ca472",
+    "detail_page_url": "https://www.compassedu.hk/majr_53413",
+    "program_name": "利物浦大学视觉文化文学硕士",
+    "program_name_en": "MA Visual Culture",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/media-culture-and-everyday-life-ma",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22400英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_communication_rank": 125.5,
+    "qs_2026_sociology_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "57a9f546-2041-4b51-b5da-35eb3bca19b1",
+    "detail_page_url": "https://www.compassedu.hk/majr_67342",
+    "program_name": "利物浦大学数字媒体、数据与社会文学硕士",
+    "program_name_en": "MA Digital Media, Data and Society",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/digital-media-data-and-society-ma",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22400英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_communication_rank": 125.5,
+    "qs_2026_sociology_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4668830b-53d4-4300-8e6b-a484943de0c9",
+    "detail_page_url": "https://www.compassedu.hk/majr_50775",
+    "program_name": "兰卡斯特大学全球媒体与社会文学硕士",
+    "program_name_en": "MA Global Media and Society",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/4.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/global-media-and-society-ma/2025/",
+    "university_name": "兰卡斯特大学",
+    "university_name_en": "Lancaster University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "22",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "66",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "24830英镑/年",
+    "qs_2026_rank": 157,
+    "usnews_2026_rank": 267,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_communication_rank": 125.5,
+    "qs_2026_sociology_rank": 67,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d64480f7-703c-4885-9a1f-50f61502c7d4",
+    "detail_page_url": "https://www.compassedu.hk/majr_51201",
+    "program_name": "约克大学（英国）社会媒体与社会研究文学硕士",
+    "program_name_en": "MA Social Media and Social Research",
+    "primary_category": "社科",
+    "secondary_category": "媒介与社会",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-social-media-social-research/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27190英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_communication_rank": 175,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_communication_rank": 175,
+    "qs_2026_sociology_rank": 88
+  }
+]

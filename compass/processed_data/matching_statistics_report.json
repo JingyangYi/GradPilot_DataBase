@@ -1,0 +1,52 @@
+{
+  "processing_summary": {
+    "total_programs_processed": 12486,
+    "total_json_files": 62
+  },
+  "university_matching": {
+    "exact_matches": 9039,
+    "fuzzy_matches": 2444,
+    "failed_matches": 1003,
+    "success_rate": 91.97
+  },
+  "subject_ranking_matching": {
+    "primary_matches": 10070,
+    "secondary_matches": 4755,
+    "failed_matches": 1909
+  },
+  "failed_universities": [
+    "Bentley University",
+    "Bernard M.Baruch College，CUNY",
+    "City University of Macau",
+    "EDHEC Business School",
+    "EMLYON Business School",
+    "ESCP Business School",
+    "ESSEC Business School",
+    "Grenoble Graduate School Of Business",
+    "Hautes Etudes Commerciales Paris",
+    "Hong Kong Shue Yan University",
+    "KEDGE Business School",
+    "Katholieke Universiteit Leuven",
+    "Monash University Malaysia",
+    "Newcastle University(United Kingdom)",
+    "North Carolina State University—Raleigh",
+    "Northeastern University(United States)",
+    "Northwestern University(United States)",
+    "Pepperdine University",
+    "Rennes School of Business",
+    "Royal Melbourne Institute of Technology",
+    "Swiss Federal Institute of Technology Zurich",
+    "The Hang Seng University of Hong Kong",
+    "The Hong Kong Academy for Performing Arts",
+    "The National University of Malaysia",
+    "Toulouse Business School",
+    "University of Buckingham",
+    "University of Southampton Malaysia",
+    "University of Texas-Dallas",
+    "University of Wollongong Australia",
+    "University of York(United Kingdom)",
+    "Virginia Polytechnic Institute and State University (Virginia Tech)",
+    "暂无"
+  ],
+  "processing_errors": []
+}

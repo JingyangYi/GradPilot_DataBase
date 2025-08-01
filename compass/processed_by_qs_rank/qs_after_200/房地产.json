@@ -1,0 +1,1191 @@
+[
+  {
+    "completion_rate": "16 / 16",
+    "fail_count": 0,
+    "original_total": 52,
+    "classification": "QS200后"
+  },
+  {
+    "id": "fdfbe3e3-6d2c-4ce8-a8a9-59d67c520786",
+    "detail_page_url": "https://www.compassedu.hk/majr_72979",
+    "program_name": "马里兰大学帕克分校房地产开发硕士",
+    "program_name_en": "Master of Real Estate Development",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/165.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://arch.umd.edu/programs/real-estate-development/real-estate-development-academics/real-estate-development-degrees/master-real-estate-development",
+    "university_name": "马里兰大学帕克分校",
+    "university_name_en": "University of Maryland, College Park",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "小分要求": "S:22,L:24,R:26,W:24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "L:7,R:7,W:7,S:6.5"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "1-2.5年",
+    "tuition": "14,937美元/学期",
+    "program_size": "15-25人",
+    "qs_2026_rank": 207,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 58,
+    "qs_2026_business_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8533c1d8-ec6d-4e4c-aee6-2c17ea3cf1a0",
+    "detail_page_url": "https://www.compassedu.hk/majr_72769",
+    "program_name": "佛罗里达大学房地产理学硕士",
+    "program_name_en": "MS in Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warrington.ufl.edu/master-of-science-in-real-estate/",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "550"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "300"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季",
+    "duration": "10个月",
+    "tuition": "42,690美元",
+    "program_size": "50-60人",
+    "average_accepted_gpa": "3.52",
+    "average_admitted_gre": "320",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "65060a57-be2e-421a-b9c6-54970b6be388",
+    "detail_page_url": "https://www.compassedu.hk/majr_64523",
+    "program_name": "阿伯丁大学金融与房地产理学硕士（CFA一级考试）",
+    "program_name_en": "MSc Finance and Real Estate (with CFA Level 1 Examination)",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/93/finance-and-real-estate-includes-level-1-cfa-examination/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fb8d7791-851a-4e8b-91ca-ffc53375f563",
+    "detail_page_url": "https://www.compassedu.hk/majr_64531",
+    "program_name": "阿伯丁大学房地产（商业方向）理学硕士",
+    "program_name_en": "MSc Real Estate (Commercial Option)",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/980/real-estate-commercial-option/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "78cb8436-4ad9-491a-99a4-7c0529e34be2",
+    "detail_page_url": "https://www.compassedu.hk/majr_64532",
+    "program_name": "阿伯丁大学房地产（国际方向）理学硕士",
+    "program_name_en": "MSc Real Estate (International Option)",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/272/real-estate-international-option/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "41f72611-c9c1-42f2-8d27-33e8e4d7ff33",
+    "detail_page_url": "https://www.compassedu.hk/majr_67183",
+    "program_name": "阿伯丁大学金融与房地产理学硕士",
+    "program_name_en": "MSc Finance and Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/979/finance-and-real-estate-does-not-include-cfa-examination/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "74e21de4-87a8-4b83-b323-87947461775f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72674",
+    "program_name": "乔治城大学房地产硕士",
+    "program_name_en": "Master's Degree in Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/101.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://scs.georgetown.edu/programs/71/master-of-professional-studies-in-real-estate/",
+    "university_name": "乔治城大学",
+    "university_name_en": "Georgetown University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "房地产开发"
+      },
+      {
+        "key": "2",
+        "value": "全球房地产"
+      },
+      {
+        "key": "3",
+        "value": "房地产金融"
+      },
+      {
+        "key": "4",
+        "value": "建筑管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "33学分",
+    "tuition": "50,391美元",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e86bce17-0775-4bba-b65b-19a8c0cf74b5",
+    "detail_page_url": "https://www.compassedu.hk/majr_64654",
+    "program_name": "赫瑞瓦特大学空间规划与房地产开发理学硕士",
+    "program_name_en": "MSc Spatial Planning and Real Estate Development",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/spatial-planning-and-real-estate-development",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19816英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "689df664-de1a-425f-8c0c-509c12bfe2eb",
+    "detail_page_url": "https://www.compassedu.hk/majr_64675",
+    "program_name": "赫瑞瓦特大学房地产理学硕士",
+    "program_name_en": "MSc Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/real-estate",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19816英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "26bbbe7d-edc2-413f-9432-8a5536b9fd4c",
+    "detail_page_url": "https://www.compassedu.hk/majr_63246",
+    "program_name": "欧洲高等商学院房地产硕士",
+    "program_name_en": "MSc in Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/363.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://escp.eu/programmes/specialised-masters-MSc/MSc-in-real-estate",
+    "university_name": "欧洲高等商学院",
+    "university_name_en": "ESCP Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-10",
+          "2025-01-12",
+          "2025-02-09",
+          "2025-03-02",
+          "2025-03-30",
+          "2025-05-04",
+          "2025-05-18",
+          "2025-06-15",
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.25年",
+    "tuition": "20320欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "99350765-b376-447d-a560-383dbfec3095",
+    "detail_page_url": "https://www.compassedu.hk/majr_64761",
+    "program_name": "伦敦大学城市学院房地产理学硕士",
+    "program_name_en": "MSc Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bayes.city.ac.uk/study/masters/courses/real-estate",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "25",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "62",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28200英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 120
+  },
+  {
+    "id": "a2d2b38d-4bd5-4f95-892b-cf4316a0889a",
+    "detail_page_url": "https://www.compassedu.hk/majr_64762",
+    "program_name": "伦敦大学城市学院房地产投资理学硕士",
+    "program_name_en": "MSc Real Estate Investment",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bayes.city.ac.uk/study/masters/courses/real-estate-investment",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "25",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "62",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28200英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 120
+  },
+  {
+    "id": "0b5edf6d-3be5-480b-b9c4-8017caa68a5e",
+    "detail_page_url": "https://www.compassedu.hk/majr_65182",
+    "program_name": "威斯敏斯特大学房地产开发理学硕士",
+    "program_name_en": "MSc Real Estate Development",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/construction-surveying-and-real-estate-courses/2025-26/september/full-time/real-estate-development-msc",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aabb6c23-9067-4df8-876b-8d25feb4dc35",
+    "detail_page_url": "https://www.compassedu.hk/majr_72985",
+    "program_name": "佩珀代因大学房地产管理硕士",
+    "program_name_en": "MS in Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/164.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://bschool.pepperdine.edu/masters-degree/real-estate/",
+    "university_name": "佩珀代因大学",
+    "university_name_en": "Pepperdine University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "房地产"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "32,265美元/学期",
+    "program_size": "小于20人",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2fed3ab3-ae3b-4719-a22e-9d1feed6c96f",
+    "detail_page_url": "https://www.compassedu.hk/majr_73051",
+    "program_name": "福特汉姆大学房地产硕士",
+    "program_name_en": "MS in Real Estate",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/162.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.fordham.edu/school-of-professional-and-continuing-studies/academics/real-estate-institute/academics/graduate-programs/master-of-science-in-real-estate/",
+    "university_name": "福特汉姆大学",
+    "university_name_en": "Fordham University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "36学分",
+    "tuition": "1，451美元/学分",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 1199,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e5bbd827-24e0-47a0-a2e1-70a15179f57a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73052",
+    "program_name": "福特汉姆大学房地产开发硕士",
+    "program_name_en": "MS in Real Estate Development",
+    "primary_category": "商科",
+    "secondary_category": "房地产",
+    "university_logo_url": "https://logo.compassedu.hk/162.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.fordham.edu/school-of-professional-and-continuing-studies/academics/graduate-programs/master-of-science-in-real-estate-development/",
+    "university_name": "福特汉姆大学",
+    "university_name_en": "Fordham University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "36学分",
+    "tuition": "1，451美元/学分",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 1199,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

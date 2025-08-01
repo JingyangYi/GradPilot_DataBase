@@ -1,0 +1,3267 @@
+[
+    {
+        "completion_rate": "67 / 67",
+        "fail_count": 0
+    },
+    {
+        "id": "823f0407-e461-4291-ae4d-10a46b382ba4",
+        "detail_page_url": "https://www.compassedu.hk/majr_66861",
+        "program_name": "剑桥大学工业系统、制造与管理哲学硕士",
+        "program_name_en": "MPhil Industrial Systems, Manufacture, and Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/9.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpimm",
+        "university_name": "剑桥大学",
+        "university_name_en": "University of Cambridge",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-04",
+                "application_end_date": [
+                    "2024-12-03",
+                    "2025-05-16"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "7",
+                "阅读": "6.5",
+                "写作": "7",
+                "口语": "7"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "25",
+                "阅读": "25",
+                "写作": "25",
+                "口语": "25"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "46752英镑/年"
+    },
+    {
+        "id": "90c98cd1-3fbe-4c6f-b132-0f4d0b5cedb7",
+        "detail_page_url": "https://www.compassedu.hk/majr_63403",
+        "program_name": "苏黎世联邦理工大学过程工程理学硕士",
+        "program_name_en": "MSc Process Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/process-engineering.html",
+        "university_name": "苏黎世联邦理工大学",
+        "university_name_en": "Swiss Federal Institute of Technology Zurich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "1608瑞士法郎/年"
+    },
+    {
+        "id": "9ad93542-d370-4a6f-b7b5-e107cc221871",
+        "detail_page_url": "https://www.compassedu.hk/majr_63408",
+        "program_name": "苏黎世联邦理工大学量子工程理学硕士",
+        "program_name_en": "MSc Quantum Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/quantum-engineering.html",
+        "university_name": "苏黎世联邦理工大学",
+        "university_name_en": "Swiss Federal Institute of Technology Zurich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "1608瑞士法郎/年"
+    },
+    {
+        "id": "e7b7ca9a-1e7d-44fb-8880-18d860a784a7",
+        "detail_page_url": "https://www.compassedu.hk/majr_1638",
+        "program_name": "新加坡国立大学工业与系统工程理学硕士",
+        "program_name_en": "MSc Industrial & Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://cde.nus.edu.sg/isem/graduate/coursework/masters-of-science-industrial-and-systems-engineering-programme/",
+        "university_name": "新加坡国立大学",
+        "university_name_en": "National University of Singapore",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-02-28"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "1年",
+        "tuition": "55590新币/年"
+    },
+    {
+        "id": "1a9e5907-2f53-4409-8302-decf6b944a28",
+        "detail_page_url": "https://www.compassedu.hk/majr_62379",
+        "program_name": "新加坡国立大学智能产业与数字化转型理学硕士",
+        "program_name_en": "MSc Smart Industries and Digital Transformation",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)",
+        "university_name": "新加坡国立大学",
+        "university_name_en": "National University of Singapore",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-01-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "机面（video）/机面（kira）",
+        "intakeSeason": "8月",
+        "duration": "1年",
+        "tuition": "57879新币/年"
+    },
+    {
+        "id": "d202d4ae-a744-4160-9cc4-5653378e9dcf",
+        "detail_page_url": "https://www.compassedu.hk/majr_1568",
+        "program_name": "香港大学工业工程与物流管理（工程）理学硕士",
+        "program_name_en": "MSc(Eng) Industrial Engineering and Logistics Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-engineering-(industrial-engineering-and-logistics-management)-engg",
+        "university_name": "香港大学",
+        "university_name_en": "The University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-21",
+                "application_end_date": [
+                    "2025-01-02",
+                    "2025-04-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "320000港币/年"
+    },
+    {
+        "id": "83d41a31-8bcb-40a7-94cf-3b4dfc4bde96",
+        "detail_page_url": "https://www.compassedu.hk/majr_64434",
+        "program_name": "南洋理工大学智能制造理学硕士",
+        "program_name_en": "MSc Smart Manufacturing",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/39.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ntu.edu.sg/mae/admissions/programmes/graduate-programmes/detail/master-of-science-in-smart-manufacturing",
+        "university_name": "南洋理工大学",
+        "university_name_en": "Nanyang Technological University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-04",
+                "application_end_date": [
+                    "2025-02-28"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-07-01",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/8月",
+        "duration": "1年",
+        "tuition": "52974新币/年"
+    },
+    {
+        "id": "b357734c-2955-4224-ab59-73e098146b20",
+        "detail_page_url": "https://www.compassedu.hk/majr_73600",
+        "program_name": "康奈尔大学系统工程工学硕士",
+        "program_name_en": "MEng in Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/95.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.systemseng.cornell.edu/se/programs/meng-degree-campus",
+        "university_name": "康奈尔大学",
+        "university_name_en": "Cornell University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "105",
+                "小分要求": "L15,W20,R20,S22"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "1年",
+        "tuition": "62,456美元"
+    },
+    {
+        "id": "1604c00b-bcdf-4c6f-b1ef-262753b037c6",
+        "detail_page_url": "https://www.compassedu.hk/majr_64491",
+        "program_name": "墨尔本大学工业工程硕士",
+        "program_name_en": "Master of Industrial Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-industrial-engineering/",
+        "university_name": "墨尔本大学",
+        "university_name_en": "The University of Melbourne",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-10-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-01-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "13",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "60884澳元/年"
+    },
+    {
+        "id": "ce2e38c9-17fe-41ff-8d55-d2510eab3759",
+        "detail_page_url": "https://www.compassedu.hk/majr_1731",
+        "program_name": "香港中文大学电子商务与物流技术理学硕士",
+        "program_name_en": "MSc E-Commerce & Logistics Technologies",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gs.cuhk.edu.hk/admissions/programme/engineering#msc-in-e-commerce-and-logistics-technologies",
+        "university_name": "香港中文大学",
+        "university_name_en": "The Chinese University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "2024-10-31",
+                    "2024-12-15",
+                    "2025-03-16"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "220000港币/年"
+    },
+    {
+        "id": "3fc659f9-ca18-462f-88d6-0e0334cb8beb",
+        "detail_page_url": "https://www.compassedu.hk/majr_62499",
+        "program_name": "曼彻斯特大学高级控制与系统工程理学硕士（含扩展研究）",
+        "program_name_en": "MSc Advanced Control and Systems Engineering with Extended Research",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/12729/msc-advanced-control-and-systems-engineering-with-extended-research/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-10-25",
+                    "2024-12-13",
+                    "2025-02-28",
+                    "2025-05-02"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "27500英镑/年"
+    },
+    {
+        "id": "7dd102ae-7542-40fb-b9c2-f86a5e9421be",
+        "detail_page_url": "https://www.compassedu.hk/majr_72620",
+        "program_name": "哥伦比亚大学工业工程硕士",
+        "program_name_en": "MS in Industrial Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/83.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.engineering.columbia.edu/academics/programs/masters-programs/master-science-programs/industrial-engineering-ms",
+        "university_name": "哥伦比亚大学",
+        "university_name_en": "Columbia University",
+        "apply_time": [],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "健康管理"
+            },
+            {
+                "key": "2",
+                "value": "受监管行业"
+            },
+            {
+                "key": "3",
+                "value": "系统工程"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "100"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "一年",
+        "tuition": "60,000美元"
+    },
+    {
+        "id": "7e3e6d6a-afc0-459d-bee2-330162bc0f57",
+        "detail_page_url": "https://www.compassedu.hk/majr_1801",
+        "program_name": "香港理工大学工业物流系统理学硕士",
+        "program_name_en": "MSc Industrial Logistics Systems",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/45100-mls-ml",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2024-11-21",
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "154000港币/年"
+    },
+    {
+        "id": "a9fd2ae5-ee51-402a-a0cd-e359d36bb6ef",
+        "detail_page_url": "https://www.compassedu.hk/majr_74524",
+        "program_name": "香港理工大学智能制造理学硕士",
+        "program_name_en": "MSc Smart Manufacturing",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/45100-smf-smp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2024-11-21",
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "154000港币/年"
+    },
+    {
+        "id": "4fff681f-88a0-483f-acec-4d1a2ab7eab6",
+        "detail_page_url": "https://www.compassedu.hk/majr_73710",
+        "program_name": "纽约大学工业工程理学硕士",
+        "program_name_en": "MS in Industrial Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://engineering.nyu.edu/academics/programs/industrial-engineering-ms-campus",
+        "university_name": "纽约大学",
+        "university_name_en": "New York University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "90"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "春季/秋季",
+        "duration": "30学分",
+        "tuition": "63,060美元"
+    },
+    {
+        "id": "b85ef375-bd4b-45a5-b1c6-d9b3aa480231",
+        "detail_page_url": "https://www.compassedu.hk/majr_72857",
+        "program_name": "伊利诺伊大学香槟分校工业工程学理学硕士",
+        "program_name_en": "MS in Industrial Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/155.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ise.illinois.edu/graduate/degrees-and-programs/master-science-industrial-engineering.html",
+        "university_name": "伊利诺伊大学香槟分校",
+        "university_name_en": "University of Illinois at Urbana-Champaign",
+        "apply_time": [],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "高级分析"
+            },
+            {
+                "key": "2",
+                "value": "计算科学与工程"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "79"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "32-36学分",
+        "tuition": "31,193美元"
+    },
+    {
+        "id": "429b0bed-9e7a-4e78-9ae8-bb01dff0abf3",
+        "detail_page_url": "https://www.compassedu.hk/majr_75130",
+        "program_name": "华威大学工程设计管理理学硕士",
+        "program_name_en": "MSc Engineering Design Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-engineering-design-management",
+        "university_name": "华威大学",
+        "university_name_en": "The University of Warwick",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-08-02"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "21",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35340英镑/年"
+    },
+    {
+        "id": "9c522b89-6b1f-4e07-bc3a-c564d4a7a68b",
+        "detail_page_url": "https://www.compassedu.hk/majr_61587",
+        "program_name": "伯明翰大学铁路安全与控制系统理学硕士",
+        "program_name_en": "MSc Railway Safety and Control Systems",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/railway-engineering-courses/railway-safety-and-control-systems-msc",
+        "university_name": "伯明翰大学",
+        "university_name_en": "University of Birmingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-05-12"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "20",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "34190英镑/年"
+    },
+    {
+        "id": "4c985e03-48e3-4a63-8815-fbb3c5ad6151",
+        "detail_page_url": "https://www.compassedu.hk/majr_52255",
+        "program_name": "诺丁汉大学人类因素与人体工程学理学硕士",
+        "program_name_en": "MSc Human Factors and Ergonomics",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-factors-and-ergonomics-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30750英镑/年"
+    },
+    {
+        "id": "a8acd3b3-8e72-435a-8477-ed63717b0e68",
+        "detail_page_url": "https://www.compassedu.hk/majr_52269",
+        "program_name": "诺丁汉大学工业工程与运营管理理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Operations Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/industrial-engineering-and-operations-management-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30750英镑/年"
+    },
+    {
+        "id": "a1da72fa-12d6-401d-ac5c-c5c1e625a5e4",
+        "detail_page_url": "https://www.compassedu.hk/majr_64372",
+        "program_name": "亚琛工业大学生产系统管理与工程",
+        "program_name_en": "M.Sc. Management and Engineering in Production Systems",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rwth-aachen.de/go/id/dibe?lidx=1#aaaaaaaaaaadibf",
+        "university_name": "亚琛工业大学",
+        "university_name_en": "RWTH Aachen University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-03-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "2年",
+        "tuition": "11000欧元/年"
+    },
+    {
+        "id": "3b0747a4-1f2b-42e0-9be8-6b95a8a05c28",
+        "detail_page_url": "https://www.compassedu.hk/majr_72825",
+        "program_name": "威斯康星大学麦迪逊分校工业工程理学硕士-人因与健康系统工程",
+        "program_name_en": "MS in Industrial Engineering-Human Factors and Health Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/152.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://pdc.wisc.edu/degrees/industrial-engineering-human-factors-health-systems-ms/",
+        "university_name": "威斯康星大学麦迪逊分校",
+        "university_name_en": "University of Wisconsin-Madison",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "92"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "12个月",
+        "tuition": "36,000美元"
+    },
+    {
+        "id": "c15c374e-b83b-4ef3-8fd9-faff20f71754",
+        "detail_page_url": "https://www.compassedu.hk/majr_72826",
+        "program_name": "威斯康星大学麦迪逊分校工业工程理学硕士-研究",
+        "program_name_en": "MS in Industrial Engineering-Research",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/152.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://engineering.wisc.edu/programs/degrees/industrial-engineering-research-ms/",
+        "university_name": "威斯康星大学麦迪逊分校",
+        "university_name_en": "University of Wisconsin-Madison",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "92"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/夏季",
+        "duration": "30学分",
+        "tuition": "36,000美元"
+    },
+    {
+        "id": "2e37131c-f8c2-448b-88e6-24cd783acbeb",
+        "detail_page_url": "https://www.compassedu.hk/majr_72827",
+        "program_name": "威斯康星大学麦迪逊分校工业工程理学硕士-系统工程与分析",
+        "program_name_en": "MS in Industrial Engineering-Systems Engineering and Analytics",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/152.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://pdc.wisc.edu/degrees/industrial-engineering-systems-engineering-analytics-ms/",
+        "university_name": "威斯康星大学麦迪逊分校",
+        "university_name_en": "University of Wisconsin-Madison",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "92"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "12–16个月",
+        "tuition": "36,000美元"
+    },
+    {
+        "id": "460ec8e9-9585-4cce-8301-087161ef05c3",
+        "detail_page_url": "https://www.compassedu.hk/majr_73591",
+        "program_name": "莱斯大学工业工程硕士",
+        "program_name_en": "Master of Industrial Engineering (MIE)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/96.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://engrprofmasters.rice.edu/programs/master-industrial-engineering",
+        "university_name": "莱斯大学",
+        "university_name_en": "Rice University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "90"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "1年",
+        "tuition": "54,100 美元"
+    },
+    {
+        "id": "a53de5fc-b772-4e21-a6e3-6a35f7a9f5cc",
+        "detail_page_url": "https://www.compassedu.hk/majr_72898",
+        "program_name": "佐治亚理工学院工业工程理学硕士",
+        "program_name_en": "MS in Industrial Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/144.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.isye.gatech.edu/academics/masters/industrial-engineering",
+        "university_name": "佐治亚理工学院",
+        "university_name_en": "Georgia Institute of Technology",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "小分要求": "L:19,W:19,R:19,S:19"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "小分要求": "R:6.5,L:6.5,S:6.5,W:5.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "30学分",
+        "tuition": "约17604美元/学期",
+        "program_size": "20人"
+    },
+    {
+        "id": "a209b18c-3844-48dc-90da-49dac78c86f2",
+        "detail_page_url": "https://www.compassedu.hk/majr_76082",
+        "program_name": "马来西亚国立大学工程教育理学硕士",
+        "program_name_en": "MSc Engineering Education",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ukm.my/studyukm/master-of-science-in-engineering-education/",
+        "university_name": "马来西亚国立大学",
+        "university_name_en": "The National University of Malaysia",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "5.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/9月",
+        "duration": "1年",
+        "tuition": "29900马币/年"
+    },
+    {
+        "id": "a61330e8-3085-410c-80e0-4010d9137239",
+        "detail_page_url": "https://www.compassedu.hk/majr_75784",
+        "program_name": "马来西亚理科大学消防安全工程硕士",
+        "program_name_en": "MSc (Fire Safety Engineering)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://admission.usm.my/postgraduate/programmes?view=article&id=387&catid=54",
+        "university_name": "马来西亚理科大学",
+        "university_name_en": "University of Science Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "40",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "47",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "11400美元/年"
+    },
+    {
+        "id": "6adf5d82-25de-48a1-8bfe-c9e722953fc1",
+        "detail_page_url": "https://www.compassedu.hk/majr_75827",
+        "program_name": "马来西亚博特拉大学工业设计创新硕士",
+        "program_name_en": "Master in Industrial Design Innovation",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://frsb.upm.edu.my/akademik/pengajian_siswazah/master_inovasi_reka_bentuk_perindustrian-85138",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "550",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "2年",
+        "tuition": "17575马币/年"
+    },
+    {
+        "id": "ae05363e-b7f0-47fc-96a1-e5d540258ae4",
+        "detail_page_url": "https://www.compassedu.hk/majr_75844",
+        "program_name": "马来西亚博特拉大学创新与工程设计硕士",
+        "program_name_en": "Master of Innovation and Engineering Design",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://eng.upm.edu.my/upload/dokumen/202405161031526..._Master_Inovasi_dan_Rekabentuk_Kejuruteraan_Master_of_Innovation_and_Engineering_Design.pdf",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "2年",
+        "tuition": "12575马币/年"
+    },
+    {
+        "id": "bc7742c6-cb3b-439d-8142-99842465e5fd",
+        "detail_page_url": "https://www.compassedu.hk/majr_75845",
+        "program_name": "马来西亚博特拉大学制造系统工程硕士",
+        "program_name_en": "Master of Manufacturing System Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://eng.upm.edu.my/upload/dokumen/202411071151002024._Master_of_Manufacturing_System_Engineering_MSE.pdf.pdf",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "2年",
+        "tuition": "12575马币/年"
+    },
+    {
+        "id": "c6564c5d-a0e1-464c-abb0-b2de9d4a919c",
+        "detail_page_url": "https://www.compassedu.hk/majr_75846",
+        "program_name": "马来西亚博特拉大学过程安全与防损硕士",
+        "program_name_en": "Master in Process Safety and Loss Prevention",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://eng.upm.edu.my/upload/dokumen/202405161017348..._Master_in_Process_Safety_and_Loss_Prevention_(MPSLP).pdf",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "2年",
+        "tuition": "14025马币/年"
+    },
+    {
+        "id": "69c64a63-ac21-4e96-a10f-4c9eeb5d1238",
+        "detail_page_url": "https://www.compassedu.hk/majr_75848",
+        "program_name": "马来西亚博特拉大学结构工程与建筑硕士",
+        "program_name_en": "Master of Structural Engineering and Construction",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://eng.upm.edu.my/upload/dokumen/2024051517093410..._Master_of_Structural_Engineering_and_Construction_MSEC.pdf",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "2年",
+        "tuition": "12575马币/年"
+    },
+    {
+        "id": "1bab07ec-a5a3-44bf-b9cb-ef3eb8d8857d",
+        "detail_page_url": "https://www.compassedu.hk/majr_75852",
+        "program_name": "马来西亚博特拉大学航天系统设计工程硕士",
+        "program_name_en": "Master in Aerospace System Design Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://eng.upm.edu.my/upload/dokumen/2024041614381420210625102658KAA_Master_of_Aerospace_System_Design_Engineering_compressed_(1).pdf.pdf",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "2年",
+        "tuition": "13575马币/年"
+    },
+    {
+        "id": "ce646539-e7e3-40ac-9ec5-21e064602d7b",
+        "detail_page_url": "https://www.compassedu.hk/majr_72725",
+        "program_name": "南加州大学工业与系统工程理学硕士",
+        "program_name_en": "MS in Industrial and Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/103.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://viterbigradadmission.usc.edu/programs/masters/msprograms/industrial-systems-engineering/ms-industrial-systems-engineering/",
+        "university_name": "南加州大学",
+        "university_name_en": "University of Southern California",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "小分要求": "R:20,L:20,S:20,W:20,"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "6"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "春季/秋季",
+        "duration": "30学分",
+        "tuition": "69,270 美元"
+    },
+    {
+        "id": "1a1121ff-dfe8-4878-831d-d7b6dc635a2f",
+        "detail_page_url": "https://www.compassedu.hk/majr_64145",
+        "program_name": "格罗宁根大学工业工程与管理理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rug.nl/masters/industrial-engineering-and-management/",
+        "university_name": "格罗宁根大学",
+        "university_name_en": "University of Groningen",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-01"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-05-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "24",
+                "口语": "21"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "24900欧元/年"
+    },
+    {
+        "id": "6a4a736c-978c-4c88-88dd-353d0d65e2a2",
+        "detail_page_url": "https://www.compassedu.hk/majr_75889",
+        "program_name": "马来西亚理工大学工程硕士（结构）",
+        "program_name_en": "Master of Engineering (Structure)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://civil.utm.my/v2/postgraduate/meae/",
+        "university_name": "马来西亚理工大学",
+        "university_name_en": "Universiti Teknologi Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-12-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1.5年",
+        "tuition": "20667马币/年"
+    },
+    {
+        "id": "80848275-f116-46f9-ac9c-00ccce4d7c5c",
+        "detail_page_url": "https://www.compassedu.hk/majr_75891",
+        "program_name": "马来西亚理工大学法医工程硕士",
+        "program_name_en": "Master of Forensic Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://civil.utm.my/v2/postgraduate/mkax/",
+        "university_name": "马来西亚理工大学",
+        "university_name_en": "Universiti Teknologi Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-12-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1.5年",
+        "tuition": "20667马币/年"
+    },
+    {
+        "id": "f74284b3-560d-472f-941f-4f9710b18fd3",
+        "detail_page_url": "https://www.compassedu.hk/majr_75912",
+        "program_name": "马来西亚理工大学理学硕士（工业工程）",
+        "program_name_en": "Master of Science (Industrial Engineering)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://mech.utm.my/mkmn/?_gl=1*mgcq3y*_ga*ODA1OTI4Mjg0LjE3NDQ4ODQxNDk.*_ga_N3HJW8G3P7*MTc0NTkyMDA5NS44LjEuMTc0NTkyMDM0NC41OS4wLjA.",
+        "university_name": "马来西亚理工大学",
+        "university_name_en": "Universiti Teknologi Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-12-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "31000马币/年"
+    },
+    {
+        "id": "31fb4c4b-12aa-4b15-8819-e11527227812",
+        "detail_page_url": "https://www.compassedu.hk/majr_75913",
+        "program_name": "马来西亚理工大学理学硕士（机械工程）",
+        "program_name_en": "Master of Science (Mechanical Engineering)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://mech.utm.my/mkmm/",
+        "university_name": "马来西亚理工大学",
+        "university_name_en": "Universiti Teknologi Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-12-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "2年",
+        "tuition": "15500马币/年"
+    },
+    {
+        "id": "7186ab97-c070-4148-974e-efe9026d98fc",
+        "detail_page_url": "https://www.compassedu.hk/majr_76251",
+        "program_name": "科廷大学工业工程学硕士",
+        "program_name_en": "MSc Industrial Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/415.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.curtin.edu.au/study/offering/course-pg-master-of-science-industrial-engineering--mc-indeng/",
+        "university_name": "科廷大学",
+        "university_name_en": "Curtin University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-12-02"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-28"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "68",
+                "听力": "13",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "50",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "41148澳元/年"
+    },
+    {
+        "id": "72ae1a00-ebff-4cd0-b68d-f2b03434b200",
+        "detail_page_url": "https://www.compassedu.hk/majr_73846",
+        "program_name": "俄亥俄州立大学工业与系统工程理学硕士",
+        "program_name_en": "MS in Industrial and Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/163.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "​https://ise.osu.edu/degrees/graduate-program",
+        "university_name": "俄亥俄州立大学",
+        "university_name_en": "Ohio State University",
+        "apply_time": [],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "数据分析与优化"
+            },
+            {
+                "key": "2",
+                "value": "人力系统集成"
+            },
+            {
+                "key": "3",
+                "value": "职业安全与工效学"
+            },
+            {
+                "key": "4",
+                "value": "综合精益六个层面"
+            },
+            {
+                "key": "5",
+                "value": "制造工程"
+            },
+            {
+                "key": "6",
+                "value": "运筹学"
+            },
+            {
+                "key": "7",
+                "value": "供应链管理和生产系统"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "100"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季/夏季",
+        "duration": "至少30学分",
+        "tuition": "59,768美元/年",
+        "average_accepted_gpa": "最低3.0"
+    },
+    {
+        "id": "c291a7a5-37ab-4d24-b482-e5a21b83a7c4",
+        "detail_page_url": "https://www.compassedu.hk/majr_72764",
+        "program_name": "佛罗里达大学工业和系统工程理学硕士",
+        "program_name_en": "MS in Industrial and Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ise.ufl.edu/academics/graduate/",
+        "university_name": "佛罗里达大学",
+        "university_name_en": "University of Florida",
+        "apply_time": [],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "数据分析"
+            },
+            {
+                "key": "2",
+                "value": "人类系统工程"
+            },
+            {
+                "key": "3",
+                "value": "行动调查"
+            },
+            {
+                "key": "4",
+                "value": "生产与服务运营"
+            },
+            {
+                "key": "5",
+                "value": "工程管理"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "80"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "24学分",
+        "tuition": "37,663美元"
+    },
+    {
+        "id": "1576a491-601f-462b-accc-e087b3dacba1",
+        "detail_page_url": "https://www.compassedu.hk/majr_53527",
+        "program_name": "思克莱德大学设计工程理学硕士",
+        "program_name_en": "MSc Design Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/designengineering/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "d4933ea5-8cda-4d50-9f2c-5601c5c1be27",
+        "detail_page_url": "https://www.compassedu.hk/majr_53531",
+        "program_name": "思克莱德大学产品设计理学硕士",
+        "program_name_en": "MSc Product Design",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/productdesign/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "c961b75b-3db6-4635-a348-db794728880b",
+        "detail_page_url": "https://www.compassedu.hk/majr_61974",
+        "program_name": "思克莱德大学数字化制造理学硕士",
+        "program_name_en": "MSc Digital Manufacturing",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/digitalmanufacturing/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "33a5c482-ec31-4d00-9815-14329209f0d7",
+        "detail_page_url": "https://www.compassedu.hk/majr_67357",
+        "program_name": "思克莱德大学流程优化工程管理理学硕士",
+        "program_name_en": "MSc Engineering Management for Process Excellence",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/engineeringmanagementforprocessexcellence/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-19",
+                "application_end_date": [
+                    "-"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "86763691-38ec-4752-9cdb-afbacc0819ef",
+        "detail_page_url": "https://www.compassedu.hk/majr_71496",
+        "program_name": "思克莱德大学设计工程与高级产品开发理学硕士",
+        "program_name_en": "MSc Design Engineering with Advanced Product Development",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/designengineeringwithadvancedproductdevelopment/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "b11066f5-479f-496f-9579-e981dad7ec42",
+        "detail_page_url": "https://www.compassedu.hk/majr_71497",
+        "program_name": "思克莱德大学设计工程与可持续性理学硕士",
+        "program_name_en": "MSc Design Engineering with Sustainability",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/designengineeringwithsustainability/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28250英镑/年"
+    },
+    {
+        "id": "c3cf4a34-8443-4a5f-a967-e06199ad1b98",
+        "detail_page_url": "https://www.compassedu.hk/majr_64649",
+        "program_name": "赫瑞瓦特大学工业管理理学硕士（国际硕士）",
+        "program_name_en": "MSc International Master in Industrial Management (IMIM)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hw.ac.uk/study/postgraduate/international-master-industrial-management",
+        "university_name": "赫瑞瓦特大学",
+        "university_name_en": "Heriot-Watt University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-30",
+                "application_end_date": [
+                    "2024-06-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "21",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "18500欧元/年"
+    },
+    {
+        "id": "d7d1e0f2-8279-416d-8c4e-8cfd93b29df9",
+        "detail_page_url": "https://www.compassedu.hk/majr_73951",
+        "program_name": "弗吉尼亚理工大学运筹学理学硕士",
+        "program_name_en": "MS in Operations Research",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/182.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ise.vt.edu/academics/graduate/ms/or.html",
+        "university_name": "弗吉尼亚理工大学",
+        "university_name_en": "Virginia Polytechnic Institute and State University (Virginia Tech)",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "小分要求": "20"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "春季/秋季",
+        "duration": "30学分",
+        "tuition": "1,740.5美元/学分"
+    },
+    {
+        "id": "cdc63c7a-2de8-4d08-ba40-aedcc4a42985",
+        "detail_page_url": "https://www.compassedu.hk/majr_61923",
+        "program_name": "邓迪大学工业工程与管理理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/industrial-engineering-management",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "27900英镑/年"
+    },
+    {
+        "id": "b9beb139-cab8-4622-b9b6-d68ef6029bec",
+        "detail_page_url": "https://www.compassedu.hk/majr_71530",
+        "program_name": "邓迪大学工业工程与数字营销理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Digital Marketing",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/industrial-engineering-digital-marketing",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1月",
+        "duration": "1年",
+        "tuition": "27900英镑/年"
+    },
+    {
+        "id": "278d4e8a-f44c-4815-984d-33e851879c6a",
+        "detail_page_url": "https://www.compassedu.hk/majr_74407",
+        "program_name": "邓迪大学工业工程与创业理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Entrepreneurship",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/industrial-engineering-entrepreneurship",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "27900英镑/年"
+    },
+    {
+        "id": "868e7c10-17d1-490f-99da-55203a7eb9d8",
+        "detail_page_url": "https://www.compassedu.hk/majr_74409",
+        "program_name": "邓迪大学工业工程与可再生能源理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Renewables",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/industrial-engineering-renewables",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "27900英镑/年"
+    },
+    {
+        "id": "98c4150c-ec90-4e7c-9568-ccb756226ad4",
+        "detail_page_url": "https://www.compassedu.hk/majr_74410",
+        "program_name": "邓迪大学工业工程与可持续发展理学硕士",
+        "program_name_en": "MSc Industrial Engineering and Sustainability",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/industrial-engineering-sustainability",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "27900英镑/年"
+    },
+    {
+        "id": "f17f7c80-3080-49a5-8e38-fb68b069e766",
+        "detail_page_url": "https://www.compassedu.hk/majr_63154",
+        "program_name": "澳门科技大学智能技术硕士",
+        "program_name_en": "MSc in Intelligent Technology",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.must.edu.mo/cn/fie/des/programme/master",
+        "university_name": "澳门科技大学",
+        "university_name_en": "Macau University of Science and Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-10",
+                "application_end_date": [
+                    "2025-02-13"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "真人单面",
+        "intakeSeason": "1/9月",
+        "duration": "2年",
+        "tuition": "120000港币/年"
+    },
+    {
+        "id": "dfe039f5-f3a3-4a72-8b0f-99cc120e2065",
+        "detail_page_url": "https://www.compassedu.hk/majr_60030",
+        "program_name": "新加坡科技设计大学工程学硕士（跨学科）",
+        "program_name_en": "Master of Engineering (Interdisciplinary)",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/299.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sutd.edu.sg/programme-listing/master-of-engineering-research/",
+        "university_name": "新加坡科技设计大学",
+        "university_name_en": "Singapore University of Technology and Design",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "54082新币/年"
+    },
+    {
+        "id": "d73639dd-bd8a-438d-a49b-e41f878bdcae",
+        "detail_page_url": "https://www.compassedu.hk/majr_65303",
+        "program_name": "考文垂大学生产工程与运营管理理学硕士",
+        "program_name_en": "MSc Production Engineering and Operations Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/production-engineering-and-operations-management-msc/?term=2024-25",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "20050英镑/年"
+    },
+    {
+        "id": "fac67c47-4d21-4e7c-ba0d-ea93d8dd6f78",
+        "detail_page_url": "https://www.compassedu.hk/majr_65458",
+        "program_name": "克兰菲尔德大学制造系统工程与管理理学硕士",
+        "program_name_en": "MSc Engineering and Management of Manufacturing Systems",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/engineering-and-management-of-manufacturing-systems",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "c5db063f-c790-4a27-9e29-dcf86701391c",
+        "detail_page_url": "https://www.compassedu.hk/majr_65459",
+        "program_name": "克兰菲尔德大学全球产品开发与管理理学硕士",
+        "program_name_en": "MSc Global Product Development and Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/global-product-development-and-management",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "23d1b8a1-f38e-4aa4-9fd5-edd3fbf73f24",
+        "detail_page_url": "https://www.compassedu.hk/majr_65462",
+        "program_name": "克兰菲尔德大学制造技术与管理理学硕士",
+        "program_name_en": "MSc Manufacturing Technology and Management",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/manufacturing-technology-and-management",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "f5f9ea2e-1ae3-40b4-a9f7-aad5fa9dbee1",
+        "detail_page_url": "https://www.compassedu.hk/majr_73917",
+        "program_name": "明尼苏达大学双城分校工业与系统工程理学硕士 - 分析方向",
+        "program_name_en": "MS in Industrial & Systems Engineering - Analytics Track",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/178.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://cse.umn.edu/isye/analytics",
+        "university_name": "明尼苏达大学双城分校",
+        "university_name_en": "University of Minnesota-Twin Cities",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "小分要求": "W21,R19"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "W6.5,R6.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "30学分",
+        "tuition": "14,289美元/学期"
+    },
+    {
+        "id": "1cc92759-f972-41a2-8277-e322841742ea",
+        "detail_page_url": "https://www.compassedu.hk/majr_73918",
+        "program_name": "明尼苏达大学双城分校工业与系统工程理学硕士 - 工业工程方向",
+        "program_name_en": "MS in Industrial & Systems Engineering - Industrial Engineering Track",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/178.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://cse.umn.edu/isye/industrial-engineering",
+        "university_name": "明尼苏达大学双城分校",
+        "university_name_en": "University of Minnesota-Twin Cities",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "小分要求": "W21,R19"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "W6.5,R6.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "30-32学分",
+        "tuition": "14,289美元/学期"
+    },
+    {
+        "id": "4c8d4efb-0a7b-486a-9d73-858d3900ca7e",
+        "detail_page_url": "https://www.compassedu.hk/majr_73919",
+        "program_name": "明尼苏达大学双城分校工业与系统工程理学硕士 - 系统工程方向",
+        "program_name_en": "MS in Industrial & Systems Engineering - Systems Engineering Track",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/178.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://cse.umn.edu/isye/systems-engineering",
+        "university_name": "明尼苏达大学双城分校",
+        "university_name_en": "University of Minnesota-Twin Cities",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "小分要求": "W21,R19"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "W6.5,R6.5"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "30学分",
+        "tuition": "14,289美元/学期"
+    },
+    {
+        "id": "ef1877a1-4de4-4ae4-9a61-599fc0cbe0ab",
+        "detail_page_url": "https://www.compassedu.hk/majr_75986",
+        "program_name": "香港岭南大学工业数据分析理学硕士",
+        "program_name_en": "MSc Industrial Data Analytics",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Industrial-Data-Analytics",
+        "university_name": "香港岭南大学",
+        "university_name_en": "Lingnan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-01-03",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "287000港币/年"
+    },
+    {
+        "id": "d7bff8aa-b260-4b20-955b-b718f02c3430",
+        "detail_page_url": "https://www.compassedu.hk/majr_76119",
+        "program_name": "马来西亚莫纳什大学应用工程硕士",
+        "program_name_en": "Master of Applied Engineering",
+        "primary_category": "工科",
+        "secondary_category": "工业工程",
+        "university_logo_url": "https://logo.compassedu.hk/2940.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.monash.edu.my/study/postgraduate-and-research/engineering/master-of-applied-engineering",
+        "university_name": "马来西亚莫纳什大学",
+        "university_name_en": "Monash University Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-16"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "1年",
+        "tuition": "63360马币/年"
+    }
+]

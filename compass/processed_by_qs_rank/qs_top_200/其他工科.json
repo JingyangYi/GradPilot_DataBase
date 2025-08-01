@@ -1,0 +1,5647 @@
+[
+  {
+    "completion_rate": "73 / 73",
+    "fail_count": 0,
+    "original_total": 104,
+    "classification": "QS前200"
+  },
+  {
+    "id": "52901b77-439b-43e0-9e3d-48f800d1a118",
+    "detail_page_url": "https://www.compassedu.hk/majr_73511",
+    "program_name": "麻省理工学院科技政策硕士",
+    "program_name_en": "MS in Technology and Policy",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/85.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://tpp.mit.edu/",
+    "university_name": "麻省理工学院",
+    "university_name_en": "Massachusetts Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "115,180美元",
+    "qs_2026_rank": 1,
+    "usnews_2026_rank": 2,
+    "the_2025_rank": 2,
+    "arwu_2024_rank": 3,
+    "qs_2026_engineering_and_technology_rank": 1,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "204bf486-5b75-4d13-a035-577ef98db66e",
+    "detail_page_url": "https://www.compassedu.hk/majr_50114",
+    "program_name": "帝国理工学院创新设计工程文学/理学硕士（帝国理工学院-皇家艺术学院联合开设）",
+    "program_name_en": "Joint MA/MSc Innovation Design Engineering (IC-RCA)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-design-engineering/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-27",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-03-26",
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "38600英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_engineering_and_technology_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4fcb6901-c61e-4eef-ad01-23a43bfeb498",
+    "detail_page_url": "https://www.compassedu.hk/majr_75219",
+    "program_name": "帝国理工学院设计工程理学硕士",
+    "program_name_en": "MSc Design Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/design-engineering-msc/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-27",
+        "application_end_date": [
+          "2025-01-16",
+          "2025-03-27",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "42900英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_engineering_and_technology_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "53cb1f20-06af-4716-abfa-321d76fd0098",
+    "detail_page_url": "https://www.compassedu.hk/majr_75220",
+    "program_name": "帝国理工学院设计与行为科学理学硕士",
+    "program_name_en": "MSc Design with Behaviour Science",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/design-behaviour/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-27",
+        "application_end_date": [
+          "2025-01-16",
+          "2025-03-27",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "42900英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_engineering_and_technology_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1b80c461-af39-4402-9c33-de7a651822cf",
+    "detail_page_url": "https://www.compassedu.hk/majr_73512",
+    "program_name": "哈佛大学计算生物学和数量遗传学理学硕士",
+    "program_name_en": "MS in Computational Biology and Quantitative Genetics",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/80.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hsph.harvard.edu/sm-computational-biology/",
+    "university_name": "哈佛大学",
+    "university_name_en": "Harvard University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "小分要求": "L23,W23,R23,S23"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "52,272美元",
+    "qs_2026_rank": 5,
+    "usnews_2026_rank": 1,
+    "the_2025_rank": 3,
+    "arwu_2024_rank": 1,
+    "qs_2026_engineering_and_technology_rank": 9,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "46d63079-d6a5-4103-8858-e78f5745a10c",
+    "detail_page_url": "https://www.compassedu.hk/majr_73515",
+    "program_name": "哈佛大学设计工程硕士",
+    "program_name_en": "Master in Design Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/80.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mde.harvard.edu/",
+    "university_name": "哈佛大学",
+    "university_name_en": "Harvard University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "57,200美元",
+    "qs_2026_rank": 5,
+    "usnews_2026_rank": 1,
+    "the_2025_rank": 3,
+    "arwu_2024_rank": 1,
+    "qs_2026_engineering_and_technology_rank": 9,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "26a95a63-00b5-481d-ba47-b91f12c7c32d",
+    "detail_page_url": "https://www.compassedu.hk/majr_63400",
+    "program_name": "苏黎世联邦理工大学神经系统与计算理学硕士",
+    "program_name_en": "MSc Neural Systems and Computation",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.nsc.uzh.ch/en.html",
+    "university_name": "苏黎世联邦理工大学",
+    "university_name_en": "Swiss Federal Institute of Technology Zurich",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "1758瑞士法郎/年",
+    "qs_2026_rank": 7,
+    "usnews_2026_rank": 35,
+    "the_2025_rank": 11,
+    "arwu_2024_rank": 21,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 5,
+    "qs_2026_engineering_technology_rank": 5
+  },
+  {
+    "id": "901bb5f1-3ff2-4294-a1d1-e1e37f823713",
+    "detail_page_url": "https://www.compassedu.hk/majr_63430",
+    "program_name": "苏黎世联邦理工大学农业科学理学硕士",
+    "program_name_en": "MSc Agricultural Sciences",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ethz.ch/en/studies/master/degree-programmes/system-oriented-natural-sciences/agricultural-sciences.html",
+    "university_name": "苏黎世联邦理工大学",
+    "university_name_en": "Swiss Federal Institute of Technology Zurich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "1608瑞士法郎/年",
+    "qs_2026_rank": 7,
+    "usnews_2026_rank": 35,
+    "the_2025_rank": 11,
+    "arwu_2024_rank": 21,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 5,
+    "qs_2026_engineering_technology_rank": 5
+  },
+  {
+    "id": "e8fcb12e-04fe-46f5-a510-cfda979a08dd",
+    "detail_page_url": "https://www.compassedu.hk/majr_63436",
+    "program_name": "苏黎世联邦理工大学大气与气候科学理学硕士",
+    "program_name_en": "MSc Atmospheric and Climate Science MSc",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ethz.ch/en/studies/master/degree-programmes/system-oriented-natural-sciences/atmosphaere-und-klima.html",
+    "university_name": "苏黎世联邦理工大学",
+    "university_name_en": "Swiss Federal Institute of Technology Zurich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "1608瑞士法郎/年",
+    "qs_2026_rank": 7,
+    "usnews_2026_rank": 35,
+    "the_2025_rank": 11,
+    "arwu_2024_rank": 21,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 5,
+    "qs_2026_engineering_technology_rank": 5
+  },
+  {
+    "id": "6c2908a9-4389-443d-b457-921abee68250",
+    "detail_page_url": "https://www.compassedu.hk/majr_63441",
+    "program_name": "苏黎世联邦理工大学健康科学与技术理学硕士",
+    "program_name_en": "MSc Health Sciences and Technology",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ethz.ch/en/studies/master/degree-programmes/system-oriented-natural-sciences/health-sciences-and-technology.html",
+    "university_name": "苏黎世联邦理工大学",
+    "university_name_en": "Swiss Federal Institute of Technology Zurich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "1608瑞士法郎/年",
+    "qs_2026_rank": 7,
+    "usnews_2026_rank": 35,
+    "the_2025_rank": 11,
+    "arwu_2024_rank": 21,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 5,
+    "qs_2026_engineering_technology_rank": 5
+  },
+  {
+    "id": "02cc80fa-e9c9-48a2-b617-d1bc116c0864",
+    "detail_page_url": "https://www.compassedu.hk/majr_73150",
+    "program_name": "伦敦大学学院人工智能与医学成像理学硕士",
+    "program_name_en": "MSc Artificial Intelligence and Medical Imaging",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/artificial-intelligence-and-medical-imaging-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_engineering_and_technology_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ef2613c7-36fd-4631-88f6-96b73d4ef5bf",
+    "detail_page_url": "https://www.compassedu.hk/majr_74674",
+    "program_name": "伦敦大学学院消防安全设计建筑学硕士",
+    "program_name_en": "MArch Fire Safe Design",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/fire-safe-design",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-10",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_engineering_and_technology_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "49b97a84-0d54-4dc9-b6fb-42fb68826dac",
+    "detail_page_url": "https://www.compassedu.hk/majr_74675",
+    "program_name": "伦敦大学学院基础设施系统理学硕士",
+    "program_name_en": "MSc Infrastructure Systems",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/infrastructure-systems-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-04-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_engineering_and_technology_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1f5cbf4c-2bd9-43f2-a8e8-932980fc604f",
+    "detail_page_url": "https://www.compassedu.hk/majr_73551",
+    "program_name": "宾夕法尼亚大学综合产品设计工程理学硕士",
+    "program_name_en": "MSE in Integrated Product Design",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/88.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.me.upenn.edu/prospective-students/masters/masters-degrees.php",
+    "university_name": "宾夕法尼亚大学",
+    "university_name_en": "University of Pennsylvania",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "30,168美元",
+    "qs_2026_rank": 15,
+    "usnews_2026_rank": 15,
+    "the_2025_rank": 14,
+    "arwu_2024_rank": 14,
+    "qs_2026_engineering_and_technology_rank": 95,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "63de70f4-d79e-4ff3-b82b-78abe6f42bfe",
+    "detail_page_url": "https://www.compassedu.hk/majr_73552",
+    "program_name": "宾夕法尼亚大学综合产品设计硕士",
+    "program_name_en": "Master of Integrated Product Design",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/88.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.me.upenn.edu/prospective-students/masters/masters-degrees.php",
+    "university_name": "宾夕法尼亚大学",
+    "university_name_en": "University of Pennsylvania",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "用户体验策略"
+      },
+      {
+        "key": "2",
+        "value": "机器人与智能产品"
+      },
+      {
+        "key": "3",
+        "value": "医疗创新"
+      },
+      {
+        "key": "4",
+        "value": "社会影响"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "63,000美元",
+    "qs_2026_rank": 15,
+    "usnews_2026_rank": 15,
+    "the_2025_rank": 14,
+    "arwu_2024_rank": 14,
+    "qs_2026_engineering_and_technology_rank": 95,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7c130625-8465-48bb-94f1-bdcf389788cd",
+    "detail_page_url": "https://www.compassedu.hk/majr_73640",
+    "program_name": "加州大学伯克利分校发展工程硕士",
+    "program_name_en": "Master of Development Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/100.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://developmentengineering.berkeley.edu/",
+    "university_name": "加州大学伯克利分校",
+    "university_name_en": "University of California, Berkeley",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1.5年",
+    "tuition": "5,850美元",
+    "qs_2026_rank": 17,
+    "usnews_2026_rank": 6,
+    "the_2025_rank": 8,
+    "arwu_2024_rank": 5,
+    "qs_2026_engineering_and_technology_rank": 6,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3c3572db-7f63-40bd-9273-85fa10a50a9f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72252",
+    "program_name": "墨尔本大学气候科学硕士",
+    "program_name_en": "Master of Climate Science",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-climate-science/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "3/7月",
+    "duration": "2年",
+    "tuition": "57725澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_engineering_and_technology_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ceef2fac-d30f-414f-b26f-2c5e97037077",
+    "detail_page_url": "https://www.compassedu.hk/majr_74450",
+    "program_name": "新南威尔士大学工程科学硕士 / 商学硕士双学位",
+    "program_name_en": "Double Degree Master of Engineering Science / Master of Commerce",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-commerce?studentType=International",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "3年",
+    "tuition": "62834澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_engineering_and_technology_rank": 25,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fee650c8-a513-4d8b-9b80-d2536ad66357",
+    "detail_page_url": "https://www.compassedu.hk/majr_64297",
+    "program_name": "慕尼黑工业大学制图学",
+    "program_name_en": "MSc Cartography",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/cartography-master-of-science-msc/",
+    "university_name": "慕尼黑工业大学",
+    "university_name_en": "Technical University of Munich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_engineering_and_technology_rank": 19,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0416a43c-bc9d-4176-b5e4-b1063fbe08e0",
+    "detail_page_url": "https://www.compassedu.hk/majr_64328",
+    "program_name": "慕尼黑工业大学神经工程",
+    "program_name_en": "M.Sc. Neuroengineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/neuroengineering-master-of-science-msc/",
+    "university_name": "慕尼黑工业大学",
+    "university_name_en": "Technical University of Munich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "tuition": "12000欧元/年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_engineering_and_technology_rank": 19,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8a00bfab-1a50-4c1b-b5a3-f97cd1f0ed55",
+    "detail_page_url": "https://www.compassedu.hk/majr_64337",
+    "program_name": "慕尼黑工业大学科学、工程和技术责任",
+    "program_name_en": "M.A. Responsibility in Science, Engineering and Technology（RESET）",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/responsibility-in-science-engineering-and-technology-reset-master-of-arts-ma/",
+    "university_name": "慕尼黑工业大学",
+    "university_name_en": "Technical University of Munich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "tuition": "8000欧元/年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_engineering_and_technology_rank": 19,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a81f5ab6-e3b1-4876-8948-e6d28f3f45d3",
+    "detail_page_url": "https://www.compassedu.hk/majr_64338",
+    "program_name": "慕尼黑工业大学科学技术研究",
+    "program_name_en": "M.A. Science and Technology Studies(STS)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/science-and-technology-studies-sts-master-of-arts-ma/",
+    "university_name": "慕尼黑工业大学",
+    "university_name_en": "Technical University of Munich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "tuition": "8000欧元/年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_engineering_and_technology_rank": 19,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fe6525ef-ee84-43fa-8355-2f9771199739",
+    "detail_page_url": "https://www.compassedu.hk/majr_65933",
+    "program_name": "澳大利亚国立大学应用控制论硕士",
+    "program_name_en": "Master of Applied Cybernetics",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/286.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://programsandcourses.anu.edu.au/2025/program/MACYB",
+    "university_name": "澳大利亚国立大学",
+    "university_name_en": "Australian National University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-06-03",
+        "application_end_date": [
+          "2024-08-23"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "18",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1年",
+    "tuition": "53700澳元/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 76,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ce10db3b-301c-4ba1-bcaf-b34c07439b74",
+    "detail_page_url": "https://www.compassedu.hk/majr_65934",
+    "program_name": "澳大利亚国立大学应用控制论硕士（高级）",
+    "program_name_en": "Master of Applied Cybernetics (Advanced)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/286.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://programsandcourses.anu.edu.au/2025/program/VACYB",
+    "university_name": "澳大利亚国立大学",
+    "university_name_en": "Australian National University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-06-03",
+        "application_end_date": [
+          "2024-08-23"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "18",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1.5年",
+    "tuition": "53700澳元/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 76,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7295ae65-20e9-4102-819e-b8126d4f5339",
+    "detail_page_url": "https://www.compassedu.hk/majr_51857",
+    "program_name": "爱丁堡大学设计信息学文学硕士",
+    "program_name_en": "MA Design Informatics",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=821",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-05-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "43300英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_engineering_and_technology_rank": 58,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f33eb456-ba75-450c-b8af-b25395d45d36",
+    "detail_page_url": "https://www.compassedu.hk/majr_51944",
+    "program_name": "爱丁堡大学设计信息学理学硕士",
+    "program_name_en": "MSc Design Informatics",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=803",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "43300英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_engineering_and_technology_rank": 58,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5f466444-e6c7-4583-abd9-53bbeb8383bf",
+    "detail_page_url": "https://www.compassedu.hk/majr_65834",
+    "program_name": "爱丁堡大学消防安全工程国际理学硕士",
+    "program_name_en": "International MSc Fire Safety Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=806",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "10000欧元/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_engineering_and_technology_rank": 58,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "273920cd-45aa-4685-b003-3d19012be264",
+    "detail_page_url": "https://www.compassedu.hk/majr_54141",
+    "program_name": "昆士兰大学工程科学硕士（1年制）",
+    "program_name_en": "Master of Engineering Science (1 Year)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.uq.edu.au/study-options/programs/master-engineering-science-5528",
+    "university_name": "昆士兰大学",
+    "university_name_en": "The University of Queensland",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "1年",
+    "tuition": "53760澳元/年",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 43,
+    "the_2025_rank": 77,
+    "arwu_2024_rank": 63,
+    "qs_2026_engineering_and_technology_rank": 68,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e5e0bca4-63a9-47b1-8336-eafeb09e0e3b",
+    "detail_page_url": "https://www.compassedu.hk/majr_54143",
+    "program_name": "昆士兰大学工程科学硕士（管理学）",
+    "program_name_en": "Master of Engineering Science (Management)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.uq.edu.au/study-options/programs/master-engineering-science-management-5530",
+    "university_name": "昆士兰大学",
+    "university_name_en": "The University of Queensland",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "53760澳元/年",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 43,
+    "the_2025_rank": 77,
+    "arwu_2024_rank": 63,
+    "qs_2026_engineering_and_technology_rank": 68,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9edefd8f-75b2-4128-9ab6-5dc912a03a12",
+    "detail_page_url": "https://www.compassedu.hk/majr_72238",
+    "program_name": "昆士兰大学城市水利工程硕士（专业）",
+    "program_name_en": "Master of Urban Water Engineering (Professional)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.uq.edu.au/study-options/programs/master-urban-water-engineering-professional-5748",
+    "university_name": "昆士兰大学",
+    "university_name_en": "The University of Queensland",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "53760澳元/年",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 43,
+    "the_2025_rank": 77,
+    "arwu_2024_rank": 63,
+    "qs_2026_engineering_and_technology_rank": 68,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fa04bb96-7c62-4449-8231-b1be72fd583b",
+    "detail_page_url": "https://www.compassedu.hk/majr_73562",
+    "program_name": "西北大学（美国）工程设计创新硕士",
+    "program_name_en": "MS in Engineering Design Innovation",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/91.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://design.northwestern.edu/engineering-design-innovation/",
+    "university_name": "西北大学（美国）",
+    "university_name_en": "Northwestern University(United States)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-15",
+          "2025-07-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "95"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求",
+        "小分要求": "V157,Q158,AW4"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "18个月",
+    "tuition": "62,163美元",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 24,
+    "the_2025_rank": 31,
+    "arwu_2024_rank": 33,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 69,
+    "qs_2026_engineering_technology_rank": 69
+  },
+  {
+    "id": "e49f1f93-ac5f-4afc-a0b5-e9d647fb57de",
+    "detail_page_url": "https://www.compassedu.hk/majr_73563",
+    "program_name": "西北大学（美国）产品设计与发展管理硕士",
+    "program_name_en": "Master of Product Design and Development Management",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/91.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://design.northwestern.edu/product-design-development-management/?_gl=1*1spn5dz*_ga*MjAxMzc2OTk3OC4xNjgwNTkzMTE5*_ga_LQB9C00YR7*MTY4MDg1ODAxMC4yLjEuMTY4MDg1OTI3MS4wLjAuMA..",
+    "university_name": "西北大学（美国）",
+    "university_name_en": "Northwestern University(United States)",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福，不接受：雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "66,456美元",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 24,
+    "the_2025_rank": 31,
+    "arwu_2024_rank": 33,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 69,
+    "qs_2026_engineering_technology_rank": 69
+  },
+  {
+    "id": "aa56edd7-1269-466f-931e-13365a467547",
+    "detail_page_url": "https://www.compassedu.hk/majr_77011",
+    "program_name": "香港科技大学数字与可持续城市理学硕士",
+    "program_name_en": "MSc Digital and Sustainable Cities",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/42.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-disc",
+    "university_name": "香港科技大学",
+    "university_name_en": "The Hong Kong University of Science and Technology",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "270000港币/年",
+    "qs_2026_rank": 44,
+    "usnews_2026_rank": 101,
+    "the_2025_rank": 66,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 43,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9d51c27b-8c07-4bcc-bc47-c1ba833ce333",
+    "detail_page_url": "https://www.compassedu.hk/majr_63840",
+    "program_name": "代尔夫特理工大学生命科学与技术理学硕士",
+    "program_name_en": "MSc and Technology",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/education/programmes/masters/lst/msc-life-science-and-technology",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "75e0787f-ea78-4da4-b8e8-39fec61f3a3c",
+    "detail_page_url": "https://www.compassedu.hk/majr_64055",
+    "program_name": "代尔夫特理工大学技术医学理学硕士-成像和干预",
+    "program_name_en": "MSc Technical Medicine - Imaging & Intervention",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/education/programmes/masters/tm/msc-technical-medicine/msc-programme/track-imaging-intervention",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9fc5b8c6-572c-4075-88a0-f8a47704405a",
+    "detail_page_url": "https://www.compassedu.hk/majr_64056",
+    "program_name": "代尔夫特理工大学技术医学理学硕士-感知与刺激",
+    "program_name_en": "MSc Technical Medicine - Sensing & Stimulation",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/education/programmes/masters/tm/msc-technical-medicine/msc-programme/track-sensing-stimulation",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cf51b37d-3f5a-434b-a372-b723f7fc9ac3",
+    "detail_page_url": "https://www.compassedu.hk/majr_64058",
+    "program_name": "代尔夫特理工大学集成产品设计理学硕士",
+    "program_name_en": "MSc Integrated Product Design",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/education/programmes/masters/ipd/msc-integrated-product-design",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f17fe290-9ebf-4583-b0d6-5396f5f90b06",
+    "detail_page_url": "https://www.compassedu.hk/majr_64059",
+    "program_name": "代尔夫特理工大学战略产品设计理学硕士",
+    "program_name_en": "MSc Strategic Product Design",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/education/programmes/masters/spd/msc-strategic-product-design",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2023-10-15",
+        "application_end_date": [
+          "2024-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c0d137ca-66b8-4430-8813-b66737709ca9",
+    "detail_page_url": "https://www.compassedu.hk/majr_1782",
+    "program_name": "香港理工大学消防及安全工程学理学硕士",
+    "program_name_en": "MSc Fire and Safety Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/33086-fem-fsm",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-25",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "202500港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 74,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "37e7b1c9-689c-48c9-9f71-d63c02586aca",
+    "detail_page_url": "https://www.compassedu.hk/majr_73575",
+    "program_name": "布朗大学设计工程",
+    "program_name_en": "MA in Design Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/94.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://graduateprograms.brown.edu/graduate-program/design-engineering-am",
+    "university_name": "布朗大学",
+    "university_name_en": "Brown University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "90,277美元",
+    "qs_2026_rank": 69,
+    "usnews_2026_rank": 150,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 214,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "39929038-70ac-4a7f-a51d-590b8a916d65",
+    "detail_page_url": "https://www.compassedu.hk/majr_73784",
+    "program_name": "伊利诺伊大学香槟分校农业系统工程技术与管理理学硕士",
+    "program_name_en": "MS in Engineering Technology and Management for Agricultural Systems",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/155.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://abe.illinois.edu/academics/graduate-degrees/master-science-engineering-technology-and-management-agricultural",
+    "university_name": "伊利诺伊大学香槟分校",
+    "university_name_en": "University of Illinois at Urbana-Champaign",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "农业和工业安全与健康"
+      },
+      {
+        "key": "2",
+        "value": "农产品生产加工"
+      },
+      {
+        "key": "3",
+        "value": "施工管理"
+      },
+      {
+        "key": "4",
+        "value": "数字化和精准农业"
+      },
+      {
+        "key": "5",
+        "value": "能源与环境"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "18-24个月",
+    "tuition": "31,034美元",
+    "qs_2026_rank": 70,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 46,
+    "arwu_2024_rank": 55,
+    "qs_2026_engineering_and_technology_rank": 23,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d708fe81-352a-4a35-9269-d8ed8b02b465",
+    "detail_page_url": "https://www.compassedu.hk/majr_52442",
+    "program_name": "格拉斯哥大学产品设计工程理学硕士",
+    "program_name_en": "MSc Product Design Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/productdesignengineering/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-08",
+          "2025-01-24",
+          "2025-03-07",
+          "2025-06-06"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25900英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a1ebec3c-96d6-4268-a253-4d8d8ba8926a",
+    "detail_page_url": "https://www.compassedu.hk/majr_66201",
+    "program_name": "格拉斯哥大学医疗器械工程理学硕士",
+    "program_name_en": "MSc Medical Devices Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33450英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e1f32f16-d210-4160-bce0-df30df7e8ff3",
+    "detail_page_url": "https://www.compassedu.hk/majr_76236",
+    "program_name": "格拉斯哥大学工业生物技术理学硕士（工业培训）",
+    "program_name_en": "MSc Industrial Biotechnology (with Industry Training)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/industrial-biotechnology-with-industry-training/?utm_campaign=1699539_Agent%20Newsletter%20January%202025%20-%20New%20Year%20Updates&utm_medium=email&utm_source=dotdigital%20%28uofg%29&dm_i=4S63,10FDF,5OEFIK,",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-03-23",
+          "2025-05-03"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31800英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bb0c8566-b419-471a-ac2e-cdc75c90f897",
+    "detail_page_url": "https://www.compassedu.hk/majr_73268",
+    "program_name": "悉尼科技大学工程学硕士",
+    "program_name_en": "Master of Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-engineering",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "48336澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 107,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "78834b03-48cd-4ecc-8295-7b288ca74ec1",
+    "detail_page_url": "https://www.compassedu.hk/majr_73270",
+    "program_name": "悉尼科技大学工程学硕士（扩展）",
+    "program_name_en": "Master of Engineering (Extension)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-engineering-extension",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "2年",
+    "tuition": "48336澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 107,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ca93744c-3beb-4353-a7a1-0acb85e4c7a6",
+    "detail_page_url": "https://www.compassedu.hk/majr_73273",
+    "program_name": "悉尼科技大学专业工程硕士",
+    "program_name_en": "Master of Professional Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-professional-engineering",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "2年",
+    "tuition": "48336澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 107,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "43d3a650-cc92-4c53-82bc-c03eab8d70ec",
+    "detail_page_url": "https://www.compassedu.hk/majr_73274",
+    "program_name": "悉尼科技大学理学硕士",
+    "program_name_en": "Master of Science",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-science",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "46440澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 107,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f37cb704-ea13-46f9-a8ed-b4d0be8535ce",
+    "detail_page_url": "https://www.compassedu.hk/majr_74494",
+    "program_name": "悉尼科技大学理学硕士（扩展）",
+    "program_name_en": "Master of Science (Extension)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-science-extension",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "2年",
+    "tuition": "46440澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 107,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5a0c77a3-57dd-49b0-bd54-901ef3bb2534",
+    "detail_page_url": "https://www.compassedu.hk/majr_63565",
+    "program_name": "苏黎世大学苏黎世大学&苏黎世联邦理工大学神经系统与计算理学硕士联合理学硕士",
+    "program_name_en": "Joint Degree MSc UZH ETH in Neural Systems and Computation",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/369.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uzh.ch/cmsssl/de/studies/programs/master/neural_systems_computation.html",
+    "university_name": "苏黎世大学",
+    "university_name_en": "University of Zurich",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/2月",
+    "duration": "1.5年",
+    "qs_2026_rank": 100,
+    "usnews_2026_rank": 59,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 67,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bf4dd68a-cb12-4ba4-bdeb-a5649a55dad3",
+    "detail_page_url": "https://www.compassedu.hk/majr_63782",
+    "program_name": "乌得勒支大学创新科学理学硕士",
+    "program_name_en": "MSc Innovation Sciences",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/382.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uu.nl/masters/en/innovation-sciences",
+    "university_name": "乌得勒支大学",
+    "university_name_en": "Utrecht University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "20",
+        "口语": "20"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "24432欧元/年",
+    "qs_2026_rank": 103,
+    "usnews_2026_rank": 49,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 55,
+    "qs_2026_engineering_and_technology_rank": 252,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2128d090-8a1c-4252-932b-78c654fc084e",
+    "detail_page_url": "https://www.compassedu.hk/majr_63851",
+    "program_name": "乌得勒支大学空间规划理学硕士",
+    "program_name_en": "MSc Spatial Planning",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/382.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uu.nl/masters/en/spatial-planning",
+    "university_name": "乌得勒支大学",
+    "university_name_en": "Utrecht University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "20",
+        "口语": "20"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "20605欧元/年",
+    "qs_2026_rank": 103,
+    "usnews_2026_rank": 49,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 55,
+    "qs_2026_engineering_and_technology_rank": 252,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a7cd4220-18dd-4e94-b413-4026cefcb800",
+    "detail_page_url": "https://www.compassedu.hk/majr_53149",
+    "program_name": "伦敦大学玛丽皇后学院声音与音乐计算理学硕士",
+    "program_name_en": "MSc Sound and Music Computing",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/sound-and-music-computing-msc/",
+    "university_name": "伦敦大学玛丽皇后学院",
+    "university_name_en": "Queen Mary University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-12",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "18",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 173,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d2128ec1-467c-4c45-aaba-4743ad5b5c0f",
+    "detail_page_url": "https://www.compassedu.hk/majr_76060",
+    "program_name": "巴斯大学工程与设计中的人工智能理学硕士（含实习）",
+    "program_name_en": "MSc Artificial Intelligence for Engineering and Design with placement",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/20.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bath.ac.uk/courses/postgraduate-2025/taught-postgraduate-courses/msc-artificial-intelligence-for-engineering-and-design-with-professional-placement/",
+    "university_name": "巴斯大学",
+    "university_name_en": "University of Bath",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-20",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21213英镑/年",
+    "qs_2026_rank": 132,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": 212,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "85fe1604-ff0b-4837-87a7-b7dfd598444e",
+    "detail_page_url": "https://www.compassedu.hk/majr_76061",
+    "program_name": "巴斯大学工程与设计中的人工智能理学硕士",
+    "program_name_en": "MSc Artificial Intelligence for Engineering and Design",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/20.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bath.ac.uk/courses/postgraduate-2025/taught-postgraduate-courses/msc-artificial-intelligence-for-engineering-and-design/",
+    "university_name": "巴斯大学",
+    "university_name_en": "University of Bath",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-20",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33200英镑/年",
+    "qs_2026_rank": 132,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": 212,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "85ca6c6c-8a73-40b8-a08e-b4f0d90a6ad1",
+    "detail_page_url": "https://www.compassedu.hk/majr_74158",
+    "program_name": "麦考瑞大学可持续发展硕士",
+    "program_name_en": "Master of Sustainable Development",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-sustainable-development",
+    "university_name": "麦考瑞大学",
+    "university_name_en": "Macquarie University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-02-10"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "83",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "52",
+        "阅读": "52",
+        "写作": "52",
+        "口语": "52"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "45100澳元/年",
+    "qs_2026_rank": 138,
+    "usnews_2026_rank": 178,
+    "the_2025_rank": 178,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 368,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "57cb11a8-4d0d-4978-b972-a9fa9405a56f",
+    "detail_page_url": "https://www.compassedu.hk/majr_74168",
+    "program_name": "麦考瑞大学物联网信息技术硕士",
+    "program_name_en": "Master of Information Technology in Internet of Things",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-internet-of-things",
+    "university_name": "麦考瑞大学",
+    "university_name_en": "Macquarie University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-02-10"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "83",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "52",
+        "阅读": "52",
+        "写作": "52",
+        "口语": "52"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "44500澳元/年",
+    "qs_2026_rank": 138,
+    "usnews_2026_rank": 178,
+    "the_2025_rank": 178,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 368,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6f1dc155-9d86-4830-b1d1-289c0b3eaefd",
+    "detail_page_url": "https://www.compassedu.hk/majr_74007",
+    "program_name": "德州农工大学系统工程硕士",
+    "program_name_en": "MEng in Systems Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/166.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://grad.tamu.edu/academics/program-directory/systems-engineering",
+    "university_name": "德州农工大学",
+    "university_name_en": "Texas A&M University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "1.5年",
+    "tuition": "73,000美元",
+    "qs_2026_rank": 144,
+    "usnews_2026_rank": 187,
+    "the_2025_rank": 143,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 63,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "013027cb-6b11-49cc-b1a4-2f7235995ade",
+    "detail_page_url": "https://www.compassedu.hk/majr_53380",
+    "program_name": "利物浦大学产品设计与管理（工程）理学硕士",
+    "program_name_en": "MSc(Eng) Product Design and Management",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/product-design-and-management-msc-eng",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29900英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 204,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8090874e-56ad-499e-ae74-b80657300fb1",
+    "detail_page_url": "https://www.compassedu.hk/majr_75373",
+    "program_name": "利物浦大学星球全健康理学硕士",
+    "program_name_en": "MSc Planetary and One Health",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/planetary-and-one-health-msc",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28300英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 204,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "19131ad1-7dcb-4d5a-b39c-272ea4ee1b47",
+    "detail_page_url": "https://www.compassedu.hk/majr_75961",
+    "program_name": "马来西亚理工大学理学硕士（工程设计）",
+    "program_name_en": "Master of Science (Engineering Design)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://razak.utm.my/msc-engineering-design/",
+    "university_name": "马来西亚理工大学",
+    "university_name_en": "Universiti Teknologi Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1.5年",
+    "tuition": "22370马币/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 376,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_and_technology_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "08295871-338d-4b86-bad0-0fb10917ff94",
+    "detail_page_url": "https://www.compassedu.hk/majr_75963",
+    "program_name": "马来西亚理工大学专业科学硕士",
+    "program_name_en": "Master of Professional Science",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://razak.utm.my/master-professional-science/",
+    "university_name": "马来西亚理工大学",
+    "university_name_en": "Universiti Teknologi Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1.5年",
+    "tuition": "19703马币/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 376,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_and_technology_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1ec180b1-196e-45cb-b756-3104b6de9095",
+    "detail_page_url": "https://www.compassedu.hk/majr_75966",
+    "program_name": "马来西亚理工大学理学硕士（系统工程）",
+    "program_name_en": "Master of Science (Systems Engineering)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://razak.utm.my/msc-systems-engineering/",
+    "university_name": "马来西亚理工大学",
+    "university_name_en": "Universiti Teknologi Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1.5年",
+    "tuition": "21036马币/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 376,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_and_technology_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9d1ee0f8-e9c7-44f5-bb6e-426ad28549b8",
+    "detail_page_url": "https://www.compassedu.hk/majr_63635",
+    "program_name": "根特大学消防安全工程理学硕士",
+    "program_name_en": "Master of Science in Fire Safety Engineering",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/379.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://studiekiezer.ugent.be/master-of-science-in-fire-safety-engineering-en",
+    "university_name": "根特大学",
+    "university_name_en": "Ghent University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "72",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "6929欧元/年",
+    "qs_2026_rank": 162,
+    "usnews_2026_rank": 107,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 90,
+    "qs_2026_engineering_and_technology_rank": 143,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "53ca9fa8-a701-41fa-99f6-042b3b4ee73c",
+    "detail_page_url": "https://www.compassedu.hk/majr_63650",
+    "program_name": "根特大学可持续与创新自然资源管理国际理学硕士",
+    "program_name_en": "International Master of Science in Sustainable and Innovative Natural Resource Management",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/379.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://studiekiezer.ugent.be/international-master-of-science-in-sustainable-and-innovative-natural-resource-management-en",
+    "university_name": "根特大学",
+    "university_name_en": "Ghent University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "12000欧元/年",
+    "qs_2026_rank": 162,
+    "usnews_2026_rank": 107,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 90,
+    "qs_2026_engineering_and_technology_rank": 143,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1bf61567-13f8-4aed-9301-b7528a3eb218",
+    "detail_page_url": "https://www.compassedu.hk/majr_74701",
+    "program_name": "卡迪夫大学工程净零理学硕士",
+    "program_name_en": "MSc Engineering Net Zero",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/engineering-net-zero-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29450英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e350d98b-2157-4b15-8825-4587a62091ec",
+    "detail_page_url": "https://www.compassedu.hk/majr_76215",
+    "program_name": "科廷大学城市与区域规划硕士",
+    "program_name_en": "Master of Urban and Regional Planning",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/415.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.curtin.edu.au/study/offering/course-pg-master-of-urban-and-regional-planning--mg-urplan2/",
+    "university_name": "科廷大学",
+    "university_name_en": "Curtin University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "1.5年",
+    "tuition": "34729澳元/年",
+    "qs_2026_rank": 183,
+    "usnews_2026_rank": 152,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 229,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bea52cb2-9938-4377-9cab-bd4c4c23e89a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73470",
+    "program_name": "伍伦贡大学健康信息学硕士",
+    "program_name_en": "Master of Health Informatics",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-health-informatics",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "36672澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 192,
+    "qs_2026_engineering_technology_rank": 192
+  },
+  {
+    "id": "655c72ba-c54f-4ef4-a27b-cd00c7c50087",
+    "detail_page_url": "https://www.compassedu.hk/majr_73471",
+    "program_name": "伍伦贡大学信息和通信技术高级硕士",
+    "program_name_en": "Master of Information and Communication Technology Advanced",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-information-comms-technology-advanced",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "36672澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 192,
+    "qs_2026_engineering_technology_rank": 192
+  },
+  {
+    "id": "471451d9-bfdf-483c-b2e8-b09772d3d457",
+    "detail_page_url": "https://www.compassedu.hk/majr_73472",
+    "program_name": "伍伦贡大学信息技术硕士（企业系统）",
+    "program_name_en": "Master of Information Technology (Enterprise Systems)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-information-technology-enterprise-systems",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "36624澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 192,
+    "qs_2026_engineering_technology_rank": 192
+  },
+  {
+    "id": "55835ed7-b439-4d5a-83ac-eba03bdf544b",
+    "detail_page_url": "https://www.compassedu.hk/majr_73473",
+    "program_name": "伍伦贡大学信息技术硕士（信息系统开发）",
+    "program_name_en": "Master of Information Technology (Information Systems Development)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-information-technology-information-systems-development",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "36624澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 192,
+    "qs_2026_engineering_technology_rank": 192
+  },
+  {
+    "id": "bd65d186-8a5f-466b-81d9-2324485ca239",
+    "detail_page_url": "https://www.compassedu.hk/majr_73474",
+    "program_name": "伍伦贡大学信息技术硕士（信息设计与分析）",
+    "program_name_en": "Master of Information Technology (Information Design and Analysis)",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-information-technology-information-design-analysis",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "36624澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 192,
+    "qs_2026_engineering_technology_rank": 192
+  },
+  {
+    "id": "be59504e-8339-43f8-b7e6-28d3a24afc78",
+    "detail_page_url": "https://www.compassedu.hk/majr_64074",
+    "program_name": "瓦格宁根大学地理信息科学理学硕士",
+    "program_name_en": "MSc Geo-Information Science",
+    "primary_category": "工科",
+    "secondary_category": "其他工科",
+    "university_logo_url": "https://logo.compassedu.hk/385.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Geo-Information-Science.htm",
+    "university_name": "瓦格宁根大学",
+    "university_name_en": "Wageningen University & Research",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "23"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21200欧元/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 115,
+    "the_2025_rank": 67,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 184,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

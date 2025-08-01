@@ -1,0 +1,4971 @@
+[
+    {
+        "completion_rate": "100 / 100",
+        "fail_count": 0
+    },
+    {
+        "id": "2747028e-265f-49b6-bd7a-ba9e3e3e2cb1",
+        "detail_page_url": "https://www.compassedu.hk/majr_66648",
+        "program_name": "帝国理工学院基因、药物与干细胞 - 新疗法理学硕士",
+        "program_name_en": "MSc Genes, Drugs and Stem Cells - Novel Therapies",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/genes-drugs-stem-cells/",
+        "university_name": "帝国理工学院",
+        "university_name_en": "Imperial College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-27",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "45000英镑/年"
+    },
+    {
+        "id": "21326801-78fb-411e-95c5-019825340493",
+        "detail_page_url": "https://www.compassedu.hk/majr_66810",
+        "program_name": "牛津大学药理学理学硕士",
+        "program_name_en": "MSc Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/8.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-pharmacology",
+        "university_name": "牛津大学",
+        "university_name_en": "University of Oxford",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-12",
+                "application_end_date": [
+                    "2024-12-03"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7.5",
+                "听力": "7",
+                "阅读": "7",
+                "写作": "7",
+                "口语": "7"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "110",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "25"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "36250英镑/年"
+    },
+    {
+        "id": "75559855-8c64-4ac3-8170-b14d6fd01151",
+        "detail_page_url": "https://www.compassedu.hk/majr_63421",
+        "program_name": "苏黎世联邦理工大学药物科学理学硕士",
+        "program_name_en": "MSc Pharmaceutical Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/pharmaceutical-sciences.html",
+        "university_name": "苏黎世联邦理工大学",
+        "university_name_en": "Swiss Federal Institute of Technology Zurich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "1608瑞士法郎/年"
+    },
+    {
+        "id": "fb367acd-629b-42a4-b435-a03376c5b386",
+        "detail_page_url": "https://www.compassedu.hk/majr_67676",
+        "program_name": "新加坡国立大学制药科学与技术理学硕士",
+        "program_name_en": "MSc Pharmaceutical Science & Technology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://pharmacy.nus.edu.sg/study/postgraduate-programmes/msc-pharmaceutical-science-technology-programme/full-time/",
+        "university_name": "新加坡国立大学",
+        "university_name_en": "National University of Singapore",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-06-01",
+                "application_end_date": [
+                    "2024-09-15"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-05-16",
+                "application_end_date": [
+                    "2024-07-15"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-05-16",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/8月",
+        "duration": "1年",
+        "tuition": "53792新币/年"
+    },
+    {
+        "id": "98dc7b70-e7e7-412c-bcc1-ded0961ff8ef",
+        "detail_page_url": "https://www.compassedu.hk/majr_73489",
+        "program_name": "新加坡国立大学药学（临床药学）硕士",
+        "program_name_en": "Master of Pharmacy (Clinical Pharmacy)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://pharmacy.nus.edu.sg/study/postgraduate-programmes/master-of-pharmacy-clinical-pharmacy-programme/",
+        "university_name": "新加坡国立大学",
+        "university_name_en": "National University of Singapore",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-03-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "320"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "1年",
+        "tuition": "50522新币/年"
+    },
+    {
+        "id": "3f65cc3a-c91a-4006-bff5-d01264bf4789",
+        "detail_page_url": "https://www.compassedu.hk/majr_76296",
+        "program_name": "新加坡国立大学医学药理学理学硕士",
+        "program_name_en": "MSc Medical Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://medicine.nus.edu.sg/graduatestudies/education/msc-in-medical-pharmacology/",
+        "university_name": "新加坡国立大学",
+        "university_name_en": "National University of Singapore",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-02-13",
+                "application_end_date": [
+                    "2025-05-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "1年",
+        "tuition": "65400新币/年"
+    },
+    {
+        "id": "8b9dbffc-7857-478a-98ba-9628db196c9e",
+        "detail_page_url": "https://www.compassedu.hk/majr_61425",
+        "program_name": "伦敦大学学院制药配方与创业理学硕士",
+        "program_name_en": "MSc Pharmaceutical Formulation and Entrepreneurship",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/pharmaceutical-formulation-and-entrepreneurship-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "7d439cd4-bd05-4913-a9a4-d3adc82721e9",
+        "detail_page_url": "https://www.compassedu.hk/majr_61426",
+        "program_name": "伦敦大学学院制药学理学硕士",
+        "program_name_en": "MSc Pharmaceutics",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/pharmaceutics-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-04-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "7f1c596a-a1fb-4d43-bde9-49b6d3b2093a",
+        "detail_page_url": "https://www.compassedu.hk/majr_62996",
+        "program_name": "伦敦大学学院药物设计理学硕士",
+        "program_name_en": "MSc Drug Design",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/drug-design-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "75",
+                "听力": "67",
+                "阅读": "67",
+                "写作": "67",
+                "口语": "67"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "36500英镑/年"
+    },
+    {
+        "id": "1dc88a7c-e042-41b4-961b-dfaf4f30b9bd",
+        "detail_page_url": "https://www.compassedu.hk/majr_66581",
+        "program_name": "伦敦大学学院临床药学、国际实践与政策理学硕士",
+        "program_name_en": "MSc Clinical Pharmacy, International Practice and Policy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/clinical-pharmacy-international-practice-and-policy-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "f39bdbb4-0842-4316-ae44-da184ebeb16b",
+        "detail_page_url": "https://www.compassedu.hk/majr_66582",
+        "program_name": "伦敦大学学院临床药学、国际实践与政策理学硕士（含扩展实习）",
+        "program_name_en": "MSc Clinical Pharmacy, International Practice and Policy with Extended Placement",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/clinical-pharmacy-international-practice-and-policy-extended-placement-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "61484209-36e9-41ef-bdfd-0026174d85a7",
+        "detail_page_url": "https://www.compassedu.hk/majr_66583",
+        "program_name": "伦敦大学学院药物发现与开发理学硕士",
+        "program_name_en": "MSc Drug Discovery and Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/drug-discovery-and-development-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "44a3929d-0d0f-4d61-8677-a87d369bc01c",
+        "detail_page_url": "https://www.compassedu.hk/majr_66584",
+        "program_name": "伦敦大学学院药物发现与医药管理理学硕士",
+        "program_name_en": "MSc Drug Discovery and Pharma Management",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/drug-discovery-and-pharma-management-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "dd22f3dc-6da1-4809-b655-0b4927e5f9b4",
+        "detail_page_url": "https://www.compassedu.hk/majr_66585",
+        "program_name": "伦敦大学学院实验药理学与治疗学理学硕士",
+        "program_name_en": "MSc Experimental Pharmacology and Therapeutics",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/experimental-pharmacology-and-therapeutics-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "2b20a97c-f5ed-4c75-ad6e-a692ce47f557",
+        "detail_page_url": "https://www.compassedu.hk/majr_66598",
+        "program_name": "伦敦大学学院临床药物开发理学硕士",
+        "program_name_en": "MSc Clinical Drug Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/clinical-drug-development-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "75",
+                "听力": "67",
+                "阅读": "67",
+                "写作": "67",
+                "口语": "67"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "36500英镑/年"
+    },
+    {
+        "id": "43e970b9-3374-457e-a246-9a7997245750",
+        "detail_page_url": "https://www.compassedu.hk/majr_67660",
+        "program_name": "伦敦大学学院生物技术与制药管理理学硕士",
+        "program_name_en": "MSc Biotech and Pharmaceutical Management",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/biotech-and-pharmaceutical-management-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "75",
+                "阅读": "75",
+                "写作": "75",
+                "口语": "75"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "36500英镑/年"
+    },
+    {
+        "id": "2bac2668-d1e1-4210-8b16-02acc6eec30b",
+        "detail_page_url": "https://www.compassedu.hk/majr_73155",
+        "program_name": "伦敦大学学院有机化学：药物发现理学硕士",
+        "program_name_en": "MSc Organic Chemistry: Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/organic-chemistry-drug-discovery-msc",
+        "university_name": "伦敦大学学院",
+        "university_name_en": "University College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-14",
+                "application_end_date": [
+                    "2025-06-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "75",
+                "听力": "67",
+                "阅读": "67",
+                "写作": "67",
+                "口语": "67"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "39800英镑/年"
+    },
+    {
+        "id": "bc773b71-538e-4111-8962-54b7d80b5d16",
+        "detail_page_url": "https://www.compassedu.hk/majr_72410",
+        "program_name": "香港大学高级药剂学硕士（常规）",
+        "program_name_en": "Master of Advanced Pharmacy (Generalist)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-advanced-pharmacy-med",
+        "university_name": "香港大学",
+        "university_name_en": "The University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-12-09",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "158700港币/年"
+    },
+    {
+        "id": "b56eb9fb-0e6c-443d-9381-e9517aa41ab3",
+        "detail_page_url": "https://www.compassedu.hk/majr_76345",
+        "program_name": "香港大学高级药剂学硕士（制药医学）",
+        "program_name_en": "Master of Advanced Pharmacy (Pharmaceutical Medicine)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-advanced-pharmacy-med",
+        "university_name": "香港大学",
+        "university_name_en": "The University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-12-09",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "158700港币/年"
+    },
+    {
+        "id": "88676adc-1124-420e-bb52-1c0f8ce76bd6",
+        "detail_page_url": "https://www.compassedu.hk/majr_65978",
+        "program_name": "悉尼大学药剂学硕士",
+        "program_name_en": "Master of Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-pharmacy0.html",
+        "university_name": "悉尼大学",
+        "university_name_en": "The University of Sydney",
+        "apply_time": [
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "22",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "72",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2月",
+        "duration": "2年",
+        "tuition": "58800澳元/年"
+    },
+    {
+        "id": "93188655-7775-45a9-ae66-48b120f45961",
+        "detail_page_url": "https://www.compassedu.hk/majr_62046",
+        "program_name": "伦敦大学国王学院药物开发科学理学硕士",
+        "program_name_en": "MSc Drug Development Science",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/drug-development-science-msc",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "23",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "47700英镑/年"
+    },
+    {
+        "id": "d153991a-95cf-4af8-83af-2fc7ed438554",
+        "detail_page_url": "https://www.compassedu.hk/majr_62047",
+        "program_name": "伦敦大学国王学院临床药理学理学硕士",
+        "program_name_en": "MSc Clinical Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/clinical-pharmacology-msc",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "23",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "47700英镑/年"
+    },
+    {
+        "id": "91253008-829d-4d05-92bd-647ad19b5f69",
+        "detail_page_url": "https://www.compassedu.hk/majr_64441",
+        "program_name": "伦敦大学国王学院药物分析、技术与生物制药理学硕士",
+        "program_name_en": "MSc Pharmaceutical Analysis, Technology and Biopharmaceuticals",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/pharmaceutical-analysis-technology-and-biopharmaceuticals-msc",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "23",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35800英镑/年"
+    },
+    {
+        "id": "0dbf0c70-f0c5-4c54-90f6-2f090225c360",
+        "detail_page_url": "https://www.compassedu.hk/majr_75315",
+        "program_name": "香港中文大学中药药理与药物开发理学硕士",
+        "program_name_en": "MSc Chinese Medicine Pharmacology and Drug Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gs.cuhk.edu.hk/admissions/programme/medicine#msc-in-chinese-medicine-pharmacology-and-drug-development",
+        "university_name": "香港中文大学",
+        "university_name_en": "The Chinese University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "220000港币/年"
+    },
+    {
+        "id": "ea38fa91-d259-4950-962e-3b3081456f15",
+        "detail_page_url": "https://www.compassedu.hk/majr_51913",
+        "program_name": "爱丁堡大学医药与生物化学理学硕士",
+        "program_name_en": "MSc Medicinal and Biological Chemistry",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=450",
+        "university_name": "爱丁堡大学",
+        "university_name_en": "The University of Edinburgh",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "40300英镑/年"
+    },
+    {
+        "id": "7f82927e-befb-4947-9c67-58bdf3093642",
+        "detail_page_url": "https://www.compassedu.hk/majr_62576",
+        "program_name": "爱丁堡大学药物发现与转化生物学理学硕士",
+        "program_name_en": "MSc Drug Discovery and Translational Biology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=3",
+        "university_name": "爱丁堡大学",
+        "university_name_en": "The University of Edinburgh",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-12-15",
+                    "2025-03-31",
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "73",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "43300英镑/年"
+    },
+    {
+        "id": "1dc66065-2cab-419f-851b-1c6b89c0b84b",
+        "detail_page_url": "https://www.compassedu.hk/majr_62516",
+        "program_name": "曼彻斯特大学基于模型的药物开发理学硕士（药代动力学与药效学建模）",
+        "program_name_en": "MSc Model-based Drug Development - Pharmacokinetic and Pharmacodynamic Modelling",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/08749/msc-model-based-drug-development-pharmacokinetic-and-pharmacodynamic-modelling/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "94",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "36000英镑/年"
+    },
+    {
+        "id": "f5d314a6-5291-489d-879f-e3a2976e07d4",
+        "detail_page_url": "https://www.compassedu.hk/majr_73439",
+        "program_name": "莫纳什大学制药科学硕士（2年制）",
+        "program_name_en": "Master of Pharmaceutical Science (2 years)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p6005?international=true",
+        "university_name": "莫纳什大学",
+        "university_name_en": "Monash University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2月",
+        "duration": "2年",
+        "tuition": "55500澳元/年"
+    },
+    {
+        "id": "ead536d0-5fa4-40b1-8673-4a49d81d07df",
+        "detail_page_url": "https://www.compassedu.hk/majr_73440",
+        "program_name": "莫纳什大学制药科学硕士（1.5年制）",
+        "program_name_en": "Master of Pharmaceutical Science (1.5 years)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p6005?international=true",
+        "university_name": "莫纳什大学",
+        "university_name_en": "Monash University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "7月",
+        "duration": "1.5年",
+        "tuition": "55500澳元/年"
+    },
+    {
+        "id": "19d43e48-7019-47c5-a242-540f7730245d",
+        "detail_page_url": "https://www.compassedu.hk/majr_73441",
+        "program_name": "莫纳什大学制药科学硕士（1年制）",
+        "program_name_en": "Master of Pharmaceutical Science (1 year)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p6005?international=true",
+        "university_name": "莫纳什大学",
+        "university_name_en": "Monash University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2月",
+        "duration": "1年",
+        "tuition": "55500澳元/年"
+    },
+    {
+        "id": "ce50ec17-6ea3-48ae-a31f-2fc0941a2d46",
+        "detail_page_url": "https://www.compassedu.hk/majr_72639",
+        "program_name": "哥伦比亚大学生统之药物统计理学硕士",
+        "program_name_en": "MS in biostatiscs-Pharmaceutical Statistics",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/83.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.publichealth.columbia.edu/academics/degrees/master-science/pharmaceutical-statistics",
+        "university_name": "哥伦比亚大学",
+        "university_name_en": "Columbia University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "100"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "两年",
+        "tuition": "65,870美元"
+    },
+    {
+        "id": "1207ac5d-95fe-4bb4-9dc5-bd00bfce4ccb",
+        "detail_page_url": "https://www.compassedu.hk/majr_74295",
+        "program_name": "昆士兰大学制药工业实践硕士",
+        "program_name_en": "Master of Pharmaceutical Industry Practice",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://study.uq.edu.au/study-options/programs/master-pharmaceutical-industry-practice-5703",
+        "university_name": "昆士兰大学",
+        "university_name_en": "The University of Queensland",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-01-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "47200澳元/年"
+    },
+    {
+        "id": "a2121fb2-0279-47aa-aae8-8db6b8b372d7",
+        "detail_page_url": "https://www.compassedu.hk/majr_74900",
+        "program_name": "香港科技大学药物监管事务与政策理学硕士",
+        "program_name_en": "MSc Drug Regulatory Affairs and Policy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "18938a4f-cc5a-4cfc-a4ba-6c3491411bd4",
+        "detail_page_url": "https://www.compassedu.hk/majr_73670",
+        "program_name": "卡内基梅隆大学生物技术与制药工程理学硕士",
+        "program_name_en": "MS in Biotechnology and Pharmaceutical Engineering",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/102.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cmu.edu/ms-biotech-pharma/",
+        "university_name": "卡内基梅隆大学",
+        "university_name_en": "Carnegie Mellon University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "91",
+                "小分要求": "R23,L23,S22,W23"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "春季",
+        "duration": "2年",
+        "tuition": "52,100美元"
+    },
+    {
+        "id": "861e9276-9215-4c51-a584-586a2e802908",
+        "detail_page_url": "https://www.compassedu.hk/majr_74843",
+        "program_name": "香港理工大学生物医药研发及产业化理学硕士",
+        "program_name_en": "MSc Biopharmaceutical Development and Commercialization",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/12062-mft-mpt",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2024-11-21",
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面/真人群面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "211500港币/年"
+    },
+    {
+        "id": "8633c747-f1ae-4b85-b0d5-0dc31f673c9f",
+        "detail_page_url": "https://www.compassedu.hk/majr_75605",
+        "program_name": "马来亚大学药品立法与监管硕士",
+        "program_name_en": "Master in Pharmaceutical Legislation and Regulatory Control",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/1114.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://pharmacy.um.edu.my/programme-postgraduate",
+        "university_name": "马来亚大学",
+        "university_name_en": "University of Malaya",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-22",
+                "application_end_date": [
+                    "2025-01-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-02-10",
+                "application_end_date": [
+                    "2025-08-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "1年",
+        "tuition": "54200马币/年"
+    },
+    {
+        "id": "fbb54a39-7b73-49b7-b32f-b5a6589521aa",
+        "detail_page_url": "https://www.compassedu.hk/majr_75606",
+        "program_name": "马来亚大学药物发现与开发药学硕士",
+        "program_name_en": "Master of Pharmaceutical Science in Drug Discovery and Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/1114.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://pharmacy.um.edu.my/programme-postgraduate",
+        "university_name": "马来亚大学",
+        "university_name_en": "University of Malaya",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-22",
+                "application_end_date": [
+                    "2025-01-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-02-10",
+                "application_end_date": [
+                    "2025-08-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "55400马币/年"
+    },
+    {
+        "id": "0027f104-3a8d-4ca6-916d-2ac62d8a56b3",
+        "detail_page_url": "https://www.compassedu.hk/majr_54393",
+        "program_name": "西澳大学药剂学硕士",
+        "program_name_en": "Master of Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uwa.edu.au/study/Courses/Master-of-Pharmacy",
+        "university_name": "西澳大学",
+        "university_name_en": "The University of Western Australia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-03-01",
+                "application_end_date": [
+                    "2024-08-31"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "7",
+                "阅读": "7",
+                "写作": "7",
+                "口语": "7"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1月",
+        "duration": "2年",
+        "tuition": "60750澳元/年"
+    },
+    {
+        "id": "dd64fab7-1dc7-4e8a-8db9-0e83dcbf40cd",
+        "detail_page_url": "https://www.compassedu.hk/majr_52409",
+        "program_name": "格拉斯哥大学化学与药物化学理学硕士",
+        "program_name_en": "MSc Chemistry with Medicinal Chemistry",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/chemistry-medicinal-chemistry/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31800英镑/年"
+    },
+    {
+        "id": "a60c6b0c-3224-4edc-af95-4eb61888f32d",
+        "detail_page_url": "https://www.compassedu.hk/majr_66233",
+        "program_name": "格拉斯哥大学临床药理学（医学）理学硕士",
+        "program_name_en": "MSc(MedSci) Clinical Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/clinicalpharmacology/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33450英镑/年"
+    },
+    {
+        "id": "03fd72cf-db85-49ad-82e0-cdeb6b5bee79",
+        "detail_page_url": "https://www.compassedu.hk/majr_66235",
+        "program_name": "格拉斯哥大学传染病流行病学与抗菌素耐药性理学硕士",
+        "program_name_en": "MSc Epidemiology of Infectious Diseases & Antimicrobial Resistance",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/infectiousdiseasesantimicrobialresistance/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29700英镑/年"
+    },
+    {
+        "id": "845f7e11-3be9-4b5b-bbdb-3bf48da7ff24",
+        "detail_page_url": "https://www.compassedu.hk/majr_66170",
+        "program_name": "阿德莱德大学生物制药工学硕士",
+        "program_name_en": "Master of Engineering (Biopharmaceutical)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-engineering-biopharmaceutical/int/",
+        "university_name": "阿德莱德大学",
+        "university_name_en": "The University of Adelaide",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-08-15",
+                "application_end_date": [
+                    "2025-01-20"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-08-15",
+                "application_end_date": [
+                    "2025-05-16"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "13",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "52300澳元/年"
+    },
+    {
+        "id": "e0ca6afb-e487-4ec6-8741-5229e4d5954f",
+        "detail_page_url": "https://www.compassedu.hk/majr_61518",
+        "program_name": "利兹大学生物医药开发理学硕士",
+        "program_name_en": "MSc Biopharmaceutical Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://courses.leeds.ac.uk/i922/biopharmaceutical-development-msc",
+        "university_name": "利兹大学",
+        "university_name_en": "University of Leeds",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35000英镑/年"
+    },
+    {
+        "id": "a51fa1dc-ae07-40f1-b2a1-c7c48e832d6b",
+        "detail_page_url": "https://www.compassedu.hk/majr_67649",
+        "program_name": "利兹大学药物发现与开发理学硕士",
+        "program_name_en": "MSc Drug Discovery and Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://courses.leeds.ac.uk/j478/drug-discovery-and-development-msc",
+        "university_name": "利兹大学",
+        "university_name_en": "University of Leeds",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35000英镑/年"
+    },
+    {
+        "id": "1e01b5cc-2b07-42a9-860c-7796751c5c98",
+        "detail_page_url": "https://www.compassedu.hk/majr_66920",
+        "program_name": "谢菲尔德大学药物发现科学理学硕士",
+        "program_name_en": "MSc Drug Discovery Science",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/drug-discovery-science-msc",
+        "university_name": "谢菲尔德大学",
+        "university_name_en": "The University of Sheffield",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "56",
+                "阅读": "56",
+                "写作": "56",
+                "口语": "56"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31190英镑/年"
+    },
+    {
+        "id": "1a468262-d639-4a44-9c3a-f3d734a8c056",
+        "detail_page_url": "https://www.compassedu.hk/majr_66944",
+        "program_name": "谢菲尔德大学制药工程理学硕士",
+        "program_name_en": "MSc Pharmaceutical Engineering",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "091ec34d-328f-485c-9789-08a33ebe39c6",
+        "detail_page_url": "https://www.compassedu.hk/majr_74483",
+        "program_name": "悉尼科技大学药学硕士",
+        "program_name_en": "Master of Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uts.edu.au/study/find-a-course/master-pharmacy",
+        "university_name": "悉尼科技大学",
+        "university_name_en": "University of Technology Sydney",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-30",
+                "application_end_date": [
+                    "2024-10-31",
+                    "2024-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "7",
+                "阅读": "7",
+                "写作": "7",
+                "口语": "7"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "94",
+                "听力": "24",
+                "阅读": "24",
+                "写作": "27",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2月",
+        "duration": "2年",
+        "tuition": "63720澳元/年"
+    },
+    {
+        "id": "b2c4a9e9-0aa0-4a28-968b-7b2bacb79071",
+        "detail_page_url": "https://www.compassedu.hk/majr_67787",
+        "program_name": "诺丁汉大学药物发现理学硕士",
+        "program_name_en": "MSc Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/drug-discovery",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "32400英镑/年"
+    },
+    {
+        "id": "4d824a8b-46e3-4bcf-88dc-1d16d080f61a",
+        "detail_page_url": "https://www.compassedu.hk/majr_63713",
+        "program_name": "乌得勒支大学药物创新理学硕士",
+        "program_name_en": "MSc Drug Innovation",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/382.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uu.nl/masters/en/drug-innovation",
+        "university_name": "乌得勒支大学",
+        "university_name_en": "Utrecht University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-04-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "24432欧元/年"
+    },
+    {
+        "id": "d143ed41-d9f3-43f5-9ec3-c5243cc886e7",
+        "detail_page_url": "https://www.compassedu.hk/majr_66301",
+        "program_name": "伦敦大学玛丽皇后学院临床药物开发理学硕士",
+        "program_name_en": "MSc Clinical Drug Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/clinical-drug-development-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29950英镑/年"
+    },
+    {
+        "id": "fd5aba7b-2597-4e17-a092-a536da61a4f8",
+        "detail_page_url": "https://www.compassedu.hk/majr_74568",
+        "program_name": "伦敦大学玛丽皇后学院人工智能药物发现理学硕士",
+        "program_name_en": "MSc Artificial Intelligence for Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-for-drug-discovery-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-12",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "65",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29950英镑/年"
+    },
+    {
+        "id": "5217a971-8fa5-4d1f-aeaf-a7da637b1023",
+        "detail_page_url": "https://www.compassedu.hk/majr_63688",
+        "program_name": "莱顿大学生物制药科学与商业研究理学硕士",
+        "program_name_en": "MSc Bio-Pharmaceutical Sciences and Business Studies",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/380.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.universiteitleiden.nl/en/education/study-programmes/master/bio-pharmaceutical-sciences/bio-pharmaceutical-sciences-and-science-based-business",
+        "university_name": "莱顿大学",
+        "university_name_en": "Leiden University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-10-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "2年",
+        "tuition": "19600欧元/年"
+    },
+    {
+        "id": "92b5fb09-29b2-4250-92bd-73d675787698",
+        "detail_page_url": "https://www.compassedu.hk/majr_63690",
+        "program_name": "莱顿大学生物制药科学与科学传播与社会理学硕士",
+        "program_name_en": "MSc Bio-Pharmaceutical Sciences and Science Communication and Society",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/380.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.universiteitleiden.nl/en/education/study-programmes/master/bio-pharmaceutical-sciences/bio-pharmaceutical-sciences-and-science-communication-and-society",
+        "university_name": "莱顿大学",
+        "university_name_en": "Leiden University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-10-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "2年",
+        "tuition": "21500欧元/年"
+    },
+    {
+        "id": "cc8a0834-1291-4419-9cbe-335ee6265d99",
+        "detail_page_url": "https://www.compassedu.hk/majr_63754",
+        "program_name": "莱顿大学生物制药科学研究硕士",
+        "program_name_en": "MSc Research in Bio-Pharmaceutical Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/380.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.universiteitleiden.nl/en/education/study-programmes/master/bio-pharmaceutical-sciences/research-in-bio-pharmaceutical-sciences",
+        "university_name": "莱顿大学",
+        "university_name_en": "Leiden University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-10-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "2年",
+        "tuition": "21500欧元/年"
+    },
+    {
+        "id": "88acceb7-64e0-407a-a3cd-f5a70437f458",
+        "detail_page_url": "https://www.compassedu.hk/majr_63924",
+        "program_name": "莱顿大学系统生物医学和药理学理学硕士",
+        "program_name_en": "MSc Systems Biomedicine and Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "028835b8-2ff1-4456-a4b7-a76a652c39ce",
+        "detail_page_url": "https://www.compassedu.hk/majr_75638",
+        "program_name": "马来西亚国立大学临床药学硕士",
+        "program_name_en": "Master of Clinical Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ukm.my/farmasi/master-of-clinical-pharmacy-mpharm-clin/",
+        "university_name": "马来西亚国立大学",
+        "university_name_en": "The National University of Malaysia",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "duration": "1年",
+        "tuition": "35010马币/年"
+    },
+    {
+        "id": "45d2e3b7-a356-4a15-88af-806f0518f8bc",
+        "detail_page_url": "https://www.compassedu.hk/majr_75639",
+        "program_name": "马来西亚国立大学理学硕士（药物分析）",
+        "program_name_en": "Master of Science (Pharmaceutical Analysis)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ukm.my/farmasi/master-of-science-pharmaceutical-analysis-msc-pharm-anal/",
+        "university_name": "马来西亚国立大学",
+        "university_name_en": "The National University of Malaysia",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "duration": "1年",
+        "tuition": "35010马币/年"
+    },
+    {
+        "id": "65781d32-3954-44f3-8651-1618bf0cd676",
+        "detail_page_url": "https://www.compassedu.hk/majr_61998",
+        "program_name": "巴斯大学药物发现理学硕士",
+        "program_name_en": "MSc Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/20.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bath.ac.uk/courses/postgraduate-2025/taught-postgraduate-courses/msc-drug-discovery/",
+        "university_name": "巴斯大学",
+        "university_name_en": "University of Bath",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-20",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33200英镑/年"
+    },
+    {
+        "id": "a800e675-dc33-4c06-b72c-48fe13d72131",
+        "detail_page_url": "https://www.compassedu.hk/majr_75739",
+        "program_name": "马来西亚理科大学临床药学硕士",
+        "program_name_en": "MPharm Clinical Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/1386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://admission.usm.my/?view=article&id=224:mpharm-clinical-pharmacy-school-of-pharmaceutical-sciences&catid=33&highlight=WyJjbGluaWNhbCIsInBoYXJtYWN5Il0=",
+        "university_name": "马来西亚理科大学",
+        "university_name_en": "University of Science Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "70",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "7400美元/年"
+    },
+    {
+        "id": "8c98021f-41f6-45c5-8657-f4e4f84cd1c3",
+        "detail_page_url": "https://www.compassedu.hk/majr_52020",
+        "program_name": "纽卡斯尔大学（英国）药物化学理学硕士",
+        "program_name_en": "MSc Drug Chemistry",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/5099f/",
+        "university_name": "纽卡斯尔大学（英国）",
+        "university_name_en": "Newcastle University(United Kingdom)",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-24"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31700英镑/年"
+    },
+    {
+        "id": "f3ab743c-57d9-40aa-87e3-fbfb22409d16",
+        "detail_page_url": "https://www.compassedu.hk/majr_64136",
+        "program_name": "格罗宁根大学医学药物科学",
+        "program_name_en": "Medical Pharmaceutical Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "b2583474-3afc-403f-8c7d-e4cfed25facc",
+        "detail_page_url": "https://www.compassedu.hk/majr_73370",
+        "program_name": "利物浦大学药理学与毒理学理学硕士",
+        "program_name_en": "MSc Pharmacology and Toxicology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.liverpool.ac.uk/courses/2025/pharmacology-and-toxicology-msc",
+        "university_name": "利物浦大学",
+        "university_name_en": "University of Liverpool",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "27200英镑/年"
+    },
+    {
+        "id": "251d8416-f23a-411c-887e-4fab584b3e4a",
+        "detail_page_url": "https://www.compassedu.hk/majr_66381",
+        "program_name": "埃克塞特大学临床药学理学硕士",
+        "program_name_en": "MSc Clinical Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/medicine/clinical-pharmacy-msc/",
+        "university_name": "埃克塞特大学",
+        "university_name_en": "University of Exeter",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28600英镑/年"
+    },
+    {
+        "id": "529b0c2b-8749-492a-89be-34ac8fb9b1a3",
+        "detail_page_url": "https://www.compassedu.hk/majr_63324",
+        "program_name": "巴塞尔大学药物科学理学硕士",
+        "program_name_en": "MSc Drug Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/367.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.unibas.ch/en/Studies/Degree-Programs/Degree-Programs.html?study=Drug-Sciences",
+        "university_name": "巴塞尔大学",
+        "university_name_en": "University of Basel",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-10-15",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "1700瑞士法郎/年"
+    },
+    {
+        "id": "6cae499d-f357-41b1-8920-73d0d594d4a5",
+        "detail_page_url": "https://www.compassedu.hk/majr_64497",
+        "program_name": "约克大学（英国）药理学与教育理学硕士",
+        "program_name_en": "MSc Pharmacology and Education",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hyms.ac.uk/postgraduate-taught/msc-in-pharmacology-and-education",
+        "university_name": "约克大学（英国）",
+        "university_name_en": "University of York(United Kingdom)",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "55",
+                "阅读": "55",
+                "写作": "55",
+                "口语": "55"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25900英镑/年"
+    },
+    {
+        "id": "9da743b9-2638-4006-a42d-dd893914a316",
+        "detail_page_url": "https://www.compassedu.hk/majr_67064",
+        "program_name": "约克大学（英国）药理学与药物开发理学硕士",
+        "program_name_en": "MSc Pharmacology and Drug Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hyms.ac.uk/postgraduate-taught/msc-in-pharmacology-and-drug-development",
+        "university_name": "约克大学（英国）",
+        "university_name_en": "University of York(United Kingdom)",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "55",
+                "阅读": "55",
+                "写作": "55",
+                "口语": "55"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31900英镑/年"
+    },
+    {
+        "id": "e9e0ab30-b785-43ad-b143-a7c5b2be53cc",
+        "detail_page_url": "https://www.compassedu.hk/majr_53050",
+        "program_name": "卡迪夫大学药物化学理学硕士",
+        "program_name_en": "MSc Medicinal Chemistry",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/medicinal-chemistry-msc",
+        "university_name": "卡迪夫大学",
+        "university_name_en": "Cardiff University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-11",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29950英镑/年"
+    },
+    {
+        "id": "fd9e4e76-868c-46b4-a375-750ca8a03174",
+        "detail_page_url": "https://www.compassedu.hk/majr_52882",
+        "program_name": "贝尔法斯特女王大学药物分析理学硕士",
+        "program_name_en": "MSc Pharmaceutical Analysis",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/pharmaceutical-analysis-msc/",
+        "university_name": "贝尔法斯特女王大学",
+        "university_name_en": "Queen's University Belfast",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-09",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25800英镑/年"
+    },
+    {
+        "id": "77eec4ca-a3ac-4c5e-8441-d143bf3f52e3",
+        "detail_page_url": "https://www.compassedu.hk/majr_66429",
+        "program_name": "贝尔法斯特女王大学工业制药理学硕士",
+        "program_name_en": "MSc Industrial Pharmaceutics",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/industrial-pharmaceutics-msc/",
+        "university_name": "贝尔法斯特女王大学",
+        "university_name_en": "Queen's University Belfast",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-09",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "20",
+                "阅读": "19",
+                "写作": "20",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25800英镑/年"
+    },
+    {
+        "id": "26811f71-3809-47c6-9870-3bf2b0c257ac",
+        "detail_page_url": "https://www.compassedu.hk/majr_66435",
+        "program_name": "贝尔法斯特女王大学药物分析理学硕士（含工业实习）",
+        "program_name_en": "MSc Pharmaceutical Analysis with Industrial Placement",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/pharmaceutical-analysis-industrial-placement-msc/",
+        "university_name": "贝尔法斯特女王大学",
+        "university_name_en": "Queen's University Belfast",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-09",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "13825英镑/年"
+    },
+    {
+        "id": "a245b906-afaa-406c-99ab-b86af9e3def0",
+        "detail_page_url": "https://www.compassedu.hk/majr_66436",
+        "program_name": "贝尔法斯特女王大学药物分析理学硕士（含国际工业实习）",
+        "program_name_en": "MSc Pharmaceutical Analysis with International Industrial Placement",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/pharmaceutical-analysis-international-industrial-placement-msc/",
+        "university_name": "贝尔法斯特女王大学",
+        "university_name_en": "Queen's University Belfast",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-09",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "13825英镑/年"
+    },
+    {
+        "id": "c1f58385-42b3-4698-aadd-0ce075b027e5",
+        "detail_page_url": "https://www.compassedu.hk/majr_50886",
+        "program_name": "拉夫堡大学分析与药物科学理学硕士",
+        "program_name_en": "MSc Analytical and Pharmaceutical Science",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/analytical-pharmaceutical-science/",
+        "university_name": "拉夫堡大学",
+        "university_name_en": "Loughborough University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "63",
+                "阅读": "63",
+                "写作": "63",
+                "口语": "63"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "29950英镑/年"
+    },
+    {
+        "id": "80dc0ffa-2eb4-4291-9a9b-17f6544aa3d5",
+        "detail_page_url": "https://www.compassedu.hk/majr_62896",
+        "program_name": "拉夫堡大学药学与药物化学理学硕士",
+        "program_name_en": "MSc Pharmaceutical Science and Medicinal Chemistry",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/pharmaceutical-science-medicinal-chemistry/",
+        "university_name": "拉夫堡大学",
+        "university_name_en": "Loughborough University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "63",
+                "阅读": "63",
+                "写作": "63",
+                "口语": "63"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "29950英镑/年"
+    },
+    {
+        "id": "7628b538-b8d5-457e-97ab-34fb20001055",
+        "detail_page_url": "https://www.compassedu.hk/majr_1839",
+        "program_name": "香港浸会大学中药学硕士",
+        "program_name_en": "Master of Pharmaceutical Sciences in Chinese Medicine",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/45.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-pharmaceutical-sciences-in-chinese-medicine-mps",
+        "university_name": "香港浸会大学",
+        "university_name_en": "Hong Kong Baptist University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-03-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "126000港币/年"
+    },
+    {
+        "id": "3c658b00-7b55-409e-afe7-4f604a504e8f",
+        "detail_page_url": "https://www.compassedu.hk/majr_64442",
+        "program_name": "香港浸会大学药物发现（中药现代化）理学硕士",
+        "program_name_en": "MSc Drug Discovery (Modernization of Chinese Medicine)",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/45.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-science-msc-in-drug-discovery-modernization-of-chinese-medicine-mdd",
+        "university_name": "香港浸会大学",
+        "university_name_en": "Hong Kong Baptist University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-03-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "135000港币/年"
+    },
+    {
+        "id": "8084702c-b0dc-4ce6-862b-ce470a5d2b1f",
+        "detail_page_url": "https://www.compassedu.hk/majr_67382",
+        "program_name": "思克莱德大学高级药物输送理学硕士",
+        "program_name_en": "MSc Advanced Drug Delivery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/advanceddrugdelivery/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "73",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31250英镑/年"
+    },
+    {
+        "id": "93453a14-7b90-49f1-96e7-4daf802427c0",
+        "detail_page_url": "https://www.compassedu.hk/majr_67384",
+        "program_name": "思克莱德大学高级医药制造理学硕士",
+        "program_name_en": "MSc Advanced Pharmaceutical Manufacturing",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedpharmaceuticalmanufacturing/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "73",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31250英镑/年"
+    },
+    {
+        "id": "1779cb47-6d4b-42f2-9812-258a9a9b940b",
+        "detail_page_url": "https://www.compassedu.hk/majr_67385",
+        "program_name": "思克莱德大学高级药理学理学硕士",
+        "program_name_en": "MSc Advanced Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedpharmacology/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "73",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31250英镑/年"
+    },
+    {
+        "id": "637338da-ec90-451c-b0e9-c5c820877820",
+        "detail_page_url": "https://www.compassedu.hk/majr_67388",
+        "program_name": "思克莱德大学药物分析理学硕士",
+        "program_name_en": "MSc Pharmaceutical Analysis",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/pharmaceuticalanalysis/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "73",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31250英镑/年"
+    },
+    {
+        "id": "e3a960f1-1896-48bb-b0ea-50dcee7a8570",
+        "detail_page_url": "https://www.compassedu.hk/majr_67389",
+        "program_name": "思克莱德大学临床药学理学硕士",
+        "program_name_en": "MSc Clinical Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/clinicalpharmacy/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31850英镑/年"
+    },
+    {
+        "id": "095d255d-97f0-4937-81e9-48397aee9ac5",
+        "detail_page_url": "https://www.compassedu.hk/majr_64519",
+        "program_name": "阿伯丁大学临床药理学理学硕士",
+        "program_name_en": "MSc Clinical Pharmacology",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/37/clinical-pharmacology/",
+        "university_name": "阿伯丁大学",
+        "university_name_en": "University of Aberdeen",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "26250英镑/年"
+    },
+    {
+        "id": "383a39f3-60c4-4eab-b29c-8b367880573b",
+        "detail_page_url": "https://www.compassedu.hk/majr_64598",
+        "program_name": "阿伯丁大学药物发现与开发理学硕士",
+        "program_name_en": "MSc Drug Discovery and Development",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/55/drug-discovery-and-development/",
+        "university_name": "阿伯丁大学",
+        "university_name_en": "University of Aberdeen",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "26250英镑/年"
+    },
+    {
+        "id": "445580ed-f6be-4c2b-8afd-544236dca58c",
+        "detail_page_url": "https://www.compassedu.hk/majr_74640",
+        "program_name": "萨里大学制药科学理学硕士",
+        "program_name_en": "MSc Pharmaceutical Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/pharmaceutical-sciences-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "16600英镑/年"
+    },
+    {
+        "id": "5c3903cd-4119-4aa5-9aaa-756b3d4b45e3",
+        "detail_page_url": "https://www.compassedu.hk/majr_74641",
+        "program_name": "萨里大学制药科学与工业实践理学硕士",
+        "program_name_en": "MSc Pharmaceutical Sciences with Industrial Practice",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/pharmaceutical-sciences-industrial-practice-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "2年",
+        "tuition": "9500英镑/年"
+    },
+    {
+        "id": "f98ec8f2-0818-4d70-ae1a-0fccd4b70000",
+        "detail_page_url": "https://www.compassedu.hk/majr_61609",
+        "program_name": "萨塞克斯大学药物发现、设计与合成理学硕士",
+        "program_name_en": "MSc Drug Discovery, Design and Synthesis",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sussex.ac.uk/study/masters/courses/drug-discovery-design-and-synthesis-msc",
+        "university_name": "萨塞克斯大学",
+        "university_name_en": "University of Sussex",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-08-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "26250英镑/年"
+    },
+    {
+        "id": "d68b382e-0369-4950-9296-220b35a24eb7",
+        "detail_page_url": "https://www.compassedu.hk/majr_63089",
+        "program_name": "澳门大学中药学哲学硕士",
+        "program_name_en": "MPhil Chinese Medicinal Science",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://sklqrcm.um.edu.mo/pmcmcms/",
+        "university_name": "澳门大学",
+        "university_name_en": "University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-03",
+                "application_end_date": [
+                    "2025-01-02",
+                    "2025-03-14"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "87000澳门币/年"
+    },
+    {
+        "id": "0eff6ba4-31e3-43c6-8c30-1dbb4ada24b8",
+        "detail_page_url": "https://www.compassedu.hk/majr_63090",
+        "program_name": "澳门大学医药管理哲学硕士",
+        "program_name_en": "MPhil Medicinal Administration",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://sklqrcm.um.edu.mo/pmcmmad/",
+        "university_name": "澳门大学",
+        "university_name_en": "University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-03",
+                "application_end_date": [
+                    "2025-01-02",
+                    "2025-03-14"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "87000澳门币/年"
+    },
+    {
+        "id": "63dec6bc-fa32-493a-9120-ce7ebb69f5b3",
+        "detail_page_url": "https://www.compassedu.hk/majr_72452",
+        "program_name": "澳门大学医药管理理学硕士",
+        "program_name_en": "MSc Medicinal Administration",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://sklqrcm.um.edu.mo/mcmmadm/",
+        "university_name": "澳门大学",
+        "university_name_en": "University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-03",
+                "application_end_date": [
+                    "2025-01-02",
+                    "2025-03-14"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "87000澳门币/年"
+    },
+    {
+        "id": "22836581-fe9b-4ab3-b59c-49ff53a035ba",
+        "detail_page_url": "https://www.compassedu.hk/majr_67494",
+        "program_name": "东安格利亚大学天然产物药物发现理学硕士",
+        "program_name_en": "MSc Natural Product Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/35.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uea.ac.uk/course/postgraduate/msc-natural-product-drug-discovery/2025-26/sep",
+        "university_name": "东安格利亚大学",
+        "university_name_en": "University of East Anglia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-24",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "22700英镑/年"
+    },
+    {
+        "id": "8796f80c-3059-435f-b262-329b66f60d72",
+        "detail_page_url": "https://www.compassedu.hk/majr_67595",
+        "program_name": "阿斯顿大学药物传输理学硕士",
+        "program_name_en": "MSc Drug Delivery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.aston.ac.uk/study/courses/drug-delivery-msc/september-2025",
+        "university_name": "阿斯顿大学",
+        "university_name_en": "Aston University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "19",
+                "阅读": "18",
+                "写作": "23",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "22500英镑/年"
+    },
+    {
+        "id": "fa1276fb-6e51-4226-96cc-5247330b6484",
+        "detail_page_url": "https://www.compassedu.hk/majr_67596",
+        "program_name": "阿斯顿大学制药科学理学硕士",
+        "program_name_en": "MSc Pharmaceutical Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.aston.ac.uk/study/courses/pharmaceutical-sciences-msc/september-2025",
+        "university_name": "阿斯顿大学",
+        "university_name_en": "Aston University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "19",
+                "阅读": "18",
+                "写作": "23",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "22500英镑/年"
+    },
+    {
+        "id": "89030541-9ab9-4a7b-ab63-5d1448f4b23a",
+        "detail_page_url": "https://www.compassedu.hk/majr_67597",
+        "program_name": "阿斯顿大学药物代谢动力学理学硕士",
+        "program_name_en": "MSc Pharmacokinetics",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.aston.ac.uk/study/courses/pharmacokinetics-msc/september-2025",
+        "university_name": "阿斯顿大学",
+        "university_name_en": "Aston University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "19",
+                "阅读": "18",
+                "写作": "23",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "22500英镑/年"
+    },
+    {
+        "id": "bb947460-d982-417b-8941-97208be9447e",
+        "detail_page_url": "https://www.compassedu.hk/majr_74898",
+        "program_name": "阿斯顿大学药物发现神经科学理学硕士",
+        "program_name_en": "MSc Neuroscience for Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.aston.ac.uk/study/courses/neuroscience-drug-discovery-msc/september-2025",
+        "university_name": "阿斯顿大学",
+        "university_name_en": "Aston University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "19",
+                "阅读": "18",
+                "写作": "23",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "22500英镑/年"
+    },
+    {
+        "id": "068b47bb-08e9-41f8-a0e3-937e0a1a94d9",
+        "detail_page_url": "https://www.compassedu.hk/majr_62451",
+        "program_name": "澳门科技大学药学硕士",
+        "program_name_en": "Master of Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.must.edu.mo/cn/sp/programme/masters-degree-programme/study-plan",
+        "university_name": "澳门科技大学",
+        "university_name_en": "Macau University of Science and Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-10",
+                "application_end_date": [
+                    "2025-02-13"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "2.5年",
+        "tuition": "96000港币/年"
+    },
+    {
+        "id": "0f950aa6-67da-4b6b-b728-32779c80769b",
+        "detail_page_url": "https://www.compassedu.hk/majr_63168",
+        "program_name": "澳门科技大学中药学硕士",
+        "program_name_en": "Master of Pharmacology in Traditional Chinese Medicine",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.must.edu.mo/cn/fc/programme/masters-degree-programme/master-of-pharmacology",
+        "university_name": "澳门科技大学",
+        "university_name_en": "Macau University of Science and Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-10",
+                "application_end_date": [
+                    "2025-02-13"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2.5年",
+        "tuition": "96000港币/年"
+    },
+    {
+        "id": "3227e11d-40d3-4a04-a6ce-39761361fa46",
+        "detail_page_url": "https://www.compassedu.hk/majr_65325",
+        "program_name": "考文垂大学药理学与药物发现理学硕士",
+        "program_name_en": "MSc Pharmacology and Drug Discovery",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/hls/pharmacology-and-drug-discovery-msc/?term=2025-26",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2024-12-16"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "5/9月",
+        "duration": "1年",
+        "tuition": "18600英镑/年"
+    },
+    {
+        "id": "b1db14e4-cc0e-48ea-ad55-2f2a6bf0ba7c",
+        "detail_page_url": "https://www.compassedu.hk/majr_72439",
+        "program_name": "香港都会大学中药药剂学硕士",
+        "program_name_en": "Master of Chinese Medicinal Pharmacy",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hkmu.edu.hk/nhs/sc/programmes-courses/nursing-and-health-studies/postgraduate-programmes/master-of-chinese-medicinal-pharmacy/",
+        "university_name": "香港都会大学",
+        "university_name_en": "Hong Kong Metropolitan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "114450港币/年"
+    },
+    {
+        "id": "98030437-4726-427b-829f-faccade054f4",
+        "detail_page_url": "https://www.compassedu.hk/majr_74270",
+        "program_name": "考文垂大学抗菌素耐药性理学硕士",
+        "program_name_en": "MSc Antimicrobial Resistance",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/hls/antimicrobial-resistance-msc-pgcert/?term=2025-26",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2024-12-16"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "5/9月",
+        "duration": "1年",
+        "tuition": "18600英镑/年"
+    },
+    {
+        "id": "028c08f3-7507-4ddc-89b1-fa953c3318be",
+        "detail_page_url": "https://www.compassedu.hk/majr_75100",
+        "program_name": "威斯敏斯特大学制药科学理学硕士",
+        "program_name_en": "MSc Pharmaceutical Sciences",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/biological-and-biomedical-sciences-courses/2025-26/september/full-time/pharmaceutical-science-msc",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "17600英镑/年"
+    },
+    {
+        "id": "83c507c6-bbf5-40ba-86f8-0d491406f786",
+        "detail_page_url": "https://www.compassedu.hk/majr_76123",
+        "program_name": "马来西亚莫纳什大学药物科学硕士",
+        "program_name_en": "Master of Pharmaceutical Science",
+        "primary_category": "社科",
+        "secondary_category": "药学",
+        "university_logo_url": "https://logo.compassedu.hk/2940.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.monash.edu.my/study/postgraduate-and-research/pharmacy/master-of-pharmaceutical-science",
+        "university_name": "马来西亚莫纳什大学",
+        "university_name_en": "Monash University Malaysia",
+        "apply_time": [
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-19"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "26640马币/年"
+    }
+]

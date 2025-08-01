@@ -1,0 +1,4380 @@
+[
+    {
+        "completion_rate": "80 / 80",
+        "fail_count": 0
+    },
+    {
+        "id": "7bdb83d4-6849-4c45-8520-1d568577b47d",
+        "detail_page_url": "https://www.compassedu.hk/majr_65486",
+        "program_name": "新加坡国立大学人力资本管理与分析理学硕士",
+        "program_name_en": "MSc Human Capital Management and Analytics",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://mschcma.nus.edu.sg/",
+        "university_name": "新加坡国立大学",
+        "university_name_en": "National University of Singapore",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-01",
+                "application_end_date": [
+                    "2023-11-30",
+                    "2024-02-28",
+                    "2024-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-30",
+                    "2025-02-28",
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面/机面（kira）",
+        "intakeSeason": "1月",
+        "duration": "1年",
+        "tuition": "71940新币/年"
+    },
+    {
+        "id": "dd9a5a16-7d20-4abc-a7c0-f054d8b0425d",
+        "detail_page_url": "https://www.compassedu.hk/majr_75043",
+        "program_name": "伦敦大学学院人才分析与人本管理理学硕士",
+        "program_name_en": "MSc People Analytics and Human-Centric Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c",
+        "detail_page_url": "https://www.compassedu.hk/majr_53785",
+        "program_name": "墨尔本大学管理学硕士（人力资源）",
+        "program_name_en": "Master of Management (Human Resources)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/",
+        "university_name": "墨尔本大学",
+        "university_name_en": "The University of Melbourne",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-10-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-01-31",
+                    "2025-02-28"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "13",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/7月",
+        "duration": "2年",
+        "tuition": "59842澳元/年"
+    },
+    {
+        "id": "61524c2b-4280-4dba-893d-180d11a14a80",
+        "detail_page_url": "https://www.compassedu.hk/majr_53915",
+        "program_name": "悉尼大学人力资源管理与劳资关系硕士",
+        "program_name_en": "Master of Human Resource Management and Industrial Relations",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-human-resource-management-and-industrial-relations.html",
+        "university_name": "悉尼大学",
+        "university_name_en": "The University of Sydney",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-12-01"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-15"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-01"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-05-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "96",
+                "听力": "17",
+                "阅读": "17",
+                "写作": "19",
+                "口语": "17"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "72",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/8月",
+        "duration": "1.5年",
+        "tuition": "58800澳元/年"
+    },
+    {
+        "id": "51858991-7c9d-45bb-b80f-dcb8bed76492",
+        "detail_page_url": "https://www.compassedu.hk/majr_52519",
+        "program_name": "伦敦大学国王学院人力资源管理与组织分析理学硕士",
+        "program_name_en": "MSc Human Resource Management & Organisational Analysis",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational-analysis-msc",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "25",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31600英镑/年"
+    },
+    {
+        "id": "f83dfbb7-93e9-4fe0-add2-c9eeb73cc116",
+        "detail_page_url": "https://www.compassedu.hk/majr_51869",
+        "program_name": "爱丁堡大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755",
+        "university_name": "爱丁堡大学",
+        "university_name_en": "The University of Edinburgh",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2024-10-16",
+                    "2024-12-11",
+                    "2025-02-12",
+                    "2025-04-23",
+                    "2025-06-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "73",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31600英镑/年"
+    },
+    {
+        "id": "d65b8efe-8f42-4d37-8004-2d3544bdbf98",
+        "detail_page_url": "https://www.compassedu.hk/majr_51871",
+        "program_name": "爱丁堡大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880",
+        "university_name": "爱丁堡大学",
+        "university_name_en": "The University of Edinburgh",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2024-10-16",
+                    "2024-12-11",
+                    "2025-02-12",
+                    "2025-04-23",
+                    "2025-06-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "73",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31600英镑/年"
+    },
+    {
+        "id": "1297b4f5-f671-4c03-81ec-2d62977b7b35",
+        "detail_page_url": "https://www.compassedu.hk/majr_52609",
+        "program_name": "曼彻斯特大学人力资源管理与劳资关系理学硕士",
+        "program_name_en": "MSc Human Resource Management and Industrial Relations",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-12-07",
+                    "2025-03-02",
+                    "2025-05-04",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30750英镑/年"
+    },
+    {
+        "id": "e939830c-253c-4605-8f71-7adae40c8c8f",
+        "detail_page_url": "https://www.compassedu.hk/majr_52613",
+        "program_name": "曼彻斯特大学国际人力资源管理与比较劳资关系理学硕士",
+        "program_name_en": "MSc International Human Resource Management and Comparative Industrial Relations",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-12-07",
+                    "2025-03-02",
+                    "2025-05-04",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30750英镑/年"
+    },
+    {
+        "id": "2ab1e5f1-040f-4d2c-b403-c677168323ab",
+        "detail_page_url": "https://www.compassedu.hk/majr_52617",
+        "program_name": "曼彻斯特大学组织心理学理学硕士",
+        "program_name_en": "MSc Organisational Psychology",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-12-07",
+                    "2025-03-02",
+                    "2025-05-04",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29500英镑/年"
+    },
+    {
+        "id": "ab47e3b4-05cf-4297-a935-4da0565f66d9",
+        "detail_page_url": "https://www.compassedu.hk/majr_52662",
+        "program_name": "曼彻斯特大学人力资源开发（国际发展）理学硕士",
+        "program_name_en": "MSc Human Resource Development (International Development)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-12-07",
+                    "2025-03-02",
+                    "2025-05-04",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "25",
+                "阅读": "25",
+                "写作": "25",
+                "口语": "25"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29000英镑/年"
+    },
+    {
+        "id": "1252433f-f4a5-4374-b282-bf6be96ae799",
+        "detail_page_url": "https://www.compassedu.hk/majr_52663",
+        "program_name": "曼彻斯特大学人力资源管理（国际发展）理学硕士",
+        "program_name_en": "MSc Human Resource Management (International Development)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-12-07",
+                    "2025-03-02",
+                    "2025-05-04",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "25",
+                "阅读": "25",
+                "写作": "25",
+                "口语": "25"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30000英镑/年"
+    },
+    {
+        "id": "c9dcc948-84dc-441d-b17b-037bebb0c748",
+        "detail_page_url": "https://www.compassedu.hk/majr_52673",
+        "program_name": "曼彻斯特大学组织变革与发展理学硕士",
+        "program_name_en": "MSc Organisational Change and Development",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/02303/msc-organisational-change-and-development/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2024-12-07",
+                    "2025-03-02",
+                    "2025-05-04",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "25",
+                "阅读": "25",
+                "写作": "25",
+                "口语": "25"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29000英镑/年"
+    },
+    {
+        "id": "c8b0a9cf-f253-440a-900f-bc50eb5dc091",
+        "detail_page_url": "https://www.compassedu.hk/majr_64409",
+        "program_name": "布里斯托大学人力资源管理与工作的未来理学硕士",
+        "program_name_en": "MSc Human Resource Management and the Future of Work",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-human-resource-management-and-the-future-of-work/",
+        "university_name": "布里斯托大学",
+        "university_name_en": "University of Bristol",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-20",
+                "application_end_date": [
+                    "2023-11-30"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-18",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "95",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "67",
+                "阅读": "67",
+                "写作": "67",
+                "口语": "67"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33000英镑/年"
+    },
+    {
+        "id": "16d4130d-29ac-4801-b444-b695e11d5669",
+        "detail_page_url": "https://www.compassedu.hk/majr_64412",
+        "program_name": "布里斯托大学管理学理学硕士（国际人力资源管理）",
+        "program_name_en": "MSc Management (International Human Resource Management)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-management-international-human-resource-management/",
+        "university_name": "布里斯托大学",
+        "university_name_en": "University of Bristol",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-20",
+                "application_end_date": [
+                    "2023-11-15"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-18",
+                "application_end_date": [
+                    "2025-06-13"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "95",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "67",
+                "阅读": "67",
+                "写作": "67",
+                "口语": "67"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33000英镑/年"
+    },
+    {
+        "id": "0d99fad9-4261-46f2-8758-b8fb82548ce9",
+        "detail_page_url": "https://www.compassedu.hk/majr_4170",
+        "program_name": "香港理工大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/23090-mhf-mhp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "笔试/真人单面",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "208000港币/年"
+    },
+    {
+        "id": "5629f820-c238-4b05-825b-c1d370e327f7",
+        "detail_page_url": "https://www.compassedu.hk/majr_66667",
+        "program_name": "伦敦政治经济学院人力资源与组织（人力资源管理）理学硕士",
+        "program_name_en": "MSc Human Resources and Organisations (Human Resource Management)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/1.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+        "university_name": "伦敦政治经济学院",
+        "university_name_en": "The London School of Economics and Political Science",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-08",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "23",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31900英镑/年"
+    },
+    {
+        "id": "6fc2bae4-9ef0-4762-9509-96c8f06a3088",
+        "detail_page_url": "https://www.compassedu.hk/majr_66668",
+        "program_name": "伦敦政治经济学院人力资源与组织（国际雇佣关系）理学硕士",
+        "program_name_en": "MSc Human Resources and Organisations (International Employment Relations)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/1.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+        "university_name": "伦敦政治经济学院",
+        "university_name_en": "The London School of Economics and Political Science",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-08",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "23",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31900英镑/年"
+    },
+    {
+        "id": "bcaad038-0f96-45ac-853f-f9794253098a",
+        "detail_page_url": "https://www.compassedu.hk/majr_66669",
+        "program_name": "伦敦政治经济学院人力资源与组织（组织行为学）理学硕士",
+        "program_name_en": "MSc Human Resources and Organisations (Organisational Behaviour)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/1.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-human-resources-and-organisations",
+        "university_name": "伦敦政治经济学院",
+        "university_name_en": "The London School of Economics and Political Science",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-08",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "23",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31900英镑/年"
+    },
+    {
+        "id": "4bbf4996-e9ac-4d82-b7a4-f400ba36b402",
+        "detail_page_url": "https://www.compassedu.hk/majr_51350",
+        "program_name": "伯明翰大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "452b0db6-08c8-4b31-b218-88f29b3c17e2",
+        "detail_page_url": "https://www.compassedu.hk/majr_51436",
+        "program_name": "伯明翰大学公共管理硕士（人力资源）",
+        "program_name_en": "Master of Public Administration (Human Resources)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/human-resources-mpa",
+        "university_name": "伯明翰大学",
+        "university_name_en": "University of Birmingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-05-12"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "20",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30370英镑/年"
+    },
+    {
+        "id": "2dc915a0-5305-4736-be1f-621226d55bd7",
+        "detail_page_url": "https://www.compassedu.hk/majr_54345",
+        "program_name": "西澳大学人力资源与雇佣关系硕士",
+        "program_name_en": "Master of Human Resources and Employment Relations",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uwa.edu.au/study/Courses/Master-of-Human-Resources-and-Employment-Relations",
+        "university_name": "西澳大学",
+        "university_name_en": "The University of Western Australia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-04-01",
+                "application_end_date": [
+                    "2025-01-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2023-04-01",
+                "application_end_date": [
+                    "2025-06-09"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2024-04-01",
+                "application_end_date": [
+                    "2026-02-23"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2024-04-01",
+                "application_end_date": [
+                    "2026-07-20"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "82",
+                "听力": "20",
+                "阅读": "18",
+                "写作": "22",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "54",
+                "阅读": "54",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "48700澳元/年"
+    },
+    {
+        "id": "a505e9dd-2cba-40e2-a149-5509f4cbea44",
+        "detail_page_url": "https://www.compassedu.hk/majr_52405",
+        "program_name": "格拉斯哥大学管理学（人力资源）理学硕士",
+        "program_name_en": "MSc Management with Human Resources",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/managementwithhumanresources/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35640英镑/年"
+    },
+    {
+        "id": "84236e51-3220-4425-8450-c3247c7a4abb",
+        "detail_page_url": "https://www.compassedu.hk/majr_61744",
+        "program_name": "格拉斯哥大学国际人力资源管理与发展理学硕士",
+        "program_name_en": "MSc International Human Resource Management & Development",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/internationalhumanresourcemanagementdevelopment/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31800英镑/年"
+    },
+    {
+        "id": "62af91d7-68e1-43cc-b4df-0a425bd36d60",
+        "detail_page_url": "https://www.compassedu.hk/majr_76395",
+        "program_name": "阿德莱德大学人力资源管理硕士",
+        "program_name_en": "Master of Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-human-resource-management/int/",
+        "university_name": "阿德莱德大学",
+        "university_name_en": "The University of Adelaide",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "13",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "50500澳元/年"
+    },
+    {
+        "id": "b408d391-0be2-4fbd-b529-cf22ba2d904a",
+        "detail_page_url": "https://www.compassedu.hk/majr_50983",
+        "program_name": "利兹大学人力资源管理文学硕士",
+        "program_name_en": "MA Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://courses.leeds.ac.uk/7615/human-resource-management-ma",
+        "university_name": "利兹大学",
+        "university_name_en": "University of Leeds",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-06-26"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31750英镑/年"
+    },
+    {
+        "id": "c1c42614-d652-4380-96ec-0948a8569fa1",
+        "detail_page_url": "https://www.compassedu.hk/majr_62388",
+        "program_name": "利兹大学数据分析与人力资源管理理学硕士",
+        "program_name_en": "MSc Data Analytics and Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://courses.leeds.ac.uk/i693/data-analytics-and-human-resource-management-msc",
+        "university_name": "利兹大学",
+        "university_name_en": "University of Leeds",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-06-26"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "32250英镑/年"
+    },
+    {
+        "id": "3779ed82-d687-4d2b-861e-2aab48d9bc17",
+        "detail_page_url": "https://www.compassedu.hk/majr_51314",
+        "program_name": "南安普顿大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.southampton.ac.uk/courses/human-resource-management-masters-msc",
+        "university_name": "南安普顿大学",
+        "university_name_en": "University of Southampton",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-26",
+                "application_end_date": [
+                    "2025-08-26"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "21",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "68",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31500英镑/年"
+    },
+    {
+        "id": "d9d755c4-5432-41e7-b320-11a430953c2e",
+        "detail_page_url": "https://www.compassedu.hk/majr_51803",
+        "program_name": "谢菲尔德大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/human-resource-management-msc",
+        "university_name": "谢菲尔德大学",
+        "university_name_en": "The University of Sheffield",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "56",
+                "阅读": "56",
+                "写作": "56",
+                "口语": "56"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31190英镑/年"
+    },
+    {
+        "id": "98b2f8d7-84ec-409d-9a6e-39a2017ac900",
+        "detail_page_url": "https://www.compassedu.hk/majr_61659",
+        "program_name": "谢菲尔德大学人力资源管理理学硕士（英国特许人事与发展方向）",
+        "program_name_en": "MSc Human Resource Management with CIPD Pathway",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/human-resource-management-cipd-pathway-msc",
+        "university_name": "谢菲尔德大学",
+        "university_name_en": "The University of Sheffield",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "56",
+                "阅读": "56",
+                "写作": "56",
+                "口语": "56"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31190英镑/年"
+    },
+    {
+        "id": "51850d63-830b-4bc3-9a82-7850e32dfea0",
+        "detail_page_url": "https://www.compassedu.hk/majr_50180",
+        "program_name": "杜伦大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/12.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.durham.ac.uk/business/courses/human-resource-management-n2pa09/september-2025/",
+        "university_name": "杜伦大学",
+        "university_name_en": "Durham University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-10-01",
+                "application_end_date": [
+                    "2024-02-27"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "102",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "23",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "68",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "32500英镑/年"
+    },
+    {
+        "id": "d4434222-b576-4b7b-b5d6-81e8cead7f48",
+        "detail_page_url": "https://www.compassedu.hk/majr_73128",
+        "program_name": "悉尼科技大学人力资源管理硕士",
+        "program_name_en": "Master of Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uts.edu.au/study/find-a-course/master-human-resource-management",
+        "university_name": "悉尼科技大学",
+        "university_name_en": "University of Technology Sydney",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-30",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "2025-05-16"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "6",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "21",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "50",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/8月",
+        "duration": "1.5年",
+        "tuition": "50016澳元/年"
+    },
+    {
+        "id": "fa4e01a8-c033-4e9b-b8b5-5407754f4d74",
+        "detail_page_url": "https://www.compassedu.hk/majr_73129",
+        "program_name": "悉尼科技大学人力资源管理硕士（扩展）",
+        "program_name_en": "Master of Human Resource Management (Extension)",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uts.edu.au/study/find-a-course/master-human-resource-management-extension",
+        "university_name": "悉尼科技大学",
+        "university_name_en": "University of Technology Sydney",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-30",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "2025-05-16"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "6",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "21",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "50",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/8月",
+        "duration": "2年",
+        "tuition": "50016澳元/年"
+    },
+    {
+        "id": "3f40e31e-79f6-44e1-a5b1-94c251596ffb",
+        "detail_page_url": "https://www.compassedu.hk/majr_52268",
+        "program_name": "诺丁汉大学人力资源管理与组织理学硕士",
+        "program_name_en": "MSc Human Resource Management and Organisation",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-resource-management-and-organisation-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-06-09",
+                "application_end_date": [
+                    "2023-11-30",
+                    "2024-04-26",
+                    "2024-08-05"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "32400英镑/年"
+    },
+    {
+        "id": "8b9110a2-8f31-4c20-8521-b3b15fea7091",
+        "detail_page_url": "https://www.compassedu.hk/majr_52355",
+        "program_name": "诺丁汉大学工作与组织心理学理学硕士",
+        "program_name_en": "MSc Work and Organisational Psychology",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/work-and-organisational-psychology-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28200英镑/年"
+    },
+    {
+        "id": "98fe9c0a-c354-454f-b3f2-da015ef10d9a",
+        "detail_page_url": "https://www.compassedu.hk/majr_63855",
+        "program_name": "乌得勒支大学战略人力资源管理理学硕士",
+        "program_name_en": "MSc Strategic Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/382.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uu.nl/masters/en/strategic-human-resource-management",
+        "university_name": "乌得勒支大学",
+        "university_name_en": "Utrecht University",
+        "apply_time": [
+            {
+                "title": "23年秋季入学",
+                "application_start_date": "2022-10-01",
+                "application_end_date": [
+                    "2023-04-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "18332欧元/年"
+    },
+    {
+        "id": "5b60f3c7-c4f8-4ed3-a33d-742f740886dc",
+        "detail_page_url": "https://www.compassedu.hk/majr_53128",
+        "program_name": "伦敦大学玛丽皇后学院国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/international-human-resource-management-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-12",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33500英镑/年"
+    },
+    {
+        "id": "974afac9-8c07-474f-bcf3-f4af2bb4bf65",
+        "detail_page_url": "https://www.compassedu.hk/majr_74392",
+        "program_name": "皇家墨尔本理工大学人力资源管理硕士",
+        "program_name_en": "Master of Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-human-resource-management-mc263",
+        "university_name": "皇家墨尔本理工大学",
+        "university_name_en": "Royal Melbourne Institute of Technology",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-03-05"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-11",
+                "application_end_date": [
+                    "2025-07-23"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-07-28",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "48000澳元/年"
+    },
+    {
+        "id": "4e0a5150-b172-4230-85ed-7c634c0c6c58",
+        "detail_page_url": "https://www.compassedu.hk/majr_50865",
+        "program_name": "巴斯大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/20.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bath.ac.uk/courses/postgraduate-2025/taught-postgraduate-courses/msc-human-resource-management/",
+        "university_name": "巴斯大学",
+        "university_name_en": "University of Bath",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-20",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "24",
+                "阅读": "24",
+                "写作": "24",
+                "口语": "24"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30500英镑/年"
+    },
+    {
+        "id": "4560f335-42a8-4378-94ca-90aa6c984794",
+        "detail_page_url": "https://www.compassedu.hk/majr_75838",
+        "program_name": "马来西亚博特拉大学人力资源开发、健康教育与传播硕士",
+        "program_name_en": "Master of Human Resource Development, Health Education and Communication",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://sgs.upm.edu.my/programme_of_study/programme_by_coursework/faculty_of_educational_studies-1411",
+        "university_name": "马来西亚博特拉大学",
+        "university_name_en": "Universiti Putra Malaysia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "65",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/9月",
+        "duration": "2年",
+        "tuition": "14575马币/年"
+    },
+    {
+        "id": "4a34d69d-b682-49da-95c6-18cd19618dc8",
+        "detail_page_url": "https://www.compassedu.hk/majr_52010",
+        "program_name": "纽卡斯尔大学（英国）全球人力资源管理理学硕士",
+        "program_name_en": "MSc Global Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/5291f/",
+        "university_name": "纽卡斯尔大学（英国）",
+        "university_name_en": "Newcastle University(United Kingdom)",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-24"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29900英镑/年"
+    },
+    {
+        "id": "9ad43164-975c-4489-8838-37eb7da172d0",
+        "detail_page_url": "https://www.compassedu.hk/majr_53429",
+        "program_name": "利物浦大学人力资源管理与战略组织理学硕士",
+        "program_name_en": "MSc Human Resource Management and Strategic Organisation",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.liverpool.ac.uk/courses/2025/human-resource-management-msc#course-overview",
+        "university_name": "利物浦大学",
+        "university_name_en": "University of Liverpool",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "27700英镑/年"
+    },
+    {
+        "id": "7a5f286a-100d-44f8-b061-36a06c65849d",
+        "detail_page_url": "https://www.compassedu.hk/majr_64120",
+        "program_name": "格罗宁根大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rug.nl/masters/human-resource-management/",
+        "university_name": "格罗宁根大学",
+        "university_name_en": "University of Groningen",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-10-15"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-05-01"
+                ]
+            },
+            {
+                "title": "27年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-10-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "24",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9/2月",
+        "duration": "1年",
+        "tuition": "21400欧元/年"
+    },
+    {
+        "id": "8eb5021f-1a7d-4786-85a1-e8583b3b5f55",
+        "detail_page_url": "https://www.compassedu.hk/majr_75927",
+        "program_name": "马来西亚理工大学人力资源开发硕士",
+        "program_name_en": "Master of Human Resource Development",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://humanities.utm.my/sharps/hrd-taught-course/",
+        "university_name": "马来西亚理工大学",
+        "university_name_en": "Universiti Teknologi Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-12-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "550",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1.5年",
+        "tuition": "17667马币/年"
+    },
+    {
+        "id": "f6225325-be2c-44d0-add4-75e29fd15d9d",
+        "detail_page_url": "https://www.compassedu.hk/majr_50381",
+        "program_name": "埃克塞特大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/business/hrm/",
+        "university_name": "埃克塞特大学",
+        "university_name_en": "University of Exeter",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31200英镑/年"
+    },
+    {
+        "id": "58678ec4-125d-4a0e-9209-1379e4bdbf53",
+        "detail_page_url": "https://www.compassedu.hk/majr_62802",
+        "program_name": "埃克塞特大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/business/international_hrm/",
+        "university_name": "埃克塞特大学",
+        "university_name_en": "University of Exeter",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31200英镑/年"
+    },
+    {
+        "id": "ae4ffb3f-4b3f-423c-8d11-7ac159f9725a",
+        "detail_page_url": "https://www.compassedu.hk/majr_50808",
+        "program_name": "兰卡斯特大学人力资源与咨询文学硕士",
+        "program_name_en": "MA Human Resources and Consulting",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "暂无",
+        "program_url": "暂无",
+        "university_name": "暂无",
+        "university_name_en": "暂无",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无"
+    },
+    {
+        "id": "770aa41c-6a07-4147-97e1-f003c8a9af4e",
+        "detail_page_url": "https://www.compassedu.hk/majr_61465",
+        "program_name": "兰卡斯特大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/4.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/human-resource-management-msc/2025/",
+        "university_name": "兰卡斯特大学",
+        "university_name_en": "Lancaster University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "22",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27300英镑/年"
+    },
+    {
+        "id": "6ceaf271-8e7c-4336-b771-443a35a27325",
+        "detail_page_url": "https://www.compassedu.hk/majr_51167",
+        "program_name": "约克大学（英国）人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-human-resource-management/",
+        "university_name": "约克大学（英国）",
+        "university_name_en": "University of York(United Kingdom)",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "55",
+                "阅读": "55",
+                "写作": "55",
+                "口语": "55"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30950英镑/年"
+    },
+    {
+        "id": "4aedb181-5b83-47d1-b46b-4b7d08a893dc",
+        "detail_page_url": "https://www.compassedu.hk/majr_53027",
+        "program_name": "卡迪夫大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/human-resource-management-msc",
+        "university_name": "卡迪夫大学",
+        "university_name_en": "Cardiff University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-11",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28450英镑/年"
+    },
+    {
+        "id": "3432b5e6-31e7-4e14-a445-c41d61f15775",
+        "detail_page_url": "https://www.compassedu.hk/majr_53029",
+        "program_name": "卡迪夫大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/msc-international-human-resource-management",
+        "university_name": "卡迪夫大学",
+        "university_name_en": "Cardiff University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-11",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28450英镑/年"
+    },
+    {
+        "id": "86ae3407-fe6f-441f-94ac-3a6452f8e353",
+        "detail_page_url": "https://www.compassedu.hk/majr_73400",
+        "program_name": "伍伦贡大学人力资源管理硕士",
+        "program_name_en": "Master of Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-human-resource-management",
+        "university_name": "伍伦贡大学",
+        "university_name_en": "University of Wollongong Australia",
+        "apply_time": [
+            {
+                "title": "24年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2023-12-31",
+                    "2024-03-31"
+                ]
+            },
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "86",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "17"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "54",
+                "阅读": "54",
+                "写作": "54",
+                "口语": "54"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/5/8月",
+        "duration": "1.5年",
+        "tuition": "33696澳元/年"
+    },
+    {
+        "id": "cdf3a0d1-83d6-4027-84b4-f9b0fbb79b52",
+        "detail_page_url": "https://www.compassedu.hk/majr_52958",
+        "program_name": "雷丁大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/50.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.henley.ac.uk/study/masters/msc-international-human-resource-management",
+        "university_name": "雷丁大学",
+        "university_name_en": "University of Reading",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "26500英镑/年"
+    },
+    {
+        "id": "3946ac15-8d66-4655-bb70-31f021756caa",
+        "detail_page_url": "https://www.compassedu.hk/majr_52869",
+        "program_name": "贝尔法斯特女王大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/human-resource-management-msc/",
+        "university_name": "贝尔法斯特女王大学",
+        "university_name_en": "Queen's University Belfast",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-09",
+                "application_end_date": [
+                    "2025-08-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25800英镑/年"
+    },
+    {
+        "id": "27b950e5-1e49-4567-bad9-0b2b7a012b55",
+        "detail_page_url": "https://www.compassedu.hk/majr_50937",
+        "program_name": "拉夫堡大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/human-resource-management/",
+        "university_name": "拉夫堡大学",
+        "university_name_en": "Loughborough University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "63",
+                "阅读": "63",
+                "写作": "63",
+                "口语": "63"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "25500英镑/年"
+    },
+    {
+        "id": "38445dc5-dd42-4236-9729-72a3596bfa24",
+        "detail_page_url": "https://www.compassedu.hk/majr_62890",
+        "program_name": "拉夫堡大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/international-human-resource-management/",
+        "university_name": "拉夫堡大学",
+        "university_name_en": "Loughborough University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-05-10",
+                "application_end_date": [
+                    "2024-12-06"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-25"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "63",
+                "阅读": "63",
+                "写作": "63",
+                "口语": "63"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/10月",
+        "duration": "1年",
+        "tuition": "31750英镑/年"
+    },
+    {
+        "id": "c7b36cc8-c437-499f-b578-32096a05329e",
+        "detail_page_url": "https://www.compassedu.hk/majr_74937",
+        "program_name": "纽卡斯尔大学（澳大利亚）人力资源管理硕士",
+        "program_name_en": "Master of Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.newcastle.edu.au/degrees/master-human-resource-management",
+        "university_name": "纽卡斯尔大学（澳大利亚）",
+        "university_name_en": "The University of Newcastle, Australia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-10-28",
+                    "2025-02-17"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-02"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/5/8月",
+        "duration": "1.5年",
+        "tuition": "43760澳元/年"
+    },
+    {
+        "id": "e1eb8c33-ccf3-4779-8414-239cacc8a005",
+        "detail_page_url": "https://www.compassedu.hk/majr_62259",
+        "program_name": "香港浸会大学人力资源管理硕士",
+        "program_name_en": "Master of Human Resources Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/45.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-human-resources-management-mhrm",
+        "university_name": "香港浸会大学",
+        "university_name_en": "Hong Kong Baptist University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-10",
+                "application_end_date": [
+                    "2025-02-28"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "笔试/真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "237000港币/年"
+    },
+    {
+        "id": "d4b4dd9f-6e22-4aa6-a562-4c268ec78606",
+        "detail_page_url": "https://www.compassedu.hk/majr_53596",
+        "program_name": "思克莱德大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/humanresourcemanagement/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29350英镑/年"
+    },
+    {
+        "id": "8a25ff6f-ceb4-4f0f-93cc-289168c284a9",
+        "detail_page_url": "https://www.compassedu.hk/majr_53598",
+        "program_name": "思克莱德大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/internationalhumanresourcemanagement/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29350英镑/年"
+    },
+    {
+        "id": "b00184d9-e21c-4d5c-a67a-40136bc4f219",
+        "detail_page_url": "https://www.compassedu.hk/majr_50430",
+        "program_name": "萨里大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resources Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/human-resources-management-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "24900英镑/年"
+    },
+    {
+        "id": "9b7fa764-bede-4fcc-b664-7a6cdc97a98a",
+        "detail_page_url": "https://www.compassedu.hk/majr_64530",
+        "program_name": "阿伯丁大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1197/msc-international-human-resource-management/",
+        "university_name": "阿伯丁大学",
+        "university_name_en": "University of Aberdeen",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-19",
+                "application_end_date": [
+                    "2024-12-02"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "26250英镑/年"
+    },
+    {
+        "id": "4b84d8d9-d339-47e0-b3be-8d59cd640fce",
+        "detail_page_url": "https://www.compassedu.hk/majr_51535",
+        "program_name": "萨塞克斯大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sussex.ac.uk/study/masters/courses/human-resource-management-msc",
+        "university_name": "萨塞克斯大学",
+        "university_name_en": "University of Sussex",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-08-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "26250英镑/年"
+    },
+    {
+        "id": "d1b6cfd0-0573-4188-a578-9d75d79e4a96",
+        "detail_page_url": "https://www.compassedu.hk/majr_74193",
+        "program_name": "赫瑞瓦特大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hw.ac.uk/study/postgraduate/human-resource-management-hrm",
+        "university_name": "赫瑞瓦特大学",
+        "university_name_en": "Heriot-Watt University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-12-06"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-08-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "21",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "63",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "24176英镑/年"
+    },
+    {
+        "id": "aadccc60-92a3-4964-89b2-3fea0f420eba",
+        "detail_page_url": "https://www.compassedu.hk/majr_52819",
+        "program_name": "莱斯特大学人力资源管理与培训理学硕士",
+        "program_name_en": "MSc Human Resource Management and Training",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://le.ac.uk/courses/human-resource-management-and-training-msc/2025",
+        "university_name": "莱斯特大学",
+        "university_name_en": "University of Leicester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-19",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "23650英镑/年"
+    },
+    {
+        "id": "1cfa4820-e571-4d78-91ab-73813b24559e",
+        "detail_page_url": "https://www.compassedu.hk/majr_51470",
+        "program_name": "东安格利亚大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/35.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uea.ac.uk/course/postgraduate/msc-human-resource-management/2025-26/sep",
+        "university_name": "东安格利亚大学",
+        "university_name_en": "University of East Anglia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-24",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "24300英镑/年"
+    },
+    {
+        "id": "346cbe94-b159-441f-adf5-14dbac28e891",
+        "detail_page_url": "https://www.compassedu.hk/majr_67583",
+        "program_name": "阿斯顿大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.aston.ac.uk/study/courses/human-resource-management-msc/september-2025",
+        "university_name": "阿斯顿大学",
+        "university_name_en": "Aston University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-18"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23500英镑/年"
+    },
+    {
+        "id": "0e1fee13-e6c9-4ec1-bc51-cdbf26347411",
+        "detail_page_url": "https://www.compassedu.hk/majr_77015",
+        "program_name": "阿斯顿大学人力资源发展理学硕士",
+        "program_name_en": "MSc Human Resource Development",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.aston.ac.uk/study/courses/human-resource-development-msc/september-2025",
+        "university_name": "阿斯顿大学",
+        "university_name_en": "Aston University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-18"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23500英镑/年"
+    },
+    {
+        "id": "0283fc37-3413-4be6-8171-e629732d98d0",
+        "detail_page_url": "https://www.compassedu.hk/majr_53308",
+        "program_name": "邓迪大学国际商务与人力资源管理理学硕士",
+        "program_name_en": "MSc International Business and Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/international-business-human-resource-management",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23000英镑/年"
+    },
+    {
+        "id": "7da181c0-450d-4e05-98fe-9c6f451a78cf",
+        "detail_page_url": "https://www.compassedu.hk/majr_53325",
+        "program_name": "邓迪大学管理与国际人力资源管理理学硕士",
+        "program_name_en": "MSc Management and International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/management-international-human-resource-management",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23000英镑/年"
+    },
+    {
+        "id": "897a556c-dcdb-42b7-b82d-944a398be989",
+        "detail_page_url": "https://www.compassedu.hk/majr_64935",
+        "program_name": "埃塞克斯大学管理与组织动力学文学硕士",
+        "program_name_en": "MA Management and Organisational Dynamics",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.essex.ac.uk/courses/PG00671/1/MA-Management-and-Organisational-Dynamics",
+        "university_name": "埃塞克斯大学",
+        "university_name_en": "University of Essex",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-13",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "42",
+                "阅读": "42",
+                "写作": "42",
+                "口语": "42"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "22750英镑/年"
+    },
+    {
+        "id": "cb148578-b7ad-4639-b9cb-7675f162d832",
+        "detail_page_url": "https://www.compassedu.hk/majr_64973",
+        "program_name": "埃塞克斯大学人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.essex.ac.uk/courses/PG01036/1/MSc-Human-Resource-Management",
+        "university_name": "埃塞克斯大学",
+        "university_name_en": "University of Essex",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-13",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "42",
+                "阅读": "42",
+                "写作": "50",
+                "口语": "42"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "23500英镑/年"
+    },
+    {
+        "id": "f47bebe4-e236-452e-9474-37eabdd1e230",
+        "detail_page_url": "https://www.compassedu.hk/majr_61920",
+        "program_name": "伦敦大学皇家霍洛威学院人力资源管理理学硕士",
+        "program_name_en": "MSc Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/human-resource-management/",
+        "university_name": "伦敦大学皇家霍洛威学院",
+        "university_name_en": "Royal Holloway, University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-08-20"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "20",
+                "阅读": "22",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "54",
+                "阅读": "54",
+                "写作": "61",
+                "口语": "54"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "26100英镑/年"
+    },
+    {
+        "id": "0bb43b71-2f55-4ec7-b226-399c41284092",
+        "detail_page_url": "https://www.compassedu.hk/majr_1701",
+        "program_name": "香港岭南大学人力资源与组织管理理学硕士",
+        "program_name_en": "MSc Human Resource and Organisational Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/master-of-science-in-human-resource-and-organisational-management",
+        "university_name": "香港岭南大学",
+        "university_name_en": "Lingnan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "228000港币/年"
+    },
+    {
+        "id": "36102c64-5dc0-4ac1-90a8-99ef259e02a8",
+        "detail_page_url": "https://www.compassedu.hk/majr_63271",
+        "program_name": "格勒诺布尔高等商学院国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/364.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://en.grenoble-em.com/msc-international-human-resource-management-digital-age",
+        "university_name": "格勒诺布尔高等商学院",
+        "university_name_en": "Grenoble Graduate School Of Business",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-08-27"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "12950欧元/年"
+    },
+    {
+        "id": "d34f6db8-7066-4a30-aaf3-de36931693be",
+        "detail_page_url": "https://www.compassedu.hk/majr_65261",
+        "program_name": "威斯敏斯特大学人力资源管理文学硕士",
+        "program_name_en": "MA Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/business-and-management-courses/2025-26/september/full-time/human-resource-management-ma",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-19",
+                "application_end_date": [
+                    "2024-11-15"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "14500英镑/年"
+    },
+    {
+        "id": "2a2de8f8-82fc-4efc-9c0e-244d5ab764b2",
+        "detail_page_url": "https://www.compassedu.hk/majr_65265",
+        "program_name": "威斯敏斯特大学国际人力资源管理文学硕士",
+        "program_name_en": "MA International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/business-and-management-courses/2025-26/september/full-time/international-human-resource-management-ma",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-19",
+                "application_end_date": [
+                    "2024-11-15"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "14500英镑/年"
+    },
+    {
+        "id": "b9ba5e0e-0561-40d4-abdd-e699b949e519",
+        "detail_page_url": "https://www.compassedu.hk/majr_65379",
+        "program_name": "考文垂大学国际人力资源管理工商管理硕士",
+        "program_name_en": "MBA International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/london/course-structure/pg/international-human-resource-management-mba/",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2024-12-23"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "22550英镑/年"
+    },
+    {
+        "id": "5f92e42b-af06-4a47-aa8a-3dd34e5ca445",
+        "detail_page_url": "https://www.compassedu.hk/majr_65380",
+        "program_name": "考文垂大学国际人力资源管理理学硕士",
+        "program_name_en": "MSc International Human Resource Management",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/fbl/international-human-resource-management-msc/?term=2025-26",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2024-12-16"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "20050英镑/年"
+    },
+    {
+        "id": "a25c0c9e-41f0-41b9-be12-72d805881819",
+        "detail_page_url": "https://www.compassedu.hk/majr_76106",
+        "program_name": "香港教育大学新兴科技赋能的未来人力文学硕士",
+        "program_name_en": "MA Emerging Technology for Future Workforce",
+        "primary_category": "商科",
+        "secondary_category": "人力资源管理",
+        "university_logo_url": "https://logo.compassedu.hk/60.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://aapsef.eduhk.hk/study/prospective-students/academic-programmes/master-of-arts-in-emerging-technology-for-future-workforce-ma-etfw-subject-to-the-university-s-approval",
+        "university_name": "香港教育大学",
+        "university_name_en": "The Education University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-02-28",
+                    "2025-03-31",
+                    "2025-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "5.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "168000港币/年"
+    }
+]

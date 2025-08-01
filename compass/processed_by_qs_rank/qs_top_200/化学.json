@@ -1,0 +1,6406 @@
+[
+  {
+    "completion_rate": "82 / 82",
+    "fail_count": 0,
+    "original_total": 96,
+    "classification": "QS前200"
+  },
+  {
+    "id": "edf970bd-fe20-44fc-adaf-cef40918c3d5",
+    "detail_page_url": "https://www.compassedu.hk/majr_67743",
+    "program_name": "帝国理工学院数字化学和人工智能与自动化理学硕士",
+    "program_name_en": "MSc Digital Chemistry with AI and Automation",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/digital-chemistry/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-27",
+        "application_end_date": [
+          "2025-01-16",
+          "2025-03-27",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "41300英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_chemistry_rank": 11,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7ee249b5-3227-47b9-b2d4-d57d691576b8",
+    "detail_page_url": "https://www.compassedu.hk/majr_50022",
+    "program_name": "牛津大学理论与计算化学理学硕士",
+    "program_name_en": "MSc Theoretical and Computational Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/8.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-theoretical-and-computational-chemistry-stand-alone",
+    "university_name": "牛津大学",
+    "university_name_en": "University of Oxford",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-12",
+        "application_end_date": [
+          "2024-11-15",
+          "2025-01-29",
+          "2025-03-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "110",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "41250英镑/年",
+    "qs_2026_rank": 4,
+    "usnews_2026_rank": 4,
+    "the_2025_rank": 1,
+    "arwu_2024_rank": 6,
+    "qs_2026_chemistry_rank": 5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8e602b60-d1d5-4ece-8c3d-9cb772bd2cac",
+    "detail_page_url": "https://www.compassedu.hk/majr_54461",
+    "program_name": "新加坡国立大学化学科学理学硕士",
+    "program_name_en": "MSc Chemical Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://chemistry.nus.edu.sg/education/graduate/msc-in-chemical-sciences/",
+    "university_name": "新加坡国立大学",
+    "university_name_en": "National University of Singapore",
+    "apply_time": [
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-10-01",
+        "application_end_date": [
+          "2026-03-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "52320新币/年",
+    "qs_2026_rank": 8,
+    "usnews_2026_rank": 20,
+    "the_2025_rank": 17,
+    "arwu_2024_rank": 68,
+    "qs_2026_chemistry_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "15b6ad8c-8c2a-4d21-966e-5efedeb60817",
+    "detail_page_url": "https://www.compassedu.hk/majr_50630",
+    "program_name": "伦敦大学学院化学研究理学硕士",
+    "program_name_en": "MSc Chemical Research",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/chemical-research-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "75",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "39800英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_chemistry_rank": 24,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "16464d06-19db-4fd2-a96c-057fa3843d43",
+    "detail_page_url": "https://www.compassedu.hk/majr_61427",
+    "program_name": "伦敦大学学院应用分析化学理学硕士",
+    "program_name_en": "MSc Applied Analytical Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/applied-analytical-chemistry-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "75",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "39800英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_chemistry_rank": 24,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f44a3519-9325-4313-9989-67c8f9ebbdbe",
+    "detail_page_url": "https://www.compassedu.hk/majr_67737",
+    "program_name": "伦敦大学学院材料与分子建模理学硕士",
+    "program_name_en": "MSc Materials and Molecular Modelling",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/materials-and-molecular-modelling-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "75",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "39800英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_chemistry_rank": 24,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c4361035-1f94-4a2e-9dfa-611ac8e26a48",
+    "detail_page_url": "https://www.compassedu.hk/majr_73156",
+    "program_name": "伦敦大学学院可持续化学理学硕士",
+    "program_name_en": "MSc Sustainable Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/sustainable-chemistry-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "75",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "39800英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_chemistry_rank": 24,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0ed785e4-07dc-46cf-b4df-857e27484ff8",
+    "detail_page_url": "https://www.compassedu.hk/majr_74729",
+    "program_name": "香港大学健康与材料化学技术理学硕士",
+    "program_name_en": "MSc Chemical Technologies for Health and Materials",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-the-field-of-chemical-technologies-for-health-and-materials-sci",
+    "university_name": "香港大学",
+    "university_name_en": "The University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-12",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人群面",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "166680港币/年",
+    "qs_2026_rank": 11,
+    "usnews_2026_rank": 44,
+    "the_2025_rank": 35,
+    "arwu_2024_rank": 69,
+    "qs_2026_chemistry_rank": 44,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cdd4cc92-70c3-4a89-8e9f-5c57e69d53da",
+    "detail_page_url": "https://www.compassedu.hk/majr_62861",
+    "program_name": "南洋理工大学生命科学理学硕士",
+    "program_name_en": "MSc Life Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/39.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ntu.edu.sg/nie/programmes/graduate-education/graduate-programmes/detail/master-of-science-(life-sciences)",
+    "university_name": "南洋理工大学",
+    "university_name_en": "Nanyang Technological University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-01-06"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-05-05",
+        "application_end_date": [
+          "2025-06-19"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/8月",
+    "duration": "1年",
+    "tuition": "47415新币/年",
+    "qs_2026_rank": 12,
+    "usnews_2026_rank": 28,
+    "the_2025_rank": 30,
+    "arwu_2024_rank": 90,
+    "qs_2026_chemistry_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9132dea3-c453-4769-b6ba-576db5be80bc",
+    "detail_page_url": "https://www.compassedu.hk/majr_64433",
+    "program_name": "南洋理工大学化学科学与仪器理学硕士",
+    "program_name_en": "MSc Chemical Sciences and Instrumentation",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/39.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ntu.edu.sg/education/graduate-programme/spms-master-of-science-in-chemical-sciences-and-instrumentation",
+    "university_name": "南洋理工大学",
+    "university_name_en": "Nanyang Technological University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-04",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "43600新币/年",
+    "qs_2026_rank": 12,
+    "usnews_2026_rank": 28,
+    "the_2025_rank": 30,
+    "arwu_2024_rank": 90,
+    "qs_2026_chemistry_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0da814fd-46f4-4421-9942-038643c431f2",
+    "detail_page_url": "https://www.compassedu.hk/majr_73559",
+    "program_name": "宾夕法尼亚大学化学科学硕士",
+    "program_name_en": "Master of Chemical Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/88.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lps.upenn.edu/degree-programs/mcs",
+    "university_name": "宾夕法尼亚大学",
+    "university_name_en": "University of Pennsylvania",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物化学"
+      },
+      {
+        "key": "2",
+        "value": "无机化学"
+      },
+      {
+        "key": "3",
+        "value": "有机化学"
+      },
+      {
+        "key": "4",
+        "value": "物理化学"
+      },
+      {
+        "key": "5",
+        "value": "环境化学"
+      },
+      {
+        "key": "6",
+        "value": "材料"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "59,880美元",
+    "qs_2026_rank": 15,
+    "usnews_2026_rank": 15,
+    "the_2025_rank": 14,
+    "arwu_2024_rank": 14,
+    "qs_2026_chemistry_rank": 36,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "98cd6a85-e433-46e7-967e-5879500948e2",
+    "detail_page_url": "https://www.compassedu.hk/majr_73595",
+    "program_name": "康奈尔大学化学与化学生物学硕士",
+    "program_name_en": "MS in Chemistry & Chemical Biology",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/95.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://chemistry.cornell.edu/ms-program",
+    "university_name": "康奈尔大学",
+    "university_name_en": "Cornell University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-06-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "分析化学"
+      },
+      {
+        "key": "2",
+        "value": "生物有机化学"
+      },
+      {
+        "key": "3",
+        "value": "生物物理化学"
+      },
+      {
+        "key": "4",
+        "value": "化学生物学"
+      },
+      {
+        "key": "5",
+        "value": "化学物理"
+      },
+      {
+        "key": "6",
+        "value": "无机化学"
+      },
+      {
+        "key": "7",
+        "value": "有机化学"
+      },
+      {
+        "key": "8",
+        "value": "有机金属化学"
+      },
+      {
+        "key": "9",
+        "value": "物理化学"
+      },
+      {
+        "key": "10",
+        "value": "高分子化学"
+      },
+      {
+        "key": "11",
+        "value": "理论化学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "29,500美元",
+    "qs_2026_rank": 16,
+    "usnews_2026_rank": 16,
+    "the_2025_rank": 20,
+    "arwu_2024_rank": 12,
+    "qs_2026_chemistry_rank": 27,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "636768f3-009a-45a8-8a0f-befd4c0c9b1f",
+    "detail_page_url": "https://www.compassedu.hk/majr_53797",
+    "program_name": "墨尔本大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-chemistry/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "3/7月",
+    "duration": "2年",
+    "tuition": "58800澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_chemistry_rank": 57,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7ffc3308-f744-43d9-9905-49e87252e493",
+    "detail_page_url": "https://www.compassedu.hk/majr_64298",
+    "program_name": "慕尼黑工业大学化学生物技术",
+    "program_name_en": "M.Sc. Chemical Biotechnology",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/chemical-biotechnology-master-of-science-msc/",
+    "university_name": "慕尼黑工业大学",
+    "university_name_en": "Technical University of Munich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-10-01",
+        "application_end_date": [
+          "2026-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "4/10月",
+    "duration": "2年",
+    "tuition": "8000欧元/年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_chemistry_rank": 22,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "84b0fb9c-a760-4329-9999-e695a63ed6bf",
+    "detail_page_url": "https://www.compassedu.hk/majr_64311",
+    "program_name": "慕尼黑工业大学工业化学",
+    "program_name_en": "M.Sc. Industrial Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tum.de/en/studies/degree-programs/detail/industrial-chemistry-master-of-science-msc/",
+    "university_name": "慕尼黑工业大学",
+    "university_name_en": "Technical University of Munich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "46093美元/年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_chemistry_rank": 22,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a910816b-70f1-45c1-9495-f2e41e8f8e38",
+    "detail_page_url": "https://www.compassedu.hk/majr_53883",
+    "program_name": "悉尼大学化学与生物分子工程工学硕士",
+    "program_name_en": "MEng Chemical and Biomolecular Engineering",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-engineering-chemical-and-biomolecular-engineering0.html",
+    "university_name": "悉尼大学",
+    "university_name_en": "The University of Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-01"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "17",
+        "阅读": "17",
+        "写作": "19",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "55100澳元/年",
+    "qs_2026_rank": 25,
+    "usnews_2026_rank": 29,
+    "the_2025_rank": 61,
+    "arwu_2024_rank": 74,
+    "qs_2026_chemistry_rank": 63,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "724a437b-859c-499f-8d53-a167abcd7d2f",
+    "detail_page_url": "https://www.compassedu.hk/majr_53901",
+    "program_name": "悉尼大学专业工程学硕士（化学与生物分子工程）",
+    "program_name_en": "Master of Professional Engineering (Chemical and Biomolecular Engineering)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sydney.edu.au/content/courses/courses/pc/master-of-professional-engineering-chemical-and-biomolecular-engineering.html",
+    "university_name": "悉尼大学",
+    "university_name_en": "The University of Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-01"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "17",
+        "阅读": "17",
+        "写作": "19",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "3年",
+    "tuition": "55100澳元/年",
+    "qs_2026_rank": 25,
+    "usnews_2026_rank": 29,
+    "the_2025_rank": 61,
+    "arwu_2024_rank": 74,
+    "qs_2026_chemistry_rank": 63,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9e64f030-4dab-4b2b-b6d6-d2ac8dbfc9fc",
+    "detail_page_url": "https://www.compassedu.hk/majr_4180",
+    "program_name": "香港中文大学认证化学理学硕士",
+    "program_name_en": "MSc Accreditation Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gs.cuhk.edu.hk/admissions/programme/science#msc-in-accreditation-chemistry",
+    "university_name": "香港中文大学",
+    "university_name_en": "The Chinese University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "160200港币/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 37,
+    "the_2025_rank": 44,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "31733076-56bd-4bc3-abc6-c1ec79d8d134",
+    "detail_page_url": "https://www.compassedu.hk/majr_51912",
+    "program_name": "爱丁堡大学材料化学理学硕士",
+    "program_name_en": "MSc Materials Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=448",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "40300英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_chemistry_rank": 64,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9fd54f25-32ce-4aaf-8a36-87982d9653f8",
+    "detail_page_url": "https://www.compassedu.hk/majr_67709",
+    "program_name": "爱丁堡大学分析化学理学硕士",
+    "program_name_en": "MSc Analytical Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=1004",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "40300英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_chemistry_rank": 64,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "44d4dc98-9294-4e8f-a796-c324cb85d71e",
+    "detail_page_url": "https://www.compassedu.hk/majr_52642",
+    "program_name": "曼彻斯特大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/08492/msc-chemistry/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "35000英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_chemistry_rank": 22,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "adf4a0de-2081-451e-a083-0a604493a7f0",
+    "detail_page_url": "https://www.compassedu.hk/majr_64490",
+    "program_name": "莫纳什大学绿色化学与可持续技术硕士",
+    "program_name_en": "Master of Green Chemistry and Sustainable Technologies",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.monash.edu/study/courses/find-a-course/green-chemistry-and-sustainable-technologies-s6006?international=true",
+    "university_name": "莫纳什大学",
+    "university_name_en": "Monash University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-07"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "54500澳元/年",
+    "qs_2026_rank": 36,
+    "usnews_2026_rank": 38,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 82,
+    "qs_2026_chemistry_rank": 57,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "13222f67-24e0-4230-8c86-a854f6b84509",
+    "detail_page_url": "https://www.compassedu.hk/majr_76166",
+    "program_name": "莫纳什大学绿色化学与可持续技术硕士双学位（莫纳什大学-上海交通大学）",
+    "program_name_en": "Double Degree Master of Green Chemistry and Sustainable Technologies (Monash-SJTU)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.monash.edu/study/courses/find-a-course/green-chemistry-and-sustainable-technologies-double-masters-with-shanghai-jiao-tong-uni-s6008?international=true",
+    "university_name": "莫纳什大学",
+    "university_name_en": "Monash University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "7月",
+    "duration": "2年",
+    "tuition": "54500澳元/年",
+    "qs_2026_rank": 36,
+    "usnews_2026_rank": 38,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 82,
+    "qs_2026_chemistry_rank": 57,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7affb05b-1af1-48b6-bb7f-776fa52130bb",
+    "detail_page_url": "https://www.compassedu.hk/majr_49714",
+    "program_name": "香港科技大学分析化学理学硕士",
+    "program_name_en": "MSc Analytical Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/42.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://prog-crs.hkust.edu.hk/pgprog/2025-26/msc-anchem",
+    "university_name": "香港科技大学",
+    "university_name_en": "The Hong Kong University of Science and Technology",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-09-02",
+        "application_end_date": [
+          "2024-11-01"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-02",
+        "application_end_date": [
+          "2025-06-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "160000港币/年",
+    "qs_2026_rank": 44,
+    "usnews_2026_rank": 101,
+    "the_2025_rank": 66,
+    "arwu_2024_rank": 201,
+    "qs_2026_chemistry_rank": 49,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e030d534-7901-4f48-8640-e232aa90d37a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73697",
+    "program_name": "密歇根大学安娜堡分校化学科学硕士",
+    "program_name_en": "Master's Degree in Chemical Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/107.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://lsa.umich.edu/chem/graduates/masters-programs.html",
+    "university_name": "密歇根大学安娜堡分校",
+    "university_name_en": "University of Michigan, Ann Arbor",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "84"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "24学分",
+    "tuition": "28,094美元",
+    "qs_2026_rank": 45,
+    "usnews_2026_rank": 21,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 30,
+    "qs_2026_chemistry_rank": 51,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "07b90c7b-cc19-4863-a99d-7bf9a5034e2e",
+    "detail_page_url": "https://www.compassedu.hk/majr_76274",
+    "program_name": "加州大学洛杉矶分校应用化学科学硕士",
+    "program_name_en": "Master of Applied Chemical Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/104.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://macsucla.com/",
+    "university_name": "加州大学洛杉矶分校",
+    "university_name_en": "University of California, Los Angeles",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "37,852美元/年",
+    "qs_2026_rank": 46,
+    "usnews_2026_rank": 13,
+    "the_2025_rank": 18,
+    "arwu_2024_rank": 15,
+    "qs_2026_chemistry_rank": 15,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3f12d2f4-fe51-4f3b-9b9e-b6a79782f9ea",
+    "detail_page_url": "https://www.compassedu.hk/majr_51653",
+    "program_name": "布里斯托大学核科学与工程理学硕士",
+    "program_name_en": "MSc Nuclear Science and Engineering",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-nuclear-science-and-engineering/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "34900英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_chemistry_rank": 96,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fe379587-e364-4212-9993-878fee02bd83",
+    "detail_page_url": "https://www.compassedu.hk/majr_74534",
+    "program_name": "布里斯托大学环境分析化学理学硕士",
+    "program_name_en": "MSc Environmental Analytical Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-environmental-analytical-chemistry/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32100英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_chemistry_rank": 96,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e5a01f45-5453-4094-8eb0-79a218e973e9",
+    "detail_page_url": "https://www.compassedu.hk/majr_63767",
+    "program_name": "阿姆斯特丹大学化学：分析科学理学硕士",
+    "program_name_en": "MSc Chemistry: Analytical Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/383.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uva.nl/en/programmes/masters/chemistry-analytical-sciences/analytical-sciences.html?origin=5BOaRAofTjCccATraJp2XA",
+    "university_name": "阿姆斯特丹大学",
+    "university_name_en": "University of Amsterdam",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "2年",
+    "tuition": "25900欧元/年",
+    "qs_2026_rank": 53,
+    "usnews_2026_rank": 33,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 150,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0950c25c-4bfd-45a6-8586-d4f202aca183",
+    "detail_page_url": "https://www.compassedu.hk/majr_63769",
+    "program_name": "阿姆斯特丹大学化学：分子科学理学硕士",
+    "program_name_en": "MSc Chemistry: Molecular Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/383.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uva.nl/en/programmes/masters/chemistry-molecular-sciences/molecular-sciences.html?origin=5BOaRAofTjCccATraJp2XA",
+    "university_name": "阿姆斯特丹大学",
+    "university_name_en": "University of Amsterdam",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "2年",
+    "tuition": "25900欧元/年",
+    "qs_2026_rank": 53,
+    "usnews_2026_rank": 33,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 150,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0ea663b8-8cc8-4025-9198-13803039e73e",
+    "detail_page_url": "https://www.compassedu.hk/majr_63771",
+    "program_name": "阿姆斯特丹大学化学：能源与可持续性科学理学硕士",
+    "program_name_en": "MSc Chemistry: Science for Energy and Sustainability",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/383.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uva.nl/en/programmes/masters/chemistry-science-for-energy-and-sustainability/chemistry-science-for-energy-and-sustainability.html?origin=5BOaRAofTjCccATraJp2XA",
+    "university_name": "阿姆斯特丹大学",
+    "university_name_en": "University of Amsterdam",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "2年",
+    "tuition": "25900欧元/年",
+    "qs_2026_rank": 53,
+    "usnews_2026_rank": 33,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 150,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4bf1590-dbef-4b31-9379-2c57df129f9c",
+    "detail_page_url": "https://www.compassedu.hk/majr_73706",
+    "program_name": "纽约大学化学理学硕士",
+    "program_name_en": "MS in Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://as.nyu.edu/departments/chemistry/graduate/master-of-science-program-in-chemistry.html",
+    "university_name": "纽约大学",
+    "university_name_en": "New York University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "32学分",
+    "tuition": "66,368美元",
+    "qs_2026_rank": 55,
+    "usnews_2026_rank": 32,
+    "the_2025_rank": 33,
+    "arwu_2024_rank": 31,
+    "qs_2026_chemistry_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "eeae21a8-ade2-4d41-b82d-6dca6fde13c4",
+    "detail_page_url": "https://www.compassedu.hk/majr_75569",
+    "program_name": "马来亚大学仪器分析化学理学硕士",
+    "program_name_en": "Master of Science in instrumental Analytical Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/1114.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fs.um.edu.my/master-of-science-in-instrumental-analytical-chemistry",
+    "university_name": "马来亚大学",
+    "university_name_en": "University of Malaya",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-22",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-02-10",
+        "application_end_date": [
+          "2025-08-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "3/10月",
+    "duration": "1年",
+    "tuition": "30500马币/年",
+    "qs_2026_rank": 58,
+    "usnews_2026_rank": 331,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 401,
+    "qs_2026_chemistry_rank": 146,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0b9d9e15-dcda-4edb-b9ed-26c728520c2f",
+    "detail_page_url": "https://www.compassedu.hk/majr_63305",
+    "program_name": "荷语鲁汶大学化学",
+    "program_name_en": "Master of Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/365.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.kuleuven.be/programmes/master-chemistry",
+    "university_name": "荷语鲁汶大学",
+    "university_name_en": "Katholieke Universiteit Leuven",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-12",
+        "application_end_date": [
+          "2024-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "18",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "7772欧元/年",
+    "qs_2026_rank": 60,
+    "usnews_2026_rank": 50,
+    "the_2025_rank": 43,
+    "arwu_2024_rank": 78,
+    "qs_2026_chemistry_rank": 27,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_chemistry_rank": 27
+  },
+  {
+    "id": "a9875e30-7f2f-48be-9b12-2999678d861b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63306",
+    "program_name": "荷语鲁汶大学理论化学与计算模型",
+    "program_name_en": "Erasmus Mundus Master of Science in Theoretical Chemistry and Computational Modelling",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/365.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51186233.htm#activetab=diploma_omschrijving",
+    "university_name": "荷语鲁汶大学",
+    "university_name_en": "Katholieke Universiteit Leuven",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "3500欧元/年",
+    "qs_2026_rank": 60,
+    "usnews_2026_rank": 50,
+    "the_2025_rank": 43,
+    "arwu_2024_rank": 78,
+    "qs_2026_chemistry_rank": 27,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_chemistry_rank": 27
+  },
+  {
+    "id": "a2dc31ff-afef-4c22-9a5c-c1956890e832",
+    "detail_page_url": "https://www.compassedu.hk/majr_53620",
+    "program_name": "香港城市大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/43.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cityu.edu.hk/pg/programme/p67",
+    "university_name": "香港城市大学",
+    "university_name_en": "City University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "450"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "186000港币/年",
+    "qs_2026_rank": 63,
+    "usnews_2026_rank": 54,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 121,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8b17f4e2-d5d6-485d-a63f-119e418e00e7",
+    "detail_page_url": "https://www.compassedu.hk/majr_50280",
+    "program_name": "华威大学化学与科学写作理学硕士",
+    "program_name_en": "MSc Chemistry with Scientific Writing",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-chemistry-scientific-writing",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "35340英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 146,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8f65e52e-0b52-4571-a40e-198b290fdf35",
+    "detail_page_url": "https://www.compassedu.hk/majr_50281",
+    "program_name": "华威大学高分子化学理学硕士",
+    "program_name_en": "MSc Polymer Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-polymer-chemistry",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "35340英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 146,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ced5f8f1-087c-4d8e-80e6-daebd43f1c6c",
+    "detail_page_url": "https://www.compassedu.hk/majr_50285",
+    "program_name": "华威大学分析科学与仪器理学硕士",
+    "program_name_en": "MSc Analytical Sciences and Instrumentation",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-analytical-sciences-instrumentation",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "35340英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 146,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "675d580d-db3a-46e0-bcc1-c513bb10bb67",
+    "detail_page_url": "https://www.compassedu.hk/majr_74553",
+    "program_name": "伯明翰大学可持续化学理学硕士",
+    "program_name_en": "MSc Sustainable Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/chemistry-courses/sustainable-chemistry-msc",
+    "university_name": "伯明翰大学",
+    "university_name_en": "University of Birmingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-12"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32510英镑/年",
+    "qs_2026_rank": 76,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 93,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 104,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "061a6a2e-8806-41d3-b59d-6bf53bc8179f",
+    "detail_page_url": "https://www.compassedu.hk/majr_52408",
+    "program_name": "格拉斯哥大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/chemistry/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31800英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 80,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8ea842c0-bf77-4cf7-97c5-715a37be6603",
+    "detail_page_url": "https://www.compassedu.hk/majr_62987",
+    "program_name": "利兹大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/i588/chemistry-msc",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "06bbbef9-9b4b-4a55-a6b0-78fc16241ccb",
+    "detail_page_url": "https://www.compassedu.hk/majr_75013",
+    "program_name": "利兹大学数字与自动化化学理学硕士",
+    "program_name_en": "MSc Digital and Automated Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/j927/digital-and-automated-chemistry-msc",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8a1bd6bc-6f46-4aa5-91fb-19b8d09393f6",
+    "detail_page_url": "https://www.compassedu.hk/majr_51204",
+    "program_name": "南安普顿大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/chemistry-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 170,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cfaf88b7-28f2-421b-bf3e-dd11a94d05c4",
+    "detail_page_url": "https://www.compassedu.hk/majr_51205",
+    "program_name": "南安普顿大学电化学与电池技术理学硕士",
+    "program_name_en": "MSc Electrochemistry and Battery Technologies",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/electrochemistry-battery-technologies-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 170,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f7f28658-064a-4827-9f67-79d66e75f5de",
+    "detail_page_url": "https://www.compassedu.hk/majr_67767",
+    "program_name": "南安普顿大学化学研究理学硕士",
+    "program_name_en": "MSc Chemistry by Research",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/chemistry-by-research-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 170,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1575e905-8aa6-4624-ab14-d14dd91e83d8",
+    "detail_page_url": "https://www.compassedu.hk/majr_73195",
+    "program_name": "南安普顿大学数字化学理学硕士",
+    "program_name_en": "MSc Digital Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/digital-chemistry-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 170,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6d61848e-d2c2-4218-b050-601c440072e8",
+    "detail_page_url": "https://www.compassedu.hk/majr_51712",
+    "program_name": "谢菲尔德大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/chemistry-msc",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31190英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 157,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "15ee78d4-c6ad-4241-9a31-bd00211da941",
+    "detail_page_url": "https://www.compassedu.hk/majr_72332",
+    "program_name": "谢菲尔德大学化学与可持续发展理学硕士",
+    "program_name_en": "MSc Chemistry and Sustainability",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/chemistry-and-sustainability-msc",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31190英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 157,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f4646b2c-ad63-4808-870d-cb93dbb593e9",
+    "detail_page_url": "https://www.compassedu.hk/majr_63527",
+    "program_name": "苏黎世大学苏黎世大学化学理学硕士",
+    "program_name_en": "MSc UZH in Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/369.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uzh.ch/cmsssl/en/studies/programs/master/chemistry.html",
+    "university_name": "苏黎世大学",
+    "university_name_en": "University of Zurich",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/2月",
+    "duration": "1.5年",
+    "qs_2026_rank": 100,
+    "usnews_2026_rank": 59,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 67,
+    "qs_2026_chemistry_rank": 122,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4f454f09-c408-404f-8148-58ddf3435551",
+    "detail_page_url": "https://www.compassedu.hk/majr_63528",
+    "program_name": "苏黎世大学苏黎世大学化学和分子科学理学硕士",
+    "program_name_en": "MSc UZH in Chemical and Molecular Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/369.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uzh.ch/cmsssl/en/studies/programs/master/chemical_molecular_sciences.html",
+    "university_name": "苏黎世大学",
+    "university_name_en": "University of Zurich",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/2月",
+    "duration": "1.5年",
+    "qs_2026_rank": 100,
+    "usnews_2026_rank": 59,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 67,
+    "qs_2026_chemistry_rank": 122,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8551645c-e867-4214-a7e2-cb675ab6a960",
+    "detail_page_url": "https://www.compassedu.hk/majr_63566",
+    "program_name": "苏黎世大学苏黎世大学生物化学理学硕士",
+    "program_name_en": "MSc UZH in Biochemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/369.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bioc.uzh.ch/en/teaching/study-overview/master.html",
+    "university_name": "苏黎世大学",
+    "university_name_en": "University of Zurich",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/2月",
+    "duration": "1.5年",
+    "qs_2026_rank": 100,
+    "usnews_2026_rank": 59,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 67,
+    "qs_2026_chemistry_rank": 122,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f52ddb5e-4ebd-450f-a1b5-5dd5643370a5",
+    "detail_page_url": "https://www.compassedu.hk/majr_53119",
+    "program_name": "伦敦大学玛丽皇后学院化学研究理学硕士",
+    "program_name_en": "MSc Chemical Research",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/chemical-research-msc/",
+    "university_name": "伦敦大学玛丽皇后学院",
+    "university_name_en": "Queen Mary University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-12",
+        "application_end_date": [
+          "2025-07-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "18",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 201,
+    "qs_2026_chemistry_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "246b9ecf-f737-4299-9ba8-15f4e10d9ffe",
+    "detail_page_url": "https://www.compassedu.hk/majr_50130",
+    "program_name": "圣安德鲁斯大学化学科学理学硕士",
+    "program_name_en": "MSc Chemical Science",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/2.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.st-andrews.ac.uk/subjects/chemistry/chemical-science-msc/",
+    "university_name": "圣安德鲁斯大学",
+    "university_name_en": "University of St Andrews",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-01",
+        "application_end_date": [
+          "2025-08-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29990英镑/年",
+    "qs_2026_rank": 113,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 301,
+    "qs_2026_chemistry_rank": 159,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8e46f6ca-6db6-40bf-b1e7-1b0ebd5919c6",
+    "detail_page_url": "https://www.compassedu.hk/majr_50146",
+    "program_name": "圣安德鲁斯大学地质化学理学硕士",
+    "program_name_en": "MSc Geochemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/2.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.st-andrews.ac.uk/subjects/earth-environmental-sciences/geochemistry-msc/",
+    "university_name": "圣安德鲁斯大学",
+    "university_name_en": "University of St Andrews",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-01",
+        "application_end_date": [
+          "2025-08-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "24",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "70",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29990英镑/年",
+    "qs_2026_rank": 113,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 301,
+    "qs_2026_chemistry_rank": 159,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1d5b2ab4-b0f8-40da-b326-64e42d04571e",
+    "detail_page_url": "https://www.compassedu.hk/majr_61327",
+    "program_name": "圣安德鲁斯大学催化学理学硕士",
+    "program_name_en": "MSc Catalysis",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/2.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.st-andrews.ac.uk/subjects/chemistry/catalysis-msc/",
+    "university_name": "圣安德鲁斯大学",
+    "university_name_en": "University of St Andrews",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-01",
+        "application_end_date": [
+          "2025-08-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29990英镑/年",
+    "qs_2026_rank": 113,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 301,
+    "qs_2026_chemistry_rank": 159,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2d54de5c-62a5-4862-b60b-b4775375ba21",
+    "detail_page_url": "https://www.compassedu.hk/majr_73759",
+    "program_name": "加州大学戴维斯分校农业和环境化学理学硕士",
+    "program_name_en": "MS in Agricultural and Environmental Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/148.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucdavis.edu/graduate-programs/agricultural-and-environmental-chemistry",
+    "university_name": "加州大学戴维斯分校",
+    "university_name_en": "University of California, Davis",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "分析化学"
+      },
+      {
+        "key": "2",
+        "value": "环境化学"
+      },
+      {
+        "key": "3",
+        "value": "生物和毒理学化学"
+      },
+      {
+        "key": "4",
+        "value": "食品、纤维和聚合物化学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "12学分",
+    "tuition": "29,008.17美元",
+    "qs_2026_rank": 114,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 62,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 144,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d7c77a6e-0a96-4fda-80c1-8685d5b633da",
+    "detail_page_url": "https://www.compassedu.hk/majr_63906",
+    "program_name": "莱顿大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/380.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.universiteitleiden.nl/en/education/study-programmes/master/chemistry",
+    "university_name": "莱顿大学",
+    "university_name_en": "Leiden University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-10-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "2年",
+    "tuition": "21500欧元/年",
+    "qs_2026_rank": 119,
+    "usnews_2026_rank": 56,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 164,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "89dbbd15-e2ab-4d04-a647-a371cf0a81bf",
+    "detail_page_url": "https://www.compassedu.hk/majr_73828",
+    "program_name": "佐治亚理工学院生物医学工程硕士",
+    "program_name_en": "Master of Biomedical Engineering",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/144.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bme.gatech.edu/bme/master-biomedical-engineering-program",
+    "university_name": "佐治亚理工学院",
+    "university_name_en": "Georgia Institute of Technology",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "19"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "R6.5,L6.5,S6.5,W5.5"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季",
+    "duration": "1-2年",
+    "tuition": "24,499美元",
+    "qs_2026_rank": 123,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 40,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 41,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7259ab7e-9a81-41c2-a6a7-1989013cfc23",
+    "detail_page_url": "https://www.compassedu.hk/majr_73832",
+    "program_name": "佐治亚理工学院化学与生物分子工程理学硕士",
+    "program_name_en": "MS in Chemical and Biomolecular Engineering",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/144.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.chbe.gatech.edu/prospective-msphd",
+    "university_name": "佐治亚理工学院",
+    "university_name_en": "Georgia Institute of Technology",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物技术"
+      },
+      {
+        "key": "2",
+        "value": "复杂系统"
+      },
+      {
+        "key": "3",
+        "value": "能源与可持续性"
+      },
+      {
+        "key": "4",
+        "value": "材料与纳米技术"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "19"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "R6.5,L6.5,S6.5,W5.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1.5年",
+    "tuition": "30,646美元",
+    "qs_2026_rank": 123,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 40,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 41,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7e5400e5-23cd-4748-ba32-47dd7f1b8e28",
+    "detail_page_url": "https://www.compassedu.hk/majr_64364",
+    "program_name": "柏林洪堡大学高分子科学",
+    "program_name_en": "MSc Polymer Science",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/392.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://polymerscience.physik.hu-berlin.de/",
+    "university_name": "柏林洪堡大学",
+    "university_name_en": "Humboldt University of Berlin",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-10-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "4/10月",
+    "duration": "2年",
+    "qs_2026_rank": 130,
+    "usnews_2026_rank": 47,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": null,
+    "qs_2026_chemistry_rank": 130,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0ded13cf-deb0-46c4-960e-db88c3d424b5",
+    "detail_page_url": "https://www.compassedu.hk/majr_75753",
+    "program_name": "马来西亚理科大学化学仪器理学硕士",
+    "program_name_en": "MSc Chemical Instrumentation",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/1386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://admission.usm.my/postgraduate/programmes?view=article&id=115&catid=50",
+    "university_name": "马来西亚理科大学",
+    "university_name_en": "University of Science Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "40",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "47",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "4/10月",
+    "duration": "1年",
+    "tuition": "7600美元/年",
+    "qs_2026_rank": 134,
+    "usnews_2026_rank": 416,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 601,
+    "qs_2026_chemistry_rank": 170,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "57794d1f-c259-4d68-ab2e-af8fec53cd82",
+    "detail_page_url": "https://www.compassedu.hk/majr_75878",
+    "program_name": "马来西亚博特拉大学分析化学硕士",
+    "program_name_en": "Master in Analytical Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/1193.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://science.upm.edu.my/content/master_in_analytical_chemistry-56392",
+    "university_name": "马来西亚博特拉大学",
+    "university_name_en": "Universiti Putra Malaysia",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "550",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "3/10月",
+    "duration": "2年",
+    "tuition": "14655马币/年",
+    "qs_2026_rank": 134,
+    "usnews_2026_rank": 578,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_chemistry_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "86ff063c-66d5-4e45-acd8-d736c576590f",
+    "detail_page_url": "https://www.compassedu.hk/majr_62121",
+    "program_name": "纽卡斯尔大学（英国）化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/5371f/",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30600英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_chemistry_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_chemistry_rank": 225
+  },
+  {
+    "id": "895c3931-b9f2-4ae1-a30f-6e664253e02e",
+    "detail_page_url": "https://www.compassedu.hk/majr_64142",
+    "program_name": "格罗宁根大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rug.nl/masters/chemistry/",
+    "university_name": "格罗宁根大学",
+    "university_name_en": "University of Groningen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "24",
+        "口语": "21"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "24900欧元/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 75,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 69,
+    "qs_2026_chemistry_rank": 91,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "79c0e43b-2fa8-40f3-9b04-99e1ce7f6152",
+    "detail_page_url": "https://www.compassedu.hk/majr_64159",
+    "program_name": "格罗宁根大学水技术理学硕士",
+    "program_name_en": "Joint MSc Water Technology (Wageningen-Twente-Groningen)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rug.nl/masters/water-technology-joint-degree/",
+    "university_name": "格罗宁根大学",
+    "university_name_en": "University of Groningen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "24900欧元/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 75,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 69,
+    "qs_2026_chemistry_rank": 91,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ecb13fd7-03e1-4a7f-bda4-ccac2fae757c",
+    "detail_page_url": "https://www.compassedu.hk/majr_75088",
+    "program_name": "利物浦大学数字化学：人工智能、机器学习、自动化和机器人理学硕士",
+    "program_name_en": "MSc Digital Chemistry: AI, Machine Learning, Automation and Robotics",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/digital-chemistry-msc",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29900英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 111,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4d595737-da52-48a4-9a1e-2aff307228ec",
+    "detail_page_url": "https://www.compassedu.hk/majr_75900",
+    "program_name": "马来西亚理工大学工程专业硕士：化学",
+    "program_name_en": "Master of Engineering Specialization: Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fkt.utm.my/m-eng-chemical-2/",
+    "university_name": "马来西亚理工大学",
+    "university_name_en": "Universiti Teknologi Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1.5年",
+    "tuition": "20667马币/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 376,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_chemistry_rank": 198,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ae941946-1f72-4149-8e1f-47db4bacd749",
+    "detail_page_url": "https://www.compassedu.hk/majr_75945",
+    "program_name": "马来西亚理工大学化学理学硕士",
+    "program_name_en": "Master of Science Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://science.utm.my/pg/mscc2/",
+    "university_name": "马来西亚理工大学",
+    "university_name_en": "Universiti Teknologi Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "28500马币/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 376,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_chemistry_rank": 198,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "92146aef-ad69-4337-9a11-d475c6aab7f4",
+    "detail_page_url": "https://www.compassedu.hk/majr_63321",
+    "program_name": "巴塞尔大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/367.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unibas.ch/en/Studies/Degree-Programs/Degree-Programs.html?study=Chemie-MSc",
+    "university_name": "巴塞尔大学",
+    "university_name_en": "University of Basel",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-10-15",
+        "application_end_date": [
+          "2025-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "1700瑞士法郎/年",
+    "qs_2026_rank": 158,
+    "usnews_2026_rank": 180,
+    "the_2025_rank": 126,
+    "arwu_2024_rank": 95,
+    "qs_2026_chemistry_rank": 127,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f089b16d-7223-4f80-a2ad-175d76452da6",
+    "detail_page_url": "https://www.compassedu.hk/majr_63337",
+    "program_name": "巴塞尔大学纳米有机化学理学硕士",
+    "program_name_en": "MSc Nanowissenschaften",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/367.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unibas.ch/en/Studies/Degree-Programs/Degree-Programs.html?study=Nanowissenschaften-MSc",
+    "university_name": "巴塞尔大学",
+    "university_name_en": "University of Basel",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-10-15",
+        "application_end_date": [
+          "2025-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "1700瑞士法郎/年",
+    "qs_2026_rank": 158,
+    "usnews_2026_rank": 180,
+    "the_2025_rank": 126,
+    "arwu_2024_rank": 95,
+    "qs_2026_chemistry_rank": 127,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b6bd1774-916f-4415-bbfe-e27e06c5d227",
+    "detail_page_url": "https://www.compassedu.hk/majr_63614",
+    "program_name": "根特大学化学理学硕士（（生物）有机与高分子化学）",
+    "program_name_en": "Master of Science in Chemistry ((Bio)Organic and Polymer Chemistry)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/379.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://studiekiezer.ugent.be/master-of-science-in-chemistry-bio-organic-and-polymer-chemistry-en",
+    "university_name": "根特大学",
+    "university_name_en": "Ghent University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "72",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "6929欧元/年",
+    "qs_2026_rank": 162,
+    "usnews_2026_rank": 107,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 90,
+    "qs_2026_chemistry_rank": 113,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "80dcc826-0645-4c8b-bc7d-08dae99dcec7",
+    "detail_page_url": "https://www.compassedu.hk/majr_63615",
+    "program_name": "根特大学化学理学硕士（分析与环境化学）",
+    "program_name_en": "Master of Science in Chemistry (Analytical and Environmental Chemistry)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/379.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://studiekiezer.ugent.be/master-of-science-in-chemistry-analytical-and-environmental-chemistry-en",
+    "university_name": "根特大学",
+    "university_name_en": "Ghent University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "72",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "6929欧元/年",
+    "qs_2026_rank": 162,
+    "usnews_2026_rank": 107,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 90,
+    "qs_2026_chemistry_rank": 113,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e9e835cc-a369-4f49-bcbc-79c31bc9eb7a",
+    "detail_page_url": "https://www.compassedu.hk/majr_63616",
+    "program_name": "根特大学化学理学硕士（材料与纳米化学）",
+    "program_name_en": "Master of Science in Chemistry (Materials and Nano Chemistry)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/379.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://studiekiezer.ugent.be/master-of-science-in-chemistry-materials-and-nano-chemistry-en",
+    "university_name": "根特大学",
+    "university_name_en": "Ghent University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "72",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "6929欧元/年",
+    "qs_2026_rank": 162,
+    "usnews_2026_rank": 107,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 90,
+    "qs_2026_chemistry_rank": 113,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aad97ae0-1672-4833-a51a-3ebc91ba6535",
+    "detail_page_url": "https://www.compassedu.hk/majr_51118",
+    "program_name": "约克大学（英国）绿色化学与可持续工业技术理学硕士",
+    "program_name_en": "MSc Green Chemistry and Sustainable Industrial Technology",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-green-chemistry-sustainable-industrial-tech/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "55",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "51",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_chemistry_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_chemistry_rank": 225
+  },
+  {
+    "id": "295c9dd0-7d68-47ce-9828-06322b02cc2c",
+    "detail_page_url": "https://www.compassedu.hk/majr_61855",
+    "program_name": "卡迪夫大学化学理学硕士",
+    "program_name_en": "MSc Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/chemistry-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": 182,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "63dc06b4-cce7-456e-b307-6fafb31d69b3",
+    "detail_page_url": "https://www.compassedu.hk/majr_63573",
+    "program_name": "伯尔尼大学化学和分子学理学硕士",
+    "program_name_en": "MSc Chemistry and Molecular Sciences",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/377.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_chemie_und_molekulare_wissenschaften/index_ger.html",
+    "university_name": "伯尔尼大学",
+    "university_name_en": "University of Bern",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-01",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-09-01",
+        "application_end_date": [
+          "2025-12-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "72",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/2月",
+    "duration": "1.5年",
+    "tuition": "1610瑞士法郎/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 114,
+    "the_2025_rank": 104,
+    "arwu_2024_rank": 101,
+    "qs_2026_chemistry_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "da0047be-813e-4c9b-8699-845b01442269",
+    "detail_page_url": "https://www.compassedu.hk/majr_73374",
+    "program_name": "雷丁大学化学研究理学硕士",
+    "program_name_en": "MSc Chemical Research",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/50.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/chemistry-pg/msc-chemical-research",
+    "university_name": "雷丁大学",
+    "university_name_en": "University of Reading",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "-"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "32950英镑/年",
+    "qs_2026_rank": 194,
+    "usnews_2026_rank": 385,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_chemistry_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3f61d172-598c-486f-8b2d-0f29b060d318",
+    "detail_page_url": "https://www.compassedu.hk/majr_74655",
+    "program_name": "贝尔法斯特女王大学净零工程理学硕士",
+    "program_name_en": "MSc Net Zero Engineering",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/net-zero-engineering-msc/",
+    "university_name": "贝尔法斯特女王大学",
+    "university_name_en": "Queen's University Belfast",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-09",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25800英镑/年",
+    "qs_2026_rank": 199,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_chemistry_rank": 190,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c7ff88e8-5187-4291-96b1-3c761cb881e9",
+    "detail_page_url": "https://www.compassedu.hk/majr_74656",
+    "program_name": "贝尔法斯特女王大学净零工程理学硕士（含实习）",
+    "program_name_en": "MSc Net Zero Engineering with Year in Industry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/net-zero-engineering-year-industry-msc/",
+    "university_name": "贝尔法斯特女王大学",
+    "university_name_en": "Queen's University Belfast",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-09",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "13825英镑/年",
+    "qs_2026_rank": 199,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_chemistry_rank": 190,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5862f6ee-0100-4dae-96bd-eb4f7f8c783a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73816",
+    "program_name": "东北大学（美国）化学硕士",
+    "program_name_en": "MS in Chemistry",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/170.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://graduate.northeastern.edu/programs/ms-chemistry/master-of-science-in-chemistry/",
+    "university_name": "东北大学（美国）",
+    "university_name_en": "Northeastern University(United States)",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季",
+    "duration": "2-3年",
+    "tuition": "51,900美元",
+    "qs_2026_rank": 109,
+    "usnews_2026_rank": 308,
+    "the_2025_rank": 120,
+    "arwu_2024_rank": 201,
+    "qs_2026_chemistry_rank": 146,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_chemistry_rank": 146
+  },
+  {
+    "id": "50741b12-861a-42d2-91a6-43caa961efe9",
+    "detail_page_url": "https://www.compassedu.hk/majr_64073",
+    "program_name": "瓦格宁根大学水技术硕士理学硕士（瓦格宁根-特温特-格罗宁根联合开设）",
+    "program_name_en": "Joint MSc Water Technology (WUR-Twente-Groningen)",
+    "primary_category": "理科",
+    "secondary_category": "化学",
+    "university_logo_url": "https://logo.compassedu.hk/385.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Water-Technology.htm",
+    "university_name": "瓦格宁根大学",
+    "university_name_en": "Wageningen University & Research",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "23"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21200欧元/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 115,
+    "the_2025_rank": 67,
+    "arwu_2024_rank": 151,
+    "qs_2026_chemistry_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

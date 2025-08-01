@@ -1,0 +1,168 @@
+2025-07-30 11:52:27 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-07-30 11:52:27 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-07-30 11:52:27 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/test_urls.csv
+2025-07-30 11:52:27 [program_spider] INFO: 文件是否存在: True
+2025-07-30 11:52:27 [program_spider] INFO: === 项目加载完成 ===
+2025-07-30 11:52:27 [program_spider] INFO: 总项目数: 50
+2025-07-30 11:52:27 [program_spider] INFO: 允许的域名: ['www.lse.ac.uk', 'www.kuleuven.be', 'www.manchester.ac.uk', 'www.liverpool.ac.uk', 'education.um.edu.my', 'www.bath.ac.uk', 'study.unimelb.edu.au', 'www.monash.edu', 'www.sheffield.ac.uk', 'www.rmit.edu.au', 'www.bristol.ac.uk', 'www.southampton.ac.uk', 'www.kcl.ac.uk', 'ms.caltech.edu', 'www.exeter.ac.uk', 'www.nottingham.ac.uk', 'www.sydney.edu.au', 'admission.usm.my', 'law.stanford.edu', 'www.uwa.edu.au', 'www.ntu.edu.sg', 'www.ucl.ac.uk', 'engine.um.edu.my', 'www.st-andrews.ac.uk', 'courses.leeds.ac.uk', 'www.qub.ac.uk', 'www.birmingham.ac.uk', 'cse.ucsd.edu', 'www.me.washington.edu', 'portal.hku.hk', 'www.universiteitleiden.nl', 'bioe.uw.edu', 'www.uu.nl', 'www.durham.ac.uk', 'adelaideuni.edu.au', 'www.kenan-flagler.unc.edu', 'studiekiezer.ugent.be', 'www.mq.edu.au', 'www.cardiff.ac.uk']
+2025-07-30 11:52:27 [program_spider] INFO: 项目列表: ['伦敦政治经济学院法规学理学硕士', '荷语鲁汶大学能源工程', '曼彻斯特大学传染生物学理学硕士', '利物浦大学古典文学与古代史文学硕士', '马来亚大学伊斯兰教育硕士', '巴斯大学生物技术（含创业）理学硕士', '墨尔本大学法律与发展硕士', '莫纳什大学职业与环境卫生硕士', '谢菲尔德大学环境变化与国际发展理学硕士', '皇家墨尔本理工大学高级管理人员工商管理硕士', '布里斯托大学冲突解决与和平建设理学硕士', '南安普顿大学癌症生物学与免疫学理学硕士', '伦敦大学国王学院语言与文化多样性文学硕士', '加州理工学院材料科学理学硕士', '埃克塞特大学医疗保健领导与管理理学硕士', '诺丁汉大学中/英笔译与口译文学硕士', '悉尼大学计算机科学硕士（高级入门）', '马来西亚理科大学病理学硕士（医学微生物学）', '斯坦福大学法律、科学与技术法学硕士', '西澳大学商业分析硕士', '南洋理工大学学习科学理学硕士', '布里斯托大学市场营销理学硕士', '伦敦大学学院犯罪科学与网络犯罪理学硕士', '马来亚大学生物医学工程硕士', '圣安德鲁斯大学健康数据科学理学硕士', '巴斯大学生物技术（医疗保健技术） 理学硕士', '利兹大学金融风险管理理学硕士', '贝尔法斯特女王大学高级食品安全理学硕士', '伯明翰大学金融工程理学硕士', '布里斯托大学创意写作文学硕士', '加州大学圣地亚哥分校计算机科学与工程硕士', '华盛顿大学机械工程理学硕士', '悉尼大学法律博士', '香港大学图书馆与信息管理理学硕士（信息管理）', '莱顿大学理论物理理学硕士', '墨尔本大学农业科学硕士', '西澳大学应用金融学硕士', '华盛顿大学生物工程理学硕士', '乌得勒支大学数学科学理学硕士', '杜伦大学公共政策理学硕士', '伦敦大学学院全球繁荣理学硕士', '伯明翰大学金融数据科学理学硕士', '谢菲尔德大学国际管理与市场营销理学硕士', '伦敦大学学院精准医疗理学硕士', '阿德莱德大学专业工程学硕士（电气）', '北卡罗来纳大学教堂山分校会计硕士', '根特大学环境技术与工程国际理学硕士', '埃克塞特大学社交媒体管理文学硕士', '麦考瑞大学专业会计硕士', '卡迪夫大学广播新闻学文学硕士']
+2025-07-30 11:52:27 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-07-30 11:52:27 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-07-30 11:52:27 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-07-30 11:52:27 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_test_20250730_115227.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False,
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+               '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+2025-07-30 11:52:27 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-07-30 11:52:27 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-07-30 11:52:27 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-07-30 11:52:27 [program_spider] INFO: === 开始顺序执行项目爬取 ===
+2025-07-30 11:52:27 [program_spider] INFO: 
+2025-07-30 11:52:27 [program_spider] INFO: ============================================================
+2025-07-30 11:52:27 [program_spider] INFO: 启动项目 [1/50]
+2025-07-30 11:52:27 [program_spider] INFO: 项目名称: 伦敦政治经济学院法规学理学硕士
+2025-07-30 11:52:27 [program_spider] INFO: 项目ID: 5c7de95a-65bd-4042-b17f-53262c3cccee
+2025-07-30 11:52:27 [program_spider] INFO: 根URL: https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation
+2025-07-30 11:52:27 [program_spider] INFO: 剩余项目数: 49
+2025-07-30 11:52:27 [program_spider] INFO: ============================================================
+2025-07-30 11:52:27 [scrapy.core.engine] INFO: Spider opened
+2025-07-30 11:52:27 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation (depth=0)
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: MSc Regulation - LSE...
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面总链接数: 144
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 移除导航后链接数: 62 (移除了 0 个导航链接)
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 有效链接数: 31, 关键词匹配数: 18, 最终提取数: 18
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面 https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation (depth=0, is_root=True) 提取到 18 个链接
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: http://www.lse.ac.uk/resources/calendar/courseGuides/GV/2023_GV499.htm
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/government/study
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/international-students/fee-status-classification
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-masters-awards
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/anniversary-scholarships
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: http://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: http://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加子链接: http://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 添加 15 个新请求: 1 -> 16
+2025-07-30 11:52:29 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 16 -> 15
+2025-07-30 11:52:31 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply (depth=1)
+2025-07-30 11:52:31 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply
+2025-07-30 11:52:31 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: How to apply...
+2025-07-30 11:52:31 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 15 -> 14
+2025-07-30 11:52:35 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding (depth=1)
+2025-07-30 11:52:35 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding
+2025-07-30 11:52:35 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: Fees and funding...
+2025-07-30 11:52:35 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 14 -> 13
+2025-07-30 11:52:38 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/anniversary-scholarships (depth=1)
+2025-07-30 11:52:38 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/anniversary-scholarships
+2025-07-30 11:52:38 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: Anniversary Scholarships...
+2025-07-30 11:52:38 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 13 -> 12
+2025-07-30 11:52:40 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-masters-awards (depth=1)
+2025-07-30 11:52:40 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-masters-awards
+2025-07-30 11:52:40 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: LSE Master's Awards...
+2025-07-30 11:52:40 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 12 -> 11
+2025-07-30 11:52:42 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme (depth=1)
+2025-07-30 11:52:42 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme
+2025-07-30 11:52:42 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: Graduate Support Scheme...
+2025-07-30 11:52:42 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 11 -> 10
+2025-07-30 11:52:45 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/international-students/fee-status-classification (depth=1)
+2025-07-30 11:52:45 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/international-students/fee-status-classification
+2025-07-30 11:52:45 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: Fee status classification...
+2025-07-30 11:52:45 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 10 -> 9
+2025-07-30 11:52:47 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/government/study (depth=1)
+2025-07-30 11:52:47 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/government/study
+2025-07-30 11:52:47 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: Study at LSE Government...
+2025-07-30 11:52:47 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 9 -> 8
+2025-07-30 11:52:53 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements (depth=1)
+2025-07-30 11:52:53 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements
+2025-07-30 11:52:53 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: English language requirements...
+2025-07-30 11:52:53 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 8 -> 7
+2025-07-30 11:52:55 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm (depth=1)
+2025-07-30 11:52:55 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm
+2025-07-30 11:52:55 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: Graduate course guides 2024...
+2025-07-30 11:52:55 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 7 -> 6
+2025-07-30 11:53:00 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 处理页面: https://www.lse.ac.uk/resources/calendar/courseGuides/GV/2024_GV499.htm (depth=1)
+2025-07-30 11:53:00 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 成功解析: https://www.lse.ac.uk/resources/calendar/courseGuides/GV/2024_GV499.htm
+2025-07-30 11:53:00 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面标题: GV499 Dissertation...
+2025-07-30 11:53:00 [program_spider] INFO: [伦敦政治经济学院法规学理学硕士] 页面处理完成: 6 -> 5
+2025-07-30 11:53:00 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-07-30 11:53:00 [program_spider] INFO: 
+2025-07-30 11:53:00 [program_spider] INFO: ================================================================================
+2025-07-30 11:53:00 [program_spider] INFO: === 爬虫完成统计 ===
+2025-07-30 11:53:00 [program_spider] INFO: 总项目数: 50
+2025-07-30 11:53:00 [program_spider] INFO: 完成项目数: 0
+2025-07-30 11:53:00 [program_spider] INFO: 失败项目数: 0
+2025-07-30 11:53:00 [program_spider] INFO: 关闭原因: finished
+2025-07-30 11:53:00 [program_spider] INFO: 完成率: 0.0%
+2025-07-30 11:53:00 [program_spider] WARNING: 剩余未处理项目数: 49
+2025-07-30 11:53:00 [program_spider] WARNING: 未处理项目列表: ['荷语鲁汶大学能源工程', '曼彻斯特大学传染生物学理学硕士', '利物浦大学古典文学与古代史文学硕士', '马来亚大学伊斯兰教育硕士', '巴斯大学生物技术（含创业）理学硕士', '墨尔本大学法律与发展硕士', '莫纳什大学职业与环境卫生硕士', '谢菲尔德大学环境变化与国际发展理学硕士', '皇家墨尔本理工大学高级管理人员工商管理硕士', '布里斯托大学冲突解决与和平建设理学硕士', '南安普顿大学癌症生物学与免疫学理学硕士', '伦敦大学国王学院语言与文化多样性文学硕士', '加州理工学院材料科学理学硕士', '埃克塞特大学医疗保健领导与管理理学硕士', '诺丁汉大学中/英笔译与口译文学硕士', '悉尼大学计算机科学硕士（高级入门）', '马来西亚理科大学病理学硕士（医学微生物学）', '斯坦福大学法律、科学与技术法学硕士', '西澳大学商业分析硕士', '南洋理工大学学习科学理学硕士', '布里斯托大学市场营销理学硕士', '伦敦大学学院犯罪科学与网络犯罪理学硕士', '马来亚大学生物医学工程硕士', '圣安德鲁斯大学健康数据科学理学硕士', '巴斯大学生物技术（医疗保健技术） 理学硕士', '利兹大学金融风险管理理学硕士', '贝尔法斯特女王大学高级食品安全理学硕士', '伯明翰大学金融工程理学硕士', '布里斯托大学创意写作文学硕士', '加州大学圣地亚哥分校计算机科学与工程硕士', '华盛顿大学机械工程理学硕士', '悉尼大学法律博士', '香港大学图书馆与信息管理理学硕士（信息管理）', '莱顿大学理论物理理学硕士', '墨尔本大学农业科学硕士', '西澳大学应用金融学硕士', '华盛顿大学生物工程理学硕士', '乌得勒支大学数学科学理学硕士', '杜伦大学公共政策理学硕士', '伦敦大学学院全球繁荣理学硕士', '伯明翰大学金融数据科学理学硕士', '谢菲尔德大学国际管理与市场营销理学硕士', '伦敦大学学院精准医疗理学硕士', '阿德莱德大学专业工程学硕士（电气）', '北卡罗来纳大学教堂山分校会计硕士', '根特大学环境技术与工程国际理学硕士', '埃克塞特大学社交媒体管理文学硕士', '麦考瑞大学专业会计硕士', '卡迪夫大学广播新闻学文学硕士']
+2025-07-30 11:53:00 [program_spider] INFO: ================================================================================
+2025-07-30 11:53:00 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 4619,
+ 'downloader/request_count': 14,
+ 'downloader/request_method_count/GET': 14,
+ 'downloader/response_bytes': 683445,
+ 'downloader/response_count': 14,
+ 'downloader/response_status_count/200': 11,
+ 'downloader/response_status_count/301': 2,
+ 'downloader/response_status_count/302': 1,
+ 'dupefilter/filtered': 5,
+ 'elapsed_time_seconds': 32.937811,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 7, 30, 3, 53, 0, 528733, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 2767658,
+ 'httpcompression/response_count': 11,
+ 'log_count/INFO': 90,
+ 'log_count/WARNING': 3,
+ 'memusage/max': 72105984,
+ 'memusage/startup': 72105984,
+ 'request_depth_max': 1,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 14,
+ 'scheduler/dequeued/memory': 14,
+ 'scheduler/enqueued': 14,
+ 'scheduler/enqueued/memory': 14,
+ 'start_time': datetime.datetime(2025, 7, 30, 3, 52, 27, 590922, tzinfo=datetime.timezone.utc)}
+2025-07-30 11:53:00 [scrapy.core.engine] INFO: Spider closed (finished)

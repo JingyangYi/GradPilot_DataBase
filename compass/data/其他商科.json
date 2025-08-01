@@ -1,0 +1,2381 @@
+[
+    {
+        "completion_rate": "46 / 46",
+        "fail_count": 0
+    },
+    {
+        "id": "b7687c28-2dbb-4c57-abbc-576fa5d3c7e1",
+        "detail_page_url": "https://www.compassedu.hk/majr_64281",
+        "program_name": "慕尼黑工业大学生物经济",
+        "program_name_en": "M.Sc. Bioeconomy",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tum.de/en/studies/degree-programs/detail/bioeconomy-master-of-science-msc/",
+        "university_name": "慕尼黑工业大学",
+        "university_name_en": "Technical University of Munich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-04-01",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-10-01",
+                "application_end_date": [
+                    "2026-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "4/10月",
+        "duration": "2年",
+        "tuition": "8000欧元/年"
+    },
+    {
+        "id": "15391ffa-8b00-4305-ad48-b656532551f3",
+        "detail_page_url": "https://www.compassedu.hk/majr_64303",
+        "program_name": "慕尼黑工业大学消费科学",
+        "program_name_en": "M.Sc. Consumer Science",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tum.de/en/studies/degree-programs/detail/consumer-science-master-of-science-msc/",
+        "university_name": "慕尼黑工业大学",
+        "university_name_en": "Technical University of Munich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-04-01",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "2年",
+        "tuition": "12000欧元/年"
+    },
+    {
+        "id": "b99e03fb-96b9-484c-9388-d6cf51230a71",
+        "detail_page_url": "https://www.compassedu.hk/majr_73543",
+        "program_name": "约翰霍普金斯大学全球风险文学硕士",
+        "program_name_en": "MA in Global Risk",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/92.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://sais.jhu.edu/academics/degree-programs/master-degrees/master-arts-global-risk",
+        "university_name": "约翰霍普金斯大学",
+        "university_name_en": "Johns Hopkins University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "100"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "无要求"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "夏季/秋季",
+        "duration": "1年",
+        "tuition": "55,656 欧元"
+    },
+    {
+        "id": "3fa7ca93-5432-4667-b40a-8572a69542e3",
+        "detail_page_url": "https://www.compassedu.hk/majr_76425",
+        "program_name": "香港中文大学航空管理理学硕士",
+        "program_name_en": "Msc Aviation Management",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://masters.bschool.cuhk.edu.hk/msc-in-aviation-management-1/",
+        "university_name": "香港中文大学",
+        "university_name_en": "The Chinese University of Hong Kong",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "300000港币/年"
+    },
+    {
+        "id": "a4599f3a-5200-429e-81cf-e74ee8129758",
+        "detail_page_url": "https://www.compassedu.hk/majr_63704",
+        "program_name": "阿姆斯特丹大学精算科学和数理金融理学硕士",
+        "program_name_en": "UvA MSc Actuarial Science and Mathematical Finance",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/383.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uva.nl/en/shared-content/subsites/amsterdam-school-of-economics/en/masters/actuarial-science-and-mathematical-finance/actuarial-science-and-mathematical-finance.html?origin=5BOaRAofTjCccATraJp2XA",
+        "university_name": "阿姆斯特丹大学",
+        "university_name_en": "University of Amsterdam",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "19860欧元/年"
+    },
+    {
+        "id": "44a2db1d-ee4c-4e53-b047-7cb371ea9f27",
+        "detail_page_url": "https://www.compassedu.hk/majr_73712",
+        "program_name": "纽约大学体育商业理学硕士",
+        "program_name_en": "MS in Sports Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sps.nyu.edu/homepage/academics/masters-degrees/ms-in-sports-business.html",
+        "university_name": "纽约大学",
+        "university_name_en": "New York University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-15",
+                    "2025-01-15",
+                    "2025-05-01",
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "体育法"
+            },
+            {
+                "key": "2",
+                "value": "综合体育营销传播"
+            },
+            {
+                "key": "3",
+                "value": "环球体育"
+            },
+            {
+                "key": "4",
+                "value": "体育媒体"
+            },
+            {
+                "key": "5",
+                "value": "体育运营"
+            },
+            {
+                "key": "6",
+                "value": "运动分析"
+            },
+            {
+                "key": "7",
+                "value": "体育领导和财务"
+            },
+            {
+                "key": "8",
+                "value": "体育科技"
+            },
+            {
+                "key": "9",
+                "value": "应用体育研究"
+            },
+            {
+                "key": "10",
+                "value": "电竞管理"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "100"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "春季/秋季",
+        "duration": "36学分",
+        "tuition": "24,503美元"
+    },
+    {
+        "id": "033da88b-187c-4cad-bd98-bb8ed85cd81e",
+        "detail_page_url": "https://www.compassedu.hk/majr_64269",
+        "program_name": "慕尼黑大学保险执行硕士",
+        "program_name_en": "Executive Master of Insurance",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/388.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": " https://www.eminsurance.bwl.uni-muenchen.de/index.html",
+        "university_name": "慕尼黑大学",
+        "university_name_en": "University of Munich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年"
+    },
+    {
+        "id": "048007b2-276e-49b1-a9b5-436679125a29",
+        "detail_page_url": "https://www.compassedu.hk/majr_63280",
+        "program_name": "荷语鲁汶大学商业工程（鲁汶）",
+        "program_name_en": "Master of Business Engineering (Leuven)",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/365.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_53419516.htm#activetab=diploma_omschrijving",
+        "university_name": "荷语鲁汶大学",
+        "university_name_en": "Katholieke Universiteit Leuven",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-03-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "94",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "4592欧元/年"
+    },
+    {
+        "id": "ba4be570-3632-4fbb-9d44-68b8651f62ac",
+        "detail_page_url": "https://www.compassedu.hk/majr_66162",
+        "program_name": "西澳大学商学硕士与翻译研究硕士双学位",
+        "program_name_en": "Double Degree Master of Commerce and Master of Translation Studies",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uwa.edu.au/study/Courses/Master-of-Commerce-and-Master-of-Translation-Studies",
+        "university_name": "西澳大学",
+        "university_name_en": "The University of Western Australia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-04-01",
+                "application_end_date": [
+                    "2025-01-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2023-04-01",
+                "application_end_date": [
+                    "2025-06-09"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2024-04-01",
+                "application_end_date": [
+                    "2026-02-23"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2024-04-01",
+                "application_end_date": [
+                    "2026-07-20"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "82",
+                "听力": "20",
+                "阅读": "18",
+                "写作": "22",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "54",
+                "阅读": "54",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "3年",
+        "tuition": "46100澳元/年"
+    },
+    {
+        "id": "dff425f7-9d1d-4c5c-ac3e-e37ca8a79a1f",
+        "detail_page_url": "https://www.compassedu.hk/majr_72961",
+        "program_name": "普渡大学西拉法叶分校消费者科学硕士硕士",
+        "program_name_en": "MS in Consumer Science",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/171.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://hhs.purdue.edu/graduate-programs/consumer-science-graduate-program/",
+        "university_name": "普渡大学西拉法叶分校",
+        "university_name_en": "Purdue University",
+        "apply_time": [
+            {
+                "title": "24年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-09-20"
+                ]
+            },
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-03-05"
+                ]
+            }
+        ],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "消费者行为"
+            },
+            {
+                "key": "2",
+                "value": "家庭及消费经济学"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "小分要求": "W:18,S:18,L:14,R:19"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "R:6.5,L:6.0,S:6.0,W:5.5"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "无要求"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季",
+        "duration": "2年",
+        "tuition": "14,397美元/学期"
+    },
+    {
+        "id": "221b1f1f-eac3-45a6-83a3-47a3a810a57d",
+        "detail_page_url": "https://www.compassedu.hk/majr_63562",
+        "program_name": "苏黎世大学苏黎世大学信息学理学硕士-以人为本的计算",
+        "program_name_en": "MSc UZH in Informatics (People-Oriented Computing)",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/369.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.oec.uzh.ch/en/academic-programs/master/it/poc.html",
+        "university_name": "苏黎世大学",
+        "university_name_en": "University of Zurich",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-01-01",
+                "application_end_date": [
+                    "2025-02-28"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9/2月",
+        "duration": "2年"
+    },
+    {
+        "id": "d64effc7-c2aa-40f5-966a-87e8b0aa1b18",
+        "detail_page_url": "https://www.compassedu.hk/majr_63856",
+        "program_name": "乌得勒支大学可持续商业与创新理学硕士",
+        "program_name_en": "MSc Sustainable Business and Innovation",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/382.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.uu.nl/masters/en/sustainable-business-and-innovation",
+        "university_name": "乌得勒支大学",
+        "university_name_en": "Utrecht University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-04-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "93",
+                "听力": "22",
+                "阅读": "24",
+                "写作": "20",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "24432欧元/年"
+    },
+    {
+        "id": "d6995158-41bb-4d93-b0b1-637d448d3999",
+        "detail_page_url": "https://www.compassedu.hk/majr_61877",
+        "program_name": "伦敦大学玛丽皇后学院发展与国际商务理学硕士",
+        "program_name_en": "MSc Development and International Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/development-and-international-business-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-12",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25500英镑/年"
+    },
+    {
+        "id": "b02caadd-0146-4a48-8098-87608e4d72a0",
+        "detail_page_url": "https://www.compassedu.hk/majr_67803",
+        "program_name": "伦敦大学玛丽皇后学院区块链管理与应用理学硕士",
+        "program_name_en": "MSc Blockchain Management and Applications",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/blockchain-management-and-applications-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-12",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33500英镑/年"
+    },
+    {
+        "id": "e7e2fe8f-4281-41f6-a5ae-7ebf9f310b89",
+        "detail_page_url": "https://www.compassedu.hk/majr_76289",
+        "program_name": "麦考瑞大学银行与金融硕士/商学硕士双学位",
+        "program_name_en": "Double Degree Master of Banking and Finance/Master of Commerce",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance-and-master-of-commerce",
+        "university_name": "麦考瑞大学",
+        "university_name_en": "Macquarie University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-01-01",
+                "application_end_date": [
+                    "2025-02-10"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-01-01",
+                "application_end_date": [
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "83",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "52",
+                "阅读": "52",
+                "写作": "52",
+                "口语": "52"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月"
+    },
+    {
+        "id": "6a8fb209-8c62-40ba-9ab8-319e156611f8",
+        "detail_page_url": "https://www.compassedu.hk/majr_76316",
+        "program_name": "麦考瑞大学商学硕士/国际商务硕士双学位",
+        "program_name_en": "Double Degree Master of Commerce/Master of International Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-international-business",
+        "university_name": "麦考瑞大学",
+        "university_name_en": "Macquarie University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-01-01",
+                "application_end_date": [
+                    "2025-02-10"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-01-01",
+                "application_end_date": [
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "83",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "52",
+                "阅读": "52",
+                "写作": "52",
+                "口语": "52"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "45100澳元/年"
+    },
+    {
+        "id": "cace0c91-e0e3-4ac2-a240-8e1e30e6b147",
+        "detail_page_url": "https://www.compassedu.hk/majr_76333",
+        "program_name": "麦考瑞大学国际商务硕士/国际贸易与商法硕士双学位",
+        "program_name_en": "Double Degree Master of International Business/Master of International Trade and Commerce Law",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-international-trade-and-commerce-law",
+        "university_name": "麦考瑞大学",
+        "university_name_en": "Macquarie University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-01-01",
+                "application_end_date": [
+                    "2025-02-10"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-01-01",
+                "application_end_date": [
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "83",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "52",
+                "阅读": "52",
+                "写作": "52",
+                "口语": "52"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "45100澳元/年"
+    },
+    {
+        "id": "f1b44b97-7430-402e-95b3-bc5cc41663fd",
+        "detail_page_url": "https://www.compassedu.hk/majr_64111",
+        "program_name": "格罗宁根大学计量经济学、运筹学与精算研究理学硕士",
+        "program_name_en": "MSc Econometrics, Operations Research and Actuarial Studies",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rug.nl/masters/econometrics-operations-research-and-actuarial-studies/",
+        "university_name": "格罗宁根大学",
+        "university_name_en": "University of Groningen",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-01"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-10-15"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-05-01"
+                ]
+            },
+            {
+                "title": "27年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-10-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "24",
+                "口语": "20"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9/2月",
+        "duration": "1年",
+        "tuition": "21400欧元/年"
+    },
+    {
+        "id": "bed459e9-314d-48bb-9048-faec4bfdfc87",
+        "detail_page_url": "https://www.compassedu.hk/majr_75365",
+        "program_name": "利物浦大学人工智能与数字商务理学硕士",
+        "program_name_en": "MSc AI for Digital Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.liverpool.ac.uk/courses/2025/ai-for-digital-business",
+        "university_name": "利物浦大学",
+        "university_name_en": "University of Liverpool",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30000英镑/年"
+    },
+    {
+        "id": "e911b8e2-574f-41b4-84c0-6f88a60506a3",
+        "detail_page_url": "https://www.compassedu.hk/majr_73317",
+        "program_name": "埃克塞特大学跨文化交流与国际商务文学硕士",
+        "program_name_en": "MA Intercultural Communication and International Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/languages/intercultural-business/",
+        "university_name": "埃克塞特大学",
+        "university_name_en": "University of Exeter",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25300英镑/年"
+    },
+    {
+        "id": "4065fe34-8f8b-4206-8584-02391143ccf2",
+        "detail_page_url": "https://www.compassedu.hk/majr_74066",
+        "program_name": "密歇根州立大学商业研究硕士",
+        "program_name_en": "MS in Business Research",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/180.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://reg.msu.edu/AcademicPrograms/ProgramDetail.aspx?Program=BUSRESR_MS",
+        "university_name": "密歇根州立大学",
+        "university_name_en": "Michigan State University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "小分要求": "R19,L19, S19,W22"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "6"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "无要求"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "秋季",
+        "duration": "30学分"
+    },
+    {
+        "id": "3e918a86-67d9-45a5-97b2-006f22076a87",
+        "detail_page_url": "https://www.compassedu.hk/majr_75979",
+        "program_name": "卡迪夫大学工程管理理学硕士",
+        "program_name_en": "MSc Engineering Management",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/engineering-management-msc",
+        "university_name": "卡迪夫大学",
+        "university_name_en": "Cardiff University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-11",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29450英镑/年"
+    },
+    {
+        "id": "df58662f-14b0-495b-811e-460c0bb8d5c4",
+        "detail_page_url": "https://www.compassedu.hk/majr_73848",
+        "program_name": "俄亥俄州立大学商业卓越运营硕士",
+        "program_name_en": "Master of Business Operational Excellence",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/163.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://fisher.osu.edu/graduate/mboe",
+        "university_name": "俄亥俄州立大学",
+        "university_name_en": "Ohio State University",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GMAT，不接受：GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "小分要求": "W19,S19,R19,L19"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "冬季",
+        "duration": "13个月",
+        "tuition": "57,600美元/年",
+        "program_size": "25-35人"
+    },
+    {
+        "id": "bc56afbc-611e-46fc-99cf-70cd58bd1819",
+        "detail_page_url": "https://www.compassedu.hk/majr_63595",
+        "program_name": "法语鲁汶大学商务工程硕士",
+        "program_name_en": "Master Business Engineering",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/378.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://uclouvain.be/en-prog-2025-inge2m",
+        "university_name": "法语鲁汶大学",
+        "university_name_en": "Université Catholique de Louvain",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "89",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "550"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "2505欧元/年"
+    },
+    {
+        "id": "67803e7a-2768-4e8f-bb33-66059adba3fd",
+        "detail_page_url": "https://www.compassedu.hk/majr_75508",
+        "program_name": "赫瑞瓦特大学国际商务管理高级实践理学硕士",
+        "program_name_en": "MSc International Business Management with Advanced Practice",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hw.ac.uk/study/postgraduate/international-business-management-with-advanced-practice",
+        "university_name": "赫瑞瓦特大学",
+        "university_name_en": "Heriot-Watt University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-08-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "21",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "63",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "63",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "13588英镑/年"
+    },
+    {
+        "id": "5c556fe1-5f25-4efd-8710-bc8e5870e0ea",
+        "detail_page_url": "https://www.compassedu.hk/majr_63552",
+        "program_name": "荷语布鲁塞尔自由大学商业工程（商业与技术）理学硕士",
+        "program_name_en": "Master of Science in Business Engineering: Business and Technology",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/376.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.vub.be/en/study/business-and-technology/",
+        "university_name": "荷语布鲁塞尔自由大学",
+        "university_name_en": "Vrije Universiteit Brussel",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "4960欧元/年"
+    },
+    {
+        "id": "ea66cf12-40fa-4490-8380-b9b02e23ed41",
+        "detail_page_url": "https://www.compassedu.hk/majr_73906",
+        "program_name": "迈阿密大学可持续商业科学硕士",
+        "program_name_en": "MS in Sustainable Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/149.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bus.miami.edu/academic-programs/mba-masters/masters/sustainable-business/index.html",
+        "university_name": "迈阿密大学",
+        "university_name_en": "University of Miami",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "94"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "无要求"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "32学分",
+        "tuition": "2,310 美元/学分"
+    },
+    {
+        "id": "10d192d0-a1be-4fb7-ba19-710d3428d08d",
+        "detail_page_url": "https://www.compassedu.hk/majr_66445",
+        "program_name": "莱斯特大学医疗管理理学硕士",
+        "program_name_en": "MSc Healthcare Management",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://le.ac.uk/courses/healthcare-management-msc/2025",
+        "university_name": "莱斯特大学",
+        "university_name_en": "University of Leicester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-19",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "23650英镑/年"
+    },
+    {
+        "id": "f4ce1b7d-62e9-43d4-b138-1cf00cab0399",
+        "detail_page_url": "https://www.compassedu.hk/majr_73314",
+        "program_name": "莱斯特大学国际商务理学硕士",
+        "program_name_en": "MSc International Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://le.ac.uk/courses/international-business-msc/2025?option=September%202025",
+        "university_name": "莱斯特大学",
+        "university_name_en": "University of Leicester",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-06-06",
+                "application_end_date": [
+                    "2024-12-01"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-19",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "4/9月",
+        "duration": "1年",
+        "tuition": "23650英镑/年"
+    },
+    {
+        "id": "8d3921eb-f271-4643-86a3-afaf6dcda44e",
+        "detail_page_url": "https://www.compassedu.hk/majr_73972",
+        "program_name": "乔治华盛顿大学跨学科商业研究硕士",
+        "program_name_en": "Master of Interdisciplinary Business Studies",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/158.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://business.gwu.edu/master-interdisciplinary-business-studies",
+        "university_name": "乔治华盛顿大学",
+        "university_name_en": "George Washington University",
+        "apply_time": [
+            {
+                "title": "24年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2023-10-01"
+                ]
+            },
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2023-11-01"
+                ]
+            }
+        ],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "商业分析和体育管理"
+            },
+            {
+                "key": "2",
+                "value": "商业分析与战略管理"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "80"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "小分要求": "5"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "无要求"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "秋季/春季/夏季",
+        "duration": "30学分",
+        "tuition": "1,985美元/学分"
+    },
+    {
+        "id": "1fb4e62f-690d-4c8d-a3a0-5e140485e9a5",
+        "detail_page_url": "https://www.compassedu.hk/majr_72929",
+        "program_name": "东北大学（美国）商务和经济发展硕士",
+        "program_name_en": "MS in Commerce and Economic Development",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/170.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.northeastern.edu/graduate/program/master-of-science-in-commerce-and-economic-development-boston-14439/",
+        "university_name": "东北大学（美国）",
+        "university_name_en": "Northeastern University(United States)",
+        "apply_time": [
+            {
+                "title": "24年夏季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2023-11-06"
+                ]
+            },
+            {
+                "title": "24年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-02-05"
+                ]
+            },
+            {
+                "title": "24年夏季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-05-06"
+                ]
+            }
+        ],
+        "program_track": [
+            {
+                "key": "1",
+                "value": "经济分析"
+            },
+            {
+                "key": "2",
+                "value": "经济创业学"
+            },
+            {
+                "key": "3",
+                "value": "数据分析"
+            },
+            {
+                "key": "4",
+                "value": "金融型经济"
+            }
+        ],
+        "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "小分要求": "W:20,R:20,L:20,S:20"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "小分要求": "6"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季/春季/夏季/冬季",
+        "duration": "12-18个月",
+        "tuition": "48,300美元/年"
+    },
+    {
+        "id": "1643cf8d-d58b-43c6-b76e-d81bef199ad7",
+        "detail_page_url": "https://www.compassedu.hk/majr_74217",
+        "program_name": "肯特大学商业分析理学硕士（含实习）",
+        "program_name_en": "MSc Business Analytics with Placement",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/56.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kent.ac.uk/courses/postgraduate/4372/business-analytics-with-placement",
+        "university_name": "肯特大学",
+        "university_name_en": "University of Kent",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-12",
+                "application_end_date": [
+                    "2025-08-26"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "63",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "24700英镑/年"
+    },
+    {
+        "id": "4d8304a6-bf5a-4a47-a553-e115a0f69d27",
+        "detail_page_url": "https://www.compassedu.hk/majr_61924",
+        "program_name": "邓迪大学国际商务与策略理学硕士",
+        "program_name_en": "MSc International Business and Strategy",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/international-business-strategy",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23000英镑/年"
+    },
+    {
+        "id": "35d911fb-957f-487e-a8e7-fc7720ba5b1b",
+        "detail_page_url": "https://www.compassedu.hk/majr_62945",
+        "program_name": "邓迪大学商业设计理学硕士",
+        "program_name_en": "MSc Design for Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/design-business",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "23000英镑/年"
+    },
+    {
+        "id": "49bbba3e-21d3-4458-be18-70851be5870b",
+        "detail_page_url": "https://www.compassedu.hk/majr_67462",
+        "program_name": "邓迪大学国际能源贸易理学硕士",
+        "program_name_en": "MSc International Energy Commerce",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.dundee.ac.uk/postgraduate/international-energy-commerce",
+        "university_name": "邓迪大学",
+        "university_name_en": "University of Dundee",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2023-10-20",
+                "application_end_date": [
+                    "2024-11-18"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "20",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23000英镑/年"
+    },
+    {
+        "id": "d8c3660f-fe97-4057-bd8a-79460fc90012",
+        "detail_page_url": "https://www.compassedu.hk/majr_61917",
+        "program_name": "伦敦大学皇家霍洛威学院商业人工智能理学硕士",
+        "program_name_en": "MSc AI for Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/ai-for-business-msc/",
+        "university_name": "伦敦大学皇家霍洛威学院",
+        "university_name_en": "Royal Holloway, University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-08-20"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "20",
+                "阅读": "22",
+                "写作": "24",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "54",
+                "阅读": "54",
+                "写作": "61",
+                "口语": "54"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28300英镑/年"
+    },
+    {
+        "id": "9c457cfe-7de7-4114-b4d6-4672e2f9fd10",
+        "detail_page_url": "https://www.compassedu.hk/majr_63139",
+        "program_name": "北方高等商学院战略、组织与咨询",
+        "program_name_en": "MSc in Strategy, Organisation & Consulting",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/357.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://master.edhec.edu/msc-strategy-consulting-and-digital-transformation",
+        "university_name": "北方高等商学院",
+        "university_name_en": "EDHEC Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-09"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "550"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "13650欧元/年"
+    },
+    {
+        "id": "5284bb48-7f5e-4707-a51e-85c3877ea793",
+        "detail_page_url": "https://www.compassedu.hk/majr_63143",
+        "program_name": "北方高等商学院全球和可持续商业",
+        "program_name_en": "MSc in Global & Sustainable Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/357.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://master.edhec.edu/msc-global-sustainable-business",
+        "university_name": "北方高等商学院",
+        "university_name_en": "EDHEC Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-09"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "GMAT",
+                "总分要求": "550"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "13650欧元/年"
+    },
+    {
+        "id": "61b2287b-fd3a-4091-be8a-21f0debba500",
+        "detail_page_url": "https://www.compassedu.hk/majr_63148",
+        "program_name": "法国雷恩高等商学院国际谈判和商业发展理学硕士",
+        "program_name_en": "MSc in International Negotiation & Business Development",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/354.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-international-negotiation-business-development/",
+        "university_name": "法国雷恩高等商学院",
+        "university_name_en": "Rennes School of Business",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9/1月",
+        "duration": "1年",
+        "tuition": "18000欧元/年"
+    },
+    {
+        "id": "025b32a6-ad5e-499d-b772-b2bf8408a521",
+        "detail_page_url": "https://www.compassedu.hk/majr_63254",
+        "program_name": "欧洲高等商学院战略与数字业务硕士",
+        "program_name_en": "MSc in Strategy and Digital Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/363.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.escpeurope.eu/programmes/specialised-masters-MScs/MSc-in-strategy-and-digital-business",
+        "university_name": "欧洲高等商学院",
+        "university_name_en": "ESCP Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-20",
+                    "2025-01-08",
+                    "2025-02-05",
+                    "2025-04-08",
+                    "2025-05-05",
+                    "2025-06-03",
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "17700欧元/年"
+    },
+    {
+        "id": "ec2c7a19-1943-46fe-9324-7b8ba5d4d040",
+        "detail_page_url": "https://www.compassedu.hk/majr_63256",
+        "program_name": "欧洲高等商学院能源管理硕士",
+        "program_name_en": "MSc in Energy Management",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/363.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.escpeurope.eu/programmes/specialised-masters-MScs/MSc-in-energy-management",
+        "university_name": "欧洲高等商学院",
+        "university_name_en": "ESCP Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-10-20",
+                    "2024-11-17",
+                    "2025-01-12",
+                    "2025-02-09",
+                    "2025-03-16",
+                    "2025-04-13",
+                    "2025-05-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "16800英镑/年"
+    },
+    {
+        "id": "0c781ab0-693e-4018-b10a-88bda03cf385",
+        "detail_page_url": "https://www.compassedu.hk/majr_63258",
+        "program_name": "欧洲高等商学院国际可持续发展管理硕士",
+        "program_name_en": "MSc in International Sustainability Management",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/363.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.escpeurope.eu/programmes/specialised-masters-MScs/MSc-in-international-sustainability-management",
+        "university_name": "欧洲高等商学院",
+        "university_name_en": "ESCP Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-12-10",
+                    "2025-01-28",
+                    "2025-02-25",
+                    "2025-03-27",
+                    "2025-04-28",
+                    "2025-05-23",
+                    "2025-06-24",
+                    "2025-07-18"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "17700欧元/年"
+    },
+    {
+        "id": "22725f52-9ed1-4f4a-8014-a2cbe56c9e9c",
+        "detail_page_url": "https://www.compassedu.hk/majr_64763",
+        "program_name": "伦敦大学城市学院航运、贸易与金融理学硕士",
+        "program_name_en": "MSc Shipping, Trade and Finance",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bayes.city.ac.uk/study/masters/courses/shipping-trade-and-finance",
+        "university_name": "伦敦大学城市学院",
+        "university_name_en": "City, University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "25",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "62",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31000英镑/年"
+    },
+    {
+        "id": "b0ae3014-83b5-4793-b6b4-1ed4c76f9183",
+        "detail_page_url": "https://www.compassedu.hk/majr_65259",
+        "program_name": "威斯敏斯特大学数字商务理学硕士",
+        "program_name_en": "MSc Digital Business",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/business-and-management-courses/2025-26/september/full-time/digital-business-msc",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-19",
+                "application_end_date": [
+                    "2024-11-15"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "17500英镑/年"
+    },
+    {
+        "id": "5b6434cb-a6d8-41e9-a8c1-113b17dd7a3d",
+        "detail_page_url": "https://www.compassedu.hk/majr_74278",
+        "program_name": "白金汉大学金融欺诈调查与情报理学硕士",
+        "program_name_en": "MSc Financial Fraud Investigation and Intelligence",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/30.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.buckingham.ac.uk/courses/postgraduate/msc-financial-fraud-investigation-and-intelligence/",
+        "university_name": "白金汉大学",
+        "university_name_en": "University of Buckingham",
+        "apply_time": [
+            {
+                "title": "24年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2023-11-24"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-22"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1月",
+        "duration": "1年",
+        "tuition": "16480英镑/年"
+    },
+    {
+        "id": "4011d630-0454-4588-af99-9ea1bdf1b2ab",
+        "detail_page_url": "https://www.compassedu.hk/majr_76351",
+        "program_name": "考文垂大学投资管理理学硕士",
+        "program_name_en": "MSc Investment Management",
+        "primary_category": "商科",
+        "secondary_category": "其他商科",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/cbl/investment-management-msc/?term=2025-26",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9/11月",
+        "duration": "1年",
+        "tuition": "18600英镑/年"
+    }
+]

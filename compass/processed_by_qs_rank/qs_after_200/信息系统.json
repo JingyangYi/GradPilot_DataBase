@@ -1,0 +1,2345 @@
+[
+  {
+    "completion_rate": "30 / 30",
+    "fail_count": 0,
+    "original_total": 122,
+    "classification": "QS200后"
+  },
+  {
+    "id": "93daff50-324c-414f-ad60-2ed49af3bd26",
+    "detail_page_url": "https://www.compassedu.hk/majr_72618",
+    "program_name": "康奈尔大学连接媒体理学硕士",
+    "program_name_en": "MS in Information Systems with a Concentration in Connective Media",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bf511b43-1b90-4ecc-ae78-f00ba0530ece",
+    "detail_page_url": "https://www.compassedu.hk/majr_75649",
+    "program_name": "马来西亚国立大学信息系统硕士",
+    "program_name_en": "Master of Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ftsm.ukm.my/v6/master-in-information-systems",
+    "university_name": "马来西亚国立大学",
+    "university_name_en": "The National University of Malaysia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "550",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "duration": "1年",
+    "tuition": "35310马币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c3505ddf-b0d6-4553-855a-72a6aea7ceb8",
+    "detail_page_url": "https://www.compassedu.hk/majr_75650",
+    "program_name": "马来西亚国立大学信息技术硕士",
+    "program_name_en": "Master of Information Technology",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ftsm.ukm.my/v6/master-in-information-technology",
+    "university_name": "马来西亚国立大学",
+    "university_name_en": "The National University of Malaysia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "550",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "duration": "1年",
+    "tuition": "35310马币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "284628c6-20de-44e3-8e21-f2785628ca5a",
+    "detail_page_url": "https://www.compassedu.hk/majr_75651",
+    "program_name": "马来西亚国立大学信息科学硕士",
+    "program_name_en": "Master of Information Science",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ftsm.ukm.my/v6/master-in-information-science",
+    "university_name": "马来西亚国立大学",
+    "university_name_en": "The National University of Malaysia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "550",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "duration": "1年",
+    "tuition": "35310马币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1185d44d-f868-49f2-a26b-1d004cfa6dc0",
+    "detail_page_url": "https://www.compassedu.hk/majr_65566",
+    "program_name": "马里兰大学帕克分校信息系统硕士",
+    "program_name_en": "Master of Science in Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/165.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rhsmith.umd.edu/programs/business-masters/academics/information-systems",
+    "university_name": "马里兰大学帕克分校",
+    "university_name_en": "University of Maryland, College Park",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-15",
+          "2024-11-16",
+          "2025-01-15",
+          "2025-02-15",
+          "2025-03-14",
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "小分要求": "S22,L24,R26,W24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "L7,R7,W7,S6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "2015美元/学分",
+    "average_accepted_gpa": "3.5",
+    "average_admitted_gre": "760/316",
+    "sex_ratio": "27:73",
+    "employment_rate": "81%",
+    "average_graduate_salary": "77000美元",
+    "qs_2026_rank": 207,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 58,
+    "qs_2026_computer_science_rank": 74,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "969430e9-dd96-4a95-8e01-a765bd9ba469",
+    "detail_page_url": "https://www.compassedu.hk/majr_72767",
+    "program_name": "佛罗里达大学信息系统与运营管理理学硕士",
+    "program_name_en": "MS in Information Systems and Operations Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warrington.ufl.edu/master-of-science-in-information-systems-and-operations-management/",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-02-15",
+          "2024-05-01",
+          "2025-01-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "数据科学"
+      },
+      {
+        "key": "3",
+        "value": "信息技术"
+      },
+      {
+        "key": "4",
+        "value": "供应链管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季",
+    "duration": "36-40学分",
+    "tuition": "30,130美元",
+    "average_accepted_gpa": "3.49",
+    "average_admitted_gre": "311",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_computer_science_rank": 161,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "af2187b0-8162-493c-b559-04498a2a816b",
+    "detail_page_url": "https://www.compassedu.hk/majr_50938",
+    "program_name": "拉夫堡大学信息系统与数字创新理学硕士",
+    "program_name_en": "MSc Information Systems and Digital Innovation",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/information-systems-digital-innovation/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "25500英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_computer_science_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e7aefe9c-20f3-41cc-9173-2d3f27d56273",
+    "detail_page_url": "https://www.compassedu.hk/majr_1847",
+    "program_name": "香港浸会大学资讯科技管理理学硕士",
+    "program_name_en": "MSc Information Technology Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/45.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-science-msc-in-information-technology-management",
+    "university_name": "香港浸会大学",
+    "university_name_en": "Hong Kong Baptist University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-07",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "74",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "180000港币/年",
+    "qs_2026_rank": 244,
+    "usnews_2026_rank": 439,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 601,
+    "qs_2026_computer_science_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "472fdfd0-fb5e-4789-af2e-f15e2e606227",
+    "detail_page_url": "https://www.compassedu.hk/majr_53525",
+    "program_name": "思克莱德大学信息与图书馆研究理学硕士",
+    "program_name_en": "MSc Information & Library Studies",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/informationlibrarystudies/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "73",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28700英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_computer_science_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "47e70fd3-cfd7-4a25-9df1-a6df798ef19b",
+    "detail_page_url": "https://www.compassedu.hk/majr_53526",
+    "program_name": "思克莱德大学信息管理理学硕士",
+    "program_name_en": "MSc Information Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/informationmanagement/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "73",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28700英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_computer_science_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b86b2e10-58dc-4dc0-b80f-126f25ce64da",
+    "detail_page_url": "https://www.compassedu.hk/majr_61971",
+    "program_name": "思克莱德大学数字健康系统理学硕士",
+    "program_name_en": "MSc Digital Health Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/digitalhealthsystems/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "73",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28700英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_computer_science_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e2b8845c-6e62-4901-a706-30b5730f1b0f",
+    "detail_page_url": "https://www.compassedu.hk/majr_64629",
+    "program_name": "阿伯丁大学石油数据管理理学硕士",
+    "program_name_en": "MSc Petroleum Data Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1009/petroleum-data-management/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22000英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_computer_science_rank": 675.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c33ece2d-fda7-4bcb-9a3d-0e4c7ede5adf",
+    "detail_page_url": "https://www.compassedu.hk/majr_73968",
+    "program_name": "弗吉尼亚大学信息技术管理理学硕士",
+    "program_name_en": "MS in the Management of Information Technology",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/105.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.commerce.virginia.edu/ms-mit",
+    "university_name": "弗吉尼亚大学",
+    "university_name_en": "University of Virginia",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-22",
+          "2025-01-17",
+          "2025-03-21",
+          "2025-05-17",
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "49,148美元/年",
+    "qs_2026_rank": 275,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 163,
+    "arwu_2024_rank": 201,
+    "qs_2026_computer_science_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5461ca33-335d-495a-81bf-9bd550cb4d4d",
+    "detail_page_url": "https://www.compassedu.hk/majr_61612",
+    "program_name": "萨塞克斯大学信息技术管理理学硕士",
+    "program_name_en": "MSc Management of Information Technology",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/management-of-information-technology-msc",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_computer_science_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9004b2f1-b223-4032-8ba2-1691236185dd",
+    "detail_page_url": "https://www.compassedu.hk/majr_65567",
+    "program_name": "匹兹堡大学信息科学硕士",
+    "program_name_en": "Master of Science in Information Science",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sci.pitt.edu/academics/masters-degrees/information-science-ms",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "大数据分析"
+      },
+      {
+        "key": "2",
+        "value": "数据库和网络系统"
+      },
+      {
+        "key": "3",
+        "value": "地理信息学"
+      },
+      {
+        "key": "4",
+        "value": "以人为本的计算"
+      },
+      {
+        "key": "5",
+        "value": "信息安全"
+      },
+      {
+        "key": "6",
+        "value": "电信和分布式系统"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "36学分",
+    "tuition": "41952美元/年",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_computer_science_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4ac59ff-6a9c-4ce5-993f-d79d370f8a93",
+    "detail_page_url": "https://www.compassedu.hk/majr_65568",
+    "program_name": "匹兹堡大学管理信息系统硕士",
+    "program_name_en": "Master of Science in Management Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://business.pitt.edu/ms-management-information-systems/",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-01",
+          "2025-01-01",
+          "2025-03-01",
+          "2025-05-01",
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求",
+        "小分要求": "600"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "真人单面",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "20857美元/学期",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_computer_science_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f030e9ba-5ed4-42fa-92dc-b1bd5d3fc705",
+    "detail_page_url": "https://www.compassedu.hk/majr_72690",
+    "program_name": "乔治城大学信息技术管理硕士",
+    "program_name_en": "Master's in Information Technology Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/101.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://scs.georgetown.edu/programs/525/master-of-professional-studies-in-information-technology-management/",
+    "university_name": "乔治城大学",
+    "university_name_en": "Georgetown University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01",
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "项目管理"
+      },
+      {
+        "key": "2",
+        "value": "商业智能"
+      },
+      {
+        "key": "3",
+        "value": "网络安全"
+      },
+      {
+        "key": "4",
+        "value": "数字技术集成"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "36学分",
+    "tuition": "54,972美元",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 501,
+    "qs_2026_computer_science_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6b76bf1b-b5c6-45d4-b4af-d356e4a1300d",
+    "detail_page_url": "https://www.compassedu.hk/majr_64697",
+    "program_name": "赫瑞瓦特大学信息技术（商业）理学硕士",
+    "program_name_en": "MSc Information Technology (Business)",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/information-technology-business",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25480英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_computer_science_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4205019f-f2f9-4900-bb36-42a0444eab9c",
+    "detail_page_url": "https://www.compassedu.hk/majr_72795",
+    "program_name": "加州大学欧文分校信息学理学硕士",
+    "program_name_en": "MS in Informatics",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/154.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.informatics.uci.edu/grad/ms-informatics/",
+    "university_name": "加州大学欧文分校",
+    "university_name_en": "University of California, Irvine",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "一年",
+    "tuition": "32,666美元",
+    "qs_2026_rank": 293,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 76,
+    "qs_2026_computer_science_rank": 122,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "720f4cc7-0d4d-4dc3-9bce-88a00acce382",
+    "detail_page_url": "https://www.compassedu.hk/majr_52832",
+    "program_name": "阿斯顿大学信息系统与商业分析理学硕士",
+    "program_name_en": "MSc Information Systems and Business Analysis",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.aston.ac.uk/study/courses/information-systems-and-business-analysis-msc/september-2025",
+    "university_name": "阿斯顿大学",
+    "university_name_en": "Aston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "23500英镑/年",
+    "qs_2026_rank": 395,
+    "usnews_2026_rank": 594,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ffc5366a-250e-406d-9840-76187b7a5602",
+    "detail_page_url": "https://www.compassedu.hk/majr_53277",
+    "program_name": "邓迪大学信息技术与国际商务理学硕士",
+    "program_name_en": "MSc Information Technology & International Business",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/information-technology-international-business",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27900英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b31af195-c86f-4ef9-9f0a-be1991a8bdc0",
+    "detail_page_url": "https://www.compassedu.hk/majr_49412",
+    "program_name": "新加坡管理大学商业信息技术硕士",
+    "program_name_en": "Master of IT in Business",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "dc50ce5e-6d89-467c-901c-c3917a9aa6b0",
+    "detail_page_url": "https://www.compassedu.hk/majr_65290",
+    "program_name": "考文垂大学信息系统与技术管理理学硕士",
+    "program_name_en": "MSc Management of Information Systems and Technology",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/management-of-information-systems-and-technology-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "5/9月",
+    "duration": "1年",
+    "tuition": "20050英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "712e130a-1bfe-4233-baa2-ef4c27373782",
+    "detail_page_url": "https://www.compassedu.hk/majr_65435",
+    "program_name": "克兰菲尔德大学信息能力管理理学硕士",
+    "program_name_en": "MSc Information Capability Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/courses/taught/information-capability-management",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25830英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_computer_science_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "022835a6-4636-4fd6-b276-373691536363",
+    "detail_page_url": "https://www.compassedu.hk/majr_65461",
+    "program_name": "克兰菲尔德大学管理与信息系统理学硕士",
+    "program_name_en": "MSc Management and Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/courses/taught/management-and-information-systems",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "27910英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_computer_science_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4f16dbe5-11e9-481f-9719-75f73d7d0f7f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72968",
+    "program_name": "罗格斯大学信息学硕士",
+    "program_name_en": "Master of Information",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/177.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://comminfo.rutgers.edu/graduate-programs/master-information",
+    "university_name": "罗格斯大学",
+    "university_name_en": "Rutgers University-New Brunswick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-01",
+          "2025-03-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "档案及保存"
+      },
+      {
+        "key": "2",
+        "value": "数据科学"
+      },
+      {
+        "key": "3",
+        "value": "交互设计与信息学"
+      },
+      {
+        "key": "4",
+        "value": "图书馆与情报学"
+      },
+      {
+        "key": "5",
+        "value": "学校图书馆系统"
+      },
+      {
+        "key": "6",
+        "value": "技术，信息与管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "小分要求": "W:24,R:24,L:22,S:24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "1.5-2年",
+    "tuition": "约23,850美元/年",
+    "qs_2026_rank": 328,
+    "usnews_2026_rank": 156,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 101,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a83d2810-f1de-42b7-8569-6ae6adf9c4e9",
+    "detail_page_url": "https://www.compassedu.hk/majr_73948",
+    "program_name": "雪城大学信息系统理学硕士",
+    "program_name_en": "MS in Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/173.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ischool.syr.edu/academics/information-systems-masters-degree/",
+    "university_name": "雪城大学",
+    "university_name_en": "Syracuse University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-01",
+          "2025-02-01",
+          "2025-06-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "云计算"
+      },
+      {
+        "key": "2",
+        "value": "网络安全"
+      },
+      {
+        "key": "3",
+        "value": "区块链"
+      },
+      {
+        "key": "4",
+        "value": "机器学习"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季/春季/秋季",
+    "duration": "36学分",
+    "tuition": "54,060美元",
+    "qs_2026_rank": 745.5,
+    "usnews_2026_rank": 483,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 701,
+    "qs_2026_computer_science_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ff380efc-7e76-4baf-ac3e-4612134f0cc3",
+    "detail_page_url": "https://www.compassedu.hk/majr_74052",
+    "program_name": "贝勒大学信息系统理学硕士",
+    "program_name_en": "MS in Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/183.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.baylor.edu/business/msis/",
+    "university_name": "贝勒大学",
+    "university_name_en": "Baylor University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-02-15",
+          "2025-04-15",
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "业务分析"
+      },
+      {
+        "key": "2",
+        "value": "网络安全"
+      },
+      {
+        "key": "3",
+        "value": "创业与企业创新"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "17个月",
+    "tuition": "25,869美元/学期",
+    "average_accepted_gpa": "3.46",
+    "average_admitted_gre": "308",
+    "sex_ratio": "9:11",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 440,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": 501,
+    "qs_2026_computer_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1a3187a6-c2d0-4797-be73-70a46d1f4750",
+    "detail_page_url": "https://www.compassedu.hk/majr_74074",
+    "program_name": "斯蒂文斯理工学院信息系统硕士",
+    "program_name_en": "MS in Information Systems",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/197.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.stevens.edu/program/information-systems-masters-program",
+    "university_name": "斯蒂文斯理工学院",
+    "university_name_en": "Stevens Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业智能与分析"
+      },
+      {
+        "key": "2",
+        "value": "业务流程管理与服务创新"
+      },
+      {
+        "key": "3",
+        "value": "网络安全风险管理"
+      },
+      {
+        "key": "4",
+        "value": "项目管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "86"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "36学分",
+    "tuition": "43,528美元/年",
+    "qs_2026_rank": 673,
+    "usnews_2026_rank": 1014,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_computer_science_rank": 800.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "876449d7-86c7-4550-b05a-35f13d6dddcd",
+    "detail_page_url": "https://www.compassedu.hk/majr_74085",
+    "program_name": "杨百翰大学信息系统管理硕士",
+    "program_name_en": "Master of Information Systems Management",
+    "primary_category": "商科",
+    "secondary_category": "信息系统",
+    "university_logo_url": "https://logo.compassedu.hk/179.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://gradstudies.byu.edu/information-systems-management-mism",
+    "university_name": "杨百翰大学",
+    "university_name_en": "Brigham Young University-Provo",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业智能与分析"
+      },
+      {
+        "key": "2",
+        "value": "安全与取证"
+      },
+      {
+        "key": "3",
+        "value": "发展学"
+      },
+      {
+        "key": "4",
+        "value": "医疗保健"
+      },
+      {
+        "key": "5",
+        "value": "博士预科"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "小分要求": "S22,L21,R21,W21"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "600"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2-3学期",
+    "tuition": "7,932美元/学期",
+    "average_graduate_salary": "91,915美元",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 601,
+    "qs_2026_computer_science_rank": 800.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

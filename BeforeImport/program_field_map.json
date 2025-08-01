@@ -1,0 +1,32 @@
+{
+  "program": {
+    "degreeDetail": "degree_detail",
+    "applicationFeeUsd": "application_fee_usd",
+    "deadline": "deadline",
+    "admissionUrl": "admission_url",
+    "programUrl": "program_url",
+    "courseUrl": "course_url",
+    "departmentUrl": "department_url",
+    "toeflEtsCode": "ets_code",
+    "recommendationLettersNum": "recommendation_letters",
+    "professionalProgram": "professional_program",
+    "interviewRequired": "interview"
+  },
+  "program_translation": {
+    "name": "program_name",
+    "department": "department",
+    "programDetail": "program_detail",
+    "duration": "program_length",
+    "intakeSeason": "terms_start",
+    "gpaRequirement": "gpa_req",
+    "toeflRequirement": "toefl_req",
+    "ieltsRequirement": "ielts_req",
+    "greRequirement": "gre_req",
+    "gmatRequirement": "gmat_req",
+    "academicBackground": "academic_background",
+    "materialRequirements": "material_requirements",
+    "feeWaiverInfo": "application_fee_waiver",
+    "additionalProgramInfo": "more_info",
+    "capstoneThesis": "grad_requirement"
+  }
+}

@@ -1,0 +1,402 @@
+2025-08-01 15:27:51 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-01 15:27:51 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-01 15:27:51 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/test_urls.csv
+2025-08-01 15:27:51 [program_spider] INFO: 文件是否存在: True
+2025-08-01 15:27:51 [program_spider] INFO: 
+================================================================================
+2025-08-01 15:27:51 [program_spider] INFO: 成功加载 1 个项目
+2025-08-01 15:27:51 [program_spider] INFO: 允许的域名: ['www.manchester.ac.uk']
+2025-08-01 15:27:51 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-01 15:27:51 [program_spider] INFO: ================================================================================
+2025-08-01 15:27:51 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-01 15:27:51 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-01 15:27:51 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-01 15:27:51 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_test_20250801_152751.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-01 15:27:51 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-01 15:27:51 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-01 15:27:51 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-01 15:27:51 [program_spider] INFO: 
+================================================================================
+2025-08-01 15:27:51 [program_spider] INFO: 开始爬取项目 [1/1]
+2025-08-01 15:27:51 [program_spider] INFO: 项目名称: 曼彻斯特大学传染生物学理学硕士
+2025-08-01 15:27:51 [program_spider] INFO: 项目ID: 4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9
+2025-08-01 15:27:51 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 15:27:51 [program_spider] INFO: 剩余项目数: 0
+2025-08-01 15:27:51 [program_spider] INFO: ================================================================================
+2025-08-01 15:27:51 [scrapy.core.engine] INFO: Spider opened
+2025-08-01 15:27:51 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 页面总链接数: 206
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] === 原始链接锚文本列表 ===
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接1: 'Skip to navigation' -> #navigation
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接2: 'Skip to main content' -> #content
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接3: 'Skip to footer' -> #footer
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接4: '' -> /
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接5: 'Home' -> /
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接6: 'Study' -> /study/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接7: 'Undergraduate' -> /study/undergraduate/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接8: 'Clearing' -> /study/undergraduate/applying/clearing/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接9: 'Undergraduate Courses' -> /study/undergraduate/courses/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接10: 'Prospectus (undergraduate)' -> /study/undergraduate/prospectus/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接11: 'Applying (undergraduate)' -> /study/undergraduate/applying/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接12: 'Offer-holders' -> /study/undergraduate/applying/after-you-apply/offer-holders/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接13: 'Fees and funding (undergraduate)' -> /study/undergraduate/fees-and-funding/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接14: 'Widening participation programmes' -> /study/undergraduate/widening-participation/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接15: 'Study experience (undergraduate)' -> /study/undergraduate/study-experience/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接16: 'Student support  (undergraduate)' -> /study/undergraduate/student-support/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接17: 'Contact us (undergraduate)' -> /study/undergraduate/applying/contact/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接18: 'Taught master's' -> /study/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接19: 'Taught master's Courses' -> /study/masters/courses/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接20: 'Admissions  (taught master's)' -> /study/masters/admissions/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接21: 'Fees and funding for taught master's study' -> /study/masters/fees-and-funding/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接22: 'Why should I study a master’s?' -> /study/masters/why-masters-study/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接23: 'Teaching and learning (taught master's)' -> /study/masters/teaching-and-learning/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接24: 'Meet us (taught master's)' -> /study/masters/meet-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接25: 'Student support (taught master's)' -> /study/masters/student-support/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接26: 'Why Manchester? (taught master's)' -> /study/masters/why-manchester/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接27: 'Contact us (taught master's)' -> /study/masters/contact-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接28: 'Postgraduate research' -> /study/postgraduate-research/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接29: 'Why Manchester? (postgraduate research)' -> /study/postgraduate-research/why-manchester/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接30: 'Research areas' -> /study/postgraduate-research/programmes/research-areas/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接31: 'Postgraduate research Programmes' -> /study/postgraduate-research/programmes/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接32: 'People (postgraduate research)' -> /study/postgraduate-research/people/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接33: 'Admissions (postgraduate research)' -> /study/postgraduate-research/admissions/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接34: 'Fees for postgraduate research' -> /study/postgraduate-research/fees/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接35: 'Funding for postgraduate research' -> /study/postgraduate-research/funding/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接36: 'Contact us (postgraduate research)' -> /study/postgraduate-research/contact/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接37: 'Postgraduate certificates and diplomas' -> /study/postgraduate-certificate-diploma/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接38: 'Online and blended learning' -> /study/online-blended-learning/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接39: 'Continuing professional development courses' -> /study/cpd/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接40: 'Student terms and conditions, policies and procedures' -> /study/student-terms-and-conditions/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接41: 'Student life' -> /study/student-life/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接42: 'Campus spaces' -> /study/student-life/campus/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接43: 'Student experience' -> /study/student-life/experience/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接44: 'City guide' -> /study/student-life/city/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接45: 'Open days' -> /study/open-days/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接46: 'Campus tours' -> /study/undergraduate/open-days-visits/meet-us/individual-guided-campus-visits/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接47: 'Accommodation' -> /study/accommodation/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接48: 'Get ready for Manchester' -> https://www.welcome.manchester.ac.uk/get-ready/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接49: 'Virtual Manchester' -> /study/virtual/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接50: 'Making a payment' -> /study/payment/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接51: 'International' -> /study/international/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接52: 'Why study at Manchester? (for international students)' -> /study/international/why-manchester/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接53: 'Offer-holders' -> /study/undergraduate/applications/after-you-apply/offer-holders/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接54: 'Accommodation for international students' -> /study/international/accommodation/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接55: 'English education system' -> /study/international/english-education-system/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接56: 'Prospectus (international students)' -> /study/international/prospectus/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接57: 'International admissions' -> /study/international/admissions/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接58: 'Finance and scholarships for international students' -> /study/international/finance-and-scholarships/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接59: 'Arrival (international students)' -> /study/get-ready/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接60: 'Study abroad and exchange' -> /study/international/study-abroad-exchange/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接61: 'Country-specific information' -> /study/international/country-specific-information/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接62: 'Webinars (undergraduate)' -> /study/undergraduate/webinars/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接63: 'Exhibitions and visits in your country' -> /study/international/exhibitions-visits-in-country/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接64: 'EU students considering Manchester' -> /study/international/eu/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接65: 'Contact the international team' -> /study/international/contact-international-team/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接66: 'Research' -> /research/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接67: 'Research beacons' -> /research/beacons/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接68: 'Advanced materials – research beacon' -> /research/beacons/advanced-materials/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接69: 'Biotechnology – research beacon' -> /research/beacons/biotechnology/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接70: 'Cancer – research beacon' -> /research/beacons/cancer/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接71: 'Energy – research beacon' -> /research/beacons/energy/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接72: 'Global inequalities – research beacon' -> /research/beacons/global-inequalities/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接73: 'Research structure' -> /research/structure/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接74: 'Research institutes' -> /research/structure/institutes/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接75: 'Research platforms' -> /research/structure/platforms/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接76: 'Research facilities' -> /research/structure/facilities/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接77: 'Our Faculties' -> /research/structure/faculties/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接78: 'Research strategy and achievements' -> /research/strategy/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接79: 'Research Explorer' -> https://research.manchester.ac.uk/en/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接80: 'Researchers' -> https://research.manchester.ac.uk/en/persons/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接81: 'Publications' -> https://research.manchester.ac.uk/en/publications/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接82: 'Projects' -> https://research.manchester.ac.uk/en/projects/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接83: 'Research impact and innovation' -> /research/impact/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接84: 'REF 2021 (research)' -> /research/impact/ref-2021/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接85: 'Research impact showcase (research)' -> /research/impact/showcase/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接86: 'SDG campaign (research)' -> /research/impact/sdgs/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接87: 'Research partnerships' -> /research/strategy/partnerships/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接88: 'Postgraduate research' -> /study/postgraduate-research/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接89: 'Bicentenary PhD Studentships and Fellowships' -> /research/bicentenary-phd-studentships-and-fellowships/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接90: 'Researcher development' -> /research/researcher-development/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接91: 'Research environment' -> /research/environment/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接92: 'Research vacancies' -> /research/posts/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接93: 'Collaborate' -> /collaborate/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接94: 'Business engagement and knowledge exchange' -> /collaborate/business-engagement-knowledge-exchange/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接95: 'Innovation Factory' -> /collaborate/innovation-factory/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接96: 'Policy' -> /collaborate/policy/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接97: 'Make a donation' -> /collaborate/make-a-donation/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接98: 'Inspiring local communities' -> /collaborate/communities/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接99: 'Global influence' -> /collaborate/global-influence/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接100: 'About' -> /about/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接101: 'Our story' -> /about/our-story/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接102: 'Vision and strategic plan' -> /about/vision/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接103: 'Manchester 2035' -> /about/manchester-2035/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接104: 'University structure' -> /about/structure/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接105: 'People' -> /about/people/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接106: 'Key dates' -> /about/key-dates/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接107: 'Rankings' -> /about/rankings/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接108: 'Our campus' -> /about/our-campus/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接109: 'Maps and travel' -> /about/maps/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接110: 'Open to the public (visitor attractions)' -> /about/open-public/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接111: 'Facilities' -> /about/facilities/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接112: 'Conference venues' -> /about/conference-venues/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接113: 'Our bicentenary year' -> /about/bicentenary/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接114: 'History and heritage' -> /about/history-heritage/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接115: 'Social responsibility' -> /about/social-responsibility/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接116: 'Teaching and learning excellence' -> /about/teaching-and-learning-excellence/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接117: 'Environmental sustainability' -> /about/social-responsibility/environmental-sustainability/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接118: 'News' -> https://www.manchester.ac.uk/about/news/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接119: 'Events' -> /about/events/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接120: 'The University Magazine' -> /about/magazine/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接121: 'Governance' -> /about/governance/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接122: 'Privacy information' -> /about/privacy-information/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接123: 'Connect' -> /connect/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接124: 'Jobs' -> /connect/jobs/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接125: 'Alumni' -> /connect/alumni/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接126: 'Teachers and careers advisers' -> /connect/teachers/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接127: 'Social media' -> /connect/social-media/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接128: 'Contact us' -> /connect/contact-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接129: 'Share by Email' -> mailto:?subject=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester&body=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=email%0A%0D
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接130: 'Share via Facebook' -> https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=facebook
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接131: 'Share via Facebook Messenger' -> http://www.facebook.com/dialog/send?app_id=1080012805396708&redirect_uri=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=facebook&link=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=facebook
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接132: 'Share via Twitter' -> https://twitter.com/intent/tweet?text=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester.%0AFollow%20us%20at%20%40AdmissionsUoM&url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=twitter
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接133: 'Share via LinkedIn' -> https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=linkedin&title=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接134: 'Share via Pinterest' -> http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=linkedin&media=https://assets.manchester.ac.uk/corporate/images/content/the-university-of-manchester-600x600.jpg&description=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接135: 'Share via Reddit' -> http://www.reddit.com/submit?url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=reddit&title=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接136: 'A–Z index' -> /a-z/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接137: 'Home' -> /
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接138: 'Study' -> /study/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接139: 'Taught master's' -> /study/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接140: 'Courses' -> /study/masters/courses/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接141: 'A-Z list of courses' -> /study/masters/courses/list/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接142: 'Home' -> /
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接143: 'Study' -> /study/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接144: 'Taught master's' -> /study/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接145: 'Courses' -> /study/masters/courses/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接146: 'A-Z list of courses' -> /study/masters/courses/list/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接147: 'MSc Infection Biology' -> /study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接148: '' -> mailto:?subject=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester&body=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=email%0A%0D
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接149: '' -> https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=facebook
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接150: '' -> http://www.facebook.com/dialog/send?app_id=1080012805396708&redirect_uri=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=facebook&link=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=facebook
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接151: '' -> https://twitter.com/intent/tweet?text=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester.%0AFollow%20us%20at%20%40AdmissionsUoM&url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=twitter
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接152: '' -> https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=linkedin&title=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接153: '' -> http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=linkedin&media=https://assets.manchester.ac.uk/corporate/images/content/the-university-of-manchester-600x600.jpg&description=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接154: '' -> http://www.reddit.com/submit?url=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Fmasters%2Fcourses%2Flist%2F18915%2Fmsc-infection-biology%2F%3Futm_campaign=uom%26utm_content=article%26utm_medium=social%26utm_source=reddit&title=MSc%20Infection%20Biology%20%282025%20entry%29%20%7C%20The%20University%20of%20Manchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接155: 'Home' -> /
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接156: 'Study' -> /study/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接157: 'Taught master's' -> /study/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接158: 'Courses' -> /study/masters/courses/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接159: 'A-Z list of courses' -> /study/masters/courses/list/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接160: 'Attend an open day' -> https://www.manchester.ac.uk/study/masters/meet-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接161: 'Download our course brochure' -> https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接162: 'Discover more about Biosciences' -> https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接163: 'View full page' -> /study/masters/courses/list/18915/msc-infection-biology/all-content/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接164: 'Overview' -> /study/masters/courses/list/18915/msc-infection-biology/overview/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接165: 'Entry requirements' -> /study/masters/courses/list/18915/msc-infection-biology/entry-requirements/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接166: 'Application and selection' -> /study/masters/courses/list/18915/msc-infection-biology/application-and-selection/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接167: 'Course details' -> /study/masters/courses/list/18915/msc-infection-biology/course-details/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接168: 'Careers' -> /study/masters/courses/list/18915/msc-infection-biology/careers/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接169: 'Full entry requirements' -> /study/masters/courses/list/18915/msc-infection-biology/entry-requirements/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接170: 'online application form.' -> http://www.manchester.ac.uk/study/masters/admissions/apply/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接171: 'Attend an open day' -> https://www.manchester.ac.uk/study/masters/meet-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接172: 'Download our course brochure' -> https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接173: 'Discover more about Biosciences' -> https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接174: 'Open days' -> https://www.manchester.ac.uk/study/masters/meet-us/masters-information-sessions/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接175: 'dedicated EU' -> https://www.manchester.ac.uk/study/international/eu/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接176: 'postgraduate fees.' -> http://www.manchester.ac.uk/postgraduate/fees/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接177: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes' -> https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接178: 'fees and funding page' -> https://www.bmh.manchester.ac.uk/study/masters/fees-funding/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接179: 'the scholarship page' -> https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm-scholarship/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接180: 'Faculty of Biology, Medicine and Health' -> https://www.bmh.manchester.ac.uk/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接181: 'pgtaught.biosciences@manchester.ac.uk' -> mailto:pgtaught.biosciences@manchester.ac.uk
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接182: 'https://www.bmh.manchester.ac.uk/study/biosciences/masters/' -> https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接183: 'Biosciences' -> /study/masters/courses/list/?s=BS
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接184: 'Overview' -> /study/masters/courses/list/18915/msc-infection-biology/overview/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接185: 'Entry requirements' -> /study/masters/courses/list/18915/msc-infection-biology/entry-requirements/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接186: 'Application and selection' -> /study/masters/courses/list/18915/msc-infection-biology/application-and-selection/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接187: 'Course details' -> /study/masters/courses/list/18915/msc-infection-biology/course-details/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接188: 'Careers' -> /study/masters/courses/list/18915/msc-infection-biology/careers/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接189: 'OfS website' -> https://www.officeforstudents.org.uk/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接190: 'regulations website' -> http://www.regulations.manchester.ac.uk/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接191: '+44 (0) 161 306 6000' -> tel:+441613066000
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接192: 'Contact details' -> /connect/contact-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接193: 'The University of ManchesterOxford RdManchesterM13 9PLUK' -> /about/maps/interactive-map/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接194: '' -> https://www.facebook.com/TheUniversityOfManchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接195: '' -> https://bsky.app/profile/manchester.ac.uk
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接196: '' -> https://www.youtube.com/universitymanchester
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接197: '' -> https://instagram.com/officialuom/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接198: '' -> https://www.tiktok.com/@officialuom/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接199: '' -> https://www.linkedin.com/school/university-of-manchester/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接200: 'Social media directory' -> /connect/social-media/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接201: 'Disclaimer' -> /disclaimer/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接202: 'Data Protection' -> /about/privacy-information/data-protection/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接203: 'Copyright notice' -> /copyright/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接204: 'Web accessibility' -> /web-accessibility/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接205: 'Freedom of information' -> /about/privacy-information/freedom-information/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 原始链接206: 'Charitable status' -> /about/governance/charitable-status/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 移除导航后链接数: 21 (移除了 0 个导航链接)
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] === 移除导航后链接锚文本列表 ===
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接1: 'Attend an open day' -> https://www.manchester.ac.uk/study/masters/meet-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接2: 'Download our course brochure' -> https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接3: 'Discover more about Biosciences' -> https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接4: 'View full page' -> /study/masters/courses/list/18915/msc-infection-biology/all-content/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接5: 'Full entry requirements' -> /study/masters/courses/list/18915/msc-infection-biology/entry-requirements/#course-profile
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接6: 'online application form.' -> http://www.manchester.ac.uk/study/masters/admissions/apply/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接7: 'Attend an open day' -> https://www.manchester.ac.uk/study/masters/meet-us/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接8: 'Download our course brochure' -> https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接9: 'Discover more about Biosciences' -> https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接10: 'Open days' -> https://www.manchester.ac.uk/study/masters/meet-us/masters-information-sessions/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接11: 'dedicated EU' -> https://www.manchester.ac.uk/study/international/eu/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接12: 'postgraduate fees.' -> http://www.manchester.ac.uk/postgraduate/fees/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接13: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes' -> https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接14: 'fees and funding page' -> https://www.bmh.manchester.ac.uk/study/masters/fees-funding/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接15: 'the scholarship page' -> https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm-scholarship/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接16: 'Faculty of Biology, Medicine and Health' -> https://www.bmh.manchester.ac.uk/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接17: 'pgtaught.biosciences@manchester.ac.uk' -> mailto:pgtaught.biosciences@manchester.ac.uk
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接18: 'https://www.bmh.manchester.ac.uk/study/biosciences/masters/' -> https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接19: 'Biosciences' -> /study/masters/courses/list/?s=BS
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余链接20: 'OfS website' -> https://www.officeforstudents.org.uk/
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] ... 还有 1 个链接未显示
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/meet-us/ (锚文本: 'Attend an open day')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.bmh.manchester.ac.uk/study/biosciences/masters/ (锚文本: 'Discover more about Biosciences')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/all-content/ (锚文本: 'View full page')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/meet-us/ (锚文本: 'Attend an open day')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.bmh.manchester.ac.uk/study/biosciences/masters/ (锚文本: 'Discover more about Biosciences')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/meet-us/masters-information-sessions/ (锚文本: 'Open days')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/international/eu/ (锚文本: 'dedicated EU')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.bmh.manchester.ac.uk/ (锚文本: 'Faculty of Biology, Medicine and Health')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 无效链接: mailto:pgtaught.biosciences@manchester.ac.uk (锚文本: 'pgtaught.biosciences@manchester.ac.uk')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/courses/list/?s=BS (锚文本: 'Biosciences')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.officeforstudents.org.uk/ (锚文本: 'OfS website')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: http://www.regulations.manchester.ac.uk/ (锚文本: 'regulations website')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 有效链接数: 20, 关键词匹配数: 9, 最终提取数: 9
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 页面 https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/ (depth=0, is_root=True) 提取到 9 个链接
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio (锚文本: 'Download our course brochure', 匹配关键词: 'course')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/entry-requirements/ (锚文本: 'Full entry requirements', 匹配关键词: 'requirements')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: http://www.manchester.ac.uk/study/masters/admissions/apply/ (锚文本: 'online application form.', 匹配关键词: 'application')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: http://www.manchester.ac.uk/postgraduate/fees/ (锚文本: 'postgraduate fees.', 匹配关键词: 'graduate')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=19217 (锚文本: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes', 匹配关键词: 'graduate')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://www.bmh.manchester.ac.uk/study/masters/fees-funding/ (锚文本: 'fees and funding page', 匹配关键词: 'funding')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm-scholarship/ (锚文本: 'the scholarship page', 匹配关键词: 'scholarship')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://www.bmh.manchester.ac.uk/study/biosciences/masters/ (锚文本: 'https://www.bmh.manchester.ac.uk/study/biosciences/masters/', 匹配关键词: 'master')
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 添加 8 个新请求，当前剩余: 8
+2025-08-01 15:27:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 1, 剩余请求数: 8
+2025-08-01 15:27:53 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理1个页面): https://www.bmh.manchester.ac.uk/study/biosciences/masters/
+2025-08-01 15:27:53 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 2, 剩余请求数: 7
+2025-08-01 15:27:54 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理2个页面): https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm...
+2025-08-01 15:27:54 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 3, 剩余请求数: 6
+2025-08-01 15:27:55 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理3个页面): https://www.bmh.manchester.ac.uk/study/masters/fees-funding/
+2025-08-01 15:27:55 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 4, 剩余请求数: 5
+2025-08-01 15:27:56 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理4个页面): https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-01 15:27:56 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 跳过非HTML内容: https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-01 15:27:56 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 剩余请求数: 4
+2025-08-01 15:28:00 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理5个页面): https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/entry-requiremen...
+2025-08-01 15:28:00 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 6, 剩余请求数: 3
+2025-08-01 15:28:10 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理6个页面): https://www.manchester.ac.uk/study/postgraduate/fees/
+2025-08-01 15:28:10 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 7, 剩余请求数: 2
+2025-08-01 15:28:12 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理7个页面): https://www.manchester.ac.uk/study/masters/admissions/how-to-apply/
+2025-08-01 15:28:12 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 8, 剩余请求数: 1
+2025-08-01 15:28:51 [scrapy.extensions.logstats] INFO: Crawled 8 pages (at 8 pages/min), scraped 0 items (at 0 items/min)
+2025-08-01 15:29:51 [scrapy.extensions.logstats] INFO: Crawled 8 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-01 15:29:52 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio> (failed 4 times): User timeout caused connection failure: Getting https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio took longer than 30.0 seconds..
+2025-08-01 15:29:52 [program_spider] ERROR: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 请求失败 https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio: User timeout caused connection failure: Getting https://documents.manchester.ac.uk/display.aspx?DocID=68583&utm_source=courseprofile&utm_medium=website&utm_campaign=pg+bioscience+brochure&utm_content=infection+bio took longer than 30.0 seconds..
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 9, 剩余请求数: 0
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 项目在错误处理中完成，立即收尾 …
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在完成项目
+2025-08-01 15:29:52 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 项目完成: 曼彻斯特大学传染生物学理学硕士
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 总页数: 8
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功页数: 7
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 失败页数: 2
+2025-08-01 15:29:52 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功率: 77.8%
+2025-08-01 15:29:52 [program_spider] INFO: ------------------------------------------------------------
+2025-08-01 15:29:52 [program_spider] INFO: 成功保存项目数据: output/曼彻斯特大学传染生物学理学硕士_生物.json
+2025-08-01 15:29:52 [program_spider] INFO: 
+==================================================
+2025-08-01 15:29:52 [program_spider] INFO: 所有项目已完成
+2025-08-01 15:29:52 [program_spider] INFO: 完成率: 1/1 (100%)
+2025-08-01 15:29:52 [program_spider] INFO: ==================================================
+2025-08-01 15:29:52 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-08-01 15:29:52 [program_spider] INFO: === 爬虫完成统计 ===
+2025-08-01 15:29:52 [program_spider] INFO: 总项目数: 1
+2025-08-01 15:29:52 [program_spider] INFO: 完成项目数: 1
+2025-08-01 15:29:52 [program_spider] INFO: 失败项目数: 0
+2025-08-01 15:29:52 [program_spider] INFO: 关闭原因: finished
+2025-08-01 15:29:52 [program_spider] INFO: 完成率: 100.0%
+2025-08-01 15:29:52 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 4,
+ 'downloader/exception_type_count/twisted.internet.error.TimeoutError': 4,
+ 'downloader/request_bytes': 17404,
+ 'downloader/request_count': 18,
+ 'downloader/request_method_count/GET': 18,
+ 'downloader/response_bytes': 408360,
+ 'downloader/response_count': 14,
+ 'downloader/response_status_count/200': 8,
+ 'downloader/response_status_count/301': 6,
+ 'elapsed_time_seconds': 121.186922,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 8, 1, 7, 29, 52, 797395, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 101407,
+ 'httpcompression/response_count': 2,
+ 'item_scraped_count': 1,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 309,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 73269248,
+ 'memusage/startup': 73056256,
+ 'request_depth_max': 1,
+ 'response_received_count': 8,
+ 'retry/count': 3,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.TimeoutError': 3,
+ 'scheduler/dequeued': 18,
+ 'scheduler/dequeued/memory': 18,
+ 'scheduler/enqueued': 18,
+ 'scheduler/enqueued/memory': 18,
+ 'start_time': datetime.datetime(2025, 8, 1, 7, 27, 51, 610473, tzinfo=datetime.timezone.utc)}
+2025-08-01 15:29:52 [scrapy.core.engine] INFO: Spider closed (finished)

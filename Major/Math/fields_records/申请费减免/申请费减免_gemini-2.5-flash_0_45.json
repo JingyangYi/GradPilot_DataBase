@@ -1,0 +1,1127 @@
+[
+  {
+    "大学英文名称": "Princeton University",
+    "学位": "Ph.D. ",
+    "专业英文名称": "Applied and Computational Mathematics",
+    "所属院系": "应用与计算数学",
+    "所属院系（英文）": "Graduate School",
+    "招生网址": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/applied-and-computational-math",
+    "专业网址": "https://www.pacm.princeton.edu/graduate",
+    "所属院系网址": "https://gradschool.princeton.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Princeton University",
+    "学位": "Ph.D. ",
+    "专业英文名称": "Mathematics",
+    "所属院系": "数学系",
+    "所属院系（英文）": "Graduate School",
+    "招生网址": "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/mathematics",
+    "专业网址": "https://www.math.princeton.edu/graduate",
+    "所属院系网址": "https://gradschool.princeton.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Massachusetts Institute of Technology",
+    "学位": "PhD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "数学系",
+    "所属院系（英文）": "Department of Mathematics",
+    "招生网址": "https://oge.mit.edu/programs/mathematics/",
+    "专业网址": "https://math.mit.edu/academics/grad/index.html",
+    "所属院系网址": "https://math.mit.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Massachusetts Institute of Technology",
+    "学位": "ScD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "数学系",
+    "所属院系（英文）": "Department of Mathematics",
+    "招生网址": "https://oge.mit.edu/programs/mathematics/",
+    "专业网址": "https://math.mit.edu/academics/grad/index.html",
+    "所属院系网址": "https://math.mit.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "PhD",
+    "专业英文名称": "Applied Mathematics SEAS",
+    "所属院系": "约翰·保尔森工程与应用科学学院",
+    "所属院系（英文）": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+    "招生网址": "https://seas.harvard.edu/applied-mathematics/graduate-program/how-apply",
+    "专业网址": "https://seas.harvard.edu/applied-mathematics/phd-applied-mathematics",
+    "所属院系网址": "https://seas.harvard.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Harvard University",
+    "学位": "PhD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理研究生院",
+    "所属院系（英文）": "The Harvard Kenneth C. Griffin Graduate School of Arts and Sciences",
+    "招生网址": "https://gsas.harvard.edu/program/mathematics",
+    "专业网址": "https://www.math.harvard.edu/graduate/",
+    "所属院系网址": "https://gsas.harvard.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "PhD",
+    "专业英文名称": "Computational and Mathematical Engineering ",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "School of Engineering",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-doctor-philosophy",
+    "所属院系网址": "https://engineering.stanford.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Computational and Mathematical Engineering ",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "School of Engineering",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "所属院系网址": "https://engineering.stanford.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "MS",
+    "专业英文名称": "Mathematical and Computational Finance",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "Stanford University School of Engineering",
+    "招生网址": "https://icme.stanford.edu/academics-admission/icme-graduate-program-application",
+    "专业网址": "https://icme.stanford.edu/academics-admission/icme-master-science",
+    "所属院系网址": "https://engineering.stanford.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Stanford University",
+    "学位": "PhD",
+    "专业英文名称": "Mathematics ",
+    "所属院系": "人文科学学院",
+    "所属院系（英文）": "School of Humanities and Sciences",
+    "招生网址": "https://mathematics.stanford.edu/academics/graduate-admissions",
+    "专业网址": "https://mathematics.stanford.edu/academics/graduate-students/phd-program",
+    "所属院系网址": "https://humsci.stanford.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "Ph.D",
+    "专业英文名称": "Applied Mathematics",
+    "所属院系": "艺术与科学研究生院",
+    "所属院系（英文）": "Graduate School of Arts and Sciences",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/applied-mathematics",
+    "专业网址": "https://applied.math.yale.edu/graduate-program-0",
+    "所属院系网址": "https://gsas.yale.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Yale University",
+    "学位": "PH.D.",
+    "专业英文名称": "Mathematics",
+    "所属院系": "艺术与科学研究生院",
+    "所属院系（英文）": "Graduate School of Arts and Sciences",
+    "招生网址": "https://gsas.yale.edu/programs-of-study/mathematics",
+    "专业网址": "https://math.yale.edu/graduate-programs",
+    "所属院系网址": "https://gsas.yale.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "MA",
+    "专业英文名称": "Applied Math and Computational Science",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://amcs.upenn.edu/admission/",
+    "专业网址": "https://amcs.upenn.edu/masters-program/",
+    "所属院系网址": "https://www.sas.upenn.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Applied Math and Computational Science",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://amcs.upenn.edu/admission/",
+    "专业网址": "https://amcs.upenn.edu/phd-program/",
+    "所属院系网址": "https://www.sas.upenn.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "AM",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://www.math.upenn.edu/graduate/admissions/how-apply",
+    "专业网址": "https://www.math.upenn.edu/graduate/program-description",
+    "所属院系网址": "https://www.sas.upenn.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "M.Phil",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://www.math.upenn.edu/graduate/admissions/how-apply",
+    "专业网址": "https://www.math.upenn.edu/graduate/program-description",
+    "所属院系网址": "https://www.sas.upenn.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "phd+ms",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://www.math.upenn.edu/graduate/admissions/how-apply",
+    "专业网址": "https://www.math.upenn.edu/graduate/csma",
+    "所属院系网址": "https://www.sas.upenn.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "phd+ms",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://www.math.upenn.edu/graduate/admissions/how-apply",
+    "专业网址": "https://www.math.upenn.edu/graduate/statma",
+    "所属院系网址": "https://www.sas.upenn.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Pennsylvania",
+    "学位": "PHD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "School of Arts and Sciences",
+    "招生网址": "https://www.math.upenn.edu/graduate/admissions/how-apply",
+    "专业网址": "https://www.math.upenn.edu/graduate/program-description#phd",
+    "所属院系网址": "https://www.sas.upenn.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Duke University",
+    "学位": "PHD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "The Graduate School",
+    "招生网址": "https://gradschool.duke.edu/academics/programs-degrees/mathematics/",
+    "专业网址": "https://math.duke.edu/graduate",
+    "所属院系网址": "https://gradschool.duke.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "California Institute of Technology",
+    "学位": "PHD",
+    "专业英文名称": "Applied and Computational Mathematics",
+    "所属院系": "工程与应用科学学部",
+    "所属院系（英文）": "Division of Engineering and Applied Science",
+    "招生网址": "https://www.cms.caltech.edu/academics/grad",
+    "专业网址": "https://www.cms.caltech.edu/academics/grad/grad_acm",
+    "所属院系网址": "https://eas.caltech.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "California Institute of Technology",
+    "学位": "PHD",
+    "专业英文名称": "Computing + Mathematical Sciences",
+    "所属院系": "工程与应用科学学部",
+    "所属院系（英文）": "Division of Engineering and Applied Science",
+    "招生网址": "https://www.cms.caltech.edu/academics/grad",
+    "专业网址": "https://www.cms.caltech.edu/academics/grad/grad_cms",
+    "所属院系网址": "https://eas.caltech.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "California Institute of Technology",
+    "学位": "PHD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "物理，数学和天文学系",
+    "所属院系（英文）": "The Division of Physics",
+    "招生网址": "https://www.pma.caltech.edu/admissions-and-financial-support",
+    "专业网址": "https://www.pma.caltech.edu/research-and-academics/mathematics/math-graduate-studies",
+    "所属院系网址": "https://www.pma.caltech.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nBrown University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics",
+    "所属院系": "研究生院",
+    "所属院系（英文）": "Graduate School",
+    "招生网址": "https://graduateprograms.brown.edu/graduate-program/applied-mathematics-phd",
+    "专业网址": "https://appliedmath.brown.edu/graduate",
+    "所属院系网址": "https://graduateprograms.brown.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": " \nBrown University",
+    "学位": "PHD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "研究生院",
+    "所属院系（英文）": "Graduate School",
+    "招生网址": "https://graduateprograms.brown.edu/graduate-program/mathematics-phd",
+    "专业网址": "https://www.brown.edu/academics/math/graduate",
+    "所属院系网址": "https://www.brown.edu/academics/gradschool/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "MS",
+    "专业英文名称": "MS in Engineering Sciences and Applied Mathematics",
+    "所属院系": "工程与应用科学学院",
+    "所属院系（英文）": "McCormick School of Engineering and Applied Science",
+    "招生网址": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/masters/admissions.html",
+    "专业网址": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/masters/",
+    "所属院系网址": "https://www.mccormick.northwestern.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "PhD",
+    "专业英文名称": "Engineering Sciences and Applied Mathematics",
+    "所属院系": "工程与应用科学学院",
+    "所属院系（英文）": "McCormick School of Engineering and Applied Science",
+    "招生网址": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/admissions.html",
+    "专业网址": "https://www.mccormick.northwestern.edu/applied-math/academics/graduate/phd/",
+    "所属院系网址": "https://www.mccormick.northwestern.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Northwestern University",
+    "学位": "PhD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "Weinberg College of Arts and Sciences",
+    "招生网址": "https://www.math.northwestern.edu/graduate/application.html",
+    "专业网址": "https://www.math.northwestern.edu/graduate/",
+    "所属院系网址": "https://weinberg.northwestern.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "艺术与科学学院",
+    "所属院系（英文）": "Krieger School of Arts & Sciences",
+    "招生网址": "https://mathematics.jhu.edu/graduate/admissions/",
+    "专业网址": "https://mathematics.jhu.edu/graduate/",
+    "所属院系网址": "https://krieger.jhu.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "Johns Hopkins Whiting School of Engineering",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-applied-mathematics-and-statistics/",
+    "所属院系网址": "https://engineering.jhu.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "MSE",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "Whiting School of Engineering",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-applied-mathematics-and-statistics/",
+    "所属院系网址": "https://engineering.jhu.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "Whiting School of Engineering",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "所属院系网址": "https://engineering.jhu.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Johns Hopkins University",
+    "学位": "PHD",
+    "专业英文名称": "Applied Mathematics and Statistics",
+    "所属院系": "工程学院",
+    "所属院系（英文）": "Whiting School of Engineering",
+    "招生网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/graduate-admissions-process-and-criteria/",
+    "专业网址": "https://engineering.jhu.edu/ams/academics/graduate-studies/doctoral-program/",
+    "所属院系网址": "https://engineering.jhu.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Mathematics",
+    "所属院系": "工程与应用科学研究生学院",
+    "所属院系（英文）": "The Fu Foundation School of Engineering and Applied Science",
+    "招生网址": "https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements",
+    "专业网址": "https://www.apam.columbia.edu/applied-mathematics-graduate-programs",
+    "所属院系网址": "https://engineering.columbia.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS",
+    "专业英文名称": "Applied Mathematics",
+    "所属院系": "工程与应用科学研究生学院",
+    "所属院系（英文）": "The Fu Foundation School of Engineering and Applied Science",
+    "招生网址": "https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements",
+    "专业网址": "https://www.apam.columbia.edu/applied-mathematics-graduate-programs",
+    "所属院系网址": "https://engineering.columbia.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MS/PHD",
+    "专业英文名称": "Applied Mathematics",
+    "所属院系": "工程与应用科学研究生学院",
+    "所属院系（英文）": "The Fu Foundation School of Engineering and Applied Science",
+    "招生网址": "https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements",
+    "专业网址": "https://www.apam.columbia.edu/applied-mathematics-graduate-programs",
+    "所属院系网址": "https://engineering.columbia.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "Applied Mathematics",
+    "所属院系": "工程与应用科学研究生学院",
+    "所属院系（英文）": "The Fu Foundation School of Engineering and Applied Science",
+    "招生网址": "https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements",
+    "专业网址": "https://www.apam.columbia.edu/applied-mathematics-graduate-programs",
+    "所属院系网址": "https://engineering.columbia.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "PhD",
+    "专业英文名称": "Mathematics",
+    "所属院系": "艺术与科学研究生院",
+    "所属院系（英文）": "Graduate School of Arts and Sciences",
+    "招生网址": "https://www.gsas.columbia.edu/content/mathematics",
+    "专业网址": "https://www.math.columbia.edu/programs-math/graduate-program/",
+    "所属院系网址": "https://www.gsas.columbia.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Columbia University",
+    "学位": "MA",
+    "专业英文名称": "Mathematics with a Specialization in the Mathematics of Finance",
+    "所属院系": "艺术与科学研究生院",
+    "所属院系（英文）": "Graduate School of Arts and Sciences",
+    "招生网址": "https://www.gsas.columbia.edu/content/mathematics-specialization-mathematics-finance",
+    "专业网址": "https://www.math.columbia.edu/mafn/",
+    "所属院系网址": "https://www.gsas.columbia.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Applied Mathematics (Ph.D.) ",
+    "所属院系": "应用数学中心",
+    "所属院系（英文）": "Graduate School",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/applied-mathematics/applied-mathematics-phd-ithaca/",
+    "专业网址": "https://www.cam.cornell.edu/cam/academics/phd-program",
+    "所属院系网址": "https://gradschool.cornell.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "Cornell University",
+    "学位": "Ph.D.",
+    "专业英文名称": "Mathematics (Ph.D.) ",
+    "所属院系": "文理学院",
+    "所属院系（英文）": "The College of Arts & Sciences",
+    "招生网址": "https://gradschool.cornell.edu/academics/fields-of-study/subject/mathematics/mathematics-phd-ithaca/",
+    "专业网址": "https://math.cornell.edu/phd",
+    "所属院系网址": "https://arts.cornell.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "MS",
+    "专业英文名称": "Computational and Applied Mathematics",
+    "所属院系": "物理科学部",
+    "所属院系（英文）": "Physical Sciences Division",
+    "招生网址": "https://voices.uchicago.edu/cammasters/prospectivestudents/",
+    "专业网址": "https://voices.uchicago.edu/cammasters/",
+    "所属院系网址": "https://physicalsciences.uchicago.edu/",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "Ph.D",
+    "专业英文名称": "Computational and Applied Mathematics",
+    "所属院系": "物理科学部",
+    "所属院系（英文）": "Physical Sciences Division",
+    "招生网址": "https://cam.uchicago.edu/academics/how-to-apply/",
+    "专业网址": "https://cam.uchicago.edu/academics/graduate-programs/phd-program/",
+    "所属院系网址": "https://physicalsciences.uchicago.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "Joint  PhD",
+    "专业英文名称": "Ph. D. in Mathematics and Computer Science",
+    "所属院系": "物理科学部",
+    "所属院系（英文）": "Physical Sciences Division",
+    "招生网址": "https://cs.uchicago.edu/academics/phd/joint-math-cs-phd/",
+    "专业网址": "https://cs.uchicago.edu/academics/phd/joint-math-cs-phd/",
+    "所属院系网址": "https://psd.uchicago.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  },
+  {
+    "大学英文名称": "University of Chicago",
+    "学位": "Ph.D",
+    "专业英文名称": "Mathematics",
+    "所属院系": "物理科学部",
+    "所属院系（英文）": "Physical Sciences Division",
+    "招生网址": "https://mathematics.uchicago.edu/graduate/mathematics-phd-program/how-to-apply/",
+    "专业网址": "https://mathematics.uchicago.edu/graduate/mathematics-phd-program/",
+    "所属院系网址": "https://psd.uchicago.edu",
+    "申请费减免": NaN,
+    "llm_reponses": {
+      "response 1": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 2": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      },
+      "response 3": {
+        "error": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}]}}",
+        "retries": 1
+      }
+    }
+  }
+]

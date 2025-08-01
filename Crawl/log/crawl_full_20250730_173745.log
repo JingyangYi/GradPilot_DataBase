@@ -1,0 +1,279 @@
+2025-07-30 17:37:45 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-07-30 17:37:45 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-07-30 17:37:45 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/failed_urls_20250730_173337.csv
+2025-07-30 17:37:45 [program_spider] INFO: 文件是否存在: True
+2025-07-30 17:37:45 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:45 [program_spider] INFO: 成功加载 8 个项目
+2025-07-30 17:37:45 [program_spider] INFO: 允许的域名: ['ms.caltech.edu', 'www.nottingham.ac.uk', 'www.manchester.ac.uk', 'www.cardiff.ac.uk', 'www.monash.edu', 'adelaideuni.edu.au', 'www.exeter.ac.uk', 'courses.leeds.ac.uk']
+2025-07-30 17:37:45 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-07-30 17:37:45 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:45 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-07-30 17:37:45 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-07-30 17:37:45 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-07-30 17:37:45 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_full_20250730_173745.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False,
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+               '(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+2025-07-30 17:37:45 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-07-30 17:37:45 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-07-30 17:37:45 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-07-30 17:37:45 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:45 [program_spider] INFO: 开始爬取项目 [1/8]
+2025-07-30 17:37:45 [program_spider] INFO: 项目名称: 加州理工学院材料科学理学硕士
+2025-07-30 17:37:45 [program_spider] INFO: 项目ID: a21ec1c8-16be-4515-b452-c15a55b59607
+2025-07-30 17:37:45 [program_spider] INFO: 根URL: https://ms.caltech.edu/academics/grad/ms
+2025-07-30 17:37:45 [program_spider] INFO: 剩余项目数: 7
+2025-07-30 17:37:45 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:45 [scrapy.core.engine] INFO: Spider opened
+2025-07-30 17:37:45 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-07-30 17:37:46 [program_spider] ERROR: [a21ec1c8-16be-4515-b452-c15a55b59607] 请求失败 https://ms.caltech.edu/academics/grad/ms: Ignoring non-200 response
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607] 项目在错误处理中完成，立即收尾 …
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607] 正在完成项目
+2025-07-30 17:37:46 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607] 项目完成: 加州理工学院材料科学理学硕士
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607]   - 总页数: 0
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607]   - 成功页数: 0
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607]   - 失败页数: 1
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607]   - 成功率: 0.0%
+2025-07-30 17:37:46 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:46 [program_spider] INFO: 成功保存项目数据: output/加州理工学院材料科学理学硕士_材料.json
+2025-07-30 17:37:46 [program_spider] INFO: [a21ec1c8-16be-4515-b452-c15a55b59607] 仍有 7 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:46 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:46 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:46 [program_spider] INFO: 开始爬取项目 [2/8]
+2025-07-30 17:37:46 [program_spider] INFO: 项目名称: 诺丁汉大学中/英笔译与口译文学硕士
+2025-07-30 17:37:46 [program_spider] INFO: 项目ID: 6ea14314-4b75-4c61-a6e0-09c92d38305e
+2025-07-30 17:37:46 [program_spider] INFO: 根URL: https://www.nottingham.ac.uk/pgstudy/course/taught/chinese-english-translation-and-interpreting-ma
+2025-07-30 17:37:46 [program_spider] INFO: 剩余项目数: 6
+2025-07-30 17:37:46 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:48 [program_spider] ERROR: [6ea14314-4b75-4c61-a6e0-09c92d38305e] 请求失败 https://www.nottingham.ac.uk/pgstudy/course/taught/chinese-english-translation-and-interpreting-ma: Ignoring non-200 response
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e] 项目在错误处理中完成，立即收尾 …
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e] 正在完成项目
+2025-07-30 17:37:48 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e] 项目完成: 诺丁汉大学中/英笔译与口译文学硕士
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e]   - 总页数: 0
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e]   - 成功页数: 0
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e]   - 失败页数: 1
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e]   - 成功率: 0.0%
+2025-07-30 17:37:48 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:48 [program_spider] INFO: 成功保存项目数据: output/诺丁汉大学中英笔译与口译文学硕士_语言.json
+2025-07-30 17:37:48 [program_spider] INFO: [6ea14314-4b75-4c61-a6e0-09c92d38305e] 仍有 6 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:48 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:48 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:48 [program_spider] INFO: 开始爬取项目 [3/8]
+2025-07-30 17:37:48 [program_spider] INFO: 项目名称: 曼彻斯特大学传染生物学理学硕士
+2025-07-30 17:37:48 [program_spider] INFO: 项目ID: 4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9
+2025-07-30 17:37:48 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-07-30 17:37:48 [program_spider] INFO: 剩余项目数: 5
+2025-07-30 17:37:48 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-07-30 17:37:49 [program_spider] WARNING: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 页面 https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/ (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在完成项目
+2025-07-30 17:37:49 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 项目完成: 曼彻斯特大学传染生物学理学硕士
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 总页数: 1
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功页数: 1
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 失败页数: 0
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功率: 100.0%
+2025-07-30 17:37:49 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:49 [program_spider] INFO: 成功保存项目数据: output/曼彻斯特大学传染生物学理学硕士_生物.json
+2025-07-30 17:37:49 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 仍有 5 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:49 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:49 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:49 [program_spider] INFO: 开始爬取项目 [4/8]
+2025-07-30 17:37:49 [program_spider] INFO: 项目名称: 卡迪夫大学广播新闻学文学硕士
+2025-07-30 17:37:49 [program_spider] INFO: 项目ID: ec1f2814-42b6-4bdf-aa73-33eb76342a96
+2025-07-30 17:37:49 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/broadcast-journalism-ma
+2025-07-30 17:37:49 [program_spider] INFO: 剩余项目数: 4
+2025-07-30 17:37:49 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96] 正在处理根页面 (已处理0个页面): https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/broadcast-journalism-ma
+2025-07-30 17:37:50 [program_spider] WARNING: [ec1f2814-42b6-4bdf-aa73-33eb76342a96] 页面 https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/broadcast-journalism-ma (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96] 正在完成项目
+2025-07-30 17:37:50 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96] 项目完成: 卡迪夫大学广播新闻学文学硕士
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96]   - 总页数: 1
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96]   - 成功页数: 1
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96]   - 失败页数: 0
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96]   - 成功率: 100.0%
+2025-07-30 17:37:50 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:50 [program_spider] INFO: 成功保存项目数据: output/卡迪夫大学广播新闻学文学硕士_新闻.json
+2025-07-30 17:37:50 [program_spider] INFO: [ec1f2814-42b6-4bdf-aa73-33eb76342a96] 仍有 4 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:50 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:50 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:50 [program_spider] INFO: 开始爬取项目 [5/8]
+2025-07-30 17:37:50 [program_spider] INFO: 项目名称: 莫纳什大学职业与环境卫生硕士
+2025-07-30 17:37:50 [program_spider] INFO: 项目ID: 429903b1-df77-4d8a-83a2-fad0aaa87294
+2025-07-30 17:37:50 [program_spider] INFO: 根URL: https://www.monash.edu/study/courses/find-a-course/occupational-and-environmental-health-m6026?international=true
+2025-07-30 17:37:50 [program_spider] INFO: 剩余项目数: 3
+2025-07-30 17:37:50 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294] 正在处理根页面 (已处理0个页面): https://www.monash.edu/study/courses/find-a-course/occupational-and-environmental-health-m6026?inter...
+2025-07-30 17:37:50 [program_spider] WARNING: [429903b1-df77-4d8a-83a2-fad0aaa87294] 页面 https://www.monash.edu/study/courses/find-a-course/occupational-and-environmental-health-m6026?international=true (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294] 正在完成项目
+2025-07-30 17:37:50 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294] 项目完成: 莫纳什大学职业与环境卫生硕士
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294]   - 总页数: 1
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294]   - 成功页数: 1
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294]   - 失败页数: 0
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294]   - 成功率: 100.0%
+2025-07-30 17:37:50 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:50 [program_spider] INFO: 成功保存项目数据: output/莫纳什大学职业与环境卫生硕士_医学.json
+2025-07-30 17:37:50 [program_spider] INFO: [429903b1-df77-4d8a-83a2-fad0aaa87294] 仍有 3 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:50 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:50 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:50 [program_spider] INFO: 开始爬取项目 [6/8]
+2025-07-30 17:37:50 [program_spider] INFO: 项目名称: 阿德莱德大学专业工程学硕士（电气）
+2025-07-30 17:37:50 [program_spider] INFO: 项目ID: 4382ff98-8a85-43ec-b324-f8d3d2608298
+2025-07-30 17:37:50 [program_spider] INFO: 根URL: https://adelaideuni.edu.au/study/degrees/master-of-professional-engineering-electrical/int/
+2025-07-30 17:37:50 [program_spider] INFO: 剩余项目数: 2
+2025-07-30 17:37:50 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:51 [program_spider] ERROR: [4382ff98-8a85-43ec-b324-f8d3d2608298] 请求失败 https://adelaideuni.edu.au/study/degrees/master-of-professional-engineering-electrical/int/: Ignoring non-200 response
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298] 项目在错误处理中完成，立即收尾 …
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298] 正在完成项目
+2025-07-30 17:37:51 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298] 项目完成: 阿德莱德大学专业工程学硕士（电气）
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298]   - 总页数: 0
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298]   - 成功页数: 0
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298]   - 失败页数: 1
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298]   - 成功率: 0.0%
+2025-07-30 17:37:51 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:51 [program_spider] INFO: 成功保存项目数据: output/阿德莱德大学专业工程学硕士电气_电气电子.json
+2025-07-30 17:37:51 [program_spider] INFO: [4382ff98-8a85-43ec-b324-f8d3d2608298] 仍有 2 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:51 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:51 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:51 [program_spider] INFO: 开始爬取项目 [7/8]
+2025-07-30 17:37:51 [program_spider] INFO: 项目名称: 埃克塞特大学医疗保健领导与管理理学硕士
+2025-07-30 17:37:51 [program_spider] INFO: 项目ID: 8e6453b2-1bc8-4d08-8a42-6198bd9bc447
+2025-07-30 17:37:51 [program_spider] INFO: 根URL: https://www.exeter.ac.uk/study/postgraduate/courses/medicine/healthcare-leadership-management-msc/
+2025-07-30 17:37:51 [program_spider] INFO: 剩余项目数: 1
+2025-07-30 17:37:51 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:52 [program_spider] ERROR: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447] 请求失败 https://www.exeter.ac.uk/study/postgraduate/courses/medicine/healthcare-leadership-management-msc/: Ignoring non-200 response
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447] 项目在错误处理中完成，立即收尾 …
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447] 正在完成项目
+2025-07-30 17:37:52 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447] 项目完成: 埃克塞特大学医疗保健领导与管理理学硕士
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447]   - 总页数: 0
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447]   - 成功页数: 0
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447]   - 失败页数: 1
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447]   - 成功率: 0.0%
+2025-07-30 17:37:52 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:52 [program_spider] INFO: 成功保存项目数据: output/埃克塞特大学医疗保健领导与管理理学硕士_公共卫生.json
+2025-07-30 17:37:52 [program_spider] INFO: [8e6453b2-1bc8-4d08-8a42-6198bd9bc447] 仍有 1 个项目待爬，将在爬虫空闲时继续。
+2025-07-30 17:37:52 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-07-30 17:37:52 [program_spider] INFO: 
+================================================================================
+2025-07-30 17:37:52 [program_spider] INFO: 开始爬取项目 [8/8]
+2025-07-30 17:37:52 [program_spider] INFO: 项目名称: 利兹大学金融风险管理理学硕士
+2025-07-30 17:37:52 [program_spider] INFO: 项目ID: bebde328-cb6b-44a2-822e-96a0327e826a
+2025-07-30 17:37:52 [program_spider] INFO: 根URL: https://courses.leeds.ac.uk/f839/financial-risk-management-msc
+2025-07-30 17:37:52 [program_spider] INFO: 剩余项目数: 0
+2025-07-30 17:37:52 [program_spider] INFO: ================================================================================
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a] 正在处理根页面 (已处理0个页面): https://courses.leeds.ac.uk/f839/financial-risk-management-msc
+2025-07-30 17:37:53 [program_spider] WARNING: [bebde328-cb6b-44a2-822e-96a0327e826a] 页面 https://courses.leeds.ac.uk/f839/financial-risk-management-msc (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a] 已处理页面: 1, 剩余请求数: 0
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a] 正在完成项目
+2025-07-30 17:37:53 [program_spider] INFO: 
+------------------------------------------------------------
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a] 项目完成: 利兹大学金融风险管理理学硕士
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a]   - 总页数: 1
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a]   - 成功页数: 1
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a]   - 失败页数: 0
+2025-07-30 17:37:53 [program_spider] INFO: [bebde328-cb6b-44a2-822e-96a0327e826a]   - 成功率: 100.0%
+2025-07-30 17:37:53 [program_spider] INFO: ------------------------------------------------------------
+2025-07-30 17:37:53 [program_spider] INFO: 成功保存项目数据: output/利兹大学金融风险管理理学硕士_金工金数.json
+2025-07-30 17:37:53 [program_spider] INFO: 
+==================================================
+2025-07-30 17:37:53 [program_spider] INFO: 所有项目已完成
+2025-07-30 17:37:53 [program_spider] INFO: 完成率: 8/8 (100%)
+2025-07-30 17:37:53 [program_spider] INFO: ==================================================
+2025-07-30 17:37:53 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-07-30 17:37:53 [program_spider] INFO: === 爬虫完成统计 ===
+2025-07-30 17:37:53 [program_spider] INFO: 总项目数: 8
+2025-07-30 17:37:53 [program_spider] INFO: 完成项目数: 8
+2025-07-30 17:37:53 [program_spider] INFO: 失败项目数: 0
+2025-07-30 17:37:53 [program_spider] INFO: 关闭原因: finished
+2025-07-30 17:37:53 [program_spider] INFO: 完成率: 100.0%
+2025-07-30 17:37:53 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2412,
+ 'downloader/request_count': 8,
+ 'downloader/request_method_count/GET': 8,
+ 'downloader/response_bytes': 175046,
+ 'downloader/response_count': 8,
+ 'downloader/response_status_count/403': 4,
+ 'downloader/response_status_count/404': 3,
+ 'downloader/response_status_count/406': 1,
+ 'elapsed_time_seconds': 7.9254,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 7, 30, 9, 37, 53, 761008, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 48477,
+ 'httpcompression/response_count': 3,
+ 'item_scraped_count': 8,
+ 'log_count/ERROR': 4,
+ 'log_count/INFO': 176,
+ 'log_count/WARNING': 5,
+ 'memusage/max': 72286208,
+ 'memusage/startup': 72286208,
+ 'response_received_count': 8,
+ 'scheduler/dequeued': 8,
+ 'scheduler/dequeued/memory': 8,
+ 'scheduler/enqueued': 8,
+ 'scheduler/enqueued/memory': 8,
+ 'start_time': datetime.datetime(2025, 7, 30, 9, 37, 45, 835608, tzinfo=datetime.timezone.utc)}
+2025-07-30 17:37:53 [scrapy.core.engine] INFO: Spider closed (finished)

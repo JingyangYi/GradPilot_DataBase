@@ -1,0 +1,138 @@
+2025-08-01 14:57:21 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-01 14:57:21 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-01 14:57:21 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/test_urls.csv
+2025-08-01 14:57:21 [program_spider] INFO: 文件是否存在: True
+2025-08-01 14:57:21 [program_spider] INFO: 
+================================================================================
+2025-08-01 14:57:21 [program_spider] INFO: 成功加载 1 个项目
+2025-08-01 14:57:21 [program_spider] INFO: 允许的域名: ['www.manchester.ac.uk']
+2025-08-01 14:57:21 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-01 14:57:21 [program_spider] INFO: ================================================================================
+2025-08-01 14:57:21 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-01 14:57:21 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-01 14:57:21 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-01 14:57:21 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_test_20250801_145721.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-01 14:57:21 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-01 14:57:21 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-01 14:57:21 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-01 14:57:21 [program_spider] INFO: 
+================================================================================
+2025-08-01 14:57:21 [program_spider] INFO: 开始爬取项目 [1/1]
+2025-08-01 14:57:21 [program_spider] INFO: 项目名称: 曼彻斯特大学传染生物学理学硕士
+2025-08-01 14:57:21 [program_spider] INFO: 项目ID: 4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9
+2025-08-01 14:57:21 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 14:57:21 [program_spider] INFO: 剩余项目数: 0
+2025-08-01 14:57:21 [program_spider] INFO: ================================================================================
+2025-08-01 14:57:21 [scrapy.core.engine] INFO: Spider opened
+2025-08-01 14:57:21 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 页面总链接数: 206
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 移除导航后链接数: 21 (移除了 0 个导航链接)
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/meet-us/ (锚文本: 'Attend an open day')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/meet-us/ (锚文本: 'Attend an open day')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/meet-us/masters-information-sessions/ (锚文本: 'Open days')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/international/eu/ (锚文本: 'dedicated EU')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 链接不匹配关键词: https://www.manchester.ac.uk/study/masters/courses/list/?s=BS (锚文本: 'Biosciences')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 有效链接数: 8, 关键词匹配数: 3, 最终提取数: 3
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 页面 https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/ (depth=0, is_root=True) 提取到 3 个链接
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: http://www.manchester.ac.uk/study/masters/admissions/apply/ (锚文本: 'online application form.', 匹配关键词: 'application')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: http://www.manchester.ac.uk/postgraduate/fees/ (锚文本: 'postgraduate fees.', 匹配关键词: 'graduate')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm-scholarship/ (锚文本: 'the scholarship page', 匹配关键词: 'scholarship')
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 添加 3 个新请求，当前剩余: 3
+2025-08-01 14:57:22 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 1, 剩余请求数: 3
+2025-08-01 14:57:26 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理1个页面): https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm...
+2025-08-01 14:57:26 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 2, 剩余请求数: 2
+2025-08-01 14:57:38 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理2个页面): https://www.manchester.ac.uk/study/masters/admissions/how-to-apply/
+2025-08-01 14:57:38 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 3, 剩余请求数: 1
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理子页面(深度1) (已处理3个页面): https://www.manchester.ac.uk/study/postgraduate/fees/
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 4, 剩余请求数: 0
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在完成项目
+2025-08-01 14:57:40 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 项目完成: 曼彻斯特大学传染生物学理学硕士
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 总页数: 4
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功页数: 4
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 失败页数: 0
+2025-08-01 14:57:40 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功率: 100.0%
+2025-08-01 14:57:40 [program_spider] INFO: ------------------------------------------------------------
+2025-08-01 14:57:40 [program_spider] INFO: 成功保存项目数据: output/曼彻斯特大学传染生物学理学硕士_生物.json
+2025-08-01 14:57:40 [program_spider] INFO: 
+==================================================
+2025-08-01 14:57:40 [program_spider] INFO: 所有项目已完成
+2025-08-01 14:57:40 [program_spider] INFO: 完成率: 1/1 (100%)
+2025-08-01 14:57:40 [program_spider] INFO: ==================================================
+2025-08-01 14:57:40 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-08-01 14:57:40 [program_spider] INFO: === 爬虫完成统计 ===
+2025-08-01 14:57:40 [program_spider] INFO: 总项目数: 1
+2025-08-01 14:57:40 [program_spider] INFO: 完成项目数: 1
+2025-08-01 14:57:40 [program_spider] INFO: 失败项目数: 0
+2025-08-01 14:57:40 [program_spider] INFO: 关闭原因: finished
+2025-08-01 14:57:40 [program_spider] INFO: 完成率: 100.0%
+2025-08-01 14:57:40 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8644,
+ 'downloader/request_count': 10,
+ 'downloader/request_method_count/GET': 10,
+ 'downloader/response_bytes': 261766,
+ 'downloader/response_count': 10,
+ 'downloader/response_status_count/200': 4,
+ 'downloader/response_status_count/301': 6,
+ 'elapsed_time_seconds': 18.511792,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 8, 1, 6, 57, 40, 118863, tzinfo=datetime.timezone.utc),
+ 'item_scraped_count': 1,
+ 'log_count/INFO': 55,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 72695808,
+ 'memusage/startup': 72695808,
+ 'request_depth_max': 1,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2025, 8, 1, 6, 57, 21, 607071, tzinfo=datetime.timezone.utc)}
+2025-08-01 14:57:40 [scrapy.core.engine] INFO: Spider closed (finished)

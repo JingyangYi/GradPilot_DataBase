@@ -1,0 +1,2253 @@
+[
+    {
+        "completion_rate": "45 / 45",
+        "fail_count": 0
+    },
+    {
+        "id": "e5c6f10d-0da4-4ffc-b238-f8b76b7c12b9",
+        "detail_page_url": "https://www.compassedu.hk/majr_1755",
+        "program_name": "香港中文大学可持续旅游管理社会科学硕士",
+        "program_name_en": "MSocSc Sustainable Tourism",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gs.cuhk.edu.hk/admissions/programme/social-science#mssc-in-sustainable-tourism",
+        "university_name": "香港中文大学",
+        "university_name_en": "The Chinese University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "178000港币/年"
+    },
+    {
+        "id": "4dcf6788-6761-4e5d-8804-c36383d70c92",
+        "detail_page_url": "https://www.compassedu.hk/majr_76426",
+        "program_name": "香港中文大学体验经济领导力理学硕士",
+        "program_name_en": "MSc Leadership for Experience Economy",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://masters.bschool.cuhk.edu.hk/msc-lee-1/",
+        "university_name": "香港中文大学",
+        "university_name_en": "The Chinese University of Hong Kong",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "300000港币/年"
+    },
+    {
+        "id": "eeb8f32b-db1b-44d0-88c0-7eb375c5c4f1",
+        "detail_page_url": "https://www.compassedu.hk/majr_54321",
+        "program_name": "莫纳什大学国际可持续旅游管理硕士",
+        "program_name_en": "Master of International Sustainable Tourism Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.monash.edu/study/courses/find-a-course/international-sustainable-tourism-management-a6012?international=true",
+        "university_name": "莫纳什大学",
+        "university_name_en": "Monash University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-07"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "45800澳元/年"
+    },
+    {
+        "id": "29e4fdf6-85bc-408f-9325-69f0ec8d2470",
+        "detail_page_url": "https://www.compassedu.hk/majr_54176",
+        "program_name": "昆士兰大学旅游、酒店与会展管理硕士（1.5年制）",
+        "program_name_en": "Master of Tourism, Hotel and Event Management (1.5 Years)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://study.uq.edu.au/study-options/programs/master-tourism-hotel-and-event-management-5585",
+        "university_name": "昆士兰大学",
+        "university_name_en": "The University of Queensland",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-09"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "1.5年",
+        "tuition": "50560澳元/年"
+    },
+    {
+        "id": "ed010f53-0bca-450a-80e0-486039c9b451",
+        "detail_page_url": "https://www.compassedu.hk/majr_54177",
+        "program_name": "昆士兰大学旅游、酒店与会展管理硕士（2年制）",
+        "program_name_en": "Master of Tourism, Hotel and Event Management (2 Years)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://study.uq.edu.au/study-options/programs/master-tourism-hotel-and-event-management-5585",
+        "university_name": "昆士兰大学",
+        "university_name_en": "The University of Queensland",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-30"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-06-09"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "50560澳元/年"
+    },
+    {
+        "id": "d8834e4f-7a70-482b-9be1-7bc32afae939",
+        "detail_page_url": "https://www.compassedu.hk/majr_1825",
+        "program_name": "香港理工大学国际酒店管理理学硕士",
+        "program_name_en": "MSc International Hospitality Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24045-maf-paf-map-pap-mhf-phf-mhp-php-mvf-pvf-mvp-pvp-mwf-pwf-mwp-pwp-mlf-plf-mlp-plp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "笔试/真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "291400港币/年"
+    },
+    {
+        "id": "6f4288c9-e9c8-409e-bd8e-331599cc8a0f",
+        "detail_page_url": "https://www.compassedu.hk/majr_1826",
+        "program_name": "香港理工大学国际旅游与活动管理理学硕士",
+        "program_name_en": "MSc International Tourism and Event Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24045-maf-paf-map-pap-mhf-phf-mhp-php-mvf-pvf-mvp-pvp-mwf-pwf-mwp-pwp-mlf-plf-mlp-plp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "笔试/真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "291400港币/年"
+    },
+    {
+        "id": "e419e4ce-ae95-48e6-9382-454a04445c90",
+        "detail_page_url": "https://www.compassedu.hk/majr_5068",
+        "program_name": "香港理工大学国际葡萄酒管理理学硕士",
+        "program_name_en": "MSc International Wine Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24045-maf-paf-map-pap-mhf-phf-mhp-php-mvf-pvf-mvp-pvp-mwf-pwf-mwp-pwp-mlf-plf-mlp-plp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "291400港币/年"
+    },
+    {
+        "id": "185338f0-35b2-439b-a2de-a67a825efb48",
+        "detail_page_url": "https://www.compassedu.hk/majr_49712",
+        "program_name": "香港理工大学环球酒店业管理理学硕士",
+        "program_name_en": "MSc Global Hospitality Business",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24043",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-09-09",
+                "application_end_date": [
+                    "2024-10-25"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "6.5",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "20",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1.5年",
+        "tuition": "367067港币/年"
+    },
+    {
+        "id": "96fb9bb2-4058-4da4-9814-0b48472f0601",
+        "detail_page_url": "https://www.compassedu.hk/majr_74384",
+        "program_name": "香港理工大学奢华体验管理理学硕士",
+        "program_name_en": "MSc Luxury Experiences Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24045-maf-paf-map-pap-mhf-phf-mhp-php-mvf-pvf-mvp-pvp-mwf-pwf-mwp-pwp-mlf-plf-mlp-plp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "291400港币/年"
+    },
+    {
+        "id": "f5276a73-3e14-486b-ba7d-f45bbbec8239",
+        "detail_page_url": "https://www.compassedu.hk/majr_74385",
+        "program_name": "香港理工大学酒店创新与创业理学硕士",
+        "program_name_en": "MSc Innovation and Entrepreneurship in Hospitality",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24045-maf-paf-map-pap-mhf-phf-mhp-php-mvf-pvf-mvp-pvp-mwf-pwf-mwp-pwp-mlf-plf-mlp-plp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "笔试/真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "291400港币/年"
+    },
+    {
+        "id": "2e0e9492-ee77-44e9-abfa-272a3bb7f4d0",
+        "detail_page_url": "https://www.compassedu.hk/majr_76549",
+        "program_name": "香港理工大学酒店业人工智能理学硕士",
+        "program_name_en": "MSc Artificial Intelligence in Hospitality",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/24045-maf-paf-map-pap-mhf-phf-mhp-php-mvf-pvf-mvp-pvp-mwf-pwf-mwp-pwp-mlf-plf-mlp-plp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "325500港币/年"
+    },
+    {
+        "id": "0d367ad0-444d-425d-b704-f3443afd729a",
+        "detail_page_url": "https://www.compassedu.hk/majr_61745",
+        "program_name": "格拉斯哥大学管理与可持续旅游理学硕士",
+        "program_name_en": "MSc Management & Sustainable Tourism",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/managementsustainabletourism/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29700英镑/年"
+    },
+    {
+        "id": "e9e779f8-2d52-4276-b320-77963d1b6d0a",
+        "detail_page_url": "https://www.compassedu.hk/majr_71528",
+        "program_name": "格拉斯哥大学可持续旅游与全球挑战理学硕士",
+        "program_name_en": "MSc Sustainable Tourism & Global Challenges",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/sustainabletourismglobalchallenges/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25320英镑/年"
+    },
+    {
+        "id": "345e7b17-4683-40a2-a8fd-b8e32bda7655",
+        "detail_page_url": "https://www.compassedu.hk/majr_75285",
+        "program_name": "格拉斯哥大学旅游遗产理学硕士",
+        "program_name_en": "MSc Tourism & Heritage",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/tourism-heritage/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25320英镑/年"
+    },
+    {
+        "id": "367e3c0d-b5e5-4880-beb6-96760ad4d6e7",
+        "detail_page_url": "https://www.compassedu.hk/majr_76405",
+        "program_name": "阿德莱德大学旅游、活动与酒店管理硕士",
+        "program_name_en": "Master of Tourism, Events and Hospitality Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-tourism-events-and-hospitality-management/int/",
+        "university_name": "阿德莱德大学",
+        "university_name_en": "The University of Adelaide",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "13",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "50500澳元/年"
+    },
+    {
+        "id": "d72cacc8-bd30-425e-8765-034b04d40ba0",
+        "detail_page_url": "https://www.compassedu.hk/majr_65165",
+        "program_name": "诺丁汉大学国际旅游管理与营销理学硕士",
+        "program_name_en": "MSc International Tourism Management and Marketing",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/international-tourism-management-and-marketing-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28200英镑/年"
+    },
+    {
+        "id": "bd61f82d-0503-4d3f-aa57-7b7b9dd04ee9",
+        "detail_page_url": "https://www.compassedu.hk/majr_75747",
+        "program_name": "马来西亚理科大学旅游发展理学硕士",
+        "program_name_en": "MSc Tourism Development",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/1386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "http://hbp.usm.my/index.php/academics/postgraduate-msc/master-by-mixed-mode/msc-tourism-development",
+        "university_name": "马来西亚理科大学",
+        "university_name_en": "University of Science Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "40",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "47",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "4/10月",
+        "duration": "1年",
+        "tuition": "7480美元/年"
+    },
+    {
+        "id": "f32dab30-34e0-4239-bb1b-316ccb442e6d",
+        "detail_page_url": "https://www.compassedu.hk/majr_75938",
+        "program_name": "马来西亚理工大学旅游规划硕士",
+        "program_name_en": "Master in Tourism Planning",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://builtsurvey.utm.my/academic/tourism-planning/",
+        "university_name": "马来西亚理工大学",
+        "university_name_en": "Universiti Teknologi Malaysia",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2024-12-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "60",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1.5年",
+        "tuition": "19667马币/年"
+    },
+    {
+        "id": "f28a19ec-5cc8-4980-8635-39836c0c1f4c",
+        "detail_page_url": "https://www.compassedu.hk/majr_73349",
+        "program_name": "埃克塞特大学可持续商业管理（旅游）理学硕士",
+        "program_name_en": "MSc Sustainable Business Management (Tourism)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/business/sustainable-business-tourism/",
+        "university_name": "埃克塞特大学",
+        "university_name_en": "University of Exeter",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-23",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "21",
+                "阅读": "21",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30700英镑/年"
+    },
+    {
+        "id": "1fdcdc97-7f97-4119-8678-510379538b6d",
+        "detail_page_url": "https://www.compassedu.hk/majr_53603",
+        "program_name": "思克莱德大学旅游市场管理理学硕士",
+        "program_name_en": "MSc Tourism Marketing Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/tourismmarketingmanagement/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "bf8c591f-ee18-4c14-b1ea-7a5b2c5ce542",
+        "detail_page_url": "https://www.compassedu.hk/majr_50420",
+        "program_name": "萨里大学国际活动管理理学硕士",
+        "program_name_en": "MSc International Events Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/international-events-management-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "19900英镑/年"
+    },
+    {
+        "id": "467ec17a-8a3a-4ee0-b69a-f8a094e9c970",
+        "detail_page_url": "https://www.compassedu.hk/majr_50421",
+        "program_name": "萨里大学国际酒店管理理学硕士",
+        "program_name_en": "MSc International Hotel Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/international-hotel-management-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "19900英镑/年"
+    },
+    {
+        "id": "3fd1552d-3ca9-48c9-a327-72925eb47ba1",
+        "detail_page_url": "https://www.compassedu.hk/majr_50423",
+        "program_name": "萨里大学国际旅游管理理学硕士",
+        "program_name_en": "MSc International Tourism Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/international-tourism-management-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "19900英镑/年"
+    },
+    {
+        "id": "47a7f3dd-d2c8-44e3-bfe5-b6f7fdcf00c6",
+        "detail_page_url": "https://www.compassedu.hk/majr_50425",
+        "program_name": "萨里大学战略酒店管理理学硕士",
+        "program_name_en": "MSc Strategic Hotel Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/strategic-hotel-management-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "19900英镑/年"
+    },
+    {
+        "id": "e7aebb03-1159-4751-8987-3f22364669b1",
+        "detail_page_url": "https://www.compassedu.hk/majr_63053",
+        "program_name": "澳门大学国际综合度假村管理理学硕士",
+        "program_name_en": "MSc International Integrated Resort Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://fba.um.edu.mo/pgraduate/iirm/",
+        "university_name": "澳门大学",
+        "university_name_en": "University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-03",
+                "application_end_date": [
+                    "2025-01-02",
+                    "2025-03-14"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "102000澳门币/年"
+    },
+    {
+        "id": "dbbf09a1-4376-4dcc-8403-2fa690ae263c",
+        "detail_page_url": "https://www.compassedu.hk/majr_63028",
+        "program_name": "澳门科技大学国际旅游管理硕士",
+        "program_name_en": "Master of International Tourism Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.must.edu.mo/cn/fhtm/programme/masters-degree-programme/study-plan",
+        "university_name": "澳门科技大学",
+        "university_name_en": "Macau University of Science and Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-10",
+                "application_end_date": [
+                    "2025-02-13"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "真人单面",
+        "intakeSeason": "1/9月",
+        "duration": "2年",
+        "tuition": "120000港币/年"
+    },
+    {
+        "id": "f656b3bf-d488-4a3b-b947-6fbece74b8f1",
+        "detail_page_url": "https://www.compassedu.hk/majr_63030",
+        "program_name": "澳门科技大学酒店管理硕士",
+        "program_name_en": "Master of Hotel Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.must.edu.mo/cn/fhtm/programme/master-hotel-manage/study-plan",
+        "university_name": "澳门科技大学",
+        "university_name_en": "Macau University of Science and Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-10",
+                "application_end_date": [
+                    "2025-02-13"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "2年",
+        "tuition": "120000港币/年"
+    },
+    {
+        "id": "515dcf6d-3ed2-4c76-9d4f-e4edead64442",
+        "detail_page_url": "https://www.compassedu.hk/majr_64890",
+        "program_name": "埃塞克斯大学国际酒店管理理学硕士",
+        "program_name_en": "MSc International Hospitality Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.essex.ac.uk/courses/PG01115/1/MSc-International-Hospitality-Management",
+        "university_name": "埃塞克斯大学",
+        "university_name_en": "University of Essex",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2024-11-11"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-13",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "76",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "50",
+                "听力": "42",
+                "阅读": "42",
+                "写作": "50",
+                "口语": "42"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/10月",
+        "duration": "1年",
+        "tuition": "20700英镑/年"
+    },
+    {
+        "id": "5c198885-a1fa-42e3-812a-64e667d412eb",
+        "detail_page_url": "https://www.compassedu.hk/majr_63125",
+        "program_name": "凯致商学院葡萄酒与酒店管理",
+        "program_name_en": "Master of Science in Wine and Hospitality Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/356.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "http://kedge-bs.cn/programmes/master-of-science-in-wine-hospitality-management",
+        "university_name": "凯致商学院",
+        "university_name_en": "KEDGE Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "2年",
+        "tuition": "16450欧元/年"
+    },
+    {
+        "id": "cfa2317a-1210-4c84-ba49-d3862dec3bce",
+        "detail_page_url": "https://www.compassedu.hk/majr_63175",
+        "program_name": "埃塞克高等商学院酒店管理",
+        "program_name_en": "MSc in Hospitality Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/359.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.essec.edu/en/program/mscs/MSc-in-Hospitality-Management-IMHI/",
+        "university_name": "埃塞克高等商学院",
+        "university_name_en": "ESSEC Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-10-23",
+                    "2025-01-07",
+                    "2025-03-03",
+                    "2025-04-22"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30000欧元/年"
+    },
+    {
+        "id": "97ec0d2a-3ae3-4287-926f-6ad55f23b531",
+        "detail_page_url": "https://www.compassedu.hk/majr_63194",
+        "program_name": "里昂商学院国际酒店管理专业硕士",
+        "program_name_en": "MSc in International Hospitality Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/358.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "http://en.em-lyon.com.cn/program/MSc-in-International-Hospitality-Management",
+        "university_name": "里昂商学院",
+        "university_name_en": "EMLYON Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-02",
+                    "2025-01-13",
+                    "2025-02-17",
+                    "2025-03-17",
+                    "2025-04-16",
+                    "2025-05-19",
+                    "2025-06-16",
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "19167欧元/年"
+    },
+    {
+        "id": "2c567d5c-3b2e-47f4-9cff-14b66040f937",
+        "detail_page_url": "https://www.compassedu.hk/majr_63198",
+        "program_name": "澳门城市大学国际款待与旅游业管理硕士（中文学制）",
+        "program_name_en": "Master of International Hospitality and Tourism Management (Chinese)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/352.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://fitm.cityu.edu.mo/Course-2/44",
+        "university_name": "澳门城市大学",
+        "university_name_en": "City University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "100000港币/年"
+    },
+    {
+        "id": "ed892005-a02d-4f69-9a7d-2bb958c1a2a6",
+        "detail_page_url": "https://www.compassedu.hk/majr_63201",
+        "program_name": "澳门城市大学国际款待与旅游业管理硕士（英文学制）",
+        "program_name_en": "Master of International Hospitality and Tourism Management (English)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/352.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://fitm.cityu.edu.mo/Course-2/43",
+        "university_name": "澳门城市大学",
+        "university_name_en": "City University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "100000港币/年"
+    },
+    {
+        "id": "583d1d57-c10b-43ae-8be2-06d76b9a4962",
+        "detail_page_url": "https://www.compassedu.hk/majr_63202",
+        "program_name": "澳门城市大学国际酒店管理硕士（中文学制）",
+        "program_name_en": "Master of International Hotel Management (Chinese)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/352.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://fitm.cityu.edu.mo/Course-2/46",
+        "university_name": "澳门城市大学",
+        "university_name_en": "City University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "100000港币/年"
+    },
+    {
+        "id": "5830740c-8b0d-44a9-b121-2aca6be2c9ae",
+        "detail_page_url": "https://www.compassedu.hk/majr_63204",
+        "program_name": "澳门城市大学国际酒店管理硕士（英文学制）",
+        "program_name_en": "Master of International Hotel Management (English)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/352.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://fitm.cityu.edu.mo/Course-2/45",
+        "university_name": "澳门城市大学",
+        "university_name_en": "City University of Macau",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "100000港币/年"
+    },
+    {
+        "id": "9766c542-c7ea-4e79-bbec-a662361b401c",
+        "detail_page_url": "https://www.compassedu.hk/majr_63262",
+        "program_name": "欧洲高等商学院酒店及旅游管理硕士",
+        "program_name_en": "MSc in Hospitality & Tourism Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/363.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.escpeurope.eu/programmes/specialised-masters-MScs/MSc-in-hospitality-and-tourism-management",
+        "university_name": "欧洲高等商学院",
+        "university_name_en": "ESCP Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-11-10",
+                    "2025-01-12",
+                    "2025-02-09",
+                    "2025-03-02",
+                    "2025-03-30",
+                    "2025-05-04",
+                    "2025-05-18",
+                    "2025-06-15",
+                    "2025-08-24"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "95",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.25年",
+        "tuition": "23600欧元/年"
+    },
+    {
+        "id": "ef0f755d-4161-4ac9-9e5d-b2c43b984743",
+        "detail_page_url": "https://www.compassedu.hk/majr_64151",
+        "program_name": "瓦格宁根大学旅游、社会与环境理学硕士",
+        "program_name_en": "MSc Tourism, Society and Environment",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/385.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-Tourism-Society-and-Environment.htm",
+        "university_name": "瓦格宁根大学",
+        "university_name_en": "Wageningen University & Research",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-04-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "23"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "21200欧元/年"
+    },
+    {
+        "id": "11bb7d1c-f256-41bb-ab4b-dcc64b947bfe",
+        "detail_page_url": "https://www.compassedu.hk/majr_65184",
+        "program_name": "威斯敏斯特大学会展设计与管理文学硕士",
+        "program_name_en": "MA Event Design and Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/tourism-and-events-management-courses/2025-26/september/full-time/event-design-and-management-ma",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "17500英镑/年"
+    },
+    {
+        "id": "e86be21d-0a10-4615-8055-b584f37392a4",
+        "detail_page_url": "https://www.compassedu.hk/majr_65185",
+        "program_name": "威斯敏斯特大学旅游管理文学硕士",
+        "program_name_en": "MA Tourism Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/tourism-and-events-management-courses/2025-26/september/full-time/tourism-management-ma",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6.5",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "24",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "17500英镑/年"
+    },
+    {
+        "id": "33f81414-1fb1-4848-a4aa-7f09fd398c97",
+        "detail_page_url": "https://www.compassedu.hk/majr_65378",
+        "program_name": "考文垂大学国际酒店与旅游管理理学硕士",
+        "program_name_en": "MSc International Hospitality and Tourism Management",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/london/course-structure/pg/international-hospitality-and-tourism-management-msc/",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2024-12-23"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "20050英镑/年"
+    },
+    {
+        "id": "184f1cca-2a08-446d-97e8-ff9bd304c1d6",
+        "detail_page_url": "https://www.compassedu.hk/majr_71561",
+        "program_name": "香港都会大学文化及保育旅游文学硕士（英文版）",
+        "program_name_en": "MA Cultural and Heritage Tourism (English Version)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hkmu.edu.hk/as/programmes-courses/tpg/macahtf/",
+        "university_name": "香港都会大学",
+        "university_name_en": "Hong Kong Metropolitan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "118950港币/年"
+    },
+    {
+        "id": "cb80c2e0-2366-4a3b-827b-7b5f62888f36",
+        "detail_page_url": "https://www.compassedu.hk/majr_71562",
+        "program_name": "香港都会大学文化及保育旅游文学硕士（中文版）",
+        "program_name_en": "MA Cultural and Heritage Tourism (Chinese Version)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hkmu.edu.hk/as/tc/programmes-courses/tpg/macahtf/",
+        "university_name": "香港都会大学",
+        "university_name_en": "Hong Kong Metropolitan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "笔试/真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "118950港币/年"
+    },
+    {
+        "id": "178ed52e-5604-4f5f-8994-85bd024e6b13",
+        "detail_page_url": "https://www.compassedu.hk/majr_76097",
+        "program_name": "香港都会大学酒店业务专业管理硕士",
+        "program_name_en": "Master of Professional Management in Hotel Business",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hkmu.edu.hk/ba/mpmhbf/",
+        "university_name": "香港都会大学",
+        "university_name_en": "Hong Kong Metropolitan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "300550港币/年"
+    },
+    {
+        "id": "778fdf29-b281-412a-9064-a0f8eb9633f9",
+        "detail_page_url": "https://www.compassedu.hk/majr_76098",
+        "program_name": "香港都会大学酒店业务专业管理硕士（循途径一）",
+        "program_name_en": "Master of Professional Management in Hotel Business (through Pathway 1)",
+        "primary_category": "商科",
+        "secondary_category": "旅游酒店管理",
+        "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.hkmu.edu.hk/ba/mpmhbf/",
+        "university_name": "香港都会大学",
+        "university_name_en": "Hong Kong Metropolitan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-15",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "六级",
+                "总分要求": "430"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "223690港币/年"
+    }
+]

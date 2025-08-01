@@ -1,0 +1,2861 @@
+[
+    {
+        "completion_rate": "54 / 54",
+        "fail_count": 0
+    },
+    {
+        "id": "24fe7766-c66b-465d-8cf4-57688993cf57",
+        "detail_page_url": "https://www.compassedu.hk/majr_50054",
+        "program_name": "帝国理工学院高级航空工程理学硕士",
+        "program_name_en": "MSc Advanced Aeronautical Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/advanced-aeronautical-engineering/",
+        "university_name": "帝国理工学院",
+        "university_name_en": "Imperial College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-27",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "20",
+                "阅读": "20",
+                "写作": "20",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "56",
+                "阅读": "56",
+                "写作": "56",
+                "口语": "56"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "42900英镑/年"
+    },
+    {
+        "id": "3f85001c-3fbc-4daf-8b2f-052d25d16c5d",
+        "detail_page_url": "https://www.compassedu.hk/majr_76318",
+        "program_name": "香港大学低空科技（工程）理学硕士",
+        "program_name_en": "MSc(Eng) Low-Altitude Technology",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-engineering-(low-altitude-technology)-engg",
+        "university_name": "香港大学",
+        "university_name_en": "The University of Hong Kong",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-31",
+                "application_end_date": [
+                    "2025-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "253340港币/年"
+    },
+    {
+        "id": "6e322418-07fc-42ca-83b2-1d9223a23d4d",
+        "detail_page_url": "https://www.compassedu.hk/majr_75382",
+        "program_name": "南洋理工大学航空理学硕士",
+        "program_name_en": "MSc Aviation",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/39.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-aviation",
+        "university_name": "南洋理工大学",
+        "university_name_en": "Nanyang Technological University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-04",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-07-01",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/8月",
+        "duration": "1年",
+        "tuition": "51503新币/年"
+    },
+    {
+        "id": "2eb3d912-8250-4cde-98b3-0f96ce558f4c",
+        "detail_page_url": "https://www.compassedu.hk/majr_66069",
+        "program_name": "新南威尔士大学工程科学硕士（空间系统工程）",
+        "program_name_en": "Master of Engineering Science (Space Systems Engineering)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-space-systems-engineering?studentType=international",
+        "university_name": "新南威尔士大学",
+        "university_name_en": "The University of New South Wales",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2025-01-09",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-01-09",
+                "application_end_date": [
+                    "2025-06-18"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "23",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "54",
+                "阅读": "54",
+                "写作": "54",
+                "口语": "54"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/5/9月",
+        "duration": "2年",
+        "tuition": "60500澳元/年"
+    },
+    {
+        "id": "129e986c-a408-429d-8df7-6608ea2c1f83",
+        "detail_page_url": "https://www.compassedu.hk/majr_64276",
+        "program_name": "慕尼黑工业大学航空航天",
+        "program_name_en": "MSc Aerospac",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tum.de/en/studies/degree-programs/detail/aerospace-master-of-science-msc/",
+        "university_name": "慕尼黑工业大学",
+        "university_name_en": "Technical University of Munich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-04-01",
+                "application_end_date": [
+                    "2025-05-31"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-09-01",
+                "application_end_date": [
+                    "2025-11-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "4/10月",
+        "duration": "2年",
+        "tuition": "12000欧元/年"
+    },
+    {
+        "id": "71c046cf-3d99-4ee6-8e90-7a0d6c74e8a5",
+        "detail_page_url": "https://www.compassedu.hk/majr_64278",
+        "program_name": "慕尼黑工业大学航空航天工程",
+        "program_name_en": "M.Sc. Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/389.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tum.de/en/studies/degree-programs/detail/aerospace-engineering-master-of-science-msc/",
+        "university_name": "慕尼黑工业大学",
+        "university_name_en": "Technical University of Munich",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "46093美元/年"
+    },
+    {
+        "id": "68433415-c386-4db7-8169-92525e4435aa",
+        "detail_page_url": "https://www.compassedu.hk/majr_53899",
+        "program_name": "悉尼大学专业工程学硕士（航空航天工程）",
+        "program_name_en": "Master of Professional Engineering (Aerospace Engineering)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sydney.edu.au/content/courses/courses/pc/master-of-professional-engineering-aerospace-engineering.html",
+        "university_name": "悉尼大学",
+        "university_name_en": "The University of Sydney",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-12-01"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-15"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-01"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-05-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "17",
+                "阅读": "17",
+                "写作": "19",
+                "口语": "17"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/8月",
+        "duration": "3年",
+        "tuition": "55100澳元/年"
+    },
+    {
+        "id": "ea99c893-7113-47b2-941c-631b393278ec",
+        "detail_page_url": "https://www.compassedu.hk/majr_62366",
+        "program_name": "悉尼大学专业工程硕士（加速）（航空航天工程）",
+        "program_name_en": "Master of Professional Engineering (Accelerated) (Aerospace Engineering)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sydney.edu.au/content/courses/courses/pc/master-of-professional-engineering-accelerated-aerospace-engineering.html",
+        "university_name": "悉尼大学",
+        "university_name_en": "The University of Sydney",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2024-12-01"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-05-15"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-01"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2026-05-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "85",
+                "听力": "17",
+                "阅读": "17",
+                "写作": "19",
+                "口语": "17"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/8月",
+        "duration": "2年",
+        "tuition": "55100澳元/年"
+    },
+    {
+        "id": "f00cf350-0de8-44f1-a2d7-a7331464279a",
+        "detail_page_url": "https://www.compassedu.hk/majr_52705",
+        "program_name": "曼彻斯特大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/08025/msc-aerospace-engineering/",
+        "university_name": "曼彻斯特大学",
+        "university_name_en": "The University of Manchester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-10",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "70",
+                "阅读": "70",
+                "写作": "70",
+                "口语": "70"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "36500英镑/年"
+    },
+    {
+        "id": "b7eb0f27-779c-47e1-909f-950dfe055e1d",
+        "detail_page_url": "https://www.compassedu.hk/majr_49716",
+        "program_name": "香港科技大学航空工程理学硕士",
+        "program_name_en": "MSc Aeronautical Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/42.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://prog-crs.hkust.edu.hk/pgprog/2025-26/msc-ae",
+        "university_name": "香港科技大学",
+        "university_name_en": "The Hong Kong University of Science and Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-02",
+                "application_end_date": [
+                    "2025-01-01",
+                    "2025-04-01",
+                    "2025-05-01",
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "188300港币/年"
+    },
+    {
+        "id": "07710508-0beb-45d7-ad19-682af5a8070f",
+        "detail_page_url": "https://www.compassedu.hk/majr_73641",
+        "program_name": "加州大学洛杉矶分校航空工程硕士",
+        "program_name_en": "MS in Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/104.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/mechanical-aerospace-engineering-department/aerospace-engineering/",
+        "university_name": "加州大学洛杉矶分校",
+        "university_name_en": "University of California, Los Angeles",
+        "apply_time": [],
+        "program_track": [],
+        "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+        "lang_examination": [
+            {
+                "考试类型": "托福",
+                "总分要求": "87",
+                "小分要求": "W25,S24,R21,L17"
+            },
+            {
+                "考试类型": "雅思",
+                "总分要求": "7"
+            },
+            {
+                "考试类型": "GRE",
+                "总分要求": "无要求"
+            }
+        ],
+        "interview": "暂无",
+        "stem": "STEM",
+        "intakeSeason": "秋季",
+        "duration": "5学期",
+        "tuition": "11,700美元/年"
+    },
+    {
+        "id": "b8f9bd5c-d6ec-4f62-8ac4-e8587b46be37",
+        "detail_page_url": "https://www.compassedu.hk/majr_63699",
+        "program_name": "代尔夫特理工大学航空航天工程理学硕士 - 航空航天结构与材料",
+        "program_name_en": "MSc Aerospace Engineering - Aerospace Structures & Materials",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering/master-tracks/aerospace-structures-materials",
+        "university_name": "代尔夫特理工大学",
+        "university_name_en": "Delft University of Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-15",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "21515欧元/年"
+    },
+    {
+        "id": "e723e622-2e7f-4a0a-8f3f-665ea844a9e1",
+        "detail_page_url": "https://www.compassedu.hk/majr_63731",
+        "program_name": "代尔夫特理工大学航空航天工程理学硕士 - 控制与操作",
+        "program_name_en": "MSc Aerospace Engineering - Control & Operations",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering/master-tracks/control-operations",
+        "university_name": "代尔夫特理工大学",
+        "university_name_en": "Delft University of Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-15",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "21515欧元/年"
+    },
+    {
+        "id": "118f518c-2c97-4578-91df-df85941edd69",
+        "detail_page_url": "https://www.compassedu.hk/majr_63755",
+        "program_name": "代尔夫特理工大学航空航天工程理学硕士 - 欧洲风能转子设计",
+        "program_name_en": "MSc Aerospace Engineering - European Wind Energy Master Track Rotor Design",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tudelft.nl/ewem/tracks/rotor-design",
+        "university_name": "代尔夫特理工大学",
+        "university_name_en": "Delft University of Technology",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-10-15",
+                "application_end_date": [
+                    "2024-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "21515欧元/年"
+    },
+    {
+        "id": "6cab0073-e419-438a-a109-41039d35cb7f",
+        "detail_page_url": "https://www.compassedu.hk/majr_63757",
+        "program_name": "代尔夫特理工大学航空航天工程理学硕士 - 飞行性能与推进力",
+        "program_name_en": "MSc Aerospace Engineering - Flight Performance and Propulsion",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering/master-tracks/flight-performance-and-propulsion",
+        "university_name": "代尔夫特理工大学",
+        "university_name_en": "Delft University of Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-15",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "21515欧元/年"
+    },
+    {
+        "id": "c8648fa9-1149-4ef4-a795-20e950bf551b",
+        "detail_page_url": "https://www.compassedu.hk/majr_63797",
+        "program_name": "代尔夫特理工大学航空航天工程理学硕士 - 太空",
+        "program_name_en": "MSc Aerospace Engineering - Space",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering/master-tracks/space",
+        "university_name": "代尔夫特理工大学",
+        "university_name_en": "Delft University of Technology",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-15",
+                "application_end_date": [
+                    "2025-01-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "21515欧元/年"
+    },
+    {
+        "id": "1008c1bd-b1d2-42a7-89cf-7f01b5792e76",
+        "detail_page_url": "https://www.compassedu.hk/majr_64406",
+        "program_name": "布里斯托大学空中机器人理学硕士",
+        "program_name_en": "MSc Aerial Robotics",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-aerial-robotics/",
+        "university_name": "布里斯托大学",
+        "university_name_en": "University of Bristol",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-18",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35400英镑/年"
+    },
+    {
+        "id": "27cbbd9e-587f-42c3-92a7-662a06015d93",
+        "detail_page_url": "https://www.compassedu.hk/majr_75252",
+        "program_name": "布里斯托大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-aerospace-engineering/",
+        "university_name": "布里斯托大学",
+        "university_name_en": "University of Bristol",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-18",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33900英镑/年"
+    },
+    {
+        "id": "37a90ae8-2ad4-481e-89ba-9768aaa589a4",
+        "detail_page_url": "https://www.compassedu.hk/majr_67647",
+        "program_name": "香港理工大学民航工程与营运管理学理学硕士",
+        "program_name_en": "MSc Aviation Engineering and Operations Management",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/48005-omf-omp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2024-11-21",
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "154000港币/年"
+    },
+    {
+        "id": "b9e1391b-6366-43c1-ab07-0b8477ef815b",
+        "detail_page_url": "https://www.compassedu.hk/majr_75246",
+        "program_name": "香港理工大学航空航天工程学理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/48006-amf-amp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2024-11-21",
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "132000港币/年"
+    },
+    {
+        "id": "a632ac95-e2a8-4797-b3ae-e334190a3e1a",
+        "detail_page_url": "https://www.compassedu.hk/majr_75294",
+        "program_name": "香港理工大学低空经济理学硕士",
+        "program_name_en": "MSc Low-altitude Economy",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/48007-lmf-lmp",
+        "university_name": "香港理工大学",
+        "university_name_en": "The Hong Kong Polytechnic University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-25",
+                "application_end_date": [
+                    "2024-11-21",
+                    "2025-04-30"
+                ]
+            },
+            {
+                "title": "26年秋季入学",
+                "application_start_date": "2025-07-02",
+                "application_end_date": [
+                    "2025-10-15",
+                    "2026-01-15",
+                    "2026-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1.5年",
+        "tuition": "176000港币/年"
+    },
+    {
+        "id": "39595fd7-b584-4796-bdbb-2476ededf684",
+        "detail_page_url": "https://www.compassedu.hk/majr_52430",
+        "program_name": "格拉斯哥大学航空航天工程与管理理学硕士",
+        "program_name_en": "MSc Aerospace Engineering & Management",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/aerospace-engineering-management/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-02-23",
+                "application_end_date": [
+                    "2024-11-29"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "33450英镑/年"
+    },
+    {
+        "id": "eee949da-83d1-44ed-917a-90a97aee8184",
+        "detail_page_url": "https://www.compassedu.hk/majr_62694",
+        "program_name": "格拉斯哥大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.gla.ac.uk/postgraduate/taught/aerospace-engineering/",
+        "university_name": "格拉斯哥大学",
+        "university_name_en": "University of Glasgow",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2024-11-04",
+                    "2024-12-16",
+                    "2025-02-03",
+                    "2025-03-24",
+                    "2025-05-12",
+                    "2025-07-07"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "19"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33450英镑/年"
+    },
+    {
+        "id": "e6482fef-f002-4d5b-85b6-6add96e4b2ea",
+        "detail_page_url": "https://www.compassedu.hk/majr_51040",
+        "program_name": "利兹大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://courses.leeds.ac.uk/g600/aerospace-engineering-msc",
+        "university_name": "利兹大学",
+        "university_name_en": "University of Leeds",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-06-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33000英镑/年"
+    },
+    {
+        "id": "2e3c74c9-c0c5-4383-9c81-fd5f9f4324a0",
+        "detail_page_url": "https://www.compassedu.hk/majr_51242",
+        "program_name": "南安普顿大学航天系统工程理学硕士",
+        "program_name_en": "MSc Space Systems Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.southampton.ac.uk/courses/space-systems-engineering-masters-msc",
+        "university_name": "南安普顿大学",
+        "university_name_en": "University of Southampton",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-26",
+                "application_end_date": [
+                    "2025-07-29"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "21",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "68",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33900英镑/年"
+    },
+    {
+        "id": "5c96a34e-f975-4190-80ad-970be2224d5e",
+        "detail_page_url": "https://www.compassedu.hk/majr_62915",
+        "program_name": "谢菲尔德大学高级航空技术理学硕士",
+        "program_name_en": "MSc Advanced Aerospace Technologies",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/advanced-aerospace-technologies-msc",
+        "university_name": "谢菲尔德大学",
+        "university_name_en": "The University of Sheffield",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "95",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "61",
+                "阅读": "61",
+                "写作": "61",
+                "口语": "61"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31190英镑/年"
+    },
+    {
+        "id": "6ec776d4-a561-4f42-a351-1085c7e5877e",
+        "detail_page_url": "https://www.compassedu.hk/majr_62916",
+        "program_name": "谢菲尔德大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/aerospace-engineering-msc",
+        "university_name": "谢菲尔德大学",
+        "university_name_en": "The University of Sheffield",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "56",
+                "阅读": "56",
+                "写作": "56",
+                "口语": "56"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31190英镑/年"
+    },
+    {
+        "id": "679310de-8799-4347-86d7-312359be4880",
+        "detail_page_url": "https://www.compassedu.hk/majr_66292",
+        "program_name": "伦敦大学玛丽皇后学院高级航空航天工程理学硕士",
+        "program_name_en": "MSc Advanced Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/advanced-aerospace-engineering-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-12",
+                "application_end_date": [
+                    "2025-07-14"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29950英镑/年"
+    },
+    {
+        "id": "f3495370-5018-40c6-ae3c-1af7916922e2",
+        "detail_page_url": "https://www.compassedu.hk/majr_74334",
+        "program_name": "皇家墨尔本理工大学工程硕士（航空航天）",
+        "program_name_en": "Master of Engineering (Aerospace)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-engineering-aerospace-mc225",
+        "university_name": "皇家墨尔本理工大学",
+        "university_name_en": "Royal Melbourne Institute of Technology",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-03-05"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-11",
+                "application_end_date": [
+                    "2025-07-23"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-07-28",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "47040澳元/年"
+    },
+    {
+        "id": "fd407cb7-9684-4df6-9285-baf35b137f5c",
+        "detail_page_url": "https://www.compassedu.hk/majr_53373",
+        "program_name": "利物浦大学高级航空航天工程（工程）理学硕士",
+        "program_name_en": "MSc(Eng) Advanced Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.liverpool.ac.uk/courses/2025/advanced-aerospace-engineering-msc-eng",
+        "university_name": "利物浦大学",
+        "university_name_en": "University of Liverpool",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-11"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29900英镑/年"
+    },
+    {
+        "id": "399230ba-5b87-476b-bb6d-dc28c78c953d",
+        "detail_page_url": "https://www.compassedu.hk/majr_53546",
+        "program_name": "思克莱德大学高级机械工程与航空航天理学硕士",
+        "program_name_en": "MSc Advanced Mechanical Engineering with Aerospace",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedmechanicalengineeringwithaerospace/",
+        "university_name": "思克莱德大学",
+        "university_name_en": "University of Strathclyde",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-19",
+                "application_end_date": [
+                    "-"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-14",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "18",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "60",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "31100英镑/年"
+    },
+    {
+        "id": "949bdea2-f88a-44ee-8702-a52319c4c24e",
+        "detail_page_url": "https://www.compassedu.hk/majr_50400",
+        "program_name": "萨里大学航天工程理学硕士",
+        "program_name_en": "MSc Space Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.surrey.ac.uk/postgraduate/space-engineering-msc",
+        "university_name": "萨里大学",
+        "university_name_en": "University of Surrey",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-18",
+                "application_end_date": [
+                    "2024-12-13"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-07-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "6",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "19",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "64",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/9月",
+        "duration": "1年",
+        "tuition": "24900英镑/年"
+    },
+    {
+        "id": "1c78449d-afc9-458b-a673-39d8b1ef20d0",
+        "detail_page_url": "https://www.compassedu.hk/majr_66439",
+        "program_name": "莱斯特大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://le.ac.uk/courses/aerospace-engineering-msc/2025?option=September%202025",
+        "university_name": "莱斯特大学",
+        "university_name_en": "University of Leicester",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-06-06",
+                "application_end_date": [
+                    "2024-12-01"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-19",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/9月",
+        "duration": "1年",
+        "tuition": "23650英镑/年"
+    },
+    {
+        "id": "bf8561f6-3d50-4ee8-8604-ce1ec0698c09",
+        "detail_page_url": "https://www.compassedu.hk/majr_74732",
+        "program_name": "莱斯特大学航天器工程理学硕士",
+        "program_name_en": "MSc Spacecraft Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://le.ac.uk/courses/spacecraft-engineering-msc/2025",
+        "university_name": "莱斯特大学",
+        "university_name_en": "University of Leicester",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-19",
+                "application_end_date": [
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29000英镑/年"
+    },
+    {
+        "id": "ddb2641b-bb78-416a-b814-c352c75c7c8b",
+        "detail_page_url": "https://www.compassedu.hk/majr_63496",
+        "program_name": "列日大学航空航天土木工程师，专业从事“涡轮机械航空力学（THRUST）”",
+        "program_name_en": "Aerospace civil engineer, professional focus in \"turbomachinery aeromechanics (THRUST)\"",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/373.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.programmes.uliege.be/cocoon/20202021/formations/bref/A2STHR01.html",
+        "university_name": "列日大学",
+        "university_name_en": "University of Liege",
+        "apply_time": [
+            {
+                "title": "20年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2021-04-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "5.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "72",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "2年",
+        "tuition": "4175欧元/年"
+    },
+    {
+        "id": "e5785ddb-f400-471f-8059-147945c2cc51",
+        "detail_page_url": "https://www.compassedu.hk/majr_5028",
+        "program_name": "慕尼黑工业大学亚洲分校航空工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/348.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://tum-asia.edu.sg/admissions/graduate/msc-aerospace-engineering/",
+        "university_name": "慕尼黑工业大学亚洲分校",
+        "university_name_en": "Technical University of Munich Asia",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-03-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "8月",
+        "duration": "2年",
+        "tuition": "19620新币/年"
+    },
+    {
+        "id": "53039765-1f1e-4e99-8c06-fa9944ae55d6",
+        "detail_page_url": "https://www.compassedu.hk/majr_63232",
+        "program_name": "图卢兹商学院航空管理",
+        "program_name_en": "MSc Aerospace Management",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/362.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.tbs-education.com/program/msc-aerospace-management/",
+        "university_name": "图卢兹商学院",
+        "university_name_en": "Toulouse Business School",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-07-30"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "80",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "19500欧元/年"
+    },
+    {
+        "id": "b9aa79a9-1e6e-4142-a59b-f31832d056a5",
+        "detail_page_url": "https://www.compassedu.hk/majr_65309",
+        "program_name": "考文垂大学航空航天工程理学硕士",
+        "program_name_en": "MSc Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/aerospace-engineering-msc/?term=2024-25",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "20050英镑/年"
+    },
+    {
+        "id": "d66d6490-82b7-4ed8-8bbe-40ebd5e957a0",
+        "detail_page_url": "https://www.compassedu.hk/majr_65402",
+        "program_name": "克兰菲尔德大学高级轻质复合结构理学硕士",
+        "program_name_en": "MSc Advanced Lightweight and Composite Structures",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/advanced-lightweight-and-composite-structures",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "e2f01d34-39b1-400f-b7ed-789f84194f15",
+        "detail_page_url": "https://www.compassedu.hk/majr_65403",
+        "program_name": "克兰菲尔德大学航空航天计算工程理学硕士",
+        "program_name_en": "MSc Aerospace Computational Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/aerospace-computational-engineering",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "bd4dc58c-3968-43ca-9946-12ee1d77eb77",
+        "detail_page_url": "https://www.compassedu.hk/majr_65404",
+        "program_name": "克兰菲尔德大学航空航天动力学理学硕士（飞行动力学）",
+        "program_name_en": "MSc Aerospace Dynamics (Flight Dynamics)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/aerospace-dynamics",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "1a6295be-7be8-4180-8ea9-21a2fed1f6aa",
+        "detail_page_url": "https://www.compassedu.hk/majr_65405",
+        "program_name": "克兰菲尔德大学航空航天动力学理学硕士（空气动力学）",
+        "program_name_en": "MSc Aerospace Dynamics (Aerodynamics)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/aerospace-dynamics",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "a05f88f7-6567-43c3-b728-61144b11cd8a",
+        "detail_page_url": "https://www.compassedu.hk/majr_65406",
+        "program_name": "克兰菲尔德大学热动力与推进理学硕士（航天推进）",
+        "program_name_en": "MSc Thermal Power and Propulsion (Aerospace Propulsion)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/aerospace-propulsion-option-thermal-power",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "1年",
+        "tuition": "31775英镑/年"
+    },
+    {
+        "id": "a432a297-c992-4e32-9cc0-eeb14b2ea484",
+        "detail_page_url": "https://www.compassedu.hk/majr_65407",
+        "program_name": "克兰菲尔德大学航空航天飞行器设计理学硕士（飞机设计）",
+        "program_name_en": "MSc Aerospace Vehicle Design (Aircraft Design)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/avd-option-aircraft-design",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/9月",
+        "duration": "1年",
+        "tuition": "31775英镑/年"
+    },
+    {
+        "id": "b8f4bf56-8a26-4379-80e3-135cbbb4b785",
+        "detail_page_url": "https://www.compassedu.hk/majr_65408",
+        "program_name": "克兰菲尔德大学航空航天飞行器设计理学硕士（航电系统设计）",
+        "program_name_en": "MSc Aerospace Vehicle Design (Avionic Systems Design)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/avd-option-in-avionic-systems-design",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/9月",
+        "duration": "1年",
+        "tuition": "31775英镑/年"
+    },
+    {
+        "id": "81c313be-9818-450a-ad68-755892c35454",
+        "detail_page_url": "https://www.compassedu.hk/majr_65409",
+        "program_name": "克兰菲尔德大学航空航天飞行器设计理学硕士（结构设计）",
+        "program_name_en": "MSc Aerospace Vehicle Design (Structural Design)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/avd-option-in-structural-design",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "31775英镑/年"
+    },
+    {
+        "id": "babbf8fa-8d2d-4446-86e8-df5f8c58cb24",
+        "detail_page_url": "https://www.compassedu.hk/majr_65411",
+        "program_name": "克兰菲尔德大学航天与空间工程理学硕士",
+        "program_name_en": "MSc Astronautics and Space Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/astronautics-and-space-engineering",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "31775英镑/年"
+    },
+    {
+        "id": "b6fe0768-be32-47aa-9631-aac3095d8dda",
+        "detail_page_url": "https://www.compassedu.hk/majr_65456",
+        "program_name": "克兰菲尔德大学航空制造理学硕士",
+        "program_name_en": "MSc Aerospace Manufacturing",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/aerospace-manufacturing",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "65e5600e-04ae-43a0-857c-309746c4c482",
+        "detail_page_url": "https://www.compassedu.hk/majr_65485",
+        "program_name": "克兰菲尔德大学航空安全与人为因素理学硕士",
+        "program_name_en": "MSc Safety and Human Factors in Aviation",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/safety-and-human-factors-in-aviation",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "f1115a8a-cccc-40f6-9571-73c940cc9324",
+        "detail_page_url": "https://www.compassedu.hk/majr_71639",
+        "program_name": "克兰菲尔德大学航空数字化技术管理理学硕士",
+        "program_name_en": "MSc Aviation Digital Technology Management",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/aviation-digital-technology-management",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "60c8f717-fb24-4eff-ab3b-e0ab5add2be5",
+        "detail_page_url": "https://www.compassedu.hk/majr_71640",
+        "program_name": "克兰菲尔德大学高级空中机动系统理学硕士",
+        "program_name_en": "MSc Advanced Air Mobility Systems",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/advanced-air-mobility-systems",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "27910英镑/年"
+    },
+    {
+        "id": "9f8321e2-b93c-43f4-8e68-1767fcd070ed",
+        "detail_page_url": "https://www.compassedu.hk/majr_74296",
+        "program_name": "克兰菲尔德大学热动力与推进理学硕士（船舶推进技术）",
+        "program_name_en": "MSc Thermal Power and Propulsion (Marine Propulsion Technology)",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cranfield.ac.uk/courses/taught/marine-propulsion-technology-option-thermal-power",
+        "university_name": "克兰菲尔德大学",
+        "university_name_en": "Cranfield University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-30",
+                "application_end_date": [
+                    "2025-07-21"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "65",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "3/10月",
+        "duration": "1年",
+        "tuition": "31775英镑/年"
+    },
+    {
+        "id": "df807c7f-d545-4877-b2c4-5fe070505061",
+        "detail_page_url": "https://www.compassedu.hk/majr_74462",
+        "program_name": "伦敦大学城市学院高级航空航天工程与可持续技术理学硕士",
+        "program_name_en": "MSc Advanced Aerospace Engineering with Sustainable Technologies",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.city.ac.uk/prospective-students/courses/postgraduate/advanced-aerospace-engineering-with-sustainable-technologies",
+        "university_name": "伦敦大学城市学院",
+        "university_name_en": "City, University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-01",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "62",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "22850英镑/年"
+    },
+    {
+        "id": "18c64826-dd7b-4f06-b50c-a7682eb1a3b5",
+        "detail_page_url": "https://www.compassedu.hk/majr_76336",
+        "program_name": "考文垂大学高级航空航天工程理学硕士",
+        "program_name_en": "MSc Advanced Aerospace Engineering",
+        "primary_category": "工科",
+        "secondary_category": "航空工程",
+        "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/advanced-aerospace-engineering-msc/?term=2025-26",
+        "university_name": "考文垂大学",
+        "university_name_en": "Coventry University",
+        "apply_time": [
+            {
+                "title": "24年秋季入学",
+                "application_start_date": "2023-09-01",
+                "application_end_date": [
+                    "2024-07-31"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-01",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "19",
+                "写作": "19",
+                "口语": "19"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9/11月",
+        "duration": "1年",
+        "tuition": "18600英镑/年"
+    }
+]

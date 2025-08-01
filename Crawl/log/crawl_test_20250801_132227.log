@@ -1,0 +1,228 @@
+2025-08-01 13:22:28 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-01 13:22:28 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-01 13:22:28 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/test_urls.csv
+2025-08-01 13:22:28 [program_spider] INFO: 文件是否存在: True
+2025-08-01 13:22:28 [program_spider] INFO: 
+================================================================================
+2025-08-01 13:22:28 [program_spider] INFO: 成功加载 50 个项目
+2025-08-01 13:22:28 [program_spider] INFO: 允许的域名: ['www.kuleuven.be', 'www.lse.ac.uk', 'www.manchester.ac.uk', 'www.liverpool.ac.uk', 'education.um.edu.my', 'www.bath.ac.uk', 'study.unimelb.edu.au', 'www.monash.edu', 'www.sheffield.ac.uk', 'www.rmit.edu.au', 'www.bristol.ac.uk', 'www.southampton.ac.uk', 'www.kcl.ac.uk', 'ms.caltech.edu', 'www.exeter.ac.uk', 'www.nottingham.ac.uk', 'www.sydney.edu.au', 'admission.usm.my', 'law.stanford.edu', 'www.uwa.edu.au', 'www.ntu.edu.sg', 'www.ucl.ac.uk', 'engine.um.edu.my', 'www.st-andrews.ac.uk', 'courses.leeds.ac.uk', 'www.qub.ac.uk', 'www.birmingham.ac.uk', 'cse.ucsd.edu', 'www.me.washington.edu', 'portal.hku.hk', 'www.universiteitleiden.nl', 'bioe.uw.edu', 'www.uu.nl', 'www.durham.ac.uk', 'adelaideuni.edu.au', 'www.kenan-flagler.unc.edu', 'studiekiezer.ugent.be', 'www.mq.edu.au', 'www.cardiff.ac.uk']
+2025-08-01 13:22:28 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-01 13:22:28 [program_spider] INFO: ================================================================================
+2025-08-01 13:22:28 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-01 13:22:28 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-01 13:22:28 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-01 13:22:28 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_test_20250801_132227.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-01 13:22:28 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-01 13:22:28 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-01 13:22:28 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-01 13:22:28 [program_spider] INFO: 
+================================================================================
+2025-08-01 13:22:28 [program_spider] INFO: 开始爬取项目 [1/50]
+2025-08-01 13:22:28 [program_spider] INFO: 项目名称: 荷语鲁汶大学能源工程
+2025-08-01 13:22:28 [program_spider] INFO: 项目ID: 2879618e-a9e5-4191-acb3-837ea1609a0b
+2025-08-01 13:22:28 [program_spider] INFO: 根URL: https://www.kuleuven.be/programmes/master-engineering-energy#Admission
+2025-08-01 13:22:28 [program_spider] INFO: 剩余项目数: 49
+2025-08-01 13:22:28 [program_spider] INFO: ================================================================================
+2025-08-01 13:22:28 [scrapy.core.engine] INFO: Spider opened
+2025-08-01 13:22:28 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 正在处理根页面 (已处理0个页面): https://www.kuleuven.be/programmes/master-engineering-energy
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 页面 https://www.kuleuven.be/programmes/master-engineering-energy (depth=0, is_root=True) 提取到 5 个链接
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 爬取子链接: 匹配链接: https://www.kuleuven.be/english/apply/index (锚文本: '锚文本: Apply now', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 爬取子链接: 匹配链接: https://www.kuleuven.be/english/application/application-instructions/apply-to-kuleuven (锚文本: '锚文本: how to apply', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 爬取子链接: 匹配链接: http://www.kuleuven.be/scholarships (锚文本: '锚文本: scholarships', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 爬取子链接: 匹配链接: https://www.kuleuven.be/tuitionfees (锚文本: '锚文本: tuition fees', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 爬取子链接: 匹配链接: https://www.kuleuven.be/brochures/en/educationbrochures?search=international%20programmes (锚文本: '锚文本: Download the International Programmes brochure', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 添加 5 个新请求，当前剩余: 5
+2025-08-01 13:22:29 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 已处理页面: 1, 剩余请求数: 5
+2025-08-01 13:22:30 [program_spider] ERROR: [2879618e-a9e5-4191-acb3-837ea1609a0b] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.kuleuven.be/english/apply/index: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:30 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 已处理页面: 2, 剩余请求数: 4
+2025-08-01 13:22:32 [program_spider] ERROR: [2879618e-a9e5-4191-acb3-837ea1609a0b] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.kuleuven.be/brochures/en/educationbrochures?search=international%20programmes: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:32 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 已处理页面: 3, 剩余请求数: 3
+2025-08-01 13:22:34 [program_spider] ERROR: [2879618e-a9e5-4191-acb3-837ea1609a0b] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.kuleuven.be/tuitionfees: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:34 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 已处理页面: 4, 剩余请求数: 2
+2025-08-01 13:22:36 [program_spider] ERROR: [2879618e-a9e5-4191-acb3-837ea1609a0b] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20http://www.kuleuven.be/scholarships: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:36 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 已处理页面: 5, 剩余请求数: 1
+2025-08-01 13:22:38 [program_spider] ERROR: [2879618e-a9e5-4191-acb3-837ea1609a0b] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.kuleuven.be/english/application/application-instructions/apply-to-kuleuven: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 已处理页面: 6, 剩余请求数: 0
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 项目在错误处理中完成，立即收尾 …
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 正在完成项目
+2025-08-01 13:22:38 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 项目完成: 荷语鲁汶大学能源工程
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b]   - 总页数: 1
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b]   - 成功页数: 1
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b]   - 失败页数: 5
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b]   - 成功率: 16.7%
+2025-08-01 13:22:38 [program_spider] INFO: ------------------------------------------------------------
+2025-08-01 13:22:38 [program_spider] INFO: 成功保存项目数据: output/荷语鲁汶大学能源工程_能源.json
+2025-08-01 13:22:38 [program_spider] INFO: [2879618e-a9e5-4191-acb3-837ea1609a0b] 仍有 49 个项目待爬，将在爬虫空闲时继续。
+2025-08-01 13:22:38 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-01 13:22:38 [program_spider] INFO: 
+================================================================================
+2025-08-01 13:22:38 [program_spider] INFO: 开始爬取项目 [2/50]
+2025-08-01 13:22:38 [program_spider] INFO: 项目名称: 伦敦政治经济学院法规学理学硕士
+2025-08-01 13:22:38 [program_spider] INFO: 项目ID: 5c7de95a-65bd-4042-b17f-53262c3cccee
+2025-08-01 13:22:38 [program_spider] INFO: 根URL: https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation
+2025-08-01 13:22:38 [program_spider] INFO: 剩余项目数: 48
+2025-08-01 13:22:38 [program_spider] INFO: ================================================================================
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 正在处理根页面 (已处理0个页面): https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 页面 https://www.lse.ac.uk/study-at-lse/graduate/msc-regulation (depth=0, is_root=True) 提取到 14 个链接
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply (锚文本: '锚文本: How to apply', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements (锚文本: '锚文本: Read more about our English language requirements', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: http://www.lse.ac.uk/resources/calendar/courseGuides/GV/2023_GV499.htm (锚文本: '锚文本: Dissertation', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/government/study (锚文本: '锚文本: programmes', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme (锚文本: '锚文本: Graduate Support Scheme', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-masters-awards (锚文本: '锚文本: Master's Awards', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/anniversary-scholarships (锚文本: '锚文本: Anniversary Scholarships', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding (锚文本: '锚文本: scholarships for students from specific regions of the world', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 爬取子链接: 匹配链接: http://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm (锚文本: '锚文本: course guide', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 添加 9 个新请求，当前剩余: 9
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 1, 剩余请求数: 9
+2025-08-01 13:22:40 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/How-to-Apply: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:40 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 2, 剩余请求数: 8
+2025-08-01 13:22:42 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20http://www.lse.ac.uk/resources/calendar/courseGuides/graduate.htm: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:42 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 3, 剩余请求数: 7
+2025-08-01 13:22:44 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:44 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 4, 剩余请求数: 6
+2025-08-01 13:22:46 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/anniversary-scholarships: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:46 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 5, 剩余请求数: 5
+2025-08-01 13:22:48 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-masters-awards: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:48 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 6, 剩余请求数: 4
+2025-08-01 13:22:50 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:50 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 7, 剩余请求数: 3
+2025-08-01 13:22:52 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/government/study: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:52 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 8, 剩余请求数: 2
+2025-08-01 13:22:54 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20http://www.lse.ac.uk/resources/calendar/courseGuides/GV/2023_GV499.htm: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:54 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 9, 剩余请求数: 1
+2025-08-01 13:22:56 [program_spider] ERROR: [5c7de95a-65bd-4042-b17f-53262c3cccee] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.lse.ac.uk/study-at-lse/Graduate/Prospective-students/Entry-requirements/English-language-requirements: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 已处理页面: 10, 剩余请求数: 0
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 项目在错误处理中完成，立即收尾 …
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 正在完成项目
+2025-08-01 13:22:56 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 项目完成: 伦敦政治经济学院法规学理学硕士
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee]   - 总页数: 1
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee]   - 成功页数: 1
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee]   - 失败页数: 9
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee]   - 成功率: 10.0%
+2025-08-01 13:22:56 [program_spider] INFO: ------------------------------------------------------------
+2025-08-01 13:22:56 [program_spider] INFO: 成功保存项目数据: output/伦敦政治经济学院法规学理学硕士_法律.json
+2025-08-01 13:22:56 [program_spider] INFO: [5c7de95a-65bd-4042-b17f-53262c3cccee] 仍有 48 个项目待爬，将在爬虫空闲时继续。
+2025-08-01 13:22:56 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-01 13:22:56 [program_spider] INFO: 
+================================================================================
+2025-08-01 13:22:56 [program_spider] INFO: 开始爬取项目 [3/50]
+2025-08-01 13:22:56 [program_spider] INFO: 项目名称: 曼彻斯特大学传染生物学理学硕士
+2025-08-01 13:22:56 [program_spider] INFO: 项目ID: 4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9
+2025-08-01 13:22:56 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 13:22:56 [program_spider] INFO: 剩余项目数: 47
+2025-08-01 13:22:56 [program_spider] INFO: ================================================================================
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 页面 https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/ (depth=0, is_root=True) 提取到 3 个链接
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: 匹配链接: http://www.manchester.ac.uk/study/masters/admissions/apply/ (锚文本: '锚文本: online application form.', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: 匹配链接: http://www.manchester.ac.uk/postgraduate/fees/ (锚文本: '锚文本: postgraduate fees.', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 爬取子链接: 匹配链接: https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm-scholarship/ (锚文本: '锚文本: the scholarship page', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 添加 3 个新请求，当前剩余: 3
+2025-08-01 13:22:57 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 1, 剩余请求数: 3
+2025-08-01 13:22:58 [program_spider] ERROR: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20http://www.manchester.ac.uk/study/masters/admissions/apply/: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:22:58 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 2, 剩余请求数: 2
+2025-08-01 13:23:00 [program_spider] ERROR: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/catherine-chisholm-scholarship/: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:23:00 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 3, 剩余请求数: 1
+2025-08-01 13:23:02 [program_spider] ERROR: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20http://www.manchester.ac.uk/postgraduate/fees/: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 已处理页面: 4, 剩余请求数: 0
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 项目在错误处理中完成，立即收尾 …
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 正在完成项目
+2025-08-01 13:23:02 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 项目完成: 曼彻斯特大学传染生物学理学硕士
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 总页数: 1
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功页数: 1
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 失败页数: 3
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9]   - 成功率: 25.0%
+2025-08-01 13:23:02 [program_spider] INFO: ------------------------------------------------------------
+2025-08-01 13:23:02 [program_spider] INFO: 成功保存项目数据: output/曼彻斯特大学传染生物学理学硕士_生物.json
+2025-08-01 13:23:02 [program_spider] INFO: [4906b8dc-5a21-43b2-ae7f-975ec7ccc0e9] 仍有 47 个项目待爬，将在爬虫空闲时继续。
+2025-08-01 13:23:02 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-01 13:23:02 [program_spider] INFO: 
+================================================================================
+2025-08-01 13:23:02 [program_spider] INFO: 开始爬取项目 [4/50]
+2025-08-01 13:23:02 [program_spider] INFO: 项目名称: 利物浦大学古典文学与古代史文学硕士
+2025-08-01 13:23:02 [program_spider] INFO: 项目ID: 77ae4e9f-009c-46d2-9e8e-69ec8d6c4254
+2025-08-01 13:23:02 [program_spider] INFO: 根URL: https://www.liverpool.ac.uk/courses/2025/classics-and-ancient-history-ma
+2025-08-01 13:23:02 [program_spider] INFO: 剩余项目数: 46
+2025-08-01 13:23:02 [program_spider] INFO: ================================================================================
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 正在处理根页面 (已处理0个页面): https://www.liverpool.ac.uk/courses/classics-and-ancient-history-ma
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 页面 https://www.liverpool.ac.uk/courses/classics-and-ancient-history-ma (depth=0, is_root=True) 提取到 17 个链接
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/postgraduate-taught/progress-to-postgraduate/apply/ (锚文本: '锚文本: quick apply form for current University of Liverpool students', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/postgraduate-taught/applying/ (锚文本: '锚文本: how to apply', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/international/applying/ (锚文本: '锚文本: information about applying online', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/undergraduate/combined-degrees/ (锚文本: '锚文本: Explore combined degrees for Archaeology, Classics and Egyptology courses', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/courses/classics-and-ancient-history-ma/modules/algy600 (锚文本: '锚文本: ACE MA AND MSC DISSERTATION (ALGY600)', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/careers/programmes/ (锚文本: '锚文本: Employability programmes', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/feespayment/tuition/self-funding/paying-in-instalments/ (锚文本: '锚文本: pay your tuition fees in instalments', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/international/scholarships-and-fees/tuition-fees/tuition-fee-deposit/ (锚文本: '锚文本: pay a tuition fee deposit', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/study/paying-for-your-studies/scholarships-and-bursaries/masters/john-lennon-memorial-scholarship/ (锚文本: '锚文本: John Lennon Memorial Scholarship', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/study/paying-for-your-studies/scholarships-and-bursaries/masters/postgate-scholarship-in-classics-ancient-history/ (锚文本: '锚文本: Postgate Scholarship for Postgraduate Study in Classics and Ancient History', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/study/paying-for-your-studies/scholarships-and-bursaries/masters/postgraduate-opportunity-bursary/ (锚文本: '锚文本: Postgraduate Opportunity Bursary', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/study/paying-for-your-studies/scholarships-and-bursaries/masters/sport-liverpool-performance-programme/ (锚文本: '锚文本: Sport Liverpool Performance Programme', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/study/paying-for-your-studies/scholarships-and-bursaries/masters/aziz-foundation-scholarship/ (锚文本: '锚文本: The Aziz Foundation Scholarship', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/study/fees-and-funding/scholarships-and-bursaries/finder/ (锚文本: '锚文本: Discover our full range of scholarships and bursaries.', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/english-language-centre/pre-sessional-english-courses/course-overview/entry-requirements/ielts-band-c (锚文本: '锚文本: Pre-sessional English entry requirements', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 爬取子链接: 匹配链接: https://www.liverpool.ac.uk/student-administration/my-student-record/programme-terms-and-conditions/ (锚文本: '锚文本: Programme terms and conditions', 匹配关键词: '关键词: {matched_keyword}')
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 添加 16 个新请求，当前剩余: 16
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 已处理页面: 1, 剩余请求数: 16
+2025-08-01 13:23:05 [program_spider] ERROR: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.liverpool.ac.uk/postgraduate-taught/progress-to-postgraduate/apply/: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:23:05 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 已处理页面: 2, 剩余请求数: 15
+2025-08-01 13:23:07 [program_spider] ERROR: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.liverpool.ac.uk/student-administration/my-student-record/programme-terms-and-conditions/: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:23:07 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 已处理页面: 3, 剩余请求数: 14
+2025-08-01 13:23:09 [program_spider] ERROR: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.liverpool.ac.uk/english-language-centre/pre-sessional-english-courses/course-overview/entry-requirements/ielts-band-c: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:23:09 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 已处理页面: 4, 剩余请求数: 13
+2025-08-01 13:23:11 [program_spider] ERROR: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 请求失败 %E5%8C%B9%E9%85%8D%E9%93%BE%E6%8E%A5:%20https://www.liverpool.ac.uk/study/fees-and-funding/scholarships-and-bursaries/finder/: Unsupported URL scheme '': no handler available for that scheme
+2025-08-01 13:23:11 [program_spider] INFO: [77ae4e9f-009c-46d2-9e8e-69ec8d6c4254] 已处理页面: 5, 剩余请求数: 12
+2025-08-01 13:23:12 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2025-08-01 13:23:12 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2025-08-01 13:23:13 [scrapy.crawler] INFO: Received SIGINT twice, forcing unclean shutdown

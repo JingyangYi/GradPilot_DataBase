@@ -1,0 +1,254 @@
+{
+  "计算机": {
+    "primary": "Computer Science",
+    "secondary": "Data Science"
+  },
+  "法律": {
+    "primary": "Law",
+    "secondary": null
+  },
+  "医学": {
+    "primary": "Medicine",
+    "secondary": "Life Sciences & Medicine"
+  },
+  "教育": {
+    "primary": "Education",
+    "secondary": null
+  },
+  "国际关系": {
+    "primary": "Politics",
+    "secondary": null
+  },
+  "生物": {
+    "primary": "Biological",
+    "secondary": "Life Sciences & Medicine"
+  },
+  "文化": {
+    "primary": "Arts & Humanities",
+    "secondary": null
+  },
+  "其他社科": {
+    "primary": "Social Sciences & Management",
+    "secondary": null
+  },
+  "心理学": {
+    "primary": "Psychology",
+    "secondary": null
+  },
+  "金融": {
+    "primary": "Business",
+    "secondary": "Economics & Econometrics"
+  },
+  "数学": {
+    "primary": "Mathematics",
+    "secondary": "Statistics"
+  },
+  "管理": {
+    "primary": "Business",
+    "secondary": "Social Sciences & Management"
+  },
+  "经济": {
+    "primary": "Economics & Econometrics",
+    "secondary": null
+  },
+  "社会学与社工": {
+    "primary": "Sociology",
+    "secondary": "Social Sciences & Management"
+  },
+  "电气电子": {
+    "primary": "Engineering - Electrical",
+    "secondary": null
+  },
+  "数据科学": {
+    "primary": "Data Science",
+    "secondary": "Computer Science"
+  },
+  "历史": {
+    "primary": "History$",
+    "secondary": null
+  },
+  "语言": {
+    "primary": "Modern Languages",
+    "secondary": "Linguistics"
+  },
+  "建筑": {
+    "primary": "Architecture",
+    "secondary": null
+  },
+  "公共政策与事务": {
+    "primary": "Social Policy",
+    "secondary": "Politics"
+  },
+  "环境工程": {
+    "primary": "Environmental Sciences",
+    "secondary": "Engineering & Technology"
+  },
+  "公共卫生": {
+    "primary": "Medicine",
+    "secondary": "Life Sciences & Medicine"
+  },
+  "艺术": {
+    "primary": "Art & Design",
+    "secondary": "Arts & Humanities"
+  },
+  "机械工程": {
+    "primary": "Engineering - Mechanical",
+    "secondary": null
+  },
+  "市场营销": {
+    "primary": "Marketing",
+    "secondary": "Business"
+  },
+  "工程管理": {
+    "primary": "Engineering & Technology",
+    "secondary": "Business"
+  },
+  "工商管理": {
+    "primary": "Business",
+    "secondary": null
+  },
+  "金工金数": {
+    "primary": "Economics & Econometrics",
+    "secondary": "Mathematics"
+  },
+  "土木工程": {
+    "primary": "Engineering - Civil",
+    "secondary": null
+  },
+  "生物工程": {
+    "primary": "Engineering & Technology",
+    "secondary": "Biological"
+  },
+  "物理": {
+    "primary": "Physics",
+    "secondary": null
+  },
+  "地球科学": {
+    "primary": "Earth & Marine Sciences",
+    "secondary": "Geography"
+  },
+  "会计": {
+    "primary": "Accounting",
+    "secondary": "Business"
+  },
+  "商业分析": {
+    "primary": "Business",
+    "secondary": "Data Science"
+  },
+  "媒体与传播": {
+    "primary": "Communication",
+    "secondary": "Arts & Humanities"
+  },
+  "信息系统": {
+    "primary": "Computer Science",
+    "secondary": null
+  },
+  "能源": {
+    "primary": "Engineering & Technology",
+    "secondary": null
+  },
+  "材料": {
+    "primary": "Materials Science",
+    "secondary": null
+  },
+  "创业与创新": {
+    "primary": "Business",
+    "secondary": null
+  },
+  "其他工科": {
+    "primary": "Engineering & Technology",
+    "secondary": null
+  },
+  "药学": {
+    "primary": "Pharmacy",
+    "secondary": null
+  },
+  "化学": {
+    "primary": "Chemistry",
+    "secondary": null
+  },
+  "化工": {
+    "primary": "Engineering - Chemical",
+    "secondary": null
+  },
+  "影视": {
+    "primary": "Performing Arts",
+    "secondary": "Art & Design"
+  },
+  "人力资源管理": {
+    "primary": "Business",
+    "secondary": null
+  },
+  "供应链管理": {
+    "primary": "Business",
+    "secondary": null
+  },
+  "食品科学": {
+    "primary": "Agriculture",
+    "secondary": null
+  },
+  "哲学": {
+    "primary": "Philosophy",
+    "secondary": null
+  },
+  "工业工程": {
+    "primary": "Engineering - Mechanical",
+    "secondary": "Engineering & Technology"
+  },
+  "新闻": {
+    "primary": "Communication",
+    "secondary": null
+  },
+  "航空工程": {
+    "primary": "Engineering & Technology",
+    "secondary": null
+  },
+  "房地产": {
+    "primary": "Business",
+    "secondary": null
+  },
+  "交通运输": {
+    "primary": "Engineering & Technology",
+    "secondary": null
+  },
+  "策略传播": {
+    "primary": "Communication",
+    "secondary": "Marketing"
+  },
+  "其他商科": {
+    "primary": "Business",
+    "secondary": null
+  },
+  "旅游酒店管理": {
+    "primary": "Hospitality",
+    "secondary": null
+  },
+  "体育": {
+    "primary": "Sports-related Subjects",
+    "secondary": null
+  },
+  "新媒体": {
+    "primary": "Communication",
+    "secondary": "Art & Design"
+  },
+  "海洋技术": {
+    "primary": "Earth & Marine Sciences",
+    "secondary": null
+  },
+  "媒体产业": {
+    "primary": "Communication",
+    "secondary": "Business"
+  },
+  "科学传播": {
+    "primary": "Communication",
+    "secondary": null
+  },
+  "媒介与社会": {
+    "primary": "Communication",
+    "secondary": "Sociology"
+  },
+  "error_list": {
+    "primary": null,
+    "secondary": null
+  }
+}

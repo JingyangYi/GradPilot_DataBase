@@ -1,0 +1,923 @@
+[
+    {
+        "completion_rate": "17 / 17",
+        "fail_count": 0
+    },
+    {
+        "id": "0d42ebe9-c712-47bd-b1f1-83a55bfe37db",
+        "detail_page_url": "https://www.compassedu.hk/majr_52595",
+        "program_name": "伦敦大学国王学院文化与创意产业文学硕士",
+        "program_name_en": "MA Cultural & Creative Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/cultural-and-creative-industries-ma",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "25",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30000英镑/年"
+    },
+    {
+        "id": "e5a78946-2141-4d71-ba9d-cff7061208c6",
+        "detail_page_url": "https://www.compassedu.hk/majr_52596",
+        "program_name": "伦敦大学国王学院数字资产与媒体管理文学硕士",
+        "program_name_en": "MA Digital Asset & Media Management",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-asset-and-media-management-ma",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "25",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33600英镑/年"
+    },
+    {
+        "id": "ae5a07d9-bd32-4a85-be76-a81858a5d979",
+        "detail_page_url": "https://www.compassedu.hk/majr_62712",
+        "program_name": "伦敦大学国王学院数字经济理学硕士",
+        "program_name_en": "MSc Digital Economy",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "25",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "35800英镑/年"
+    },
+    {
+        "id": "2bb1e263-c08e-4563-8814-819a7575824c",
+        "detail_page_url": "https://www.compassedu.hk/majr_62713",
+        "program_name": "伦敦大学国王学院全球媒体产业硕士",
+        "program_name_en": "MA Global Media Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/global-media-industries-ma",
+        "university_name": "伦敦大学国王学院",
+        "university_name_en": "King's College London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-16",
+                "application_end_date": [
+                    "2025-03-09",
+                    "2025-07-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "23",
+                "阅读": "23",
+                "写作": "25",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "69",
+                "听力": "62",
+                "阅读": "62",
+                "写作": "62",
+                "口语": "62"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "30000英镑/年"
+    },
+    {
+        "id": "9c354fab-8f0b-4013-90a7-09ce80c22502",
+        "detail_page_url": "https://www.compassedu.hk/majr_50318",
+        "program_name": "华威大学创意与媒体管理文学硕士",
+        "program_name_en": "MA Creative and Media Enterprises",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://warwick.ac.uk/study/postgraduate/courses/ma-creative-media-enterprises",
+        "university_name": "华威大学",
+        "university_name_en": "The University of Warwick",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-08-02"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "21",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "70",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "机面（video）",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "27680英镑/年"
+    },
+    {
+        "id": "440348c6-0c93-45fe-a270-2ae842bbea05",
+        "detail_page_url": "https://www.compassedu.hk/majr_51112",
+        "program_name": "利兹大学媒体产业文学硕士",
+        "program_name_en": "MA Media Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://courses.leeds.ac.uk/f579/media-industries-ma",
+        "university_name": "利兹大学",
+        "university_name_en": "University of Leeds",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-10-02",
+                "application_end_date": [
+                    "2025-07-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "21",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "64",
+                "听力": "60",
+                "阅读": "60",
+                "写作": "60",
+                "口语": "60"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "29000英镑/年"
+    },
+    {
+        "id": "2a2a4868-75c8-4e72-80c4-d3119a656733",
+        "detail_page_url": "https://www.compassedu.hk/majr_75206",
+        "program_name": "南安普顿大学数字媒体实践文学硕士",
+        "program_name_en": "MA Digital Media Practices",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.southampton.ac.uk/courses/digital-media-practices-masters-ma",
+        "university_name": "南安普顿大学",
+        "university_name_en": "University of Southampton",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-26",
+                "application_end_date": [
+                    "2025-07-29"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "21",
+                "阅读": "22",
+                "写作": "21",
+                "口语": "23"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "68",
+                "听力": "64",
+                "阅读": "64",
+                "写作": "64",
+                "口语": "64"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "25400英镑/年"
+    },
+    {
+        "id": "69edab77-8b40-47f5-8410-b80cf08c78ec",
+        "detail_page_url": "https://www.compassedu.hk/majr_51814",
+        "program_name": "谢菲尔德大学创意与文化产业管理理学硕士",
+        "program_name_en": "MSc Creative and Cultural Industries Management",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/creative-and-cultural-industries-management-msc",
+        "university_name": "谢菲尔德大学",
+        "university_name_en": "The University of Sheffield",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-16",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "61",
+                "听力": "56",
+                "阅读": "56",
+                "写作": "56",
+                "口语": "56"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "32550英镑/年"
+    },
+    {
+        "id": "8697c3ac-2ac7-418f-877e-1738aec97920",
+        "detail_page_url": "https://www.compassedu.hk/majr_52301",
+        "program_name": "诺丁汉大学文化产业与创业理学硕士",
+        "program_name_en": "MSc Cultural Industries and Entrepreneurship",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/cultural-industries-and-entrepreneurship-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "100",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "24300英镑/年"
+    },
+    {
+        "id": "a53fd0b7-49c7-40de-8c23-68466d0b43d5",
+        "detail_page_url": "https://www.compassedu.hk/majr_52317",
+        "program_name": "诺丁汉大学传播与创业理学硕士",
+        "program_name_en": "MSc Communication and Entrepreneurship",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/communication-and-entrepreneurship-msc",
+        "university_name": "诺丁汉大学",
+        "university_name_en": "University of Nottingham",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-06-21",
+                "application_end_date": [
+                    "2025-08-04"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "90",
+                "听力": "19",
+                "阅读": "20",
+                "写作": "19",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "28200英镑/年"
+    },
+    {
+        "id": "7e6ab242-5786-4d2b-9dcb-daef6bb235c1",
+        "detail_page_url": "https://www.compassedu.hk/majr_74558",
+        "program_name": "伦敦大学玛丽皇后学院创意产业营销理学硕士",
+        "program_name_en": "MSc Marketing in the Creative Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/marketing-in-the-creative-industries-msc/",
+        "university_name": "伦敦大学玛丽皇后学院",
+        "university_name_en": "Queen Mary University of London",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-12",
+                "application_end_date": [
+                    "2025-09-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "18",
+                "阅读": "19",
+                "写作": "21",
+                "口语": "21"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "71",
+                "听力": "65",
+                "阅读": "65",
+                "写作": "65",
+                "口语": "65"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "33500英镑/年"
+    },
+    {
+        "id": "945720cf-daf5-45cd-b2fa-66c6976aec52",
+        "detail_page_url": "https://www.compassedu.hk/majr_74352",
+        "program_name": "皇家墨尔本理工大学媒体硕士",
+        "program_name_en": "Master of Media",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-media-mc188",
+        "university_name": "皇家墨尔本理工大学",
+        "university_name_en": "Royal Melbourne Institute of Technology",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-03-05"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2025-03-11",
+                "application_end_date": [
+                    "2025-07-23"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "2025-07-28",
+                "application_end_date": [
+                    "-"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "12",
+                "阅读": "13",
+                "写作": "21",
+                "口语": "18"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "58",
+                "听力": "50",
+                "阅读": "50",
+                "写作": "50",
+                "口语": "50"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "2/7月",
+        "duration": "2年",
+        "tuition": "41280澳元/年"
+    },
+    {
+        "id": "fd1077b5-80a6-403c-b6c1-099fa04077fc",
+        "detail_page_url": "https://www.compassedu.hk/majr_62351",
+        "program_name": "卡迪夫大学文化与创意产业文学硕士",
+        "program_name_en": "MA Cultural and Creative Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/ma-cultural-and-creative-industries",
+        "university_name": "卡迪夫大学",
+        "university_name_en": "Cardiff University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-09-11",
+                "application_end_date": [
+                    "2025-08-31"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "7",
+                "听力": "6.5",
+                "阅读": "6.5",
+                "写作": "6.5",
+                "口语": "6.5"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "76",
+                "听力": "69",
+                "阅读": "69",
+                "写作": "69",
+                "口语": "69"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "23700英镑/年"
+    },
+    {
+        "id": "3b6fe6db-15ab-4e9e-8913-db7c9a075f02",
+        "detail_page_url": "https://www.compassedu.hk/majr_50909",
+        "program_name": "拉夫堡大学数字媒体与创意产业文学硕士",
+        "program_name_en": "MA Digital Media and Creative Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/digital-media-creative-industries/",
+        "university_name": "拉夫堡大学",
+        "university_name_en": "Loughborough University",
+        "apply_time": [
+            {
+                "title": "25年春季入学",
+                "application_start_date": "2024-05-10",
+                "application_end_date": [
+                    "2024-12-06"
+                ]
+            },
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-25"
+                ]
+            },
+            {
+                "title": "26年春季入学",
+                "application_start_date": "/",
+                "application_end_date": [
+                    "2025-12-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "63",
+                "阅读": "63",
+                "写作": "63",
+                "口语": "63"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "1/10月",
+        "duration": "1年",
+        "tuition": "25500英镑/年"
+    },
+    {
+        "id": "0156cec1-7a8c-4bb7-838a-30d0e9347f4e",
+        "detail_page_url": "https://www.compassedu.hk/majr_61501",
+        "program_name": "拉夫堡大学数字创意媒体理学硕士",
+        "program_name_en": "MSc Digital Creative Media",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/digital-creative-media/",
+        "university_name": "拉夫堡大学",
+        "university_name_en": "Loughborough University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-08-25"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "6",
+                "阅读": "6",
+                "写作": "6",
+                "口语": "6"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "92",
+                "听力": "22",
+                "阅读": "22",
+                "写作": "22",
+                "口语": "22"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "67",
+                "听力": "63",
+                "阅读": "63",
+                "写作": "63",
+                "口语": "63"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "10月",
+        "duration": "1年",
+        "tuition": "30950英镑/年"
+    },
+    {
+        "id": "4c06faa9-7d29-4de0-ac50-18d27d2877fb",
+        "detail_page_url": "https://www.compassedu.hk/majr_65214",
+        "program_name": "威斯敏斯特大学国际媒体商业文学硕士",
+        "program_name_en": "MA International Media Business",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.westminster.ac.uk/media-and-communication-courses/2025-26/september/full-time/international-media-business-ma",
+        "university_name": "威斯敏斯特大学",
+        "university_name_en": "University of Westminster",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-07-29",
+                "application_end_date": [
+                    "2025-07-01"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "5.5",
+                "阅读": "5.5",
+                "写作": "5.5",
+                "口语": "5.5"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "88",
+                "听力": "17",
+                "阅读": "18",
+                "写作": "17",
+                "口语": "20"
+            },
+            {
+                "考试类型": "PTE",
+                "总分要求": "59",
+                "听力": "59",
+                "阅读": "59",
+                "写作": "59",
+                "口语": "59"
+            }
+        ],
+        "interview": "暂无",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "17500英镑/年"
+    },
+    {
+        "id": "266d21e2-5aed-44fb-8cb9-bf46370a5955",
+        "detail_page_url": "https://www.compassedu.hk/majr_65822",
+        "program_name": "香港岭南大学创意与媒体产业文学硕士",
+        "program_name_en": "MA Creative and Media Industries",
+        "primary_category": "社科",
+        "secondary_category": "媒体产业",
+        "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+        "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/master-of-arts-in-creative-and-media-industries",
+        "university_name": "香港岭南大学",
+        "university_name_en": "Lingnan University",
+        "apply_time": [
+            {
+                "title": "25年秋季入学",
+                "application_start_date": "2024-11-01",
+                "application_end_date": [
+                    "2025-05-15"
+                ]
+            }
+        ],
+        "program_track": [],
+        "language_requirements_summary": "暂无",
+        "lang_examination": [
+            {
+                "考试类型": "雅思",
+                "总分要求": "6.5",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            },
+            {
+                "考试类型": "托福",
+                "总分要求": "79",
+                "听力": "/",
+                "阅读": "/",
+                "写作": "/",
+                "口语": "/"
+            }
+        ],
+        "interview": "真人单面",
+        "intakeSeason": "9月",
+        "duration": "1年",
+        "tuition": "170000港币/年"
+    }
+]

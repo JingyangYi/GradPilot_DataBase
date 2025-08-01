@@ -1,0 +1,993 @@
+[
+  {
+    "completion_rate": "13 / 13",
+    "fail_count": 0,
+    "original_total": 74,
+    "classification": "QS200后"
+  },
+  {
+    "id": "b0c1bb56-64f9-4296-83df-c90ceca895dc",
+    "detail_page_url": "https://www.compassedu.hk/majr_75644",
+    "program_name": "马来西亚国立大学临床营养学硕士",
+    "program_name_en": "Master in Clinical Nutrition",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://drive.google.com/file/d/1qokj03V6cyqLbgEb7gd7z_wX64yOUEy2/view",
+    "university_name": "马来西亚国立大学",
+    "university_name_en": "The National University of Malaysia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "46",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1.5年",
+    "tuition": "36940马币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "69e47569-4e08-4637-9c1d-6a9993f3d03b",
+    "detail_page_url": "https://www.compassedu.hk/majr_75663",
+    "program_name": "马来西亚国立大学理学硕士（食品科学）",
+    "program_name_en": "Master of Science (Food Science)",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ukm.my/siswazahfst/food-science-v2/",
+    "university_name": "马来西亚国立大学",
+    "university_name_en": "The National University of Malaysia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "46",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "51",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "3/10月",
+    "duration": "1年",
+    "tuition": "37610马币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "008c412c-07ec-4fc6-81dd-2297eb13c38e",
+    "detail_page_url": "https://www.compassedu.hk/majr_62907",
+    "program_name": "萨里大学食品科学理学硕士",
+    "program_name_en": "MSc Food Science",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/food-science-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2c41848b-dab0-469c-9475-f4e9d431f9cc",
+    "detail_page_url": "https://www.compassedu.hk/majr_62908",
+    "program_name": "萨里大学人类营养理学硕士",
+    "program_name_en": "MSc Human Nutrition",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/human-nutrition-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "50084112-2f74-47d2-bae9-07c7e6ee6cc4",
+    "detail_page_url": "https://www.compassedu.hk/majr_64603",
+    "program_name": "阿伯丁大学人类营养学理学硕士",
+    "program_name_en": "MSc Human Nutrition",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/118/human-nutrition/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_agriculture_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7870ce1d-f1f9-42c2-82a7-f856ad78cb0d",
+    "detail_page_url": "https://www.compassedu.hk/majr_61618",
+    "program_name": "萨塞克斯大学食品与发展文学硕士",
+    "program_name_en": "MA Food and Development",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/food-and-development-ma",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "19",
+        "写作": "23",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22575英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0c428358-074e-4571-bdcc-b699fc2b75a5",
+    "detail_page_url": "https://www.compassedu.hk/majr_75507",
+    "program_name": "赫瑞瓦特大学食品加工工程理学硕士",
+    "program_name_en": "MSc Food Process Engineering",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/food-process-engineering",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25480英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f9cc0ee8-6c5d-46e5-8f94-b4351269454a",
+    "detail_page_url": "https://www.compassedu.hk/majr_74287",
+    "program_name": "东安格利亚大学营养学理学硕士",
+    "program_name_en": "MSc Dietetics",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/35.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uea.ac.uk/course/postgraduate/msc-dietetics-pre-registration-february-start",
+    "university_name": "东安格利亚大学",
+    "university_name_en": "University of East Anglia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "98",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "2年",
+    "tuition": "21175英镑/年",
+    "qs_2026_rank": 381,
+    "usnews_2026_rank": 423,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "81cabe6c-f61e-4973-9612-218690ecff64",
+    "detail_page_url": "https://www.compassedu.hk/majr_65243",
+    "program_name": "威斯敏斯特大学体育与运动营养理学硕士",
+    "program_name_en": "MSc Sport and Exercise Nutrition",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/nutrition-and-public-health-courses/2025-26/september/full-time/sport-and-exercise-nutrition-msc",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "17600英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e976d9b2-6858-4fbd-887f-6d66f58578e9",
+    "detail_page_url": "https://www.compassedu.hk/majr_65452",
+    "program_name": "克兰菲尔德大学食品系统与管理理学硕士",
+    "program_name_en": "MSc Food Systems and Management",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/courses/taught/food-systems-and-management",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "18000英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_agriculture_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4ad595b-5967-46d9-b947-940e788fde79",
+    "detail_page_url": "https://www.compassedu.hk/majr_65453",
+    "program_name": "克兰菲尔德大学未来食品可持续发展理学硕士",
+    "program_name_en": "MSc Future Food Sustainability",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/courses/taught/future-food-sustainability",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "18000英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_agriculture_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3a76fd99-5e19-4e6d-bac4-50c7378440f4",
+    "detail_page_url": "https://www.compassedu.hk/majr_74271",
+    "program_name": "考文垂大学营养学与领导力理学硕士",
+    "program_name_en": "MSc Dietetics and Leadership",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/hls/dietetics-and-leadership-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1月",
+    "duration": "2年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "81376052-2916-43d4-b62f-80a46371bd4b",
+    "detail_page_url": "https://www.compassedu.hk/majr_74812",
+    "program_name": "伦敦大学城市学院应用营养学理学硕士",
+    "program_name_en": "MSc Applied Nutrition",
+    "primary_category": "工科",
+    "secondary_category": "食品科学",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.city.ac.uk/prospective-students/courses/postgraduate/applied-nutrition",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "-"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "18000英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_agriculture_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

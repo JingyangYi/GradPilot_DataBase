@@ -1,0 +1,4890 @@
+[
+  {
+    "completion_rate": "61 / 61",
+    "fail_count": 0,
+    "original_total": 100,
+    "classification": "QS前200"
+  },
+  {
+    "id": "31f24f5c-42d8-44c3-b849-9c09ed9296d5",
+    "detail_page_url": "https://www.compassedu.hk/majr_62308",
+    "program_name": "牛津大学电影美学研究硕士",
+    "program_name_en": "MSt Film Aesthetics",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/8.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ox.ac.uk/admissions/graduate/courses/mst-film-aesthetics",
+    "university_name": "牛津大学",
+    "university_name_en": "University of Oxford",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-12",
+        "application_end_date": [
+          "2025-01-07",
+          "2025-03-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "110",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "41250英镑/年",
+    "qs_2026_rank": 4,
+    "usnews_2026_rank": 4,
+    "the_2025_rank": 1,
+    "arwu_2024_rank": 6,
+    "qs_2026_performing_arts_rank": 15,
+    "qs_2026_art_and_design_rank": 27,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b8cf9055-c493-40ba-b1bf-2cd1ac7f9f0f",
+    "detail_page_url": "https://www.compassedu.hk/majr_66855",
+    "program_name": "剑桥大学电影与银幕研究高级研究哲学硕士",
+    "program_name_en": "MPhil Film and Screen Studies by Advanced Study",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/9.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/mmmmmpsmc",
+    "university_name": "剑桥大学",
+    "university_name_en": "University of Cambridge",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-04",
+        "application_end_date": [
+          "2025-01-07",
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "110",
+        "听力": "25",
+        "阅读": "25",
+        "写作": "25",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "34254英镑/年",
+    "qs_2026_rank": 6,
+    "usnews_2026_rank": 5,
+    "the_2025_rank": 5,
+    "arwu_2024_rank": 4,
+    "qs_2026_performing_arts_rank": 16,
+    "qs_2026_art_and_design_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6b866f10-78a2-4770-b938-9b3f4a275876",
+    "detail_page_url": "https://www.compassedu.hk/majr_62310",
+    "program_name": "伦敦大学学院电影研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/film-studies-ma",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-04-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "109",
+        "听力": "23",
+        "阅读": "27",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "80",
+        "听力": "76",
+        "阅读": "76",
+        "写作": "76",
+        "口语": "76"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 44,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3bca9497-8841-40fc-8bc3-b0725f483d7e",
+    "detail_page_url": "https://www.compassedu.hk/majr_66560",
+    "program_name": "伦敦大学学院民族志与纪录片（实践）文学硕士",
+    "program_name_en": "MA Ethnographic and Documentary Film (Practical)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/ethnographic-and-documentary-film-practical-ma",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "109",
+        "听力": "23",
+        "阅读": "27",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "80",
+        "听力": "76",
+        "阅读": "76",
+        "写作": "76",
+        "口语": "76"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 44,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "489ed010-a4da-42b6-8f87-636dce046004",
+    "detail_page_url": "https://www.compassedu.hk/majr_73163",
+    "program_name": "伦敦大学学院电台与播客音频故事制作文学硕士",
+    "program_name_en": "MA Audio Storytelling for Radio and Podcast",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/audio-storytelling-radio-and-podcast-ma",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 44,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "61bc2279-2525-4e39-b14a-ba5d1d567bd2",
+    "detail_page_url": "https://www.compassedu.hk/majr_73164",
+    "program_name": "伦敦大学学院设计音频体验：艺术、科学与制作文学硕士",
+    "program_name_en": "MA Designing Audio Experiences: Art, Science and Production",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/designing-audio-experiences-art-science-and-production-ma",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "109",
+        "听力": "23",
+        "阅读": "27",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "80",
+        "听力": "76",
+        "阅读": "76",
+        "写作": "76",
+        "口语": "76"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 44,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2171f022-e980-4188-beee-d1ce05ba3cbd",
+    "detail_page_url": "https://www.compassedu.hk/majr_74944",
+    "program_name": "香港大学新闻学硕士（纪录片制作）",
+    "program_name_en": "Master of Journalism (Documentary Filmmaking)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-journalism-documentary-filmmaking-specialisation-socsc",
+    "university_name": "香港大学",
+    "university_name_en": "The University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-12-02",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "306000港币/年",
+    "qs_2026_rank": 11,
+    "usnews_2026_rank": 44,
+    "the_2025_rank": 35,
+    "arwu_2024_rank": 69,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bd466e6b-ab11-4806-b749-75b9e7c5b2ad",
+    "detail_page_url": "https://www.compassedu.hk/majr_66040",
+    "program_name": "墨尔本大学戏剧硕士（写作）",
+    "program_name_en": "Master of Theatre (Writing)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-theatre-writing/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15",
+          "2025-10-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1年",
+    "tuition": "42976澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_performing_arts_rank": 40,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b2579d00-cf5c-45da-b9bc-cbdf1436f60e",
+    "detail_page_url": "https://www.compassedu.hk/majr_66042",
+    "program_name": "墨尔本大学设计与制作硕士",
+    "program_name_en": "Master of Design and Production",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-design-and-production/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15",
+          "2025-10-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "2年",
+    "tuition": "45125澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_performing_arts_rank": 40,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "878ccd4f-91a8-49f0-8e90-08e83614015a",
+    "detail_page_url": "https://www.compassedu.hk/majr_66043",
+    "program_name": "墨尔本大学影视硕士",
+    "program_name_en": "Master of Film and Television",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-film-and-television/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15",
+          "2025-10-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "2年",
+    "tuition": "45125澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_performing_arts_rank": 40,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "18f31538-3c95-4ea3-bdca-fb4c9b332731",
+    "detail_page_url": "https://www.compassedu.hk/majr_74444",
+    "program_name": "新南威尔士大学动画与视觉效果硕士（2年制）",
+    "program_name_en": "Master of Animation and Visual Effects (2-year)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-animation-and-visual-effects?studentType=International",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "48750澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e644bed7-6028-4952-af65-5cfebb9f5312",
+    "detail_page_url": "https://www.compassedu.hk/majr_74447",
+    "program_name": "新南威尔士大学动画与视觉效果硕士（1.5年制）",
+    "program_name_en": "Master of Animation and Visual Effects (1.5-year)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-animation-and-visual-effects?studentType=International",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "1.5年",
+    "tuition": "46500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5caca1a8-da9c-4c47-be61-77481ac11707",
+    "detail_page_url": "https://www.compassedu.hk/majr_74448",
+    "program_name": "新南威尔士大学动画与视觉效果硕士（1年制）",
+    "program_name_en": "Master of Animation and Visual Effects (1-year)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-animation-and-visual-effects?studentType=International",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "1年",
+    "tuition": "46500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d5dcba6e-0fdf-42ae-94fc-278e540726a1",
+    "detail_page_url": "https://www.compassedu.hk/majr_73540",
+    "program_name": "约翰霍普金斯大学电影与媒体硕士",
+    "program_name_en": "MA in Film and Media",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/92.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://advanced.jhu.edu/academics/graduate/ma-film-media/",
+    "university_name": "约翰霍普金斯大学",
+    "university_name_en": "Johns Hopkins University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "沉浸式故事叙述和新兴技术"
+      },
+      {
+        "key": "2",
+        "value": "声音设计"
+      },
+      {
+        "key": "3",
+        "value": "电影行业"
+      },
+      {
+        "key": "4",
+        "value": "写作"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "16-24个月",
+    "tuition": "59,290美元",
+    "qs_2026_rank": 24,
+    "usnews_2026_rank": 14,
+    "the_2025_rank": 16,
+    "arwu_2024_rank": 17,
+    "qs_2026_performing_arts_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "37be8582-66bd-486f-af2b-eab7f0d50bdd",
+    "detail_page_url": "https://www.compassedu.hk/majr_54013",
+    "program_name": "悉尼大学电影与屏幕艺术硕士",
+    "program_name_en": "Master of Film and Screen Arts",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sydney.edu.au/content/courses/courses/pc/master-of-film-and-screen-arts.html",
+    "university_name": "悉尼大学",
+    "university_name_en": "The University of Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-01"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "17",
+        "阅读": "17",
+        "写作": "19",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "47300澳元/年",
+    "qs_2026_rank": 25,
+    "usnews_2026_rank": 29,
+    "the_2025_rank": 61,
+    "arwu_2024_rank": 74,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "879ade11-c17b-4917-b816-c0e3d21aa4b2",
+    "detail_page_url": "https://www.compassedu.hk/majr_62315",
+    "program_name": "伦敦大学国王学院电影研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/13.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/film-studies-ma",
+    "university_name": "伦敦大学国王学院",
+    "university_name_en": "King's College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-16",
+        "application_end_date": [
+          "2025-03-09",
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "23",
+        "写作": "25",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30000英镑/年",
+    "qs_2026_rank": 31,
+    "usnews_2026_rank": 36,
+    "the_2025_rank": 36,
+    "arwu_2024_rank": 53,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f4737c36-61d2-4857-a926-dd72b544ba89",
+    "detail_page_url": "https://www.compassedu.hk/majr_62317",
+    "program_name": "爱丁堡大学电影研究理学硕士",
+    "program_name_en": "MSc Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=179",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-05-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30500英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "18a000f4-8c81-474e-8427-a6716f2dcf75",
+    "detail_page_url": "https://www.compassedu.hk/majr_62349",
+    "program_name": "爱丁堡大学电影、展览与策展理学硕士",
+    "program_name_en": "MSc Film, Exhibition and Curation",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=658",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-05-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31600英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "924801a1-35bc-47e4-9818-063a6ad3f888",
+    "detail_page_url": "https://www.compassedu.hk/majr_62600",
+    "program_name": "爱丁堡大学媒介间性：文学、电影与对话中的艺术理学硕士",
+    "program_name_en": "MSc Intermediality: Literature, Film and the Arts in Dialogue",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=987",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-05-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30500英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d025cdc5-414a-40d3-96f6-29a1d8abb8e6",
+    "detail_page_url": "https://www.compassedu.hk/majr_62969",
+    "program_name": "爱丁堡大学电影导演文学硕士",
+    "program_name_en": "MA Film Directing",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=733",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-05-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31600英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "602f0d16-b816-497b-95d3-a86cd2c666a6",
+    "detail_page_url": "https://www.compassedu.hk/majr_62484",
+    "program_name": "曼彻斯特大学剧本创作文学硕士",
+    "program_name_en": "MA Playwriting",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/12563/ma-playwriting/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-01-13",
+          "2025-03-14",
+          "2025-06-13",
+          "2025-08-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "25",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7f5e0e16-717d-4b45-bd7f-ae77a2c81cf1",
+    "detail_page_url": "https://www.compassedu.hk/majr_62494",
+    "program_name": "曼彻斯特大学电影剧本创作文学硕士",
+    "program_name_en": "MA Screenwriting",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/09832/ma-screenwriting/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-01-25",
+          "2025-03-28",
+          "2025-06-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "25",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d38ae655-ab1d-4902-9127-64540f0a5e60",
+    "detail_page_url": "https://www.compassedu.hk/majr_62545",
+    "program_name": "曼彻斯特大学影视研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/10153/ma-film-studies/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "25",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27000英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2b2d2668-0d5f-4d1d-8986-b5a9d1b59ea5",
+    "detail_page_url": "https://www.compassedu.hk/majr_75202",
+    "program_name": "哥伦比亚大学电影与媒体研究硕士",
+    "program_name_en": "MA in Film and Media Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/83.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://arts.columbia.edu/film-and-media-studies/degree-concentrations",
+    "university_name": "哥伦比亚大学",
+    "university_name_en": "Columbia University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "68246美元",
+    "qs_2026_rank": 38,
+    "usnews_2026_rank": 10,
+    "the_2025_rank": 18,
+    "arwu_2024_rank": 8,
+    "qs_2026_performing_arts_rank": 36,
+    "qs_2026_art_and_design_rank": 48,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b9b22e58-621c-430a-90d4-183c81e22ae5",
+    "detail_page_url": "https://www.compassedu.hk/majr_61626",
+    "program_name": "布里斯托大学电影与电视文学硕士",
+    "program_name_en": "MA Film and Television",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/ma-film-and-television/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "103",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "78",
+        "听力": "71",
+        "阅读": "71",
+        "写作": "71",
+        "口语": "71"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30800英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_performing_arts_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4e3839e8-3759-4590-a7ae-b04f0ef45102",
+    "detail_page_url": "https://www.compassedu.hk/majr_63966",
+    "program_name": "阿姆斯特丹大学电影研究（媒体研究）文学硕士",
+    "program_name_en": "MA Film Studies (Media Studies)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/383.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uva.nl/en/shared-content/subsites/graduate-school-of-humanities/en/masters/film-studies-media-studies/film-studies.html?origin=5BOaRAofTjCccATraJp2XA",
+    "university_name": "阿姆斯特丹大学",
+    "university_name_en": "University of Amsterdam",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "18810欧元/年",
+    "qs_2026_rank": 53,
+    "usnews_2026_rank": 33,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "08b29b4e-63a6-493f-8bb3-0c9a8dc853c3",
+    "detail_page_url": "https://www.compassedu.hk/majr_62769",
+    "program_name": "华威大学影视研究文学硕士",
+    "program_name_en": "MA Film and Television Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/ma-film-tv",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27680英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "34811de1-1e45-490c-ac30-dc3878be73b5",
+    "detail_page_url": "https://www.compassedu.hk/majr_62770",
+    "program_name": "华威大学影视学研究文学硕士",
+    "program_name_en": "MA For Research in Film and Television Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/ma-film-tv-by-research",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27680英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d5c7f20a-ecaa-4174-a768-c0010d585b83",
+    "detail_page_url": "https://www.compassedu.hk/majr_62665",
+    "program_name": "伯明翰大学电影与电视：研究与制作文学硕士",
+    "program_name_en": "MA Film and Television: Research and Production",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/film-studies-courses/film-and-television-research-and-production-ma",
+    "university_name": "伯明翰大学",
+    "university_name_en": "University of Birmingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-12"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27200英镑/年",
+    "qs_2026_rank": 76,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 93,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "261de34c-ba0b-48d3-ab15-7f40f0fd6e96",
+    "detail_page_url": "https://www.compassedu.hk/majr_62689",
+    "program_name": "格拉斯哥大学电影制作与媒体艺术理学硕士",
+    "program_name_en": "MSc Filmmaking & Media Arts",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/filmmaking/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "66",
+        "听力": "66",
+        "阅读": "68",
+        "写作": "82",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26580英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4843e9cc-5ed1-4918-a0ce-c25b2d723d46",
+    "detail_page_url": "https://www.compassedu.hk/majr_62690",
+    "program_name": "格拉斯哥大学电影策展理学硕士",
+    "program_name_en": "MSc Film Curation",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/filmcuration/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "66",
+        "听力": "66",
+        "阅读": "68",
+        "写作": "82",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26580英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8645386f-285b-4520-99f4-0cca7bdb3628",
+    "detail_page_url": "https://www.compassedu.hk/majr_62691",
+    "program_name": "格拉斯哥大学影视研究文学硕士",
+    "program_name_en": "MLitt Film & Television Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/filmtelevisionstudies/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "66",
+        "听力": "66",
+        "阅读": "68",
+        "写作": "82",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26580英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fb01aba4-37e1-4531-8495-8709d30a947a",
+    "detail_page_url": "https://www.compassedu.hk/majr_61542",
+    "program_name": "利兹大学电影、摄影与媒体文学硕士",
+    "program_name_en": "MA Film, Photography and Media",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/g638/film-photography-and-media-ma",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "007c9dc5-7ed7-4525-a6e3-b5ad5ff2d0e8",
+    "detail_page_url": "https://www.compassedu.hk/majr_62998",
+    "program_name": "利兹大学电影研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/i898/film-studies-ma",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27500英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": 75.5,
+    "qs_2026_art_and_design_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "efa8a6f2-0ef1-4068-9187-1893b77ed68e",
+    "detail_page_url": "https://www.compassedu.hk/majr_51337",
+    "program_name": "南安普顿大学当代策展文学硕士",
+    "program_name_en": "MA Contemporary Curating",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/contemporary-curating-masters-ma",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-18",
+        "application_end_date": [
+          "2023-11-29"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27800英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5ca9f023-473e-45b2-b177-20a38c7404dd",
+    "detail_page_url": "https://www.compassedu.hk/majr_62320",
+    "program_name": "南安普顿大学电影与文化管理文学硕士",
+    "program_name_en": "MA Film and Cultural Management",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/film-cultural-management-masters-ma",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-18",
+        "application_end_date": [
+          "2023-11-29"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27800英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ae271110-ed4e-402d-9f0c-838d57c80a79",
+    "detail_page_url": "https://www.compassedu.hk/majr_66770",
+    "program_name": "南安普顿大学电影研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/film-studies-masters-ma",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-18",
+        "application_end_date": [
+          "2023-11-29"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27800英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aacbd814-1a59-4ff5-87d5-0cc5060afa7d",
+    "detail_page_url": "https://www.compassedu.hk/majr_73781",
+    "program_name": "波士顿大学电影电视研究硕士",
+    "program_name_en": "MFA in Film & Television Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/139.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.bu.edu/com/academics/degree-programs/mfa-in-film-television-studies/",
+    "university_name": "波士顿大学",
+    "university_name_en": "Boston University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "172,462美元",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 75,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": 125.5,
+    "qs_2026_art_and_design_rank": 230.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d8ed557e-365d-46ed-b203-571db50eab98",
+    "detail_page_url": "https://www.compassedu.hk/majr_76195",
+    "program_name": "悉尼科技大学影视艺术与制作硕士",
+    "program_name_en": "Master of Screen Arts and Production",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-screen-arts-and-production",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "45312澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b9aa8591-d94f-4b48-98a4-e162decc0271",
+    "detail_page_url": "https://www.compassedu.hk/majr_76197",
+    "program_name": "悉尼科技大学影视艺术与制作硕士（扩展）",
+    "program_name_en": "Master of Screen Arts and Production (Extension)",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-screen-arts-and-production-extension",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "2年",
+    "tuition": "45312澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a0571417-48db-46bd-bc91-0405963ba738",
+    "detail_page_url": "https://www.compassedu.hk/majr_61735",
+    "program_name": "诺丁汉大学电影、电视与银幕产业文学硕士",
+    "program_name_en": "MA Film, Television and Screen Industries",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/film-television-and-screen-industries-ma",
+    "university_name": "诺丁汉大学",
+    "university_name_en": "University of Nottingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2025-08-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "24300英镑/年",
+    "qs_2026_rank": 97,
+    "usnews_2026_rank": 153,
+    "the_2025_rank": 136,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "62a3d30f-168e-45bc-9a6a-535e954477f6",
+    "detail_page_url": "https://www.compassedu.hk/majr_62731",
+    "program_name": "圣安德鲁斯大学电影研究文学硕士",
+    "program_name_en": "MLitt Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/2.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.st-andrews.ac.uk/subjects/film-studies/film-studies-mlitt",
+    "university_name": "圣安德鲁斯大学",
+    "university_name_en": "University of St Andrews",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-01",
+        "application_end_date": [
+          "2025-08-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25900英镑/年",
+    "qs_2026_rank": 113,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e93ce93f-866d-4429-aa42-6fd32129878b",
+    "detail_page_url": "https://www.compassedu.hk/majr_73248",
+    "program_name": "圣安德鲁斯大学视听与电影研究国际文学硕士",
+    "program_name_en": "MLitt International Master in Audiovisual and Cinema Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/2.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.st-andrews.ac.uk/subjects/film-studies/imacs-mlitt/",
+    "university_name": "圣安德鲁斯大学",
+    "university_name_en": "University of St Andrews",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-01",
+        "application_end_date": [
+          "2025-08-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "23073英镑/年",
+    "qs_2026_rank": 113,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a0a83447-38f2-4218-a231-1c9619772a22",
+    "detail_page_url": "https://www.compassedu.hk/majr_63792",
+    "program_name": "莱顿大学电影和摄影研究文学硕士",
+    "program_name_en": "MA Film and Photographic Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/380.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.universiteitleiden.nl/en/education/study-programmes/master/media-studies/film-and-photographic-studies",
+    "university_name": "莱顿大学",
+    "university_name_en": "Leiden University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "25",
+        "写作": "25",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19300欧元/年",
+    "qs_2026_rank": 119,
+    "usnews_2026_rank": 56,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c9ec335f-4002-45a4-a853-f72cb1138e25",
+    "detail_page_url": "https://www.compassedu.hk/majr_74371",
+    "program_name": "皇家墨尔本理工大学动画、游戏与互动硕士",
+    "program_name_en": "Master of Animation, Games and Interactivity",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-animation-games-and-interactivity-mc232",
+    "university_name": "皇家墨尔本理工大学",
+    "university_name_en": "Royal Melbourne Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-03-05"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-11",
+        "application_end_date": [
+          "2025-07-23"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-28",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "40800澳元/年",
+    "qs_2026_rank": 125,
+    "usnews_2026_rank": 198,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 125,
+    "qs_2026_art_design_rank": 26
+  },
+  {
+    "id": "75d6df4e-1cb6-46a2-ab0b-72fac4c99b53",
+    "detail_page_url": "https://www.compassedu.hk/majr_61681",
+    "program_name": "纽卡斯尔大学（英国）全球电影文学硕士",
+    "program_name_en": "MA Global Film",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/4039f/",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25100英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75,
+    "qs_2026_art_design_rank": 125
+  },
+  {
+    "id": "e330b266-1c98-4bee-834d-45337422e90b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63941",
+    "program_name": "格罗宁根大学电影与当代视听媒体文学硕士",
+    "program_name_en": "MA Film and Contemporary Audiovisual Media",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rug.nl/masters/film-and-contemporary-audiovisual-media/",
+    "university_name": "格罗宁根大学",
+    "university_name_en": "University of Groningen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19200欧元/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 75,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 69,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a50572be-a245-45b2-b18a-9d6425ebfd52",
+    "detail_page_url": "https://www.compassedu.hk/majr_75361",
+    "program_name": "利物浦大学电影研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/film-studies-ma",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "24100英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4842707f-3951-4c41-8eff-86c1b7b8a01f",
+    "detail_page_url": "https://www.compassedu.hk/majr_50331",
+    "program_name": "埃克塞特大学国际电影业理学硕士",
+    "program_name_en": "MA International Film Business",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/creative/film-business-ma/",
+    "university_name": "埃克塞特大学",
+    "university_name_en": "University of Exeter",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29100英镑/年",
+    "qs_2026_rank": 155,
+    "usnews_2026_rank": 127,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 151,
+    "qs_2026_performing_arts_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "97e35d19-ea43-4b61-a111-e3c7b2e9a4e0",
+    "detail_page_url": "https://www.compassedu.hk/majr_67013",
+    "program_name": "兰卡斯特大学电影研究文学硕士",
+    "program_name_en": "MA Film Studies",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/4.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/film-studies-ma/2025/",
+    "university_name": "兰卡斯特大学",
+    "university_name_en": "Lancaster University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "22",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "24830英镑/年",
+    "qs_2026_rank": 157,
+    "usnews_2026_rank": 267,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "03039e6a-b800-40dc-9b8d-735db91f916c",
+    "detail_page_url": "https://www.compassedu.hk/majr_67664",
+    "program_name": "兰卡斯特大学社会、政治与环境变化戏剧文学硕士",
+    "program_name_en": "MA Theatre for Social, Political and Environmental Change",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/4.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/theatre-for-social-political-and-environmental-change-ma/2025/",
+    "university_name": "兰卡斯特大学",
+    "university_name_en": "Lancaster University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "22",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "24830英镑/年",
+    "qs_2026_rank": 157,
+    "usnews_2026_rank": 267,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fe0142c4-407f-462e-9917-7887588999d3",
+    "detail_page_url": "https://www.compassedu.hk/majr_73594",
+    "program_name": "圣路易斯华盛顿大学电影和媒体研究硕士",
+    "program_name_en": "Master’s degree in Film & Media Studies.",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/93.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fms.wustl.edu/graduate#primary",
+    "university_name": "圣路易斯华盛顿大学",
+    "university_name_en": "Washington University in St. Louis",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "45,000美元/年",
+    "qs_2026_rank": 167,
+    "usnews_2026_rank": 31,
+    "the_2025_rank": 69,
+    "arwu_2024_rank": 23,
+    "qs_2026_performing_arts_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "de1c232e-296f-4915-b95e-2213ad3ad143",
+    "detail_page_url": "https://www.compassedu.hk/majr_62970",
+    "program_name": "约克大学（英国）影视制作与导演文学硕士",
+    "program_name_en": "MA Film and Television Production with Directing",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-film-television-production-directing/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "e688657d-2e58-4cfb-8817-7cd23ebabf21",
+    "detail_page_url": "https://www.compassedu.hk/majr_63001",
+    "program_name": "约克大学（英国）影视制作（音效）理学硕士",
+    "program_name_en": "MSc Film and Television Production with Sound",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-film-television-production-sound/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "b0b6bdf1-4d9f-4592-98b3-e397b3a101e9",
+    "detail_page_url": "https://www.compassedu.hk/majr_67084",
+    "program_name": "约克大学（英国）影视制作（摄影）文学硕士",
+    "program_name_en": "MA Film and Television Production with Cinematography",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-film-television-production-cinematography/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29400英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "c6e61094-7b82-4ef8-916b-fe89fb7f8a2e",
+    "detail_page_url": "https://www.compassedu.hk/majr_67085",
+    "program_name": "约克大学（英国）影视制作（制作）文学硕士",
+    "program_name_en": "MA Film and Television Production with Producing",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-film-television-production-producing/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "e84b6573-7bfa-4fec-b5b5-6e77620b3671",
+    "detail_page_url": "https://www.compassedu.hk/majr_67086",
+    "program_name": "约克大学（英国）影视制作（音效）文学硕士",
+    "program_name_en": "MA Film and Television Production with Sound",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-film-television-production-sound/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29400英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "f45a4d18-ed72-4f1f-b17d-3e624c3ab531",
+    "detail_page_url": "https://www.compassedu.hk/majr_67090",
+    "program_name": "约克大学（英国）戏剧制作文学硕士",
+    "program_name_en": "MA Theatre-Making",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-theatre-making/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "28bb700f-4e62-47d6-beae-9f1a071a64a4",
+    "detail_page_url": "https://www.compassedu.hk/majr_73291",
+    "program_name": "约克大学（英国）影视制作（剪辑）文学硕士",
+    "program_name_en": "MA Film and Television Production with Editing",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/ma-film-television-production-editing/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_performing_arts_rank": 75
+  },
+  {
+    "id": "adf5fe09-50da-4772-8381-37dee2ffbe8a",
+    "detail_page_url": "https://www.compassedu.hk/majr_67166",
+    "program_name": "雷丁大学电影与创意企业文学硕士",
+    "program_name_en": "MA Film and Creative Enterprise",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/50.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/creative-enterprise-pg/ma-creative-enterprise-film-pathway",
+    "university_name": "雷丁大学",
+    "university_name_en": "University of Reading",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25850英镑/年",
+    "qs_2026_rank": 194,
+    "usnews_2026_rank": 385,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_performing_arts_rank": null,
+    "qs_2026_art_and_design_rank": 230.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1b1e3a82-4a39-413f-a49e-a94a88f5aaab",
+    "detail_page_url": "https://www.compassedu.hk/majr_66434",
+    "program_name": "贝尔法斯特女王大学媒体与广播制作文学硕士",
+    "program_name_en": "MA Media and Broadcast Production",
+    "primary_category": "社科",
+    "secondary_category": "影视",
+    "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/media-broadcast-production-ma/",
+    "university_name": "贝尔法斯特女王大学",
+    "university_name_en": "Queen's University Belfast",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-09",
+        "application_end_date": [
+          "2025-08-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21500英镑/年",
+    "qs_2026_rank": 199,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_performing_arts_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

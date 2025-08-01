@@ -1,0 +1,455 @@
+﻿大学英文名称,学位,专业英文名称,所属院系,所属院系（英文）,面试,判定状态
+Princeton University,Ph.D. ,Applied and Computational Mathematics,应用与计算数学,Graduate School,,PhD项目-默认跳过
+Princeton University,Ph.D. ,Mathematics,数学系,Graduate School,,PhD项目-默认跳过
+Massachusetts Institute of Technology,PhD,Mathematics,数学系,Department of Mathematics,,PhD项目-默认跳过
+Massachusetts Institute of Technology,ScD,Mathematics,数学系,Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Harvard University,PhD,Applied Mathematics SEAS,约翰·保尔森工程与应用科学学院,Harvard John A. Paulson School of Engineering and Applied Sciences,,PhD项目-默认跳过
+Harvard University,PhD,Mathematics,文理研究生院,The Harvard Kenneth C. Griffin Graduate School of Arts and Sciences,,PhD项目-默认跳过
+Stanford University,PhD,Computational and Mathematical Engineering ,工程学院,School of Engineering,,PhD项目-默认跳过
+Stanford University,MS,Computational and Mathematical Engineering ,工程学院,School of Engineering,不需要,投票结果-不需要(1票) vs 需要(0票)
+Stanford University,MS,Mathematical and Computational Finance,工程学院,Stanford University School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Stanford University,PhD,Mathematics ,人文科学学院,School of Humanities and Sciences,,PhD项目-默认跳过
+Yale University,Ph.D,Applied Mathematics,艺术与科学研究生院,Graduate School of Arts and Sciences,,PhD项目-默认跳过
+Yale University,PH.D.,Mathematics,艺术与科学研究生院,Graduate School of Arts and Sciences,,PhD项目-默认跳过
+University of Pennsylvania,MA,Applied Math and Computational Science,文理学院,School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Pennsylvania,PHD,Applied Math and Computational Science,文理学院,School of Arts and Sciences,,PhD项目-默认跳过
+University of Pennsylvania,AM,Mathematics,文理学院,School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Pennsylvania,M.Phil,Mathematics,文理学院,School of Arts and Sciences,需要,投票结果-需要(2票) vs 不需要(1票)
+University of Pennsylvania,phd+ms,Mathematics,文理学院,School of Arts and Sciences,,PhD项目-默认跳过
+University of Pennsylvania,phd+ms,Mathematics,文理学院,School of Arts and Sciences,,PhD项目-默认跳过
+University of Pennsylvania,PHD,Mathematics,文理学院,School of Arts and Sciences,,PhD项目-默认跳过
+Duke University,PHD,Mathematics,文理学院,The Graduate School,,PhD项目-默认跳过
+California Institute of Technology,PHD,Applied and Computational Mathematics,工程与应用科学学部,Division of Engineering and Applied Science,,PhD项目-默认跳过
+California Institute of Technology,PHD,Computing + Mathematical Sciences,工程与应用科学学部,Division of Engineering and Applied Science,,PhD项目-默认跳过
+California Institute of Technology,PHD,Mathematics,物理，数学和天文学系,The Division of Physics,,PhD项目-默认跳过
+Brown University,PHD,Applied Mathematics,研究生院,Graduate School,,PhD项目-默认跳过
+Brown University,PHD,Mathematics,研究生院,Graduate School,,PhD项目-默认跳过
+Northwestern University,MS,MS in Engineering Sciences and Applied Mathematics,工程与应用科学学院,McCormick School of Engineering and Applied Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northwestern University,PhD,Engineering Sciences and Applied Mathematics,工程与应用科学学院,McCormick School of Engineering and Applied Science,,PhD项目-默认跳过
+Northwestern University,PhD,Mathematics,文理学院,Weinberg College of Arts and Sciences,,PhD项目-默认跳过
+Johns Hopkins University,PHD,Mathematics,艺术与科学学院,Krieger School of Arts & Sciences,,PhD项目-默认跳过
+Johns Hopkins University,MSE,Applied Mathematics and Statistics,工程学院,Johns Hopkins Whiting School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Johns Hopkins University,MSE,Applied Mathematics and Statistics,工程学院,Whiting School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Johns Hopkins University,PHD,Applied Mathematics and Statistics,工程学院,Whiting School of Engineering,,PhD项目-默认跳过
+Johns Hopkins University,PHD,Applied Mathematics and Statistics,工程学院,Whiting School of Engineering,,PhD项目-默认跳过
+Columbia University,MS,Applied Mathematics,工程与应用科学研究生学院,The Fu Foundation School of Engineering and Applied Science,需要,投票结果-需要(2票) vs 不需要(0票)
+Columbia University,MS,Applied Mathematics,工程与应用科学研究生学院,The Fu Foundation School of Engineering and Applied Science,需要,投票结果-需要(2票) vs 不需要(0票)
+Columbia University,MS/PHD,Applied Mathematics,工程与应用科学研究生学院,The Fu Foundation School of Engineering and Applied Science,,PhD项目-默认跳过
+Columbia University,PhD,Applied Mathematics,工程与应用科学研究生学院,The Fu Foundation School of Engineering and Applied Science,,PhD项目-默认跳过
+Columbia University,PhD,Mathematics,艺术与科学研究生院,Graduate School of Arts and Sciences,,PhD项目-默认跳过
+Columbia University,MA,Mathematics with a Specialization in the Mathematics of Finance,艺术与科学研究生院,Graduate School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Cornell University,Ph.D.,Applied Mathematics (Ph.D.) ,应用数学中心,Graduate School,,PhD项目-默认跳过
+Cornell University,Ph.D.,Mathematics (Ph.D.) ,文理学院,The College of Arts & Sciences,,PhD项目-默认跳过
+University of Chicago,MS,Computational and Applied Mathematics,物理科学部,Physical Sciences Division,不需要,投票结果-不需要(2票) vs 需要(0票)
+University of Chicago,Ph.D,Computational and Applied Mathematics,物理科学部,Physical Sciences Division,,PhD项目-默认跳过
+University of Chicago,Joint  PhD,Ph. D. in Mathematics and Computer Science,物理科学部,Physical Sciences Division,,PhD项目-默认跳过
+University of Chicago,Ph.D,Mathematics,物理科学部,Physical Sciences Division,,PhD项目-默认跳过
+University of Chicago,MS-PSD,Mathematics,物理科学部,Physical Sciences Division,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Berkeley",Ph.D.,Applied Mathematics,数学系,Department of Mathematics,,PhD项目-默认跳过
+"University of California, Berkeley",Ph.D,Mathematics,数学系,Department of Mathematics,,PhD项目-默认跳过
+"University of California, Berkeley",Ph.D.,Applied Science & Technology,应用科学与技术项目,College of Engineering,,PhD项目-默认跳过
+"University of California, Berkeley",Ph.D.,Logic & the Methodology of Science,逻辑与科学方法论小组,Group in Logic and the Methodology of Science,,PhD项目-默认跳过
+"University of California, Los Angeles",PHD,Mathematics,物理科学学院,Division of Physical Sciences,,PhD项目-默认跳过
+"University of California, Los Angeles",MA,Mathematics,物理科学学院,UCLA College of Letters and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rice University,Ph.D.,Computational and Applied Mathematics,工程学院,George R. Brown School of Engineering and Computing,,PhD项目-默认跳过
+Rice University,M.C.A.A.M.,The Professional Master's of Computational and Applied Mathematics,工程学院,George R. Brown School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rice University,PHD,Mathematics,自然科学学院,The Wiess School of Natural Sciences,,PhD项目-默认跳过
+Dartmouth College,PHD,Mathematics,研究生院,Guarini School of Graduate and Advanced Studies,,PhD项目-默认跳过
+Vanderbilt University,MA,Mathematics,文理学院,College of Arts and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Vanderbilt University,PHD,Mathematics,文理学院,College of Arts and Science,,PhD项目-默认跳过
+University of Notre Dame,M.S.,Applied and Computational Mathematics ,理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Notre Dame,M.S.,Applied and Computational Mathematics ,理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Notre Dame,Ph.D.,Applied and Computational Mathematics and Statistics,理学院,College of Science,,PhD项目-默认跳过
+University of Notre Dame,Ph.D.,Mathematics,理学院,College of Science,,PhD项目-默认跳过
+"University of Michigan, Ann Arbor",Ph.D,Applied and Interdisciplinary Mathematics,文化、科学与艺术学院,College of Literature,,PhD项目-默认跳过
+"University of Michigan, Ann Arbor",Ph.D,Mathematics,文化、科学与艺术学院,College of Literature,,PhD项目-默认跳过
+"University of Michigan, Ann Arbor",MS,Applied and Interdisciplinary Mathematics,文化、科学与艺术学院,,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Michigan, Ann Arbor",MS,General Mathematics Master's Program,文化、科学与艺术学院,College of Literature,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Michigan, Ann Arbor",MS,Applied Mathematics Master's Program,文化、科学与艺术学院,College of Literature,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Michigan, Ann Arbor",MS,Actuarial Mathematics Master's Program,文化、科学与艺术学院,College of Literature,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of North Carolina, Chapel Hill",Ph.D,Mathematics,文理学院,Department of Mathematics,,PhD项目-默认跳过
+"University of North Carolina, Chapel Hill",MS,Mathematics,文理学院,The Graduate School,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of North Carolina, Chapel Hill",MA,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Georgetown University,PHD,PhD program in Applied Mathematics,文理研究生院,College of Arts & Sciences,,PhD项目-默认跳过
+Georgetown University,M.S.,Mathematics & Statistics ,文理研究生院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Georgetown University,M.S.,Mathematics & Statistics ,文理研究生院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Emory University,PhD,Mathematics,研究生院,Laney Graduate School,,PhD项目-默认跳过
+Emory University,MS,Mathematics,研究生院,Emory College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Virginia,PHD,MATHEMATICS,文理研究生院,Graduate School of Arts and Sciences,,PhD项目-默认跳过
+Carnegie Mellon University,Ph.D.,Pure and Applied Logic,人文与社会科学学院,Dietrich College of Humanities and Social Sciences,,PhD项目-默认跳过
+Carnegie Mellon University,Ph.D.,"Doctor of Philosophy in Algorithms, Combinatorics, and Optimization (ACO)",科学学院,Mellon College of Science,,PhD项目-默认跳过
+Carnegie Mellon University,Ph.D.,Doctor of Philosophy in Mathematical Sciences,科学学院,Mellon College of Science,,PhD项目-默认跳过
+Carnegie Mellon University,DAM,Doctor of Arts in Mathematical Sciences,科学学院,Mellon College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Washington University in St. Louis,MS,Systems Science & Mathematics,工程学院,McKelvey School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Washington University in St. Louis,MS,Systems Science & Mathematics,工程学院,McKelvey School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Washington University in St. Louis,PHD,Project Management,工程学院,McKelvey School of Engineering,,PhD项目-默认跳过
+Washington University in St. Louis,DSc,Project Management,工程学院,McKelvey School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Washington University in St. Louis,PHD,Mathematics ,文理学院,Arts & Sciences,,PhD项目-默认跳过
+Washington University in St. Louis,MA,Mathematics ,文理学院,Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Florida,MS,Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+University of Florida,PHD,Mathematics,文理学院,College of Liberal Arts and Sciences,,PhD项目-默认跳过
+University of Florida,MS,Applied Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+"University of California, Davis",MS,Applied Mathematics,文学与科学学院,College of Letters and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Davis",PHD,Applied Mathematics,文学与科学学院,College of Letters & Science,,PhD项目-默认跳过
+"University of California, Davis",MA,Mathematics,文学与科学学院,College of Letters and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Davis",PHD,Mathematics,文学与科学学院,College of Letters and Science,,PhD项目-默认跳过
+"University of California, San Diego",Ph.D,"Computational Science, Mathematics and Engineering",物理科学部,Division of Physical Sciences,,PhD项目-默认跳过
+"University of California, San Diego",Ph.D,Ph.D. in Mathematics with a Specialization in Computational Science,物理科学部,School of Physical Sciences,,PhD项目-默认跳过
+"University of California, San Diego",Ph.D,Pure Mathematics,物理科学部,School of Physical Sciences,,PhD项目-默认跳过
+"University of California, San Diego",Ph.D,Applied Mathematics,物理科学部,School of Physical Sciences,,PhD项目-默认跳过
+"University of California, San Diego",MA,M.A. in Applied Mathematics,物理科学部,School of Physical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, San Diego",MA,M.A. in Pure Mathematics,物理科学部,School of Physical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,M.A.,Applied Mathematics,文理学院,Dana and David Dornsife College of Letters,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,M.S.,Applied Mathematics,文理学院,Dana and David Dornsife College of Letters,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,M.A.,Mathematics,文理学院,Dana and David Dornsife College of Letters,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,M.A.,Applied Mathematics,文理学院,Dana and David Dornsife College of Letters,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,M.S.,Applied Mathematics,文理学院,Dana and David Dornsife College of Letters,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,M.A.,Mathematics,文理学院,Dana and David Dornsife College of Letters,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Southern California,PhD,Applied Mathematics,文理学院,Dana and David Dornsife College of Letters,,PhD项目-默认跳过
+University of Southern California,PhD,Mathematics,文理学院,Dana and David Dornsife College of Letters,,PhD项目-默认跳过
+"University of Texas, Austin",PHD,Mathematics,自然科学学院,College of Natural Sciences,,PhD项目-默认跳过
+"University of Texas, Austin",MA,Mathematics- Actuarial program,自然科学学院,College of Natural Sciences,需要,投票结果-需要(2票) vs 不需要(0票)
+"University of Texas, Austin",MSCSEM,"Computational Science, Engineering, and Mathematics",计算工程与科学研究所,Oden Institute,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Texas, Austin",Ph.D.,"Computational Science, Engineering, and Mathematics",计算工程与科学研究所,Oden Institute,,PhD项目-默认跳过
+"University of California, Irvine",MS,Mathematics M.S.,物理科学学院,School of Physical Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+"University of California, Irvine",Ph.D.,Mathematics Ph.D.,物理科学学院,School of Physical Sciences,,PhD项目-默认跳过
+"University of California, Irvine",Ph.D.,Logic & Philosophy of Science Ph.D.,社会科学学院,School of Social Sciences,,PhD项目-默认跳过
+Georgia Institute of Technology,Ph.D,"Algorithms, Combinatrics, and Optimization",计算机学院,,,PhD项目-默认跳过
+Georgia Institute of Technology,M.S.,Mathematics,科学学院,School of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Georgia Institute of Technology,Ph.D,Mathematics,科学学院,School of Mathematics,,PhD项目-默认跳过
+"University of California, Santa Barbara",MA,Applied Mathematics  ,文理学院,Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Santa Barbara",MA,Mathematics  ,文理学院,Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Santa Barbara",MA/PhD,Mathematics  ,文理学院,Graduate Division,,PhD项目-默认跳过
+"University of California, Santa Barbara",PHD,Mathematics  ,文理学院,College of Letters & Science,,PhD项目-默认跳过
+New York University,MS,Mathematics,文理研究生院,Graduate School of Arts & Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+New York University,MS,Mathematics,文理研究生院,Graduate School of Arts and Science,不需要,投票结果-不需要(2票) vs 需要(1票)
+New York University,MS,Mathematics,文理研究生院,Graduate School of Arts and Science,不需要,投票结果-不需要(2票) vs 需要(1票)
+New York University,Ph.D,Mathematics,文理研究生院,Graduate School of Arts and Science,,PhD项目-默认跳过
+New York University,Ph.D,Mathematics-Atmosphere Ocean Science,文理研究生院,Courant Institute of Mathematical Sciences,,PhD项目-默认跳过
+New York University,MS,Mathematics,工程学院,NYU Tandon School of Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+"University of Wisconsin, Madison",MA,Mathematics,文理学院,College of Letters & Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Wisconsin, Madison",MA,Mathematics,文理学院,Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Wisconsin, Madison",PHD,Mathematics,文理学院,College of Letters & Science,,PhD项目-默认跳过
+"University of Illinois, Urbana-Champaign",PHD,Mathematics,文理学院,College of Liberal Arts & Sciences,,PhD项目-默认跳过
+"University of Illinois, Urbana-Champaign",PHD,Mathematics:Actuarial Science & Risk Analytics ,文理学院,College of Liberal Arts & Sciences,,PhD项目-默认跳过
+"University of Illinois, Urbana-Champaign",MMS,Master's of Mathematical Sciences ,文理学院,College of Liberal Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Urbana-Champaign",MS,"Applied Mathematics, MS",文理学院,College of Liberal Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Boston College,Ph.D.,Mathematics,文理学院,Morrissey College of Arts and Sciences,,PhD项目-默认跳过
+University of Washington,MS,Applied Mathematics (MS),文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Washington,MS,Master of Science in Applied and Computational Mathematics,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+University of Washington,PHD,Applied Mathematics (PhD),文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+University of Washington,PHD,"Ph.D., Applied Mathematics: Advanced Data Science",文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+University of Washington,MA,Mathematics (MA) ,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+University of Washington,MS,Mathematics (MS) ,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+University of Washington,PHD,Mathematics (PhD) ,文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+University of Washington,PHD,Mathematics (PhD) —Data Science Option,文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+"Rutgers University, New Brunswick",MS,Mathematics,文理学院,School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Rutgers University, New Brunswick",MS,Mathematics,文理学院,School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Rutgers University, New Brunswick",PHD,Mathematics,文理学院,School of Graduate Studies,,PhD项目-默认跳过
+Tufts University,MS,Mathematics,文理学院,Graduate School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Tufts University,PHD,Mathematics,文理学院,Graduate School of Arts and Sciences,,PhD项目-默认跳过
+Boston University,MA,mathematics,艺术与科学学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Boston University,Ph.D,mathematics,艺术与科学学院,College of Arts & Sciences,,PhD项目-默认跳过
+"Ohio State University, Columbus",PHD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"Purdue University, West Lafayette",MS,Mathematics,理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Purdue University, West Lafayette",PHD,Mathematics,理学院,,,PhD项目-默认跳过
+"Purdue University, West Lafayette",PHD,Mathematical and Computational Psychology,健康与人文科学学院,College of Health and Human Sciences,,PhD项目-默认跳过
+"University of Maryland, College Park",MS,Applied Mathematics,计算机、数学与自然科学学院,College of Computer,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Maryland, College Park",PhD,Applied Mathematics,计算机、数学与自然科学学院,College of Computer,,PhD项目-默认跳过
+"University of Maryland, College Park",PhD,Mathematics,计算机、数学与自然科学学院,College of Computer,,PhD项目-默认跳过
+"Texas A&M University, College Station",Ph.D, Mathematics,文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+"Texas A&M University, College Station",Ph.D, Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"Texas A&M University, College Station",MS, Mathematics：Teaching track,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS, Mathematics：Teaching track,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS, Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS,Computational Math,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS,Industrial Math,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS,Math Biology,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS, Mathematics,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS,Computational Math,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Texas A&M University, College Station",MS,Industrial Math,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+"Texas A&M University, College Station",MS,Math Biology,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Virginia Tech,PHD,Mathematics,理学院,College of Science,,PhD项目-默认跳过
+Virginia Tech,MS,Mathematics ,理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Lehigh University,Ph.D,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Lehigh University,MS,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Lehigh University,MS,Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Lehigh University,Ph.D,Applied Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of Rochester,Ph.D,Mathematics,文理学院,School of Arts & Sciences,,PhD项目-默认跳过
+Wake Forest University,MA, Mathematics (MA),文理研究生院,Graduate School of Arts & Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+University of Georgia,MA,Mathematics,文理学院,Franklin College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Georgia,PHD,Mathematics,文理学院,Franklin College of Arts and Sciences,,PhD项目-默认跳过
+University of Georgia,MS,Master of Applied Mathematical Sciences,文理学院,Franklin College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,PHD,Math ,科学学院,College of Science,,PhD项目-默认跳过
+Northeastern University（Boston）,MS,Applied Math,科学学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,MS,Applied Math,科学学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,MS,Math ,科学学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,MS,Math ,科学学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,MS,Math  Operations Research,科学学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,MS,Math  Operations Research,科学学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,硕士预科项目,Applied Mathematics（College of Science）,Global Pathways项目,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,硕士预科项目,Applied Mathematics（College of Science）,Global Pathways项目,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,硕士预科项目,Operations Research: Mathematics（College of Science）,Global Pathways项目,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Northeastern University（Boston）,硕士预科项目,Operations Research: Mathematics（College of Science）,Global Pathways项目,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Florida State University,PHD,Pure Mathematics ,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Florida State University,MS,Pure Mathematics ,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Florida State University,PHD,Applied & Computational Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Florida State University,MS,Mathematics,文理学院,College of Arts and Sciences,需要,投票结果-需要(3票) vs 不需要(0票)
+Florida State University,MS,Mathematical Statistics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Florida State University,MS,Mathematical Statistics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Case Western Reserve University,MS ,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Case Western Reserve University,PhD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Case Western Reserve University,Ph.D,Applied Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Case Western Reserve University,MS,Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Minnesota, Twin Cities",PHD,Mathematics Ph.D.,理工学院,College of Science and Engineering,,PhD项目-默认跳过
+"University of Minnesota, Twin Cities",MS,MS Mathematics: Data Science,理工学院,College of Science and Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Minnesota, Twin Cities",MS,MS Mathematics: Industrial and Applied Mathematics,理工学院,College of Science and Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Minnesota, Twin Cities",MS,MS Mathematics: Math Education ,理工学院,College of Science and Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Minnesota, Twin Cities",MS,MS Mathematics,理工学院,College of Science & Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+College of William & Mary,MS,Applied Science—Applied Mathematics,文理学院,School of Computing,不需要,投票结果-不需要(3票) vs 需要(0票)
+College of William & Mary,MS,Applied Science—Mathematical and Computational Biology,文理学院,,不需要,投票结果-不需要(3票) vs 需要(0票)
+College of William & Mary,Ph.D,Applied Science—Applied Mathematics,文理学院,School of Computing,,PhD项目-默认跳过
+College of William & Mary,Ph.D,Applied Science—Mathematical and Computational Biology,文理学院,School of Computing,,PhD项目-默认跳过
+College of William & Mary,MS,Applied Science—Applied Mathematics,文理学院,School of Computing,不需要,投票结果-不需要(3票) vs 需要(0票)
+College of William & Mary,MS,Applied Science—Mathematical and Computational Biology,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+College of William & Mary,Ph.D,Applied Science—Applied Mathematics,文理学院,School of Computing,,PhD项目-默认跳过
+College of William & Mary,Ph.D,Applied Science—Mathematical and Computational Biology,文理学院,School of Computing,,PhD项目-默认跳过
+University of Connecticut,M.S.,Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+University of Connecticut,Ph.D.,Mathematics,文理学院,College of Liberal Arts and Sciences,,PhD项目-默认跳过
+"Stony Brook University, SUNY",PHD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"Stony Brook University, SUNY",MA,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Stony Brook University, SUNY",MS,Computational Applied Mathematics  ,工程与应用科学学院,College of Engineering and Applied Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Stony Brook University, SUNY",PHD,Computational Applied Mathematics  ,工程与应用科学学院,,,PhD项目-默认跳过
+"Stony Brook University, SUNY",MS,Computational Applied Mathematics  ,工程与应用科学学院,College of Engineering and Applied Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Stony Brook University, SUNY",PHD,Computational Applied Mathematics  ,工程与应用科学学院,College of Engineering and Applied Sciences,,PhD项目-默认跳过
+"North Carolina State University, Raleigh",MS,Applied Mathematics,科学学院,College of Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"North Carolina State University, Raleigh",MS,Applied Mathematics,科学学院,College of Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"North Carolina State University, Raleigh",MS,Mathematics,科学学院,College of Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"North Carolina State University, Raleigh",MS,Mathematics,科学学院,College of Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"North Carolina State University, Raleigh",PHD,Applied Mathematics,科学学院,College of Sciences,,PhD项目-默认跳过
+"North Carolina State University, Raleigh",PHD,Mathematics,科学学院,College of Sciences,,PhD项目-默认跳过
+"North Carolina State University, Raleigh",PHD,Computational Mathematics,科学学院,College of Sciences,,PhD项目-默认跳过
+"North Carolina State University, Raleigh",PHD,Interdisciplinary Mathematics,科学学院,College of Sciences,,PhD项目-默认跳过
+"Pennsylvania State University, University Park",PHD,Mathematics ,科学学院,Eberly College of Science,,PhD项目-默认跳过
+Brandeis University,Ph.D,Mathematics,文理研究生院,Graduate School of Arts and Sciences,,PhD项目-默认跳过
+Brandeis University,MA/MS,Mathematics,文理研究生院,Graduate School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Merced",MS,Applied Mathematics,自然科学学院,School of Natural Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Merced",Ph.D.,Applied Mathematics,自然科学学院,School of Natural Sciences,,PhD项目-默认跳过
+Rensselaer Polytechnic Institute,Ph.D,Mathematics,科学学院,School of Science,,PhD项目-默认跳过
+Rensselaer Polytechnic Institute,Ph.D,Mathematics,科学学院,School of Science,,PhD项目-默认跳过
+Rensselaer Polytechnic Institute,MS,Mathematics,科学学院,School of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rensselaer Polytechnic Institute,MS,Mathematics,科学学院,School of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rensselaer Polytechnic Institute,MS,Applied Mathematics,科学学院,School of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rensselaer Polytechnic Institute,MS,Applied Mathematics,科学学院,School of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Michigan State University,PHD,"Computational Mathematics, Science and Engineering - ",工程学院,College of Natural Science,,PhD项目-默认跳过
+Michigan State University,PHD,"Computational Mathematics, Science and Engineering - ",工程学院,College of Natural Science,,PhD项目-默认跳过
+Michigan State University,MS,"Computational Mathematics, Science and Engineering - ",工程学院,College of Natural Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Michigan State University,MS,"Computational Mathematics, Science and Engineering - ",工程学院,College of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Michigan State University,PHD,Mathematics - ,自然科学学院,College of Natural Science,,PhD项目-默认跳过
+Michigan State University,PHD,Applied Mathematics - ,自然科学学院,College of Natural Science,,PhD项目-默认跳过
+Michigan State University,MS,Industrial Mathematics ,自然科学学院,College of Natural Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Michigan State University,MS,Mathematics ,自然科学学院,College of Natural Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Michigan State University,MS,Applied Mathematics ,自然科学学院,College of Natural Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Santa Clara University,MS,Applied Mathematics in Mathematical Finance,工程学院,School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Santa Clara University,MS,Applied Mathematics in Mathematical Finance,工程学院,School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Santa Clara University,MS,Applied Mathematics in Mathematical Finance,工程学院,School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Santa Clara University,MS,Applied Mathematics,工程学院,School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Santa Clara University,MS,Applied Mathematics,工程学院,School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+Santa Clara University,MS,Applied Mathematics,工程学院,School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Massachusetts, Amherst",MS,Applied Mathematics,自然科学学院,Department of Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Massachusetts, Amherst",PHD,Mathematics,自然科学学院,College of Natural Sciences,,PhD项目-默认跳过
+University of Miami,PHD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of Miami,MS,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Miami,MAT,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Pittsburgh,PHD,Mathematics,文理研究生院,Kenneth P. Dietrich School of Arts and Sciences,,PhD项目-默认跳过
+University of Pittsburgh,MA,Mathematics,文理研究生院,Kenneth P. Dietrich School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Pittsburgh,MS,Mathematics,文理研究生院,Kenneth P. Dietrich School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+George Washington University,PHD,Mathematics,文理学院,Columbian College of Arts & Sciences,,PhD项目-默认跳过
+George Washington University,MA,Mathematics ,文理学院,Columbian College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+George Washington University,MS,Applied Mathematics ,文理学院,Columbian College of Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+Villanova University,MA,Master of Arts in Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Villanova University,MA,Master of Arts in Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Villanova University,MA,Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Syracuse University,MS,Mathematics M.S.,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Syracuse University,PHD,Mathematics Ph.D.,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Tulane University,MS,Mathematics  ,理工学院,School of Science and Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+Tulane University,MS,Mathematics  ,理工学院,School of Science and Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+Tulane University,PhD,Mathematics  ,理工学院,School of Science and Engineering,,PhD项目-默认跳过
+Tulane University,PhD,Mathematics  ,理工学院,School of Science and Engineering,,PhD项目-默认跳过
+Tulane University,MS,Applied Mathematics  ,理工学院,School of Science and Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+Tulane University,MS,Applied Mathematics  ,理工学院,School of Science and Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+"Binghamton University, SUNY",PHD,Mathematical Sciences (PHD),文理学院,Department of Mathematics and Statistics,,PhD项目-默认跳过
+"Binghamton University, SUNY",PHD,Mathematical Sciences (PHD),文理学院,Department of Mathematics and Statistics,,PhD项目-默认跳过
+"Binghamton University, SUNY",MA,Mathematical Sciences (MA),文理学院,Department of Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Binghamton University, SUNY",MA,Mathematical Sciences (MA),文理学院,Department of Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Indiana University, Bloomington",Ph.D.,Mathematical Physics (Physics),文理学院,The College of Arts & Sciences,,PhD项目-默认跳过
+"Indiana University, Bloomington",M.A.,Mathematics,文理学院,The College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Indiana University, Bloomington",Ph.D.,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"Indiana University, Bloomington",Ph.D.,Mathematical Physics (Mathematics),文理学院,College of Arts + Sciences,,PhD项目-默认跳过
+"University of California, Riverside",MA,Mathematics ,自然与农业科学学院,College of Natural and Agricultural Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Riverside",MS,Mathematics ,自然与农业科学学院,College of Natural and Agricultural Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Riverside",MS, Applied Mathematics,自然与农业科学学院,College of Natural and Agricultural Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Riverside",PHD,Mathematics ,自然与农业科学学院,College of Natural and Agricultural Sciences,,PhD项目-默认跳过
+Colorado School of Mines,MS, Applied Mathematics and Statistics—COMPUTATIONAL AND APPLIED MATHEMATICS（非论文）,应用数学和统计学系,Department of Applied Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Colorado School of Mines,MS, Applied Mathematics and Statistics—COMPUTATIONAL AND APPLIED MATHEMATICS（论文）,应用数学和统计学系,Department of Applied Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Colorado School of Mines,MS, Applied Mathematics and Statistics—COMPUTATIONAL AND APPLIED MATHEMATICS（论文）,应用数学和统计学系,Department of Applied Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Colorado School of Mines,PHD, Applied Mathematics and Statistics—COMPUTATIONAL AND APPLIED MATHEMATICS,应用数学和统计学系,Department of Applied Mathematics and Statistics,,PhD项目-默认跳过
+Colorado School of Mines,PHD, Applied Mathematics and Statistics—COMPUTATIONAL AND APPLIED MATHEMATICS,应用数学和统计学系,Department of Applied Mathematics and Statistics,,PhD项目-默认跳过
+Colorado School of Mines,MS, Applied Mathematics and Statistics—STATISTICS（非论文）,应用数学和统计学系,Department of Applied Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Colorado School of Mines,MS, Applied Mathematics and Statistics—STATISTICS（论文）,应用数学和统计学系,Colorado School of Mines,不需要,投票结果-不需要(3票) vs 需要(0票)
+Colorado School of Mines,MS, Applied Mathematics and Statistics—STATISTICS（论文）,应用数学和统计学系,Department of Applied Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Colorado School of Mines,PHD, Applied Mathematics and Statistics—STATISTICS,应用数学和统计学系,Department of Applied Mathematics and Statistics,,PhD项目-默认跳过
+Colorado School of Mines,PHD, Applied Mathematics and Statistics—STATISTICS,应用数学和统计学系,Department of Applied Mathematics and Statistics,,PhD项目-默认跳过
+Colorado School of Mines,MS, Applied Mathematics and Statistics—DATA SCIENCE（非论文）,应用数学和统计学系,Department of Applied Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University at Buffalo, SUNY",MS,Natural Science-Interdisciplinary MS,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University at Buffalo, SUNY",MA,Mathematics MA,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University at Buffalo, SUNY",MA,Mathematics MA,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University at Buffalo, SUNY",MS,Master of Science (MS)   in Computational and Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University at Buffalo, SUNY",PhD,Mathematics PhD,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"University at Buffalo, SUNY",PhD,Mathematics PhD,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Stevens Institute of Technology,PHD,"MATHEMATICS, M.S.",工程与科学学院,Charles V. Schaefer,,PhD项目-默认跳过
+Stevens Institute of Technology,PHD,"MATHEMATICS, M.S.",工程与科学学院,Charles V. Schaefer,,PhD项目-默认跳过
+Stevens Institute of Technology,MS,"MATHEMATICS, M.S.",工程与科学学院,Charles V. Schaefer,不需要,投票结果-不需要(3票) vs 需要(0票)
+Stevens Institute of Technology,MS,"MATHEMATICS, M.S.",工程与科学学院,Charles V. Schaefer,不需要,投票结果-不需要(3票) vs 需要(0票)
+Stevens Institute of Technology,MS,"MATHEMATICS, M.S.",工程与科学学院,Charles V. Schaefer,不需要,投票结果-不需要(3票) vs 需要(0票)
+Stevens Institute of Technology,MS,"ACTUARIAL MATHEMATICS AND QUANTITATIVE RISK, M.S.",工程与科学学院,Charles V. Schaefer,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Delaware,PhD ,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of Delaware,PhD ,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of Delaware,MS ,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Delaware,MS ,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Delaware,PhD ,Applied Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of Delaware,PhD ,Applied Mathematics,文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+University of Delaware,MS,Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Delaware,MS,Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Santa Cruz",M.S,Applied mathematics,工程部,Baskin Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Santa Cruz",Ph.D.,Applied mathematics,工程部,Baskin School of Engineering,,PhD项目-默认跳过
+"University of California, Santa Cruz",M.S,Scientific Computing & Applied thetics,工程部,Jack Baskin School of Engineering,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Santa Cruz",M.A,thetics,物理与生物科学部,Division of Physical & Biological Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of California, Santa Cruz",Ph.D.,thetics,物理与生物科学部,The Division of Graduate Studies,,PhD项目-默认跳过
+"Rutgers University, Newark",PHD,Mathematical Sciences (PHD) Newark,研究生院,School of Arts and Sciences–Newark,,PhD项目-默认跳过
+Worcester Polytechnic Institute,MS,Applied Mathematics,文理学院,Mathematical Sciences Department,不需要,投票结果-不需要(3票) vs 需要(0票)
+Worcester Polytechnic Institute,MS,Applied Mathematics,文理学院,Mathematical Sciences Department,不需要,投票结果-不需要(3票) vs 需要(0票)
+Worcester Polytechnic Institute,MS,Industrial Mathematics,文理学院,Mathematical Sciences Department,不需要,投票结果-不需要(2票) vs 需要(1票)
+Worcester Polytechnic Institute,MS,Industrial Mathematics,文理学院,Mathematical Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+Worcester Polytechnic Institute,PHD,Mathematical Sciences,文理学院,,,PhD项目-默认跳过
+Worcester Polytechnic Institute,PHD,Mathematical Sciences,文理学院,Mathematical Sciences Department,,PhD项目-默认跳过
+"University of Illinois, Chicago",MS,MS – Pure Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Pure Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Pure Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Applied Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Applied Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Applied Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Mathematical Computer Science,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Mathematical Computer Science,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",MS,MS – Mathematical Computer Science,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Illinois, Chicago",PhD,Mathematics,文理学院,College of Liberal Arts and Sciences,,PhD项目-默认跳过
+Clemson University,MS,Mathematical Sciences,理学院,School of Mathematical and Statistical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Clemson University,MS,Mathematical Sciences,理学院,School of Mathematical and Statistical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Clemson University,PhD,Mathematical Sciences,理学院,College of Science,,PhD项目-默认跳过
+Clemson University,PhD,Mathematical Sciences,理学院,School of Mathematical and Statistical Sciences,,PhD项目-默认跳过
+Marquette University,MS,Computational Mathematical and Statistical Sciences  ,文理学院,Helen Way Klingler College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Marquette University,PHD,Computational Mathematical and Statistical Sciences  ,文理学院,Helen Way Klingler College of Arts and Sciences,,PhD项目-默认跳过
+New Jersey Institute of Technology,M.S.,Applied Mathematics - M.S.,科学与人文学院,Department of Mathematical Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+New Jersey Institute of Technology,PhD,Applied Mathematics Track,科学与人文学院,Jordan Hu College of Science and Liberal Arts,,PhD项目-默认跳过
+New Jersey Institute of Technology,PhD,Pure Mathematics Track,科学与人文学院,Jordan Hu College of Science and Liberal Arts,,PhD项目-默认跳过
+University of South Florida,PhD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of South Florida,PhD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of South Florida,PhD,Mathematics：Pure and Applied,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of South Florida,PhD,Mathematics：Pure and Applied,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of South Florida,PhD,Mathematics：Statistics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of South Florida,PhD,Mathematics：Statistics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of South Florida,MA,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of South Florida,MA,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of South Florida,MA,Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of South Florida,MA,Applied Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Southern Methodist University,PHD,computational and applied mathematics,人文与科学学院,Dedman College of Humanities and Sciences,,PhD项目-默认跳过
+Southern Methodist University,MS,computational and applied mathematics,人文与科学学院,Dedman College of Humanities and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Temple University,PhD,Mathematics PhD,科学技术学院,College of Science and Technology,,PhD项目-默认跳过
+Temple University,MS,Mathematics MS,科学技术学院,,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Iowa,MS, Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Iowa,Ph.D, Mathematics,文理学院,College of Liberal Arts and Sciences,,PhD项目-默认跳过
+University of Iowa,MS, Mathematics,文理学院,College of Liberal Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Iowa,Ph.D, Mathematics,文理学院,College of Liberal Arts and Sciences,,PhD项目-默认跳过
+University of Iowa,Ph.D,Applied Mathematical & Computational Sciences,文理学院,Graduate College,,PhD项目-默认跳过
+Auburn University,MAM,Applied Mathematics,科学与数学学院,College of Sciences and Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Auburn University,MS,Mathematics,科学与数学学院,College of Sciences and Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Auburn University,PhD,Mathematics,科学与数学学院,College of Sciences and Mathematics,,PhD项目-默认跳过
+Auburn University,PhD,Doctor of Philosophy in Mathematics with Concentration in Statistics,科学与数学学院,College of Sciences and Mathematics,,PhD项目-默认跳过
+Baylor University,Ph.D.,Mathematics ,文理学院,College of Arts & Sciences,,PhD项目-默认跳过
+Texas Christian University,MS,Mathematics,理工学院,College of Science & Engineering,需要,投票结果-需要(2票) vs 不需要(1票)
+Texas Christian University,MS,Mathematics,理工学院,College of Science & Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+Texas Christian University,MAT,Mathematics,理工学院,College of Science & Engineering,需要,投票结果-需要(2票) vs 不需要(0票)
+Texas Christian University,MAT,Mathematics,理工学院,College of Science & Engineering,需要,投票结果-需要(3票) vs 不需要(0票)
+Texas Christian University,Ph.D,Mathematics,理工学院,College of Science & Engineering,,PhD项目-默认跳过
+Texas Christian University,Ph.D,Mathematics,理工学院,College of Science & Engineering,,PhD项目-默认跳过
+Drexel University,MS,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Drexel University,PhD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+University of Oregon,PhD,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"Rutgers University, Camden",M.B.S.,BUSINESS & SCIENCE M.B.S.,文理研究生院,Graduate School of Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(0票)
+"Rutgers University, Camden",M.S.,MATHEMATICAL SCIENCES M.S.,文理研究生院,Graduate School of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rochester Institute of Technology,MS,Applied and Computational Mathematics MS ,数学与统计学院,School of Mathematics and Statistics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Rochester Institute of Technology,Ph.D.,Mathematical Modeling Ph.D. ,数学与统计学院,School of Mathematics and Statistics,,PhD项目-默认跳过
+Illinois Institute of Technology,M.A.S,Applied Mathematics (M.A.S.),计算机学院,College of Computing,不需要,投票结果-不需要(3票) vs 需要(0票)
+Illinois Institute of Technology,M.S.,Applied Mathematics (M.S.),计算机学院,College of Computing,不需要,投票结果-不需要(3票) vs 需要(0票)
+Illinois Institute of Technology,Ph.D.,Applied Mathematics (Ph.D.),计算机学院,College of Computing,,PhD项目-默认跳过
+Saint Louis University,MA,Master of Arts in Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+Saint Louis University,MA,Master of Arts in Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+Saint Louis University,PhD,Doctor of Philosophy in Mathematics ,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+Saint Louis University,PhD,Doctor of Philosophy in Mathematics ,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"University of Colorado, Boulder",MS,Applied Math,工程与应用科学学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Colorado, Boulder",MS,Applied Math,工程与应用科学学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Colorado, Boulder",PHD,Applied Math,工程与应用科学学院,College of Arts and Sciences,,PhD项目-默认跳过
+"University of Colorado, Boulder",Ph.D,Mathematics,文理学院,College of Arts and Sciences,,PhD项目-默认跳过
+"University of Colorado, Boulder",MA,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+"University of Colorado, Boulder",MS,Mathematics,文理学院,College of Arts and Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+American University,MS,Mathematics of Info & Security MS,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+American University,MS,Mathematics of Info & Security MS,文理学院,College of Arts & Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+Yeshiva University,MA,Mathematics (MA),科学与卫生学院,The Katz School of Science and Health,不需要,投票结果-不需要(3票) vs 需要(0票)
+Yeshiva University,Ph.D,Mathematical Sciences (PhD),科学与卫生学院,The Katz School of Science and Health,,PhD项目-默认跳过
+Yeshiva University,MA,Mathematics (MA),科学与卫生学院,The Katz School of Science and Health,不需要,投票结果-不需要(3票) vs 需要(0票)
+Yeshiva University,Ph.D,Mathematical Sciences (PhD),科学与卫生学院,The Katz School of Science and Health,,PhD项目-默认跳过
+University of Arizona,MA,Mathematics,理学院,The Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Arizona,MS,Mathematics,理学院,The Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Arizona,PHD,Mathematics,理学院,The Department of Mathematics,,PhD项目-默认跳过
+University of Arizona,MS,Applied Mathematics (MS),研究生院跨学科课程,The Graduate College,需要,投票结果-需要(2票) vs 不需要(1票)
+University of Arizona,PHD,Applied Mathematics (PHD),研究生院跨学科课程,Department of Mathematics,,PhD项目-默认跳过
+University of Utah,MA,"Mathematics, M.A.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,MS,"Mathematics, M.S.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,Ph.D.,"Mathematics, Ph.D.",理学院,College of Science,,PhD项目-默认跳过
+University of Utah,M.Stat.,"Mathematics, M.Stat.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,MA,"Mathematics, M.A.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,MS,"Mathematics, M.S.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,Ph.D.,"Mathematics, Ph.D.",理学院,College of Science,,PhD项目-默认跳过
+University of Utah,M.Stat.,"Mathematics, M.Stat.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,MA,"Mathematics, M.A.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,MS,"Mathematics, M.S.",理学院,College of Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Utah,Ph.D.,"Mathematics, Ph.D.",理学院,College of Science,,PhD项目-默认跳过
+University of Utah,M.Stat.,"Mathematics, M.Stat.",理学院,Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+Howard University,PHD,Mathematics,文理学院,The Graduate School,,PhD项目-默认跳过
+Howard University,PHD,Mathematics,文理学院,The Graduate School,,PhD项目-默认跳过
+"Brigham Young University, Provo",MS,Mathematics (MS),科学学院,Department of Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Brigham Young University, Provo",MS,Mathematics (MS),科学学院,College of Computational,不需要,投票结果-不需要(2票) vs 需要(0票)
+"Brigham Young University, Provo",MS,Mathematics (MS),科学学院,,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Brigham Young University, Provo",MS,Mathematics (MS),科学学院,,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Brigham Young University, Provo",PHD,Mathematics (PhD),科学学院,Department of Mathematics,,PhD项目-默认跳过
+"Brigham Young University, Provo",PHD,Mathematics (PhD),科学学院,Department of Mathematics,,PhD项目-默认跳过
+"Brigham Young University, Provo",PHD,Mathematics (PhD),科学学院,Department of Mathematics,,PhD项目-默认跳过
+"Brigham Young University, Provo",PHD,Mathematics (PhD),科学学院,Department of Mathematics,,PhD项目-默认跳过
+University of Denver,PhD,Mathematics,自然科学与数学学院,College of Natural Sciences and Mathematics,,PhD项目-默认跳过
+University of Denver,MS,Mathematics,自然科学与数学学院,College of Natural Sciences and Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Denver,MA,Mathematics,自然科学与数学学院,College of Natural Sciences and Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Denver,PhD,Mathematics,自然科学与数学学院,College of Natural Sciences and Mathematics,,PhD项目-默认跳过
+University of Denver,MS,Mathematics,自然科学与数学学院,College of Natural Sciences and Mathematics,不需要,投票结果-不需要(1票) vs 需要(0票)
+University of Denver,MA,Mathematics,自然科学与数学学院,College of Natural Sciences and Mathematics,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Vermont,PHD,Mathematical Sciences ,工程与数学科学学院,College of Engineering and Mathematical Sciences,,PhD项目-默认跳过
+University of Vermont,MST,Mathematics ,工程与数学科学学院,College of Engineering and Mathematical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Vermont,MS,Mathematics ,工程与数学科学学院,College of Engineering and Mathematical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Vermont,PHD,Mathematical Sciences ,工程与数学科学学院,College of Engineering and Mathematical Sciences,,PhD项目-默认跳过
+University of Vermont,MST,Mathematics ,工程与数学科学学院,College of Engineering and Mathematical Sciences,不需要,投票结果-不需要(3票) vs 需要(0票)
+University of Vermont,MS,Mathematics ,工程与数学科学学院,College of Engineering and Mathematical Sciences,不需要,投票结果-不需要(2票) vs 需要(1票)
+"Miami University, Oxford",MS, Mathematics,文理学院,College of Arts and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Miami University, Oxford",MA, Mathematics,文理学院,College of Arts and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+"Miami University, Oxford",MS,Applied Mathematics,文理学院,College of Arts and Science,不需要,投票结果-不需要(3票) vs 需要(0票)
+Loyola University Chicago,MS,Mathematics ,文理学院,The Graduate School,不需要,投票结果-不需要(3票) vs 需要(0票)
+Loyola University Chicago,MS,Mathematics ,文理学院,The Graduate School,不需要,投票结果-不需要(3票) vs 需要(0票)
+Loyola University Chicago,MS,Mathematics ,文理学院,The Graduate School,不需要,投票结果-不需要(3票) vs 需要(0票)

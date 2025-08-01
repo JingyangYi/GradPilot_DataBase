@@ -1,0 +1,1897 @@
+[
+  {
+    "completion_rate": "26 / 26",
+    "fail_count": 0,
+    "original_total": 120,
+    "classification": "QS200后"
+  },
+  {
+    "id": "5e038821-d3dc-4667-92f8-5f0a0b5260e0",
+    "detail_page_url": "https://www.compassedu.hk/majr_71871",
+    "program_name": "哥伦比亚大学材料科学与工程理学硕士",
+    "program_name_en": "M.S. in Materials Science & Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_materials_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "caf07c26-ebb2-46a2-b901-14b19ae2c0e8",
+    "detail_page_url": "https://www.compassedu.hk/majr_51763",
+    "program_name": "谢菲尔德大学纳米材料与材料科学理学硕士",
+    "program_name_en": "MSc Nanomaterials and Materials Science",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_materials_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "da780cca-7378-45bc-bf03-03f0fdcba918",
+    "detail_page_url": "https://www.compassedu.hk/majr_64376",
+    "program_name": "亚琛工业大学冶金工程",
+    "program_name_en": "M.Sc. Metallurgical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rwth-aachen.de/go/id/bkqv?lidx=1#aaaaaaaaaaabkqw",
+    "university_name": "亚琛工业大学",
+    "university_name_en": "RWTH Aachen University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "tuition": "600欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 225,
+    "the_2025_rank": 92,
+    "arwu_2024_rank": 201,
+    "qs_2026_materials_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "79c2c5a9-d000-4533-8929-e07aabdd6711",
+    "detail_page_url": "https://www.compassedu.hk/majr_75442",
+    "program_name": "埃克塞特大学高级材料理学硕士",
+    "program_name_en": "MSc Advanced Materials",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_materials_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bfdc8b42-55cc-4ae5-8887-9e9bf5ebfcdd",
+    "detail_page_url": "https://www.compassedu.hk/majr_71914",
+    "program_name": "马里兰大学帕克分校材料科学与工程理学硕士",
+    "program_name_en": "MS in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/165.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://academiccatalog.umd.edu/graduate/programs/materials-science-engineering-enma/#text",
+    "university_name": "马里兰大学帕克分校",
+    "university_name_en": "University of Maryland, College Park",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-29"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "小分要求": "S22,L24,R26,W24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "S6.5,L7,R7,W7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "2123.5美元/学分",
+    "qs_2026_rank": 207,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 58,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e9846b43-6c21-4eee-9d88-0cff03b569c7",
+    "detail_page_url": "https://www.compassedu.hk/majr_71915",
+    "program_name": "马里兰大学帕克分校材料科学与工程工学硕士",
+    "program_name_en": "M.Eng.in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/165.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://academiccatalog.umd.edu/graduate/programs/materials-science-engineering-pmms/#text",
+    "university_name": "马里兰大学帕克分校",
+    "university_name_en": "University of Maryland, College Park",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-27"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-03-08"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "小分要求": "S22,L24,R26,W24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "S6.5,L7,R7,W7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "2123.5美元/学分",
+    "qs_2026_rank": 207,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 58,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "270a32da-0407-4218-ae8f-c4553a667135",
+    "detail_page_url": "https://www.compassedu.hk/majr_71894",
+    "program_name": "佛罗里达大学材料科学与工程理学硕士",
+    "program_name_en": "MS in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mse.ufl.edu/academics/graduate/mse-ms/",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-01"
+        ]
+      },
+      {
+        "title": "22年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-12-05"
+        ]
+      },
+      {
+        "title": "23年夏季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-02-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "verbal 140"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "30学分",
+    "tuition": "1255.41美元/学分",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "94a5fb83-0511-4757-b270-94b7b058e7ee",
+    "detail_page_url": "https://www.compassedu.hk/majr_50895",
+    "program_name": "拉夫堡大学高分子科学与工程理学硕士",
+    "program_name_en": "MSc Polymer Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/polymer-science-engineering/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cf5e9c52-397b-49e0-9b68-a6f8027bc318",
+    "detail_page_url": "https://www.compassedu.hk/majr_62885",
+    "program_name": "拉夫堡大学高级材料科学与工程理学硕士",
+    "program_name_en": "MSc Advanced Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/advanced-materials-science-engineering/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f512b123-def8-4935-8ed0-aa3c301abb88",
+    "detail_page_url": "https://www.compassedu.hk/majr_74129",
+    "program_name": "纽卡斯尔大学（澳大利亚）材料科学与工程硕士",
+    "program_name_en": "Master of Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-materials-science-engineering",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "48125澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_materials_science_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b7cd4f8d-7784-49e3-af6b-696a614e52b2",
+    "detail_page_url": "https://www.compassedu.hk/majr_71893",
+    "program_name": "罗切斯特大学材料科学理学硕士",
+    "program_name_en": "MS in Materials Science",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/143.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hajim.rochester.edu/matsci/graduate/ms-requirements.html",
+    "university_name": "罗切斯特大学",
+    "university_name_en": "University of Rochester",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-15",
+          "2023-04-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "95"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "60550美元/年",
+    "qs_2026_rank": 236,
+    "usnews_2026_rank": 201,
+    "the_2025_rank": 127,
+    "arwu_2024_rank": 151,
+    "qs_2026_materials_science_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1a97ee78-8743-4b4c-9c40-141c6d02a5e8",
+    "detail_page_url": "https://www.compassedu.hk/majr_73581",
+    "program_name": "范德堡大学材料科学理学硕士",
+    "program_name_en": "MS in Materials Science",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/97.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.vanderbilt.edu/materials-science/graduate-program/index.php",
+    "university_name": "范德堡大学",
+    "university_name_en": "Vanderbilt University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、GRE，不接受：雅思、GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "66,450美元",
+    "qs_2026_rank": 250,
+    "usnews_2026_rank": 66,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 66,
+    "qs_2026_materials_science_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c0123539-51c2-4c4b-8f77-0d377262c61a",
+    "detail_page_url": "https://www.compassedu.hk/majr_67361",
+    "program_name": "思克莱德大学高级材料工程理学硕士",
+    "program_name_en": "MSc Advanced Materials Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/advancedmaterialsengineering/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31100英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_materials_science_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "70e18820-83f4-49d4-a977-e61379846e4b",
+    "detail_page_url": "https://www.compassedu.hk/majr_71891",
+    "program_name": "弗吉尼亚大学材料科学与工程理学硕士",
+    "program_name_en": "MS in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/105.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.virginia.edu/departments/materials-science-and-engineering",
+    "university_name": "弗吉尼亚大学",
+    "university_name_en": "University of Virginia",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-30"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-06"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "25学分",
+    "tuition": "2091美元/学分",
+    "qs_2026_rank": 275,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 163,
+    "arwu_2024_rank": 201,
+    "qs_2026_materials_science_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6cdcfd84-d49d-4ba0-adaf-6fe7c2e2ccdb",
+    "detail_page_url": "https://www.compassedu.hk/majr_62859",
+    "program_name": "萨塞克斯大学纳米材料与能源理学硕士",
+    "program_name_en": "MSc Nanomaterials and Energy",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/nanomaterials-and-energy-msc",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_materials_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "05255637-bc9c-41ed-9e89-f4f13ba1d1de",
+    "detail_page_url": "https://www.compassedu.hk/majr_71912",
+    "program_name": "匹兹堡大学材料科学与工程理学硕士",
+    "program_name_en": "MS in Materials Science Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.pitt.edu/departments/mems/graduate/graduate-program-overview/",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-10-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "30学分",
+    "tuition": "46952美元/年",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_materials_science_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "975d751a-58fc-4cb3-a438-6130f3c976cd",
+    "detail_page_url": "https://www.compassedu.hk/majr_72432",
+    "program_name": "澳门大学创新材料理学硕士",
+    "program_name_en": "MSc Innovative Materials",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://iapme.um.edu.mo/programmes/master/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_materials_science_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a26d3aee-55c5-4bc8-9651-d721847f2fa2",
+    "detail_page_url": "https://www.compassedu.hk/majr_71895",
+    "program_name": "加州大学欧文分校材料科学与工程理学硕士",
+    "program_name_en": "M.S. in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/154.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.uci.edu/admissions/graduate/programs-and-concentrations/materials-science-and-engineering",
+    "university_name": "加州大学欧文分校",
+    "university_name_en": "University of California, Irvine",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "能量转换和储存材料"
+      },
+      {
+        "key": "2",
+        "value": "极端环境材料"
+      },
+      {
+        "key": "3",
+        "value": "原位显微镜"
+      },
+      {
+        "key": "4",
+        "value": "纳米材料"
+      },
+      {
+        "key": "5",
+        "value": "材料加工与增材制造"
+      },
+      {
+        "key": "6",
+        "value": "仿生材料"
+      },
+      {
+        "key": "7",
+        "value": "光电材料"
+      },
+      {
+        "key": "8",
+        "value": "成分复杂的合金（高熵合金）"
+      },
+      {
+        "key": "9",
+        "value": "微/纳米结构材料"
+      },
+      {
+        "key": "10",
+        "value": "纳米力学"
+      },
+      {
+        "key": "11",
+        "value": "涂层和工程表面"
+      },
+      {
+        "key": "12",
+        "value": "绿色工程"
+      },
+      {
+        "key": "13",
+        "value": "计算材料科学"
+      },
+      {
+        "key": "14",
+        "value": "材料缺陷的定量冲击诊断"
+      },
+      {
+        "key": "15",
+        "value": "可扩展的微/纳米制造"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "L6,W6,R6,S6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "36学分",
+    "tuition": "26544美元/年",
+    "qs_2026_rank": 293,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 76,
+    "qs_2026_materials_science_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e742e858-36b7-427d-85d3-63ce836d6938",
+    "detail_page_url": "https://www.compassedu.hk/majr_73743",
+    "program_name": "加州大学欧文分校材料与制造技术理学硕士",
+    "program_name_en": "MS in Engineering with concentration in Materials and Manufacturing Technology",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/154.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.uci.edu/interdisciplinary-graduate-programs/materials-and-manufacturing-technology",
+    "university_name": "加州大学欧文分校",
+    "university_name_en": "University of California, Irvine",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "33,619美元",
+    "qs_2026_rank": 293,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 76,
+    "qs_2026_materials_science_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6eeef0cf-86ca-486e-8941-d8da920d9568",
+    "detail_page_url": "https://www.compassedu.hk/majr_71899",
+    "program_name": "凯斯西储大学材料科学与工程理学硕士",
+    "program_name_en": "M.S. in Material Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/146.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://case.edu/programs/materials-science-engineering-ms",
+    "university_name": "凯斯西储大学",
+    "university_name_en": "Case Western Reserve University",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-10-01"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-05-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "变形和断裂"
+      },
+      {
+        "key": "2",
+        "value": "材料加工"
+      },
+      {
+        "key": "3",
+        "value": "环境影响"
+      },
+      {
+        "key": "4",
+        "value": "表层与界面"
+      },
+      {
+        "key": "5",
+        "value": "电子、磁性和光学材料"
+      },
+      {
+        "key": "6",
+        "value": "材料的显微表征"
+      },
+      {
+        "key": "7",
+        "value": "材料数据科学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "1年",
+    "tuition": "2119美元/学分",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 176,
+    "the_2025_rank": 159,
+    "arwu_2024_rank": 151,
+    "qs_2026_materials_science_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b641c9f0-0f7c-453d-a9ee-2765b0078e63",
+    "detail_page_url": "https://www.compassedu.hk/majr_73894",
+    "program_name": "迈阿密大学材料工程理学硕士",
+    "program_name_en": "MS in Materials Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/149.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://bulletin.miami.edu/graduate-academic-programs/engineering/chemical-environmental-materials-engineering/materials-engineering-ms/",
+    "university_name": "迈阿密大学",
+    "university_name_en": "University of Miami",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "材料结构和制造"
+      },
+      {
+        "key": "2",
+        "value": "材料表征"
+      },
+      {
+        "key": "3",
+        "value": "设备和应用程序"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "19,530美元/学期",
+    "qs_2026_rank": 314,
+    "usnews_2026_rank": 234,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_materials_science_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a474e8a3-bc05-48de-9f92-0e7972fd3458",
+    "detail_page_url": "https://www.compassedu.hk/majr_73735",
+    "program_name": "塔夫茨大学材料科学与工程理学硕士",
+    "program_name_en": "MS in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/108.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.tufts.edu/ece/prospective-students/masters/materials-science-and-engineering",
+    "university_name": "塔夫茨大学",
+    "university_name_en": "Tufts University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "1-2年",
+    "tuition": "54,196 美元",
+    "qs_2026_rank": 334,
+    "usnews_2026_rank": 296,
+    "the_2025_rank": 179,
+    "arwu_2024_rank": 151,
+    "qs_2026_materials_science_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "33d79225-15a9-448a-8f82-6cd93141dde5",
+    "detail_page_url": "https://www.compassedu.hk/majr_65455",
+    "program_name": "克兰菲尔德大学高级材料：工程与工业应用理学硕士",
+    "program_name_en": "MSc Advanced Materials: Engineering and Industrial Applications",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/courses/taught/advanced-materials",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "27910英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "eaa84b01-5670-4a38-8169-c95112e2b853",
+    "detail_page_url": "https://www.compassedu.hk/majr_65463",
+    "program_name": "克兰菲尔德大学金属增材制造理学硕士",
+    "program_name_en": "MSc Metal Additive Manufacturing",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/courses/taught/metal-additive-manufacturing",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "27910英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_materials_science_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2eede417-cfa4-4763-abd4-97587dd612a8",
+    "detail_page_url": "https://www.compassedu.hk/majr_71907",
+    "program_name": "伦斯勒理工学院材料科学与工程理学硕士",
+    "program_name_en": "MS in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/159.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mse.rpi.edu/graduate/masters-programs",
+    "university_name": "伦斯勒理工学院",
+    "university_name_en": "Rensselaer Polytechnic Institute",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "58600美元/年",
+    "qs_2026_rank": 695,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 501,
+    "qs_2026_materials_science_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6df96e54-aaa5-4312-8ca0-d8ae4a3a4d28",
+    "detail_page_url": "https://www.compassedu.hk/majr_71908",
+    "program_name": "伦斯勒理工学院材料科学与工程工学硕士",
+    "program_name_en": "MEng in Materials Science and Engineering",
+    "primary_category": "工科",
+    "secondary_category": "材料",
+    "university_logo_url": "https://logo.compassedu.hk/159.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mse.rpi.edu/graduate/masters-programs",
+    "university_name": "伦斯勒理工学院",
+    "university_name_en": "Rensselaer Polytechnic Institute",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "58600美元/年",
+    "qs_2026_rank": 695,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 501,
+    "qs_2026_materials_science_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

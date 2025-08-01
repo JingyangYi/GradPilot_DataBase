@@ -1,0 +1,3530 @@
+[
+  {
+    "completion_rate": "44 / 44",
+    "fail_count": 0,
+    "original_total": 176,
+    "classification": "QS200后"
+  },
+  {
+    "id": "b49e54e0-ef39-476d-9d84-5855870f8761",
+    "detail_page_url": "https://www.compassedu.hk/majr_71974",
+    "program_name": "加州理工学院土木工程理学硕士",
+    "program_name_en": "MS Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ed23556a-f909-4c50-a08e-b0898c555932",
+    "detail_page_url": "https://www.compassedu.hk/majr_64353",
+    "program_name": "亚琛工业大学工程地质灾害",
+    "program_name_en": "M.Sc. Engineering Geohazards",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rwth-aachen.de/go/id/grwjs?lidx=1#aaaaaaaaaagrwkz",
+    "university_name": "亚琛工业大学",
+    "university_name_en": "RWTH Aachen University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "4/10月",
+    "duration": "2年",
+    "tuition": "1100欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 225,
+    "the_2025_rank": 92,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7dad4ddd-73ef-42ce-b342-741f824d1399",
+    "detail_page_url": "https://www.compassedu.hk/majr_76081",
+    "program_name": "马来西亚国立大学土木工程硕士",
+    "program_name_en": "Master of Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/2412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ukm.my/jurutera/en/civil-eng-msc/",
+    "university_name": "马来西亚国立大学",
+    "university_name_en": "The National University of Malaysia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "550",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "22000马币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "85862a72-f75d-4642-b5ae-997a6c8147c2",
+    "detail_page_url": "https://www.compassedu.hk/majr_71987",
+    "program_name": "马里兰大学帕克分校土木与环境工程工学硕士",
+    "program_name_en": "MEng Civil and Environmental Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/165.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mage.umd.edu/civil-environmental",
+    "university_name": "马里兰大学帕克分校",
+    "university_name_en": "University of Maryland, College Park",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-24",
+          "2022-12-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-03-08",
+          "2023-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "小分要求": "S22,R26,L24,W24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "S7,R7,L7,W6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "1049美元/学分",
+    "qs_2026_rank": 207,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 58,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "de1b6fbd-179a-4f6c-87db-95d1cb8e1c81",
+    "detail_page_url": "https://www.compassedu.hk/majr_71990",
+    "program_name": "佛罗里达大学土木工程工学硕士",
+    "program_name_en": "MEng in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essie.ufl.edu/admissions/graduate-admissions/",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-01",
+          "2022-11-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-03-01",
+          "2023-06-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "297",
+        "小分要求": "Verbal:140,Quantitative:157"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "30138美元/年",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_civil_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9a4d81da-c80e-4004-a5e8-a8d92f194500",
+    "detail_page_url": "https://www.compassedu.hk/majr_67808",
+    "program_name": "拉夫堡大学土木工程理学硕士",
+    "program_name_en": "MSc Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/civil-engineering/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "25500英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_engineering_civil_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "142e2812-46e2-4e2e-9004-ae74d8a44cbc",
+    "detail_page_url": "https://www.compassedu.hk/majr_74127",
+    "program_name": "纽卡斯尔大学（澳大利亚）专业工程硕士（地理空间工程与测量）",
+    "program_name_en": "Master of Professional Engineering (Geospatial Engineering and Surveying)",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-professional-engineering-geospatial-surveying",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "46265澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f0bf0766-dba2-47d9-8d06-73d0ecd452fa",
+    "detail_page_url": "https://www.compassedu.hk/majr_75037",
+    "program_name": "纽卡斯尔大学（澳大利亚）专业工程硕士（土木工程）",
+    "program_name_en": "Master of Professional Engineering (Civil)",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-professional-engineering-civil",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "47785澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ca5a1c71-bb89-404b-964b-fbd04821a18a",
+    "detail_page_url": "https://www.compassedu.hk/majr_71995",
+    "program_name": "范德堡大学土木工程工学硕士",
+    "program_name_en": "MEng in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/97.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/",
+    "university_name": "范德堡大学",
+    "university_name_en": "Vanderbilt University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "工程系统的风险和可靠性"
+      },
+      {
+        "key": "2",
+        "value": "民用基础设施和社区的复原力"
+      },
+      {
+        "key": "3",
+        "value": "可持续和智能的民用基础设施和运输系统"
+      },
+      {
+        "key": "4",
+        "value": "运输和民用基础设施中的危险风险管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "89"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "57974美元/年",
+    "qs_2026_rank": 250,
+    "usnews_2026_rank": 66,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 66,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "36a39dbd-f566-49e2-aad2-ec85df92775a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73579",
+    "program_name": "范德堡大学土木工程理学硕士",
+    "program_name_en": "MS in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/97.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.vanderbilt.edu/departments/civil-environmental-engineering/graduate-programs/",
+    "university_name": "范德堡大学",
+    "university_name_en": "Vanderbilt University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "材料和结构"
+      },
+      {
+        "key": "2",
+        "value": "土木基础设施系统"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、GRE，不接受：雅思、GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "89"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "33,225美元/年",
+    "qs_2026_rank": 250,
+    "usnews_2026_rank": 66,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 66,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "108cc73e-bae7-4b86-bfa8-bb63788acd33",
+    "detail_page_url": "https://www.compassedu.hk/majr_53516",
+    "program_name": "思克莱德大学土木工程理学硕士",
+    "program_name_en": "MSc Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/civilengineering/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "-"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "30250英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "11aa8cd0-0443-4fb7-bcd1-d3479309db64",
+    "detail_page_url": "https://www.compassedu.hk/majr_53555",
+    "program_name": "思克莱德大学海底与管道工程理学硕士",
+    "program_name_en": "MSc Subsea & Pipeline Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/subseapipelineengineering/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "-"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "30250英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "387d248c-045a-48ca-bb16-7453a2c37f38",
+    "detail_page_url": "https://www.compassedu.hk/majr_50444",
+    "program_name": "萨里大学高级岩土工程理学硕士",
+    "program_name_en": "MSc Advanced Geotechnical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/advanced-geotechnical-engineering-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-18",
+        "application_end_date": [
+          "2024-12-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": 238.0,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fd036854-656c-4583-96a0-d581e3a3cab9",
+    "detail_page_url": "https://www.compassedu.hk/majr_50445",
+    "program_name": "萨里大学桥梁工程学理学硕士",
+    "program_name_en": "MSc Bridge Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/bridge-engineering-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-18",
+        "application_end_date": [
+          "2024-12-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": 238.0,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0c8ffb93-554c-417b-b1c8-936d2a8f04e7",
+    "detail_page_url": "https://www.compassedu.hk/majr_50446",
+    "program_name": "萨里大学土木工程理学硕士",
+    "program_name_en": "MSc Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/civil-engineering-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-18",
+        "application_end_date": [
+          "2024-12-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": 238.0,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1bdfa22d-e7b2-4221-8869-08cd6dfd614b",
+    "detail_page_url": "https://www.compassedu.hk/majr_50448",
+    "program_name": "萨里大学结构工程学理学硕士",
+    "program_name_en": "MSc Structural Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/structural-engineering-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-18",
+        "application_end_date": [
+          "2024-12-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": 238.0,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "926bdf37-103a-45a6-9817-bf57154acb71",
+    "detail_page_url": "https://www.compassedu.hk/majr_64507",
+    "program_name": "阿伯丁大学高级结构工程理学硕士",
+    "program_name_en": "MSc Advanced Structural Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1126/advanced-structural-engineering/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d12b0d03-7d75-4a6b-b2c0-62ad5f59cd2d",
+    "detail_page_url": "https://www.compassedu.hk/majr_64619",
+    "program_name": "阿伯丁大学水下工程理学硕士",
+    "program_name_en": "MSc Subsea Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/317/subsea-engineering/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cc1b3164-bee5-4020-b4c9-4c173e092136",
+    "detail_page_url": "https://www.compassedu.hk/majr_71994",
+    "program_name": "弗吉尼亚大学土木工程工学硕士",
+    "program_name_en": "MEng in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/105.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.virginia.edu/department/civil-and-environmental-engineering/academics/graduate-programs/me-civil-engineering",
+    "university_name": "弗吉尼亚大学",
+    "university_name_en": "University of Virginia",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-30"
+        ]
+      },
+      {
+        "title": "23年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-03-31",
+          "2023-08-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "环境和水资源工程"
+      },
+      {
+        "key": "2",
+        "value": "结构工程"
+      },
+      {
+        "key": "3",
+        "value": "运输工程"
+      },
+      {
+        "key": "4",
+        "value": "基础设施系统工程"
+      },
+      {
+        "key": "5",
+        "value": "建筑工程和管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "31562美元/年",
+    "qs_2026_rank": 275,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 163,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1caddec3-eaac-4da2-82ed-936a293515d8",
+    "detail_page_url": "https://www.compassedu.hk/majr_71996",
+    "program_name": "匹兹堡大学土木与环境理学硕士",
+    "program_name_en": "MS in Civil and Environmental Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.engineering.pitt.edu/departments/civil-environmental/graduate/civil-graduate-programs/",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-10-15",
+          "2022-11-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-04-01",
+          "2023-07-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "建设管理"
+      },
+      {
+        "key": "2",
+        "value": "环境工程"
+      },
+      {
+        "key": "3",
+        "value": "岩土工程"
+      },
+      {
+        "key": "4",
+        "value": "路面工程"
+      },
+      {
+        "key": "5",
+        "value": "结构工程与力学"
+      },
+      {
+        "key": "6",
+        "value": "可持续工程"
+      },
+      {
+        "key": "7",
+        "value": "交通工程"
+      },
+      {
+        "key": "8",
+        "value": "水利工程"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "30学分",
+    "tuition": "46952美元/年",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a582e2c1-7880-40cc-ac81-1ad3b65c5fb1",
+    "detail_page_url": "https://www.compassedu.hk/majr_63066",
+    "program_name": "澳门大学土木工程理学硕士",
+    "program_name_en": "MSc Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.fst.um.edu.mo/cee/studyplan/master_from2020/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c6ed59e9-9f74-458f-a62c-3941d4de0b78",
+    "detail_page_url": "https://www.compassedu.hk/majr_72431",
+    "program_name": "澳门大学海岸带环境与安全理学硕士",
+    "program_name_en": "MSc Coastal Environment and Safety",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.fst.um.edu.mo/ost/postgraduate/masterces/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e58a28bc-41da-4fd1-a5d4-f702d192e5c0",
+    "detail_page_url": "https://www.compassedu.hk/majr_64656",
+    "program_name": "赫瑞瓦特大学高级结构工程理学硕士",
+    "program_name_en": "MSc Advanced Structural Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/advanced-structural-engineering",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25480英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "95ebc954-147e-478f-8f8e-833a84c1a366",
+    "detail_page_url": "https://www.compassedu.hk/majr_64657",
+    "program_name": "赫瑞瓦特大学土木工程与建筑管理理学硕士",
+    "program_name_en": "MSc Civil Engineering and Construction Management",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/civil-engineering-construction-management",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-06"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "25480英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e811f748-0a20-424c-ab2b-7a860222a8fd",
+    "detail_page_url": "https://www.compassedu.hk/majr_64658",
+    "program_name": "赫瑞瓦特大学土木工程理学硕士（含行业实习，2年制）",
+    "program_name_en": "MSc Civil Engineering with Industry Placement (2 years)",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/civil-engineering-industry-placement-2-year",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-06"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "2年",
+    "tuition": "14240英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1b614d36-edc3-4466-90de-4987797d6dd1",
+    "detail_page_url": "https://www.compassedu.hk/majr_73741",
+    "program_name": "加州大学欧文分校土木与环境工程理学硕士",
+    "program_name_en": "MS in Civil and Environmental Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/154.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.uci.edu/dept/cee",
+    "university_name": "加州大学欧文分校",
+    "university_name_en": "University of California, Irvine",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "环境与能源系统"
+      },
+      {
+        "key": "2",
+        "value": "结构、岩土工程和材料"
+      },
+      {
+        "key": "3",
+        "value": "运输系统"
+      },
+      {
+        "key": "4",
+        "value": "水文学和水资源系统"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "33,619美元",
+    "qs_2026_rank": 293,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 76,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a3921bec-190b-451a-8723-cc32b509466f",
+    "detail_page_url": "https://www.compassedu.hk/majr_63471",
+    "program_name": "荷语布鲁塞尔自由大学土木工程理学硕士",
+    "program_name_en": "Master of Science in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/376.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.vub.be/en/study/civil-engineering/",
+    "university_name": "荷语布鲁塞尔自由大学",
+    "university_name_en": "Vrije Universiteit Brussel",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "2782欧元/年",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 349,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4a3ded10-7356-42b9-8472-d622abce4e91",
+    "detail_page_url": "https://www.compassedu.hk/majr_63536",
+    "program_name": "荷语布鲁塞尔自由大学水利资源工程理学硕士",
+    "program_name_en": "Master of Science in Water Resources Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/376.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.vub.be/en/study/water-resources-engineering/",
+    "university_name": "荷语布鲁塞尔自由大学",
+    "university_name_en": "Vrije Universiteit Brussel",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "18",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "18"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "1187欧元/年",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 349,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "88c6aa53-335a-441c-bcd6-dd2d7c3e7cbf",
+    "detail_page_url": "https://www.compassedu.hk/majr_73601",
+    "program_name": "圣母大学土木工程理学硕士",
+    "program_name_en": "MS in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/98.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ceees.nd.edu/graduate/master-of-science-civil-and-environmental-engineering-and-earth-sciences/",
+    "university_name": "圣母大学",
+    "university_name_en": "University of Notre Dame",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "S23"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "1年",
+    "tuition": "59,644美元",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 407,
+    "the_2025_rank": 196,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6329e860-8c1d-4ea7-a8e8-6df7fa534bed",
+    "detail_page_url": "https://www.compassedu.hk/majr_73803",
+    "program_name": "凯斯西储大学土木与环境工程硕士",
+    "program_name_en": "MS in Civil and Environmental Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/146.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://engineering.case.edu/eciv/",
+    "university_name": "凯斯西储大学",
+    "university_name_en": "Case Western Reserve University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "环境工程"
+      },
+      {
+        "key": "2",
+        "value": "工程力学"
+      },
+      {
+        "key": "3",
+        "value": "岩土工程"
+      },
+      {
+        "key": "4",
+        "value": "结构工程"
+      },
+      {
+        "key": "5",
+        "value": "基础设施工程"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季",
+    "duration": "27-42学分",
+    "tuition": "63,570美元",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 176,
+    "the_2025_rank": 159,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2f4d3cd0-acd9-463d-88a8-8f8317145835",
+    "detail_page_url": "https://www.compassedu.hk/majr_71969",
+    "program_name": "弗吉尼亚理工大学土木基础建设工程硕士",
+    "program_name_en": "Masters Degree Program in Civil Infrastructure Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/182.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://cee.vt.edu/Graduate-menu/prospective_graduate_students.html",
+    "university_name": "弗吉尼亚理工大学",
+    "university_name_en": "Virginia Polytechnic Institute and State University (Virginia Tech)",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-01",
+          "2022-09-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "16721.5美元/学期",
+    "qs_2026_rank": 358,
+    "usnews_2026_rank": 281,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_civil_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering___civil_rank": 125
+  },
+  {
+    "id": "d7086c1f-f2f2-4420-9a87-b8eb8f31def6",
+    "detail_page_url": "https://www.compassedu.hk/majr_71612",
+    "program_name": "阿斯顿大学土木基础设施工程理学硕士",
+    "program_name_en": "MSc Civil Infrastructure Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.aston.ac.uk/study/courses/civil-infrastructure-engineering-msc/september-2025",
+    "university_name": "阿斯顿大学",
+    "university_name_en": "Aston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "78",
+        "听力": "11",
+        "阅读": "12",
+        "写作": "20",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "24000英镑/年",
+    "qs_2026_rank": 395,
+    "usnews_2026_rank": 594,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "28d725b0-ae30-437d-a8fd-7e60ee01d086",
+    "detail_page_url": "https://www.compassedu.hk/majr_53268",
+    "program_name": "邓迪大学土木工程理学硕士",
+    "program_name_en": "MSc Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/civil-engineering",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-10-20",
+        "application_end_date": [
+          "2024-11-18"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "27900英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c2ab7cbb-f40b-44a5-9b82-b158c7c44b19",
+    "detail_page_url": "https://www.compassedu.hk/majr_74808",
+    "program_name": "邓迪大学土木工程与低碳基础设施理学硕士",
+    "program_name_en": "MSc Civil Engineering with Low Carbon Infrastructure",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/civil-engineering-low-carbon",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-10-20",
+        "application_end_date": [
+          "2024-11-18"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "27900英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f0e54386-dfdd-4377-b854-a2d6384e1a74",
+    "detail_page_url": "https://www.compassedu.hk/majr_63373",
+    "program_name": "法语布鲁塞尔自由大学土木工程",
+    "program_name_en": "Master of science in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/371.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ulb.be/en/programme/ma-ircn",
+    "university_name": "法语布鲁塞尔自由大学",
+    "university_name_en": "Université Libre de Bruxelles",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-02-16",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "2505欧元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": 252,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0d8f3d73-3e88-4e4d-892e-dd4186576017",
+    "detail_page_url": "https://www.compassedu.hk/majr_64817",
+    "program_name": "伦敦大学城市学院土木工程结构理学硕士",
+    "program_name_en": "MSc Civil Engineering Structures",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.city.ac.uk/prospective-students/courses/postgraduate/civil-engineering-structures",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23550英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "84fb3c0c-5d82-4b9b-80cc-2100b43bf402",
+    "detail_page_url": "https://www.compassedu.hk/majr_65293",
+    "program_name": "考文垂大学土木工程理学硕士",
+    "program_name_en": "MSc Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/civil-engineering-technical-route-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8a81cad6-61f6-4e58-8eb4-c955469d7c32",
+    "detail_page_url": "https://www.compassedu.hk/majr_65294",
+    "program_name": "考文垂大学土木工程理学硕士（技术路线）",
+    "program_name_en": "MSc Civil Engineering (Technical Route)",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/civil-engineering-technical-route-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1c9089f6-6687-41c5-b272-ab6d4938a60d",
+    "detail_page_url": "https://www.compassedu.hk/majr_65305",
+    "program_name": "考文垂大学结构工程理学硕士",
+    "program_name_en": "MSc Structural Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/structural-engineering-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c9ed8f84-c262-4736-b38c-fd85ba0a472d",
+    "detail_page_url": "https://www.compassedu.hk/majr_71620",
+    "program_name": "考文垂大学土木工程项目管理理学硕士",
+    "program_name_en": "MSc Civil Engineering Project Management",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/eec/civil-engineering-project-management/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "844a8170-5a22-44ec-8157-52747a0e4173",
+    "detail_page_url": "https://www.compassedu.hk/majr_71980",
+    "program_name": "明尼苏达大学双城分校土木与地质工程理学硕士",
+    "program_name_en": "MS Civil Engineering and Geoengineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/178.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://cse.umn.edu/cege",
+    "university_name": "明尼苏达大学双城分校",
+    "university_name_en": "University of Minnesota-Twin Cities",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-08-31"
+        ]
+      },
+      {
+        "title": "22年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-12-03"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "小分要求": "W21,R19"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "W6.5,R6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "1487美元/学分",
+    "average_admitted_gre": "V153,Q161, AW4",
+    "qs_2026_rank": 210,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 47,
+    "qs_2026_engineering_civil_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9863995d-13ef-4a3d-ba3b-996b8a44754a",
+    "detail_page_url": "https://www.compassedu.hk/majr_71998",
+    "program_name": "雪城大学土木工程理学硕士",
+    "program_name_en": "MS in Civil Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/173.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ecs.syracuse.edu/academics/civil-and-environmental-engineering/programs/civil-engineering-master-program",
+    "university_name": "雪城大学",
+    "university_name_en": "Syracuse University",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-05-01",
+          "2023-06-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "地质技术"
+      },
+      {
+        "key": "2",
+        "value": "结构"
+      },
+      {
+        "key": "3",
+        "value": "建筑工程与管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "30学分",
+    "tuition": "1734美元/学分",
+    "qs_2026_rank": 745.5,
+    "usnews_2026_rank": 483,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 701,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "682e9cb3-006d-4432-b770-c9eab23d38f2",
+    "detail_page_url": "https://www.compassedu.hk/majr_73808",
+    "program_name": "佐治亚大学土木和环境工程硕士",
+    "program_name_en": "MS in Civil & Environmental Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/174.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://grad.uga.edu/degree/ms-civil-and-environmental-engineering/",
+    "university_name": "佐治亚大学",
+    "university_name_en": "University of Georgia",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "土木工程"
+      },
+      {
+        "key": "2",
+        "value": "环境工程"
+      },
+      {
+        "key": "序号",
+        "value": "专攻领域"
+      },
+      {
+        "key": "1",
+        "value": "结构和岩土工程"
+      },
+      {
+        "key": "2",
+        "value": "交通与路面工程"
+      },
+      {
+        "key": "3",
+        "value": "能源系统"
+      },
+      {
+        "key": "4",
+        "value": "环境与水"
+      },
+      {
+        "key": "5",
+        "value": "可持续海岸工程"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "S20,W20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季",
+    "duration": "33学分",
+    "tuition": "33,957美元",
+    "qs_2026_rank": 525,
+    "usnews_2026_rank": 345,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c1c2c713-b749-427f-89e9-61c1f1d4665c",
+    "detail_page_url": "https://www.compassedu.hk/majr_76339",
+    "program_name": "考文垂大学土木基础设施工程理学硕士",
+    "program_name_en": "MSc Civil Infrastructure Engineering",
+    "primary_category": "工科",
+    "secondary_category": "土木工程",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/ees/civil-infrastructure-engineering-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/11月",
+    "duration": "1年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_civil_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

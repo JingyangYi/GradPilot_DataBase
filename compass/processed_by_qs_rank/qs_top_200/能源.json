@@ -1,0 +1,5679 @@
+[
+  {
+    "completion_rate": "71 / 71",
+    "fail_count": 0,
+    "original_total": 126,
+    "classification": "QS前200"
+  },
+  {
+    "id": "79aaecdf-634f-4736-b95e-e100af394117",
+    "detail_page_url": "https://www.compassedu.hk/majr_50108",
+    "program_name": "帝国理工学院可持续能源未来理学硕士",
+    "program_name_en": "MSc Sustainable Energy Futures",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/sustainable-energy-futures/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-27",
+        "application_end_date": [
+          "2025-01-16",
+          "2025-03-27",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "42900英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_engineering_and_technology_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d52a57fe-8b20-4ac3-9b47-9dabb6bcd34f",
+    "detail_page_url": "https://www.compassedu.hk/majr_75217",
+    "program_name": "帝国理工学院可再生能源与人工智能和数据科学理学硕士（地质学与地球物理学）",
+    "program_name_en": "MSc Renewable Energy with AI and Data Science: Geology and Geophysics",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/renewable-energy/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-27",
+        "application_end_date": [
+          "2025-01-16",
+          "2025-03-27",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "43800英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_engineering_and_technology_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "05a4405a-89ab-4668-bc08-4c6a795f39df",
+    "detail_page_url": "https://www.compassedu.hk/majr_62735",
+    "program_name": "牛津大学能源系统理学硕士",
+    "program_name_en": "MSc Energy Systems",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/8.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-energy-systems",
+    "university_name": "牛津大学",
+    "university_name_en": "University of Oxford",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-12",
+        "application_end_date": [
+          "2025-01-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "110",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "38410英镑/年",
+    "qs_2026_rank": 4,
+    "usnews_2026_rank": 4,
+    "the_2025_rank": 1,
+    "arwu_2024_rank": 6,
+    "qs_2026_engineering_and_technology_rank": 2,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9561886e-220a-4e8a-aff8-6f3db2e58e71",
+    "detail_page_url": "https://www.compassedu.hk/majr_50012",
+    "program_name": "剑桥大学能源技术哲学硕士",
+    "program_name_en": "MPhil Energy Technologies",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/9.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmet",
+    "university_name": "剑桥大学",
+    "university_name_en": "University of Cambridge",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-04",
+        "application_end_date": [
+          "2024-12-03",
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "25",
+        "阅读": "25",
+        "写作": "25",
+        "口语": "25"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "39504英镑/年",
+    "qs_2026_rank": 6,
+    "usnews_2026_rank": 5,
+    "the_2025_rank": 5,
+    "arwu_2024_rank": 4,
+    "qs_2026_engineering_and_technology_rank": 4,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "156ab5ff-0006-4456-80f9-b7e25abc8d50",
+    "detail_page_url": "https://www.compassedu.hk/majr_66868",
+    "program_name": "剑桥大学核能哲学硕士",
+    "program_name_en": "MPhil Nuclear Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/9.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/egegmpmne",
+    "university_name": "剑桥大学",
+    "university_name_en": "University of Cambridge",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-04",
+        "application_end_date": [
+          "2024-12-03",
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "25",
+        "阅读": "25",
+        "写作": "25",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "39504英镑/年",
+    "qs_2026_rank": 6,
+    "usnews_2026_rank": 5,
+    "the_2025_rank": 5,
+    "arwu_2024_rank": 4,
+    "qs_2026_engineering_and_technology_rank": 4,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ff9f981c-a8fe-45e5-bae9-8b5459a6c42e",
+    "detail_page_url": "https://www.compassedu.hk/majr_75232",
+    "program_name": "剑桥大学能源转型高级材料哲学硕士",
+    "program_name_en": "MPhil Advanced Materials for the Energy Transition",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/9.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/pcmmmpame",
+    "university_name": "剑桥大学",
+    "university_name_en": "University of Cambridge",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-04",
+        "application_end_date": [
+          "2024-12-03",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "107",
+        "听力": "25",
+        "阅读": "25",
+        "写作": "25",
+        "口语": "25"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "38196英镑/年",
+    "qs_2026_rank": 6,
+    "usnews_2026_rank": 5,
+    "the_2025_rank": 5,
+    "arwu_2024_rank": 4,
+    "qs_2026_engineering_and_technology_rank": 4,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "07647a61-51ff-48ea-a772-2f8733b06dce",
+    "detail_page_url": "https://www.compassedu.hk/majr_63396",
+    "program_name": "苏黎世联邦理工大学能源科技理学硕士",
+    "program_name_en": "MSc Energy Science and Technology",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/366.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/energy-science-and-technology.html",
+    "university_name": "苏黎世联邦理工大学",
+    "university_name_en": "Swiss Federal Institute of Technology Zurich",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "1608瑞士法郎/年",
+    "qs_2026_rank": 7,
+    "usnews_2026_rank": 35,
+    "the_2025_rank": 11,
+    "arwu_2024_rank": 21,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 5,
+    "qs_2026_engineering_technology_rank": 5
+  },
+  {
+    "id": "a022765c-1ec6-4622-9892-bcac372a2915",
+    "detail_page_url": "https://www.compassedu.hk/majr_71499",
+    "program_name": "新加坡国立大学能源系统理学硕士",
+    "program_name_en": "MSc Energy Systems",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://cde.nus.edu.sg/chbe/masters-of-science-energy-systems/",
+    "university_name": "新加坡国立大学",
+    "university_name_en": "National University of Singapore",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "55506新币/年",
+    "qs_2026_rank": 8,
+    "usnews_2026_rank": 20,
+    "the_2025_rank": 17,
+    "arwu_2024_rank": 68,
+    "qs_2026_engineering_and_technology_rank": 12,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "494a6239-67d4-4f98-b2ed-3be72775bc78",
+    "detail_page_url": "https://www.compassedu.hk/majr_50603",
+    "program_name": "伦敦大学学院自然资源全球管理理学硕士",
+    "program_name_en": "MSc Global Management of Natural Resources",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/global-management-natural-resources-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-04-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "43500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_engineering_and_technology_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2a457f26-885b-43c6-a962-f2a8a31a4278",
+    "detail_page_url": "https://www.compassedu.hk/majr_61446",
+    "program_name": "伦敦大学学院能源系统与数据分析理学硕士",
+    "program_name_en": "MSc Energy Systems and Data Analytics",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/energy-systems-and-data-analytics-esda-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-04-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_engineering_and_technology_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bfc881f0-2b5d-414b-b0b3-bbd22a69d855",
+    "detail_page_url": "https://www.compassedu.hk/majr_66522",
+    "program_name": "伦敦大学学院智能能源与建筑环境理学硕士",
+    "program_name_en": "MSc Smart Energy and the Built Environment",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/smart-energy-and-built-environment-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-04-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_engineering_and_technology_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5590aa31-8bcb-4034-8869-37ac8ed2162d",
+    "detail_page_url": "https://www.compassedu.hk/majr_1567",
+    "program_name": "香港大学能源工程（工程）理学硕士",
+    "program_name_en": "MSc(Eng) Energy Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-engineering-(energy-engineering)-engg",
+    "university_name": "香港大学",
+    "university_name_en": "The University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-21",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-04-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "320000港币/年",
+    "qs_2026_rank": 11,
+    "usnews_2026_rank": 44,
+    "the_2025_rank": 35,
+    "arwu_2024_rank": 69,
+    "qs_2026_engineering_and_technology_rank": 47,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5bd59e84-166b-4a6f-9c95-84dc5a5c4a09",
+    "detail_page_url": "https://www.compassedu.hk/majr_53744",
+    "program_name": "墨尔本大学能源系统硕士",
+    "program_name_en": "Master of Energy Systems",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-energy-systems/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1.5年",
+    "tuition": "59918澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_engineering_and_technology_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8a6f9d86-6ce4-4bce-bf41-9f5cf8e2336e",
+    "detail_page_url": "https://www.compassedu.hk/majr_54039",
+    "program_name": "新南威尔士大学工程科学硕士（核能工程）",
+    "program_name_en": "Master of Engineering Science (Nuclear Engineering)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-nuclear-engineering?studentType=international",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "60500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_engineering_and_technology_rank": 25,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "941344d3-f31c-4877-a5d0-5c748c6741c8",
+    "detail_page_url": "https://www.compassedu.hk/majr_54049",
+    "program_name": "新南威尔士大学工程科学硕士（光伏与太阳能）",
+    "program_name_en": "Master of Engineering Science (Photovoltaics and Solar Energy)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-photovoltaics-and-solar-energy?studentType=International",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "60500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_engineering_and_technology_rank": 25,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8b225188-7c28-4b1d-9b34-d525e61eeb67",
+    "detail_page_url": "https://www.compassedu.hk/majr_54050",
+    "program_name": "新南威尔士大学工程科学硕士（可再生能源）",
+    "program_name_en": "Master of Engineering Science (Renewable Energy)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-renewable-energy?studentType=international",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "60500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_engineering_and_technology_rank": 25,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "eeacc149-38aa-4cea-9c22-b172260ffaf0",
+    "detail_page_url": "https://www.compassedu.hk/majr_66065",
+    "program_name": "新南威尔士大学可再生能源工学硕士",
+    "program_name_en": "Master of Engineering (Renewable Energy)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-renewable-engineering?studentType=International",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "60500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_engineering_and_technology_rank": 25,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5d70b92c-1135-4a6e-ab9f-78e65d04af2a",
+    "detail_page_url": "https://www.compassedu.hk/majr_75144",
+    "program_name": "新南威尔士大学工程科学硕士（地球能源与地下贮存）",
+    "program_name_en": "Master of Engineering Science (Geoenergy & Geostorage)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-engineering-science-geoenergy-geostorage",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "60500澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_engineering_and_technology_rank": 25,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3966bb1f-4d18-4cfa-bdf8-2e0cde0f1b25",
+    "detail_page_url": "https://www.compassedu.hk/majr_73548",
+    "program_name": "约翰霍普金斯大学能源政策和环境理学硕士",
+    "program_name_en": "MS in Energy Policy and Climate",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/92.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://advanced.jhu.edu/academics/graduate/ms-energy-policy-climate/",
+    "university_name": "约翰霍普金斯大学",
+    "university_name_en": "Johns Hopkins University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "1-2年",
+    "tuition": "45,800美元",
+    "qs_2026_rank": 24,
+    "usnews_2026_rank": 14,
+    "the_2025_rank": 16,
+    "arwu_2024_rank": 17,
+    "qs_2026_engineering_and_technology_rank": 107,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bb059784-be1c-49a2-a8b8-482e2d417486",
+    "detail_page_url": "https://www.compassedu.hk/majr_53704",
+    "program_name": "澳大利亚国立大学核科学理学硕士",
+    "program_name_en": "MSc Nuclear Science",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/286.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://programsandcourses.anu.edu.au/2025/program/NSCNS",
+    "university_name": "澳大利亚国立大学",
+    "university_name_en": "Australian National University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-02-26",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-17",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-15"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "18",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "53700澳元/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 76,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c188744a-78c2-4680-b7b5-47f558c75f71",
+    "detail_page_url": "https://www.compassedu.hk/majr_53731",
+    "program_name": "澳大利亚国立大学能源变化硕士",
+    "program_name_en": "Master of Energy Change",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/286.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://programsandcourses.anu.edu.au/2025/program/MENCH",
+    "university_name": "澳大利亚国立大学",
+    "university_name_en": "Australian National University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-02-26",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-17",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-15"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "18",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "53700澳元/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 76,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "402da859-f7f3-4fbf-9b47-ddf923cc5691",
+    "detail_page_url": "https://www.compassedu.hk/majr_53732",
+    "program_name": "澳大利亚国立大学能源变化硕士（高级）",
+    "program_name_en": "Master of Energy Change (Advanced)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/286.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://programsandcourses.anu.edu.au/2025/program/VENCH",
+    "university_name": "澳大利亚国立大学",
+    "university_name_en": "Australian National University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-02-26",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-17",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-15"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "18",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "53700澳元/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 76,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "57a7866e-1001-477e-ab61-e36a3d3f58c2",
+    "detail_page_url": "https://www.compassedu.hk/majr_51922",
+    "program_name": "爱丁堡大学可持续能源系统理学硕士",
+    "program_name_en": "MSc Sustainable Energy Systems",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=22",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-12-15",
+          "2025-03-31",
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "37300英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_engineering_and_technology_rank": 58,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "35ec8c76-fd89-4966-8068-2950fb8b2e36",
+    "detail_page_url": "https://www.compassedu.hk/majr_62578",
+    "program_name": "爱丁堡大学能源、社会与可持续发展理学硕士",
+    "program_name_en": "MSc Energy, Society and Sustainability",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=934",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-12-15",
+          "2025-03-31",
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36000英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_engineering_and_technology_rank": 58,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "133d08fa-596a-44cc-9f3f-4e5f481a1e37",
+    "detail_page_url": "https://www.compassedu.hk/majr_52641",
+    "program_name": "曼彻斯特大学高级工艺整合与设计理学硕士",
+    "program_name_en": "MSc Advanced Process Integration and Design",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/09760/msc-advanced-process-integration-and-design/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "70",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "37500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_engineering_and_technology_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3c6e7f7c-fef2-48dc-8dd9-767579602dd8",
+    "detail_page_url": "https://www.compassedu.hk/majr_52654",
+    "program_name": "曼彻斯特大学可再生能源与清洁技术理学硕士",
+    "program_name_en": "MSc Renewable Energy and Clean Technology",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/09009/msc-renewable-energy-and-clean-technology/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_engineering_and_technology_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "099b125d-c553-42b5-afa7-522aee8d444c",
+    "detail_page_url": "https://www.compassedu.hk/majr_52713",
+    "program_name": "曼彻斯特大学热能与流体工程理学硕士",
+    "program_name_en": "MSc Thermal Power & Fluid Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/04435/msc-thermal-power-and-fluid-engineering/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "36500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_engineering_and_technology_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7aa79492-c8c9-43d7-a552-21816861a0dc",
+    "detail_page_url": "https://www.compassedu.hk/majr_62489",
+    "program_name": "曼彻斯特大学可再生能源与清洁技术理学硕士（含扩展研究）",
+    "program_name_en": "MSc Renewable Energy and Clean Technology with Extended Research",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/12728/msc-renewable-energy-and-clean-technology-with-extended-research/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "27500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_engineering_and_technology_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "dcf242fd-8afc-4c9e-836b-c36371a80023",
+    "detail_page_url": "https://www.compassedu.hk/majr_62495",
+    "program_name": "曼彻斯特大学地下能源工程理学硕士",
+    "program_name_en": "MSc Subsurface Energy Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/12561/msc-subsurface-energy-engineering/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "70",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "37500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_engineering_and_technology_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "018839d5-47cd-4d60-9a82-9b1352ec1f9b",
+    "detail_page_url": "https://www.compassedu.hk/majr_67714",
+    "program_name": "曼彻斯特大学石油地质科学理学硕士",
+    "program_name_en": "MSc Petroleum Geoscience",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/19721/msc-petroleum-geoscience/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "37500英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_engineering_and_technology_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bab8acd4-3e25-426b-927e-ee046e177077",
+    "detail_page_url": "https://www.compassedu.hk/majr_66080",
+    "program_name": "昆士兰大学可持续能源硕士",
+    "program_name_en": "Master of Sustainable Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.uq.edu.au/study-options/programs/master-sustainable-energy-5684",
+    "university_name": "昆士兰大学",
+    "university_name_en": "The University of Queensland",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "1.5年",
+    "tuition": "53760澳元/年",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 43,
+    "the_2025_rank": 77,
+    "arwu_2024_rank": 63,
+    "qs_2026_engineering_and_technology_rank": 68,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a4ca7031-2ee4-4fb0-b014-adfbe929d7e3",
+    "detail_page_url": "https://www.compassedu.hk/majr_66081",
+    "program_name": "昆士兰大学可持续能源硕士（管理学）",
+    "program_name_en": "Master of Sustainable Energy (Management)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/290.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.uq.edu.au/study-options/programs/master-sustainable-energy-management-5708",
+    "university_name": "昆士兰大学",
+    "university_name_en": "The University of Queensland",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "53760澳元/年",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 43,
+    "the_2025_rank": 77,
+    "arwu_2024_rank": 63,
+    "qs_2026_engineering_and_technology_rank": 68,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "70affea2-5206-4c43-8196-0c8ee3dc70e5",
+    "detail_page_url": "https://www.compassedu.hk/majr_73570",
+    "program_name": "西北大学（美国）能源与可持续理学硕士",
+    "program_name_en": "MS in Energy and Sustainablility",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/91.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.northwestern.edu/mses/",
+    "university_name": "西北大学（美国）",
+    "university_name_en": "Northwestern University(United States)",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "能源技术"
+      },
+      {
+        "key": "2",
+        "value": "能源和可持续金融"
+      },
+      {
+        "key": "3",
+        "value": "可持续发展"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求",
+        "小分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "62,163美元",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 24,
+    "the_2025_rank": 31,
+    "arwu_2024_rank": 33,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 69,
+    "qs_2026_engineering_technology_rank": 69
+  },
+  {
+    "id": "e991700e-a891-414a-9db5-d5e38fb84e9f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72499",
+    "program_name": "香港科技大学可持续能源与环境哲学硕士（HKUST(GZ)）",
+    "program_name_en": "MPhil Sustainable Energy and Environment (HKUST(GZ))",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/42.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fytgs.hkust-gz.edu.cn/programs/2025-26/function-hub-2025-26/sustainable-energy-and-environment-4",
+    "university_name": "香港科技大学",
+    "university_name_en": "The Hong Kong University of Science and Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-22",
+        "application_end_date": [
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "150000人民币/年",
+    "qs_2026_rank": 44,
+    "usnews_2026_rank": 101,
+    "the_2025_rank": 66,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 43,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "396bf4e1-c555-46d0-ad79-e63274ee175a",
+    "detail_page_url": "https://www.compassedu.hk/majr_63976",
+    "program_name": "代尔夫特理工大学土木工程理学硕士-水力和海洋结构",
+    "program_name_en": "MSc Civil Engineering-Hydraulic and Offshore Structures",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/programme/track-hydraulic-and-offshore-structures",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "33eb02c2-b783-4e22-86e4-41bf57385e09",
+    "detail_page_url": "https://www.compassedu.hk/majr_63978",
+    "program_name": "代尔夫特理工大学土木工程理学硕士-水利工程",
+    "program_name_en": "MSc Civil Engineering-Hydraulic Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/ceg/about-faculty/departments/hydraulic-engineering/education/hydraulic-tracks-in-msc-civil-engineering",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b21f5554-833e-4b1d-a4cd-4783c26db2b8",
+    "detail_page_url": "https://www.compassedu.hk/majr_64036",
+    "program_name": "代尔夫特理工大学可持续能源技术理学硕士",
+    "program_name_en": "MSc Sustainable Energy Technology",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/381.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tudelft.nl/en/education/programmes/masters/set/msc-sustainable-energy-technology",
+    "university_name": "代尔夫特理工大学",
+    "university_name_en": "Delft University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "21515欧元/年",
+    "qs_2026_rank": 47,
+    "usnews_2026_rank": 191,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b48ffada-4f55-45d1-94cd-238252c18e3c",
+    "detail_page_url": "https://www.compassedu.hk/majr_75016",
+    "program_name": "布里斯托大学可持续工程理学硕士（可再生能源）",
+    "program_name_en": "MSc Sustainable Engineering (Renewable Energy)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-sustainable-engineering/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32400英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_engineering_and_technology_rank": 116,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1362de68-9660-4c80-9eb0-1de2d639294e",
+    "detail_page_url": "https://www.compassedu.hk/majr_76548",
+    "program_name": "香港理工大学可持续能源理学硕士",
+    "program_name_en": "MSc Sustainable Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/43102-se-set",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "170000港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 74,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7cc283ec-3317-45b3-8ac5-55e67e9d76a7",
+    "detail_page_url": "https://www.compassedu.hk/majr_75607",
+    "program_name": "马来亚大学可再生能源硕士",
+    "program_name_en": "Master of Renewable Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/1114.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ias.um.edu.my/master-of-renewable-energy-mre",
+    "university_name": "马来亚大学",
+    "university_name_en": "University of Malaya",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-22",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-02-10",
+        "application_end_date": [
+          "2025-08-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "3/10月",
+    "duration": "1年",
+    "tuition": "37700马币/年",
+    "qs_2026_rank": 58,
+    "usnews_2026_rank": 331,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": 79,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2879618e-a9e5-4191-acb3-837ea1609a0b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63332",
+    "program_name": "荷语鲁汶大学能源工程",
+    "program_name_en": "Master of Engineering: Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/365.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.kuleuven.be/programmes/master-engineering-energy#Admission",
+    "university_name": "荷语鲁汶大学",
+    "university_name_en": "Katholieke Universiteit Leuven",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "7772欧元/年",
+    "qs_2026_rank": 60,
+    "usnews_2026_rank": 50,
+    "the_2025_rank": 43,
+    "arwu_2024_rank": 78,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 50,
+    "qs_2026_engineering_technology_rank": 50
+  },
+  {
+    "id": "cf75afd7-3aa5-4b1e-ae96-115c92032d10",
+    "detail_page_url": "https://www.compassedu.hk/majr_63335",
+    "program_name": "荷语鲁汶大学能源",
+    "program_name_en": "EIT-KIC Master in Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/365.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.kuleuven.be/programmes/eit-kic-master-energy",
+    "university_name": "荷语鲁汶大学",
+    "university_name_en": "Katholieke Universiteit Leuven",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "22",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "8000欧元/年",
+    "qs_2026_rank": 60,
+    "usnews_2026_rank": 50,
+    "the_2025_rank": 43,
+    "arwu_2024_rank": 78,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 50,
+    "qs_2026_engineering_technology_rank": 50
+  },
+  {
+    "id": "14bf0db2-3838-4b4c-a88e-47540e3f75fa",
+    "detail_page_url": "https://www.compassedu.hk/majr_61584",
+    "program_name": "伯明翰大学全球能源技术与系统理学硕士",
+    "program_name_en": "MSc Global Energy Technologies and Systems",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/nuclear-and-energy-courses/global-energy-technologies-and-systems-msc",
+    "university_name": "伯明翰大学",
+    "university_name_en": "University of Birmingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-12"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31390英镑/年",
+    "qs_2026_rank": 76,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 93,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 119,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "26a40a66-2ce8-4bd2-ad76-8324e08c732b",
+    "detail_page_url": "https://www.compassedu.hk/majr_61593",
+    "program_name": "伯明翰大学核退役与废物管理理学硕士",
+    "program_name_en": "MSc Nuclear Decommissioning and Waste Management",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/nuclear-and-energy-courses/nuclear-decommissioning-and-waste-management-msc",
+    "university_name": "伯明翰大学",
+    "university_name_en": "University of Birmingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-12"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30370英镑/年",
+    "qs_2026_rank": 76,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 93,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 119,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bedb98c6-f154-4b59-908d-b542cd8f2b93",
+    "detail_page_url": "https://www.compassedu.hk/majr_66159",
+    "program_name": "西澳大学可再生与未来能源硕士",
+    "program_name_en": "Master of Renewable and Future Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uwa.edu.au/study/Courses/Master-of-Renewable-and-Future-Energy",
+    "university_name": "西澳大学",
+    "university_name_en": "The University of Western Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-01-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-02-23"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-07-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "82",
+        "听力": "20",
+        "阅读": "18",
+        "写作": "22",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "49800澳元/年",
+    "qs_2026_rank": 77,
+    "usnews_2026_rank": 98,
+    "the_2025_rank": 149,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 214,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "28552925-00ee-45cf-bf66-27f9d81d5d06",
+    "detail_page_url": "https://www.compassedu.hk/majr_76196",
+    "program_name": "西澳大学低排放能源技术硕士",
+    "program_name_en": "Master of Low Emission Energy Technologies",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uwa.edu.au/study/courses/master-of-low-emission-energy-technologies",
+    "university_name": "西澳大学",
+    "university_name_en": "The University of Western Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-02-24"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-02-23"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2025-07-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "82",
+        "听力": "20",
+        "阅读": "18",
+        "写作": "22",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "50700澳元/年",
+    "qs_2026_rank": 77,
+    "usnews_2026_rank": 98,
+    "the_2025_rank": 149,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 214,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d11f784c-79bf-48ed-87d4-0b4bf43173ee",
+    "detail_page_url": "https://www.compassedu.hk/majr_52444",
+    "program_name": "格拉斯哥大学可持续能源理学硕士",
+    "program_name_en": "MSc Sustainable Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/sustainableenergy/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33450英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a69089ac-6d5d-4bf2-8da2-f041bc63f4f5",
+    "detail_page_url": "https://www.compassedu.hk/majr_54412",
+    "program_name": "阿德莱德大学专业工程学硕士（能源）",
+    "program_name_en": "Master of Professional Engineering (Energy Resources)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-professional-engineering-energy-resources/int/",
+    "university_name": "阿德莱德大学",
+    "university_name_en": "The University of Adelaide",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-08-15",
+        "application_end_date": [
+          "2025-01-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1.5年",
+    "tuition": "52300澳元/年",
+    "qs_2026_rank": 82,
+    "usnews_2026_rank": 99,
+    "the_2025_rank": 128,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9e085496-db15-48c1-a7a6-43f5095e3162",
+    "detail_page_url": "https://www.compassedu.hk/majr_51053",
+    "program_name": "利兹大学能源与环境工程理学硕士",
+    "program_name_en": "MSc Energy and Environmental Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/e682/energy-and-environment-msc",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 92,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f7c7937e-cd58-4cb3-b900-c412daa4132b",
+    "detail_page_url": "https://www.compassedu.hk/majr_74520",
+    "program_name": "利兹大学可持续发展科学与技术理学硕士",
+    "program_name_en": "MSc Science and Technology for Sustainability",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/j840/science-and-technology-for-sustainability-msc",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 92,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d9c81e59-888e-4c61-906e-5d8aee66b939",
+    "detail_page_url": "https://www.compassedu.hk/majr_51229",
+    "program_name": "南安普顿大学能源与可持续性（能源、环境与建筑）理学硕士",
+    "program_name_en": "MSc Energy and Sustainability (Energy, Environment and Buildings)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/energy-sustainability-energy-environment-buildings-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-18",
+        "application_end_date": [
+          "2024-07-29"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d0795e41-fdb3-4593-86c8-78ba005ca622",
+    "detail_page_url": "https://www.compassedu.hk/majr_51230",
+    "program_name": "南安普顿大学能源与可持续性（能源、资源与气候变化）理学硕士",
+    "program_name_en": "MSc Energy and Sustainability (Energy, Resources and Climate Change)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/energy-sustainability-energy-resources-climate-change-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-18",
+        "application_end_date": [
+          "2024-07-29"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "71c9e0f5-0238-46e1-8fc8-4a70b62b67ad",
+    "detail_page_url": "https://www.compassedu.hk/majr_51244",
+    "program_name": "南安普顿大学可持续能源科技理学硕士",
+    "program_name_en": "MSc Sustainable Energy Technologies",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/sustainable-energy-technologies-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-18",
+        "application_end_date": [
+          "2023-12-06"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c2087c23-9ff0-4148-9652-e9140c69a544",
+    "detail_page_url": "https://www.compassedu.hk/majr_73785",
+    "program_name": "波士顿大学能源与环境硕士",
+    "program_name_en": "MS in Energy & Environment",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/139.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bu.edu/academics/grs/programs/earth-environment/ma-energy-environment/",
+    "university_name": "波士顿大学",
+    "university_name_en": "Boston University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1-1.5年",
+    "tuition": "63,798美元",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 75,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 170,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4c1a3bf7-6290-4824-9f7e-f838ca77cb56",
+    "detail_page_url": "https://www.compassedu.hk/majr_51709",
+    "program_name": "谢菲尔德大学能源工程与工业管理理学硕士",
+    "program_name_en": "MSc Energy Engineering with Industrial Management",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/energy-engineering-industrial-management-msc",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32550英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 104,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "19fcb2cf-6cfd-4766-9ad9-c9f2adb6dba3",
+    "detail_page_url": "https://www.compassedu.hk/majr_51710",
+    "program_name": "谢菲尔德大学环境与能源工程（工程）理学硕士",
+    "program_name_en": "MSc(Eng) Environmental and Energy Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/environmental-and-energy-engineering-msceng",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32550英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 104,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e9a39063-0c83-4489-bb90-8e4a90a23e87",
+    "detail_page_url": "https://www.compassedu.hk/majr_50224",
+    "program_name": "杜伦大学可再生与可持续能源理学硕士",
+    "program_name_en": "MSc Renewable and Sustainable Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/12.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.durham.ac.uk/study/courses/renewable-and-sustainable-energy-h1kf09/september-2025/",
+    "university_name": "杜伦大学",
+    "university_name_en": "Durham University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 94,
+    "usnews_2026_rank": 292,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": 341,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f51b4489-52af-4cc3-aaad-b2eb78c06598",
+    "detail_page_url": "https://www.compassedu.hk/majr_72407",
+    "program_name": "杜伦大学能源工程管理理学硕士",
+    "program_name_en": "MSc Energy Engineering Management",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/12.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.durham.ac.uk/business/courses/energy-engineering-management-h1kg09/september-2025/",
+    "university_name": "杜伦大学",
+    "university_name_en": "Durham University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "102",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 94,
+    "usnews_2026_rank": 292,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": 341,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "60380d06-9742-4276-99a6-9050dc6e770b",
+    "detail_page_url": "https://www.compassedu.hk/majr_52231",
+    "program_name": "诺丁汉大学可持续能源与创业理学硕士",
+    "program_name_en": "MSc Sustainable Energy and Entrepreneurship",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/sustainable-energy-and-entrepreneurship-msc",
+    "university_name": "诺丁汉大学",
+    "university_name_en": "University of Nottingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2025-08-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30750英镑/年",
+    "qs_2026_rank": 97,
+    "usnews_2026_rank": 153,
+    "the_2025_rank": 136,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 116,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2b1deb68-81c1-4387-8f92-f8ee665de5a4",
+    "detail_page_url": "https://www.compassedu.hk/majr_52249",
+    "program_name": "诺丁汉大学可持续能源工程理学硕士",
+    "program_name_en": "MSc Sustainable Energy Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/sustainable-energy-engineering-msc",
+    "university_name": "诺丁汉大学",
+    "university_name_en": "University of Nottingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2025-08-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30750英镑/年",
+    "qs_2026_rank": 97,
+    "usnews_2026_rank": 153,
+    "the_2025_rank": 136,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 116,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "56ccd19f-a2b9-4b29-a9e1-cf1b2310f233",
+    "detail_page_url": "https://www.compassedu.hk/majr_63730",
+    "program_name": "乌得勒支大学能源科学理学硕士",
+    "program_name_en": "MSc Energy Science",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/382.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uu.nl/masters/en/energy-science",
+    "university_name": "乌得勒支大学",
+    "university_name_en": "Utrecht University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "20",
+        "口语": "20"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "24432欧元/年",
+    "qs_2026_rank": 103,
+    "usnews_2026_rank": 49,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 55,
+    "qs_2026_engineering_and_technology_rank": 252,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "517eb331-52b2-4b1e-a490-0276fbb1f417",
+    "detail_page_url": "https://www.compassedu.hk/majr_53164",
+    "program_name": "伦敦大学玛丽皇后学院可持续能源系统理学硕士",
+    "program_name_en": "MSc Sustainable Energy Systems",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/sustainable-energy-systems-msc/",
+    "university_name": "伦敦大学玛丽皇后学院",
+    "university_name_en": "Queen Mary University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-12",
+        "application_end_date": [
+          "2025-07-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "18",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 173,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "12244f7b-4e02-410f-b259-94354db401a6",
+    "detail_page_url": "https://www.compassedu.hk/majr_73250",
+    "program_name": "圣安德鲁斯大学能源政策与金融理学硕士",
+    "program_name_en": "MSc Energy Policy and Finance",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/2.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.st-andrews.ac.uk/subjects/interdisciplinary/energy-ethics-msc/",
+    "university_name": "圣安德鲁斯大学",
+    "university_name_en": "University of St Andrews",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-01",
+        "application_end_date": [
+          "2025-08-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "7",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "27",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "76",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29990英镑/年",
+    "qs_2026_rank": 113,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9bdc66c8-b465-4d4f-835b-24176a18fb25",
+    "detail_page_url": "https://www.compassedu.hk/majr_74345",
+    "program_name": "皇家墨尔本理工大学工程硕士（可持续能源）",
+    "program_name_en": "Master of Engineering (Sustainable Energy)",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-engineering-sustainable-energy-mc229",
+    "university_name": "皇家墨尔本理工大学",
+    "university_name_en": "Royal Melbourne Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-03-05"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-11",
+        "application_end_date": [
+          "2025-07-23"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-28",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "47040澳元/年",
+    "qs_2026_rank": 125,
+    "usnews_2026_rank": 198,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 152,
+    "qs_2026_engineering_technology_rank": 152
+  },
+  {
+    "id": "c473af24-2547-4950-8e10-82d1723bc790",
+    "detail_page_url": "https://www.compassedu.hk/majr_64361",
+    "program_name": "柏林洪堡大学自然资源综合管理",
+    "program_name_en": "MSc Integrated Natural Resource Management",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/392.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.agrar.hu-berlin.de/en/institut-en/departments/daoe/ress-en/lehre-en/Studiengaenge-en/inrm-en/standardseite-en?set_language=en&cl=de",
+    "university_name": "柏林洪堡大学",
+    "university_name_en": "Humboldt University of Berlin",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-05-02",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-12-01",
+        "application_end_date": [
+          "2026-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10/4月",
+    "duration": "2年",
+    "qs_2026_rank": 130,
+    "usnews_2026_rank": 47,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_and_technology_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d172f3a8-8ea3-4c10-b3ff-aa1d2d15a96c",
+    "detail_page_url": "https://www.compassedu.hk/majr_52114",
+    "program_name": "纽卡斯尔大学（英国）可再生能源、企业与管理理学硕士",
+    "program_name_en": "MSc Renewable Energy, Enterprise and Management",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/5160f/",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-06-22"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30050英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_engineering_&_technology_rank": 145,
+    "qs_2026_engineering_technology_rank": 145
+  },
+  {
+    "id": "f771e3a6-bd80-4ecd-93c6-17701c728b4b",
+    "detail_page_url": "https://www.compassedu.hk/majr_64215",
+    "program_name": "埃因霍芬理工大学可持续能源技术理学硕士",
+    "program_name_en": "MSc Sustainable Energy Technology",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tue.nl/en/education/graduate-school/master-sustainable-energy-technology/",
+    "university_name": "埃因霍芬理工大学",
+    "university_name_en": "Eindhoven University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "17800欧元/年",
+    "qs_2026_rank": 140,
+    "usnews_2026_rank": 409,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": 95,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "15d685a7-0c92-4746-bded-24c6157dd8ae",
+    "detail_page_url": "https://www.compassedu.hk/majr_76416",
+    "program_name": "利物浦大学可再生能源与可持续能源（工程）理学硕士",
+    "program_name_en": "MSc(Eng) Renewable and Sustainable Energy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/renewable-and-sustainable-energy-msc-eng",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "17",
+        "写作": "17",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29900英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 204,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4d87ec8-5066-4b8f-a137-548af042fc94",
+    "detail_page_url": "https://www.compassedu.hk/majr_61368",
+    "program_name": "埃克塞特大学可再生能源工程理学硕士",
+    "program_name_en": "MSc Renewable Energy Engineering",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/engineering/renewableenergyengineeringmsc/",
+    "university_name": "埃克塞特大学",
+    "university_name_en": "University of Exeter",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "18",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "34920英镑/年",
+    "qs_2026_rank": 155,
+    "usnews_2026_rank": 127,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 333,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4d1a957a-bc20-4929-b7d0-6c0522172b39",
+    "detail_page_url": "https://www.compassedu.hk/majr_75445",
+    "program_name": "埃克塞特大学能源政策理学硕士",
+    "program_name_en": "MSc Energy Policy",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/geography/energy-policy/",
+    "university_name": "埃克塞特大学",
+    "university_name_en": "University of Exeter",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28600英镑/年",
+    "qs_2026_rank": 155,
+    "usnews_2026_rank": 127,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 333,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a1e500cf-228c-4aed-b69b-3d457c271fc3",
+    "detail_page_url": "https://www.compassedu.hk/majr_52992",
+    "program_name": "雷丁大学可再生能源：技术与可持续性理学硕士",
+    "program_name_en": "MSc Renewable Energy: Technology and Sustainability",
+    "primary_category": "工科",
+    "secondary_category": "能源",
+    "university_logo_url": "https://logo.compassedu.hk/50.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/construction-management-and-engineering-pg/msc-renewable-energy-technology-and-sustainability",
+    "university_name": "雷丁大学",
+    "university_name_en": "University of Reading",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30950英镑/年",
+    "qs_2026_rank": 194,
+    "usnews_2026_rank": 385,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": 367,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

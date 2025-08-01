@@ -1,0 +1,6569 @@
+[
+  {
+    "completion_rate": "79 / 79",
+    "fail_count": 0,
+    "original_total": 139,
+    "classification": "QS前200"
+  },
+  {
+    "id": "22864f2a-516d-4eb1-a00b-487a863a671e",
+    "detail_page_url": "https://www.compassedu.hk/majr_65504",
+    "program_name": "麻省理工学院商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/85.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mitsloan.mit.edu/master-of-business-analytics#admissions",
+    "university_name": "麻省理工学院",
+    "university_name_en": "Massachusetts Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-03"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）/真人单面",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "12个月",
+    "tuition": "82368美元",
+    "program_size": "60人",
+    "average_accepted_gpa": "3.9",
+    "average_admitted_gre": "Q168",
+    "sex_ratio": "63:37",
+    "employment_rate": "100%",
+    "average_graduate_salary": "110000美元",
+    "qs_2026_rank": 1,
+    "usnews_2026_rank": 2,
+    "the_2025_rank": 2,
+    "arwu_2024_rank": 3,
+    "qs_2026_business_rank": 2,
+    "qs_2026_data_science_rank": 1,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f9db2d14-0d40-4627-95fc-ac58b4f49f30",
+    "detail_page_url": "https://www.compassedu.hk/majr_50115",
+    "program_name": "帝国理工学院商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/3.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/business-analytics/",
+    "university_name": "帝国理工学院",
+    "university_name_en": "Imperial College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-23",
+        "application_end_date": [
+          "2024-09-26",
+          "2025-01-09",
+          "2025-03-13",
+          "2025-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "机面（kira）",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "42500英镑/年",
+    "qs_2026_rank": 2,
+    "usnews_2026_rank": 11,
+    "the_2025_rank": 9,
+    "arwu_2024_rank": 25,
+    "qs_2026_business_rank": 37,
+    "qs_2026_data_science_rank": 12,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bbc66811-513d-4b1d-819d-460287fb42ca",
+    "detail_page_url": "https://www.compassedu.hk/majr_1654",
+    "program_name": "新加坡国立大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://msba.nus.edu.sg/",
+    "university_name": "新加坡国立大学",
+    "university_name_en": "National University of Singapore",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2025-01-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "真人单面",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "70850新币/年",
+    "qs_2026_rank": 8,
+    "usnews_2026_rank": 20,
+    "the_2025_rank": 17,
+    "arwu_2024_rank": 68,
+    "qs_2026_business_rank": 8,
+    "qs_2026_data_science_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "91e70e35-1cbf-49e1-ac19-56eaed615975",
+    "detail_page_url": "https://www.compassedu.hk/majr_62247",
+    "program_name": "新加坡国立大学企业商业分析科技硕士",
+    "program_name_en": "Master of Technology in Enterprise Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-enterprise-business-analytics",
+    "university_name": "新加坡国立大学",
+    "university_name_en": "National University of Singapore",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "320"
+      }
+    ],
+    "interview": "笔试/机面（kira）/真人单面",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "54566新币/年",
+    "qs_2026_rank": 8,
+    "usnews_2026_rank": 20,
+    "the_2025_rank": 17,
+    "arwu_2024_rank": 68,
+    "qs_2026_business_rank": 8,
+    "qs_2026_data_science_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "87f0d1fb-59e1-4e16-8070-a2e5077e2aee",
+    "detail_page_url": "https://www.compassedu.hk/majr_50580",
+    "program_name": "伦敦大学学院商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/11.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/business-analytics-msc",
+    "university_name": "伦敦大学学院",
+    "university_name_en": "University College London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-14",
+        "application_end_date": [
+          "2024-12-09",
+          "2025-02-21",
+          "2025-04-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "75",
+        "阅读": "75",
+        "写作": "75",
+        "口语": "75"
+      }
+    ],
+    "interview": "机面（kira）",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "43500英镑/年",
+    "qs_2026_rank": 9,
+    "usnews_2026_rank": 7,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 16,
+    "qs_2026_business_rank": 90,
+    "qs_2026_data_science_rank": 21,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "44fb4b5b-1a93-47ad-b854-11f14688fe3e",
+    "detail_page_url": "https://www.compassedu.hk/majr_53624",
+    "program_name": "香港大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-business-analytics-hkubs",
+    "university_name": "香港大学",
+    "university_name_en": "The University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-16",
+        "application_end_date": [
+          "2024-08-24"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-02-04",
+        "application_end_date": [
+          "2025-02-24",
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "390000港币/年",
+    "qs_2026_rank": 11,
+    "usnews_2026_rank": 44,
+    "the_2025_rank": 35,
+    "arwu_2024_rank": 69,
+    "qs_2026_business_rank": 30,
+    "qs_2026_data_science_rank": 18,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f5c52341-1190-4bc8-a11a-794680b47d09",
+    "detail_page_url": "https://www.compassedu.hk/majr_62305",
+    "program_name": "南洋理工大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/39.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-business-analytics",
+    "university_name": "南洋理工大学",
+    "university_name_en": "Nanyang Technological University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-28",
+        "application_end_date": [
+          "2024-11-30",
+          "2025-01-31",
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "7月",
+    "duration": "1年",
+    "tuition": "65400新币/年",
+    "qs_2026_rank": 12,
+    "usnews_2026_rank": 28,
+    "the_2025_rank": 30,
+    "arwu_2024_rank": 90,
+    "qs_2026_business_rank": 14,
+    "qs_2026_data_science_rank": 5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ef6082e3-8c2b-42e4-87e8-d08d5cb318b9",
+    "detail_page_url": "https://www.compassedu.hk/majr_67206",
+    "program_name": "加州大学伯克利分校分析学硕士",
+    "program_name_en": "Master of Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/100.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ieor.berkeley.edu/academics/master-of-analytics/",
+    "university_name": "加州大学伯克利分校",
+    "university_name_en": "University of California, Berkeley",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-06"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "70534.5美元",
+    "qs_2026_rank": 17,
+    "usnews_2026_rank": 6,
+    "the_2025_rank": 8,
+    "arwu_2024_rank": 5,
+    "qs_2026_business_rank": 11,
+    "qs_2026_data_science_rank": 4,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "eb7c4875-53e5-445a-95af-26afe8de9f3e",
+    "detail_page_url": "https://www.compassedu.hk/majr_53772",
+    "program_name": "墨尔本大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-business-analytics/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-04-15",
+          "2024-06-17",
+          "2024-08-19",
+          "2024-10-21"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-07",
+          "2025-06-02",
+          "2025-08-04",
+          "2025-09-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "27",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "72",
+        "听力": "72",
+        "阅读": "72",
+        "写作": "75",
+        "口语": "72"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1月",
+    "duration": "1年",
+    "tuition": "74400澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_business_rank": 50,
+    "qs_2026_data_science_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bd53f25b-16c3-450a-af9a-940a75bd9791",
+    "detail_page_url": "https://www.compassedu.hk/majr_65509",
+    "program_name": "约翰霍普金斯大学商业分析与人工智能硕士",
+    "program_name_en": "MS in Business Analytics and Artificial Intelligence",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/92.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://carey.jhu.edu/programs/master-science-programs/ms-business-analytics-artificial-intelligence",
+    "university_name": "约翰霍普金斯大学",
+    "university_name_en": "Johns Hopkins University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-16",
+          "2025-01-08",
+          "2025-03-19"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "88000美元",
+    "average_accepted_gpa": "3.53",
+    "average_admitted_gre": "674",
+    "sex_ratio": "39:61",
+    "average_graduate_salary": "64400美元",
+    "qs_2026_rank": 24,
+    "usnews_2026_rank": 14,
+    "the_2025_rank": 16,
+    "arwu_2024_rank": 17,
+    "qs_2026_business_rank": 225.5,
+    "qs_2026_data_science_rank": 38,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7bb33e2f-2dc2-4c9a-a281-9af00e68855e",
+    "detail_page_url": "https://www.compassedu.hk/majr_5076",
+    "program_name": "香港中文大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gs.cuhk.edu.hk/admissions/programme/business-administration#msc-in-business-analytics",
+    "university_name": "香港中文大学",
+    "university_name_en": "The Chinese University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-27",
+        "application_end_date": [
+          "2024-08-02"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-06-26",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人群面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "360000港币/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 37,
+    "the_2025_rank": 44,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 46,
+    "qs_2026_data_science_rank": 19,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c6c7ac45-45d8-4007-af7d-c6a05435aa39",
+    "detail_page_url": "https://www.compassedu.hk/majr_64388",
+    "program_name": "香港中文大学信息管理 & 商业分析理学硕士（CUHK-Shenzhen）",
+    "program_name_en": "MSc Information Management and Business Analytics (CUHK-Shenzhen)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://msimba.cuhk.edu.cn/",
+    "university_name": "香港中文大学",
+    "university_name_en": "The Chinese University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-01-26",
+        "application_end_date": [
+          "2024-03-10",
+          "2024-04-14",
+          "2024-06-12"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-01-23",
+        "application_end_date": [
+          "2025-04-14",
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "笔试/真人群面",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "144000人民币/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 37,
+    "the_2025_rank": 44,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 46,
+    "qs_2026_data_science_rank": 19,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1af5c196-8e50-420a-a1c2-ef5513cfa675",
+    "detail_page_url": "https://www.compassedu.hk/majr_74506",
+    "program_name": "澳大利亚国立大学统计数据分析硕士",
+    "program_name_en": "Master of Statistical Data Analysis",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/286.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://programsandcourses.anu.edu.au/2025/program/MSDA",
+    "university_name": "澳大利亚国立大学",
+    "university_name_en": "Australian National University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-02-26",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-17",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-15"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "18",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "1年",
+    "tuition": "53700澳元/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 73,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 68,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f0dd9f67-52f6-4480-936d-53b223d0bdd2",
+    "detail_page_url": "https://www.compassedu.hk/majr_62318",
+    "program_name": "爱丁堡大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/24.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=929",
+    "university_name": "爱丁堡大学",
+    "university_name_en": "The University of Edinburgh",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2024-10-16",
+          "2024-12-11",
+          "2025-02-12",
+          "2025-04-23",
+          "2025-06-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33100英镑/年",
+    "qs_2026_rank": 34,
+    "usnews_2026_rank": 39,
+    "the_2025_rank": 29,
+    "arwu_2024_rank": 40,
+    "qs_2026_business_rank": 121,
+    "qs_2026_data_science_rank": 24,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6c22f286-2cb2-45d6-afae-d1731709e958",
+    "detail_page_url": "https://www.compassedu.hk/majr_52603",
+    "program_name": "曼彻斯特大学商业分析与战略管理理学硕士",
+    "program_name_en": "MSc Business Analysis and Strategic Management",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/09839/msc-business-analysis-and-strategic-management/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2024-12-07",
+          "2025-03-02",
+          "2025-05-04",
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "70",
+        "阅读": "70",
+        "写作": "70",
+        "口语": "70"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29000英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_business_rank": 45,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "de0ee749-6678-40f3-8931-a67dbda9ac92",
+    "detail_page_url": "https://www.compassedu.hk/majr_52604",
+    "program_name": "曼彻斯特大学商业分析：运筹学与风险分析理学硕士",
+    "program_name_en": "MSc Business Analytics: Operational Research and Risk Analysis",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/09454/msc-business-analytics-operational-research-and-risk-analysis/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2024-12-07",
+          "2025-03-02",
+          "2025-05-04",
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "70",
+        "阅读": "70",
+        "写作": "70",
+        "口语": "70"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "34000英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_business_rank": 45,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3f207f90-d609-4627-9731-de0831f6a79d",
+    "detail_page_url": "https://www.compassedu.hk/majr_66106",
+    "program_name": "莫纳什大学商业分析硕士（2年制）",
+    "program_name_en": "Master of Business Analytics (2 years)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.monash.edu/study/courses/find-a-course/business-analytics-b6022?international=true",
+    "university_name": "莫纳什大学",
+    "university_name_en": "Monash University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-07-30",
+          "2024-09-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "2年",
+    "tuition": "56800澳元/年",
+    "qs_2026_rank": 36,
+    "usnews_2026_rank": 38,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 82,
+    "qs_2026_business_rank": 77,
+    "qs_2026_data_science_rank": 40,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "36b42597-a906-4362-80d1-f5188c43ff8a",
+    "detail_page_url": "https://www.compassedu.hk/majr_66107",
+    "program_name": "莫纳什大学商业分析硕士（1.5年制）",
+    "program_name_en": "Master of Business Analytics (1.5 years)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.monash.edu/study/courses/find-a-course/business-analytics-b6022?international=true",
+    "university_name": "莫纳什大学",
+    "university_name_en": "Monash University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-07-30",
+          "2024-09-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1.5年",
+    "tuition": "56800澳元/年",
+    "qs_2026_rank": 36,
+    "usnews_2026_rank": 38,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 82,
+    "qs_2026_business_rank": 77,
+    "qs_2026_data_science_rank": 40,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "901bdaeb-cf90-4156-80e6-77004c675b9c",
+    "detail_page_url": "https://www.compassedu.hk/majr_65502",
+    "program_name": "哥伦比亚大学商业分析硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/83.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://msba.engineering.columbia.edu/",
+    "university_name": "哥伦比亚大学",
+    "university_name_en": "Columbia University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-15",
+          "2025-02-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融分析和金融技术"
+      },
+      {
+        "key": "2",
+        "value": "营销分析"
+      },
+      {
+        "key": "3",
+        "value": "医疗保健分析"
+      },
+      {
+        "key": "4",
+        "value": "分析算法和方法学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "3学期，36学分",
+    "tuition": "87335美元",
+    "program_size": "100人",
+    "average_accepted_gpa": "3.7",
+    "average_admitted_gre": "325",
+    "average_graduate_salary": "96019美元",
+    "qs_2026_rank": 38,
+    "usnews_2026_rank": 10,
+    "the_2025_rank": 18,
+    "arwu_2024_rank": 8,
+    "qs_2026_business_rank": 20,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a6d3a455-04a1-4cfe-869f-aa3c508326a8",
+    "detail_page_url": "https://www.compassedu.hk/majr_65508",
+    "program_name": "哥伦比亚大学应用分析硕士",
+    "program_name_en": "Master of Science in Applied Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/83.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://sps.columbia.edu/academics/masters/applied-analytics",
+    "university_name": "哥伦比亚大学",
+    "university_name_en": "Columbia University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-02-15",
+          "2025-03-15",
+          "2025-06-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）/真人单面",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "3学期，36学分",
+    "tuition": "2266美元/学分",
+    "average_accepted_gpa": "3.5",
+    "qs_2026_rank": 38,
+    "usnews_2026_rank": 10,
+    "the_2025_rank": 18,
+    "arwu_2024_rank": 8,
+    "qs_2026_business_rank": 20,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b7c7bfb9-2b4a-4ab7-918a-db771c1ea6b4",
+    "detail_page_url": "https://www.compassedu.hk/majr_53622",
+    "program_name": "香港科技大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/42.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://msba.hkust.edu.hk/",
+    "university_name": "香港科技大学",
+    "university_name_en": "The Hong Kong University of Science and Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-02",
+        "application_end_date": [
+          "2024-10-13",
+          "2024-12-01",
+          "2025-01-12",
+          "2025-03-02"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-08-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "375000港币/年",
+    "qs_2026_rank": 44,
+    "usnews_2026_rank": 101,
+    "the_2025_rank": 66,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 26,
+    "qs_2026_data_science_rank": 17,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "342ee399-2cf8-4766-837e-e42dc835ec97",
+    "detail_page_url": "https://www.compassedu.hk/majr_67208",
+    "program_name": "密歇根大学安娜堡分校商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/107.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://michiganross.umich.edu/graduate/master-of-business-analytics",
+    "university_name": "密歇根大学安娜堡分校",
+    "university_name_en": "University of Michigan, Ann Arbor",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-25",
+          "2025-01-03",
+          "2025-02-21",
+          "2025-04-04",
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "10个月",
+    "tuition": "62500美元/年",
+    "qs_2026_rank": 45,
+    "usnews_2026_rank": 21,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 30,
+    "qs_2026_business_rank": 29,
+    "qs_2026_data_science_rank": 32,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5915add6-9cc9-4d7d-b85c-fdf49500b4e6",
+    "detail_page_url": "https://www.compassedu.hk/majr_65503",
+    "program_name": "加州大学洛杉矶分校商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/104.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics",
+    "university_name": "加州大学洛杉矶分校",
+    "university_name_en": "University of California, Los Angeles",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-10",
+          "2025-03-14",
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "小分要求": "R21,L17,S24,W25"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "15个月",
+    "tuition": "66709美元",
+    "program_size": "80人",
+    "average_accepted_gpa": "3.75",
+    "average_admitted_gre": "720",
+    "sex_ratio": "59:41",
+    "employment_rate": "100%",
+    "average_graduate_salary": "102600美元",
+    "qs_2026_rank": 46,
+    "usnews_2026_rank": 13,
+    "the_2025_rank": 18,
+    "arwu_2024_rank": 15,
+    "qs_2026_business_rank": 31,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "41b3f986-f5e7-43e9-bd00-25a75ddf73b7",
+    "detail_page_url": "https://www.compassedu.hk/majr_64408",
+    "program_name": "布里斯托大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-business-analytics/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-20",
+        "application_end_date": [
+          "2023-12-04"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33000英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_business_rank": 225.5,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fd69ae7c-0055-418d-b963-630332ca69fd",
+    "detail_page_url": "https://www.compassedu.hk/majr_65516",
+    "program_name": "卡内基梅隆大学信息系统管理硕士-商业情报与数据分析方向",
+    "program_name_en": "MISM–Business Intelligence & Data Analytics pathway",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/102.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.heinz.cmu.edu/programs/information-systems-management-master/bida",
+    "university_name": "卡内基梅隆大学",
+    "university_name_en": "Carnegie Mellon University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02",
+          "2025-01-10"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求",
+        "小分要求": "R22,L22,S20,W22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "R6.5,L6.5,S6.0,W6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "16个月",
+    "tuition": "77200美元",
+    "average_accepted_gpa": "3.6",
+    "average_admitted_gre": "327",
+    "average_graduate_salary": "125000美元",
+    "qs_2026_rank": 52,
+    "usnews_2026_rank": 126,
+    "the_2025_rank": 24,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 56,
+    "qs_2026_data_science_rank": 2,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4d13d04-e5cf-4f74-8939-3a83a21320f2",
+    "detail_page_url": "https://www.compassedu.hk/majr_72111",
+    "program_name": "卡内基梅隆大学商业分析理学硕士",
+    "program_name_en": "MS in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/102.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cmu.edu/tepper/programs/master-business-analytics/full-time/index.html",
+    "university_name": "卡内基梅隆大学",
+    "university_name_en": "Carnegie Mellon University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-21",
+          "2025-01-13",
+          "2025-03-10",
+          "2025-05-12"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "真人单面",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "9个月",
+    "tuition": "66820美元/年",
+    "qs_2026_rank": 52,
+    "usnews_2026_rank": 126,
+    "the_2025_rank": 24,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 56,
+    "qs_2026_data_science_rank": 2,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c1adbe15-bec8-433a-8e1b-425dd1a27d46",
+    "detail_page_url": "https://www.compassedu.hk/majr_63897",
+    "program_name": "阿姆斯特丹大学数据科学与商业分析理学硕士",
+    "program_name_en": "UvA MSc Data Science and Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/383.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uva.nl/en/shared-content/subsites/amsterdam-school-of-economics/en/masters/data-science-and-business-analytics/data-science-and-business-analytics.html?origin=5BOaRAofTjCccATraJp2XA",
+    "university_name": "阿姆斯特丹大学",
+    "university_name_en": "University of Amsterdam",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "620"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19860欧元/年",
+    "qs_2026_rank": 53,
+    "usnews_2026_rank": 33,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 87,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b43ad263-5a01-4a67-8a12-17eafdaf0118",
+    "detail_page_url": "https://www.compassedu.hk/majr_62251",
+    "program_name": "香港理工大学商务分析理学硕士（英文授课）",
+    "program_name_en": "MSc Business Analytics (English)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/23090-maf-map",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-25",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "241000港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 46,
+    "qs_2026_data_science_rank": 40,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f5791734-83bd-4ade-9845-7c11b2241742",
+    "detail_page_url": "https://www.compassedu.hk/majr_72318",
+    "program_name": "香港理工大学环球商业与决策分析理学硕士",
+    "program_name_en": "MSc Global Business and Decision Analysis",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/44094-bfm-bpm",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-25",
+        "application_end_date": [
+          "2024-11-21",
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "笔试/真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "310500港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 46,
+    "qs_2026_data_science_rank": 40,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1856ea34-30a1-49fb-a84d-d00e189f3ae6",
+    "detail_page_url": "https://www.compassedu.hk/majr_76423",
+    "program_name": "香港理工大学商务分析理学硕士（中文辅以英文授课）",
+    "program_name_en": "MSc Business Analytics (Chinese and English)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/mm/study/tpg/ba_eias/",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-25",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "144600港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 46,
+    "qs_2026_data_science_rank": 40,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2021a3c8-a04d-4e66-ac17-0b472c02b818",
+    "detail_page_url": "https://www.compassedu.hk/majr_65541",
+    "program_name": "纽约大学数据分析与商业计算硕士",
+    "program_name_en": "MS in Data Analytics and Business Computing（shanghai）",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://stern.shanghai.nyu.edu/en/admissions/ms-data-analytics-and-business-computing",
+    "university_name": "纽约大学",
+    "university_name_en": "New York University",
+    "apply_time": [
+      {
+        "title": "22年夏季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-10-15"
+        ]
+      },
+      {
+        "title": "22年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-12-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-31"
+        ]
+      },
+      {
+        "title": "24年夏季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-10-15",
+          "2023-12-15",
+          "2024-01-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-15",
+          "2024-12-15",
+          "2025-01-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "夏季（6月初），秋季",
+    "duration": "3学期",
+    "tuition": "60403美元",
+    "program_size": "27人",
+    "average_accepted_gpa": "3.6",
+    "average_admitted_gre": "689/322",
+    "sex_ratio": "43:57",
+    "qs_2026_rank": 55,
+    "usnews_2026_rank": 32,
+    "the_2025_rank": 33,
+    "arwu_2024_rank": 31,
+    "qs_2026_business_rank": 17,
+    "qs_2026_data_science_rank": 13,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bd84c9ef-e232-41cc-a3a8-d4a131ce045d",
+    "detail_page_url": "https://www.compassedu.hk/majr_65507",
+    "program_name": "杜克大学量化管理硕士",
+    "program_name_en": "Master of Quantitative Management",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/89.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.fuqua.duke.edu/programs/mqm-business-analytics/program-format",
+    "university_name": "杜克大学",
+    "university_name_en": "Duke University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-02",
+          "2025-01-07",
+          "2025-03-05",
+          "2025-04-14"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融"
+      },
+      {
+        "key": "2",
+        "value": "市场营销"
+      },
+      {
+        "key": "3",
+        "value": "风险"
+      },
+      {
+        "key": "4",
+        "value": "战略"
+      }
+    ],
+    "language_requirements_summary": "接受：GMAT、GRE，不接受：托福、雅思",
+    "lang_examination": [
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "真人单面",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "10个月",
+    "tuition": "69800美元",
+    "program_size": "240人",
+    "average_accepted_gpa": "3.65",
+    "average_admitted_gre": "700/320",
+    "sex_ratio": "45:55",
+    "employment_rate": "97%",
+    "average_graduate_salary": "87500美元",
+    "qs_2026_rank": 62,
+    "usnews_2026_rank": 27,
+    "the_2025_rank": 27,
+    "arwu_2024_rank": 39,
+    "qs_2026_business_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c5cbb433-eb3a-4e4e-9ce1-da7d46d270be",
+    "detail_page_url": "https://www.compassedu.hk/majr_65519",
+    "program_name": "加州大学圣地亚哥分校商业分析硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/145.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://rady.ucsd.edu/programs/ms-business-analytics/index.html",
+    "university_name": "加州大学圣地亚哥分校",
+    "university_name_en": "University of California, San Diego",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-01",
+          "2024-11-15",
+          "2025-01-15",
+          "2025-03-15",
+          "2025-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "105"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "12个月，50学分",
+    "tuition": "60750美元/年",
+    "program_size": "67人",
+    "average_accepted_gpa": "3.47",
+    "average_admitted_gre": "701",
+    "sex_ratio": "51:49",
+    "qs_2026_rank": 66,
+    "usnews_2026_rank": 21,
+    "the_2025_rank": 34,
+    "arwu_2024_rank": 18,
+    "qs_2026_business_rank": 275.5,
+    "qs_2026_data_science_rank": 28,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9f1daf7e-e2e2-4384-9673-3dd4f417d07a",
+    "detail_page_url": "https://www.compassedu.hk/majr_65505",
+    "program_name": "德克萨斯大学奥斯汀分校商业分析硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/156.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics/ms-business-analytics-on-campus/",
+    "university_name": "德克萨斯大学奥斯汀分校",
+    "university_name_en": "University of Texas at Austin",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-15",
+          "2025-01-14",
+          "2025-04-01",
+          "2025-05-06"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "金融分析"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季",
+    "duration": "10个月",
+    "tuition": "48000美元",
+    "program_size": "109人",
+    "average_accepted_gpa": "3.66",
+    "average_admitted_gre": "730",
+    "sex_ratio": "57:43",
+    "employment_rate": "100%",
+    "average_graduate_salary": "86175美元",
+    "qs_2026_rank": 68,
+    "usnews_2026_rank": 65,
+    "the_2025_rank": 50,
+    "arwu_2024_rank": 45,
+    "qs_2026_business_rank": 53,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6cccbef2-69d6-44a9-98f2-2c7e5a459539",
+    "detail_page_url": "https://www.compassedu.hk/majr_73099",
+    "program_name": "伊利诺伊大学香槟分校商业分析理学硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/155.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://giesbusiness.illinois.edu/graduate-hub/business-analytics/curriculum",
+    "university_name": "伊利诺伊大学香槟分校",
+    "university_name_en": "University of Illinois at Urbana-Champaign",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31",
+          "2025-01-15",
+          "2025-03-31",
+          "2025-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "103"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "真人单面",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "36学分",
+    "tuition": "50184美元",
+    "qs_2026_rank": 70,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 46,
+    "arwu_2024_rank": 55,
+    "qs_2026_business_rank": 99,
+    "qs_2026_data_science_rank": 21,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5275f7e6-4fa1-4c64-8e99-f33f2615cae3",
+    "detail_page_url": "https://www.compassedu.hk/majr_50237",
+    "program_name": "华威大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/businessanalytics",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "37270英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 35,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "667176c2-b062-42a1-be8a-091e26d2cade",
+    "detail_page_url": "https://www.compassedu.hk/majr_72369",
+    "program_name": "伯明翰大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/business-analytics-msc",
+    "university_name": "伯明翰大学",
+    "university_name_en": "University of Birmingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-12"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33500英镑/年",
+    "qs_2026_rank": 76,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 93,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 143,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fa2f0167-e4c9-4dbd-b63a-9b0bfb787ed0",
+    "detail_page_url": "https://www.compassedu.hk/majr_66152",
+    "program_name": "西澳大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uwa.edu.au/study/Courses/Master-of-Business-Analytics",
+    "university_name": "西澳大学",
+    "university_name_en": "The University of Western Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-01-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-02-23"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-07-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "82",
+        "听力": "20",
+        "阅读": "18",
+        "写作": "22",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "49000澳元/年",
+    "qs_2026_rank": 77,
+    "usnews_2026_rank": 98,
+    "the_2025_rank": 149,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "dc25e793-7efc-498d-9429-5a4a6a347b49",
+    "detail_page_url": "https://www.compassedu.hk/majr_75283",
+    "program_name": "格拉斯哥大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/31.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gla.ac.uk/postgraduate/taught/business-analytics/",
+    "university_name": "格拉斯哥大学",
+    "university_name_en": "University of Glasgow",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-16",
+          "2025-02-03",
+          "2025-03-24",
+          "2025-05-12",
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33450英镑/年",
+    "qs_2026_rank": 79,
+    "usnews_2026_rank": 62,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 134,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7826d738-5bb0-4e11-b445-a67026624ee1",
+    "detail_page_url": "https://www.compassedu.hk/majr_65533",
+    "program_name": "华盛顿大学商业分析硕士",
+    "program_name_en": "MS in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/151.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/",
+    "university_name": "华盛顿大学",
+    "university_name_en": "University of Washington",
+    "apply_time": [
+      {
+        "title": "25年夏季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-05",
+          "2024-12-10",
+          "2025-01-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "92"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季",
+    "duration": "1年",
+    "tuition": "52400美元/年",
+    "average_accepted_gpa": "3.5",
+    "qs_2026_rank": 81,
+    "usnews_2026_rank": 8,
+    "the_2025_rank": 25,
+    "arwu_2024_rank": 18,
+    "qs_2026_business_rank": 99,
+    "qs_2026_data_science_rank": 13,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0a71b96c-795f-45c1-8687-6341cb7afebe",
+    "detail_page_url": "https://www.compassedu.hk/majr_66182",
+    "program_name": "阿德莱德大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-business-analytics/int/",
+    "university_name": "阿德莱德大学",
+    "university_name_en": "The University of Adelaide",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-08-15",
+        "application_end_date": [
+          "2025-01-20"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-08-15",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "49900澳元/年",
+    "qs_2026_rank": 82,
+    "usnews_2026_rank": 99,
+    "the_2025_rank": 128,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1856f210-e09f-4009-be85-8d7922ff5331",
+    "detail_page_url": "https://www.compassedu.hk/majr_74063",
+    "program_name": "宾夕法尼亚州立大学商业分析硕士",
+    "program_name_en": "Master's in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/153.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mban.smeal.psu.edu/",
+    "university_name": "宾夕法尼亚州立大学",
+    "university_name_en": "Pennsylvania State University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-01",
+          "2024-12-01",
+          "2025-02-01",
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "S19"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "43,260美元/学年",
+    "qs_2026_rank": 82,
+    "usnews_2026_rank": 91,
+    "the_2025_rank": 100,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 68,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b7a9a42c-a559-4739-b2bf-c5cbb4d5a3fe",
+    "detail_page_url": "https://www.compassedu.hk/majr_76384",
+    "program_name": "阿德莱德大学会计与商业分析硕士",
+    "program_name_en": "Master of Accounting and Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-accounting-and-business-analytics/int/",
+    "university_name": "阿德莱德大学",
+    "university_name_en": "The University of Adelaide",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "52200澳元/年",
+    "qs_2026_rank": 82,
+    "usnews_2026_rank": 99,
+    "the_2025_rank": 128,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f64a1202-41de-4f95-9afb-2f333cca1c05",
+    "detail_page_url": "https://www.compassedu.hk/majr_50987",
+    "program_name": "利兹大学商业分析与决策科学理学硕士",
+    "program_name_en": "MSc Business Analytics and Decision Sciences",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-06-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32250英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8ed65448-6adc-4913-8cb2-b5db2b5cc7be",
+    "detail_page_url": "https://www.compassedu.hk/majr_51303",
+    "program_name": "南安普顿大学商业分析与金融理学硕士",
+    "program_name_en": "MSc Business Analytics and Finance",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/business-analytics-finance-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4227c268-8aa3-4342-93b3-42b25bd02db6",
+    "detail_page_url": "https://www.compassedu.hk/majr_51304",
+    "program_name": "南安普顿大学商业分析与管理科学理学硕士",
+    "program_name_en": "MSc Business Analytics and Management Science",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/business-analytics-management-science-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31500英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1defb034-a3d0-4656-8b02-5bffe4b5ec5a",
+    "detail_page_url": "https://www.compassedu.hk/majr_65524",
+    "program_name": "波士顿大学商业分析硕士",
+    "program_name_en": "MS in Business Analytics (MSBA)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/139.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.bu.edu/questrom/ms-in-business-analytics/",
+    "university_name": "波士顿大学",
+    "university_name_en": "Boston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-18",
+          "2024-12-04",
+          "2025-02-03",
+          "2025-03-27",
+          "2025-04-29"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "市场分析"
+      },
+      {
+        "key": "2",
+        "value": "医疗保健分析"
+      },
+      {
+        "key": "3",
+        "value": "应用数据科学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "95"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "325",
+        "小分要求": "Q169"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "3学期",
+    "tuition": "79200美元",
+    "program_size": "86人",
+    "average_accepted_gpa": "3.58",
+    "average_admitted_gre": "695",
+    "sex_ratio": "45:55",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 75,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 78,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7d95b178-cd26-4f08-846e-f1f7ee151e1a",
+    "detail_page_url": "https://www.compassedu.hk/majr_65525",
+    "program_name": "波士顿大学应用商业分析硕士",
+    "program_name_en": "MS in Applied Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/139.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bu.edu/met/degrees-certificates/ms-applied-business-analytics/",
+    "university_name": "波士顿大学",
+    "university_name_en": "Boston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "企业风险分析"
+      },
+      {
+        "key": "2",
+        "value": "营销分析"
+      },
+      {
+        "key": "3",
+        "value": "商业网络分析"
+      },
+      {
+        "key": "4",
+        "value": "商业分析的数据采集"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "84",
+        "小分要求": "R21,L18,S23,W22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "40学分",
+    "tuition": "28427 美元/学期",
+    "average_graduate_salary": "81000美元",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 75,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 78,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aa6c366d-723c-48f3-9e08-b40b1b41ecca",
+    "detail_page_url": "https://www.compassedu.hk/majr_73860",
+    "program_name": "普渡大学西拉法叶分校商业分析及信息管理硕士",
+    "program_name_en": "MS in Bussiness Analytics and Information Management",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/171.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://business.purdue.edu/masters/programs/ms-business-analytics-and-information-management/",
+    "university_name": "普渡大学西拉法叶分校",
+    "university_name_en": "Purdue University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-01",
+          "2024-11-17",
+          "2024-12-15",
+          "2025-03-15",
+          "2025-05-01",
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "小分要求": "R22,L18,S22,W20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "小分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季",
+    "duration": "11个月",
+    "tuition": "56,700美元/年",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 173,
+    "the_2025_rank": 79,
+    "arwu_2024_rank": 100,
+    "qs_2026_business_rank": 96,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4905cca9-a112-465b-a99b-9c931090f16b",
+    "detail_page_url": "https://www.compassedu.hk/majr_62312",
+    "program_name": "杜伦大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/12.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.durham.ac.uk/business/courses/business-analytics-g5k709/september-2025/",
+    "university_name": "杜伦大学",
+    "university_name_en": "Durham University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2024-11-14",
+          "2025-02-12",
+          "2025-04-09",
+          "2025-06-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "102",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "35000英镑/年",
+    "qs_2026_rank": 94,
+    "usnews_2026_rank": 292,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 121,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ee4e05b1-d192-464d-8fba-77fc1b93ab32",
+    "detail_page_url": "https://www.compassedu.hk/majr_74481",
+    "program_name": "悉尼科技大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-business-analytics",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "50016澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "qs_2026_data_science_rank": 36,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4023e035-715b-44c0-b9b3-6d8f4c1fad2d",
+    "detail_page_url": "https://www.compassedu.hk/majr_74482",
+    "program_name": "悉尼科技大学商业分析硕士（扩展）",
+    "program_name_en": "Master of Business Analytics (Extension)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-business-analytics-extension",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "2年",
+    "tuition": "48070澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "qs_2026_data_science_rank": 36,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4d94e147-ae6c-4d82-9c9a-6f38d3a44a2d",
+    "detail_page_url": "https://www.compassedu.hk/majr_61731",
+    "program_name": "诺丁汉大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/business-analytics-msc",
+    "university_name": "诺丁汉大学",
+    "university_name_en": "University of Nottingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2025-08-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30750英镑/年",
+    "qs_2026_rank": 97,
+    "usnews_2026_rank": 153,
+    "the_2025_rank": 136,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 131,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a68c8297-8910-477b-b3b3-3739a4da8aef",
+    "detail_page_url": "https://www.compassedu.hk/majr_61875",
+    "program_name": "伦敦大学玛丽皇后学院商业分析学理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/business-analytics-msc/",
+    "university_name": "伦敦大学玛丽皇后学院",
+    "university_name_en": "Queen Mary University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-12",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "18",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33500英镑/年",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 325.5,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "183b15d1-af82-45c3-8ab9-a322ea77cb84",
+    "detail_page_url": "https://www.compassedu.hk/majr_65526",
+    "program_name": "威斯康星大学麦迪逊分校商业分析硕士",
+    "program_name_en": "MS in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/152.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://wsb.wisc.edu/programs-degrees/masters/business-analytics",
+    "university_name": "威斯康星大学麦迪逊分校",
+    "university_name_en": "University of Wisconsin-Madison",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-31",
+          "2025-01-10",
+          "2025-03-11",
+          "2025-05-01",
+          "2025-06-03"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "数字化营销"
+      },
+      {
+        "key": "2",
+        "value": "数字风险与保险技术"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2学期",
+    "tuition": "45000美元/年",
+    "program_size": "42人",
+    "average_accepted_gpa": "3.4",
+    "average_admitted_gre": "659",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 36,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "35797311-46b2-4dfa-b321-e2075dd139ed",
+    "detail_page_url": "https://www.compassedu.hk/majr_65521",
+    "program_name": "加州大学戴维斯分校商业分析硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/148.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://gsm.ucdavis.edu/master-science-business-analytics-msba",
+    "university_name": "加州大学戴维斯分校",
+    "university_name_en": "University of California, Davis",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-15",
+          "2024-11-15",
+          "2025-01-15",
+          "2025-03-15",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "业务分析和技术"
+      },
+      {
+        "key": "2",
+        "value": "创业创新"
+      },
+      {
+        "key": "3",
+        "value": "财务/会计"
+      },
+      {
+        "key": "4",
+        "value": "综合管理"
+      },
+      {
+        "key": "5",
+        "value": "营销"
+      },
+      {
+        "key": "6",
+        "value": "组织行为学"
+      },
+      {
+        "key": "7",
+        "value": "战略"
+      },
+      {
+        "key": "8",
+        "value": "技术管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "44学分",
+    "tuition": "1339美元/学分",
+    "program_size": "50人",
+    "average_accepted_gpa": "3.4",
+    "average_admitted_gre": "707",
+    "sex_ratio": "44:56",
+    "employment_rate": "98%",
+    "average_graduate_salary": "102215美元",
+    "qs_2026_rank": 114,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 62,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ee7a0e62-2095-4a97-a703-d49c31d9d890",
+    "detail_page_url": "https://www.compassedu.hk/majr_74376",
+    "program_name": "皇家墨尔本理工大学商业信息技术硕士",
+    "program_name_en": "Master of Business Information Technology",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-business-information-technology-mc200",
+    "university_name": "皇家墨尔本理工大学",
+    "university_name_en": "Royal Melbourne Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-03-05"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-11",
+        "application_end_date": [
+          "2025-07-23"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-28",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "48000澳元/年",
+    "qs_2026_rank": 125,
+    "usnews_2026_rank": 198,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 149,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 149
+  },
+  {
+    "id": "7fe04d36-d6d8-4f32-8406-57255c2f6fe2",
+    "detail_page_url": "https://www.compassedu.hk/majr_74390",
+    "program_name": "皇家墨尔本理工大学商学硕士",
+    "program_name_en": "Master of Commerce",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-commerce-mc288",
+    "university_name": "皇家墨尔本理工大学",
+    "university_name_en": "Royal Melbourne Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-03-05"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-11",
+        "application_end_date": [
+          "2025-07-23"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-28",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "48000澳元/年",
+    "qs_2026_rank": 125,
+    "usnews_2026_rank": 198,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 149,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 149
+  },
+  {
+    "id": "04205b72-0002-4f13-a280-4db7f528b7a9",
+    "detail_page_url": "https://www.compassedu.hk/majr_50858",
+    "program_name": "巴斯大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/20.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bath.ac.uk/courses/postgraduate-2025/taught-postgraduate-courses/msc-business-analytics/",
+    "university_name": "巴斯大学",
+    "university_name_en": "University of Bath",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-20",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30500英镑/年",
+    "qs_2026_rank": 132,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f3ac1161-03d3-4190-877b-11e5e545f7cc",
+    "detail_page_url": "https://www.compassedu.hk/majr_75774",
+    "program_name": "马来西亚理科大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/1386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://admission.usm.my/postgraduate/programmes?view=article&id=355&catid=53",
+    "university_name": "马来西亚理科大学",
+    "university_name_en": "University of Science Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "40",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "47",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "4/10月",
+    "duration": "1年",
+    "tuition": "7350美元/年",
+    "qs_2026_rank": 134,
+    "usnews_2026_rank": 416,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 601,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "554af218-dbc9-4916-bd5f-01f73b432f01",
+    "detail_page_url": "https://www.compassedu.hk/majr_74757",
+    "program_name": "纽卡斯尔大学（英国）商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/5492f/",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27100英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 225
+  },
+  {
+    "id": "43bb57a5-0fb5-49e2-b441-763bf52c1aad",
+    "detail_page_url": "https://www.compassedu.hk/majr_74138",
+    "program_name": "麦考瑞大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics",
+    "university_name": "麦考瑞大学",
+    "university_name_en": "Macquarie University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-02-10"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "83",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "52",
+        "阅读": "52",
+        "写作": "52",
+        "口语": "52"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "46200澳元/年",
+    "qs_2026_rank": 138,
+    "usnews_2026_rank": 178,
+    "the_2025_rank": 178,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "58fd3674-3767-44fb-8a91-27677cc7f7ba",
+    "detail_page_url": "https://www.compassedu.hk/majr_76299",
+    "program_name": "麦考瑞大学商业分析硕士/数据科学硕士双学位",
+    "program_name_en": "Double Degree Master of Business Analytics/Master of Data Science",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-data-science",
+    "university_name": "麦考瑞大学",
+    "university_name_en": "Macquarie University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-02-10"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "83",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "52",
+        "阅读": "52",
+        "写作": "52",
+        "口语": "52"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2.5年",
+    "tuition": "45600澳元/年",
+    "qs_2026_rank": 138,
+    "usnews_2026_rank": 178,
+    "the_2025_rank": 178,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6f1fca59-6bbe-4859-818f-708b8a648494",
+    "detail_page_url": "https://www.compassedu.hk/majr_76335",
+    "program_name": "麦考瑞大学商业分析硕士/信息系统管理硕士双学位",
+    "program_name_en": "Double Degree Master of Business Analytics/Master of Information Systems Management",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/416.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-information-systems-management",
+    "university_name": "麦考瑞大学",
+    "university_name_en": "Macquarie University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-02-10"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-01-01",
+        "application_end_date": [
+          "2025-07-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "83",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "52",
+        "阅读": "52",
+        "写作": "52",
+        "口语": "52"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2.5年",
+    "tuition": "45600澳元/年",
+    "qs_2026_rank": 138,
+    "usnews_2026_rank": 178,
+    "the_2025_rank": 178,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4255a1da-5326-40e5-b943-ce6eb9d4ddf4",
+    "detail_page_url": "https://www.compassedu.hk/majr_65506",
+    "program_name": "南加州大学商业分析硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/103.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-business-analytics",
+    "university_name": "南加州大学",
+    "university_name_en": "University of Southern California",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-01",
+          "2025-01-15",
+          "2025-03-01",
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "3个学期，33学分",
+    "tuition": "70000美元",
+    "program_size": "150人",
+    "average_accepted_gpa": "3.68",
+    "average_admitted_gre": "725/324",
+    "sex_ratio": "46:54",
+    "qs_2026_rank": 146,
+    "usnews_2026_rank": 77,
+    "the_2025_rank": 72,
+    "arwu_2024_rank": 62,
+    "qs_2026_business_rank": 72,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3017db74-64f3-439b-bf40-ee6b9c01f090",
+    "detail_page_url": "https://www.compassedu.hk/majr_53422",
+    "program_name": "利物浦大学商业分析与大数据理学硕士",
+    "program_name_en": "MSc Business Analytics and Big Data",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/business-analytics-and-big-data-msc",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28500英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "38e30879-1d44-4ec3-8cc7-d021392277c9",
+    "detail_page_url": "https://www.compassedu.hk/majr_75956",
+    "program_name": "马来西亚理工大学理学硕士（商业智能与分析）",
+    "program_name_en": "Master of Science (Business Intelligence and Analytics)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/1403.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://razak.utm.my/msc-business-intelligence-and-analytics/",
+    "university_name": "马来西亚理工大学",
+    "university_name_en": "Universiti Teknologi Malaysia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2024-12-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "60",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1.5年",
+    "tuition": "17470马币/年",
+    "qs_2026_rank": 153,
+    "usnews_2026_rank": 376,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 225.5,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ac765e7d-3276-4185-882e-566fb93cf019",
+    "detail_page_url": "https://www.compassedu.hk/majr_62788",
+    "program_name": "埃克塞特大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/business/business_analytics/",
+    "university_name": "埃克塞特大学",
+    "university_name_en": "University of Exeter",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-04-28",
+        "application_end_date": [
+          "2026-01-05"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "30700英镑/年",
+    "qs_2026_rank": 155,
+    "usnews_2026_rank": 127,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "84695e12-b604-43bd-8a46-737257cd4efd",
+    "detail_page_url": "https://www.compassedu.hk/majr_63456",
+    "program_name": "日内瓦大学商业分析硕士",
+    "program_name_en": "Master in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/374.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://masters.unige.ch/economics-and-management#business-analytics",
+    "university_name": "日内瓦大学",
+    "university_name_en": "Université de Genève",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "1000瑞士法郎/年",
+    "qs_2026_rank": 155,
+    "usnews_2026_rank": 120,
+    "the_2025_rank": 171,
+    "arwu_2024_rank": 58,
+    "qs_2026_business_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "88b8dd1b-8d70-4073-a1c6-d23c46d63eb7",
+    "detail_page_url": "https://www.compassedu.hk/majr_61464",
+    "program_name": "兰卡斯特大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/4.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/business-analytics-msc/2025/",
+    "university_name": "兰卡斯特大学",
+    "university_name_en": "Lancaster University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "22",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "32760英镑/年",
+    "qs_2026_rank": 157,
+    "usnews_2026_rank": 267,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 99,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b8c76626-52f1-457d-93c2-03b236598ae9",
+    "detail_page_url": "https://www.compassedu.hk/majr_63642",
+    "program_name": "根特大学商业工程理学硕士（数据分析方向）",
+    "program_name_en": "Master of Science in Business Engineering (Data Analytics)",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/379.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://studiekiezer.ugent.be/master-of-science-in-business-engineering-data-analytics-en",
+    "university_name": "根特大学",
+    "university_name_en": "Ghent University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "72",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "6929欧元/年",
+    "qs_2026_rank": 162,
+    "usnews_2026_rank": 107,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 90,
+    "qs_2026_business_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9c64d0b8-503a-4aa5-9b2e-e2172dd8cbdc",
+    "detail_page_url": "https://www.compassedu.hk/majr_65511",
+    "program_name": "圣路易斯华盛顿大学商业分析硕士",
+    "program_name_en": "MS in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/93.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://olin.wustl.edu/programs/specialized-masters/ms-in-business-analytics/index.php",
+    "university_name": "圣路易斯华盛顿大学",
+    "university_name_en": "Washington University in St. Louis",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-05",
+          "2024-11-01",
+          "2025-01-05",
+          "2025-03-01",
+          "2025-04-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "顾客分析"
+      },
+      {
+        "key": "2",
+        "value": "金融科技分析"
+      },
+      {
+        "key": "3",
+        "value": "供应链分析"
+      },
+      {
+        "key": "4",
+        "value": "会计分析"
+      },
+      {
+        "key": "5",
+        "value": "医疗分析"
+      },
+      {
+        "key": "6",
+        "value": "人才分析"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "3学期",
+    "tuition": "87685美元",
+    "program_size": "136人",
+    "average_admitted_gre": "674",
+    "employment_rate": "97%",
+    "qs_2026_rank": 167,
+    "usnews_2026_rank": 31,
+    "the_2025_rank": 69,
+    "arwu_2024_rank": 23,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4e383437-b483-4b0e-8131-ac9c9b8b2380",
+    "detail_page_url": "https://www.compassedu.hk/majr_75474",
+    "program_name": "约克大学（英国）商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-business-analytics/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31900英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 425,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 425
+  },
+  {
+    "id": "48bcc56b-a989-4e56-9c44-c114d52d671d",
+    "detail_page_url": "https://www.compassedu.hk/majr_65539",
+    "program_name": "亚利桑那州立大学商业分析硕士",
+    "program_name_en": "Master of Science in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/111.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://wpcarey.asu.edu/masters-programs/business-analytics/overview",
+    "university_name": "亚利桑那州立大学",
+    "university_name_en": "Arizona State University—Tempe",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-01",
+          "2025-02-01",
+          "2025-04-01",
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "大数据"
+      },
+      {
+        "key": "2",
+        "value": "云计算和技术咨询"
+      },
+      {
+        "key": "3",
+        "value": "金融科技"
+      },
+      {
+        "key": "4",
+        "value": "市场营销分析"
+      },
+      {
+        "key": "5",
+        "value": "供应链分析"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "9个月",
+    "tuition": "55488美元",
+    "program_size": "114人",
+    "average_accepted_gpa": "3.45",
+    "average_admitted_gre": "598/308",
+    "sex_ratio": "61:39",
+    "qs_2026_rank": 173,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 83,
+    "qs_2026_data_science_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "56e40596-8230-4a36-a437-6ddc85dbd908",
+    "detail_page_url": "https://www.compassedu.hk/majr_75978",
+    "program_name": "卡迪夫大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/business-analytics-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30450英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7cc85cd8-bc79-4635-95d3-19ca03e9d41d",
+    "detail_page_url": "https://www.compassedu.hk/majr_65513",
+    "program_name": "埃默里大学商业分析硕士",
+    "program_name_en": "MS in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/99.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://goizueta.emory.edu/msba",
+    "university_name": "埃默里大学",
+    "university_name_en": "Emory University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-09-25",
+          "2025-01-15",
+          "2025-03-26"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "商业中的人工智能"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "10个月",
+    "tuition": "72105美元",
+    "program_size": "45人",
+    "average_admitted_gre": "730",
+    "sex_ratio": "59:41",
+    "employment_rate": "100%",
+    "average_graduate_salary": "110000美元",
+    "qs_2026_rank": 182,
+    "usnews_2026_rank": 69,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c80d2a07-d90f-4ebb-965a-dd772b99a6b6",
+    "detail_page_url": "https://www.compassedu.hk/majr_73395",
+    "program_name": "伍伦贡大学商业分析硕士",
+    "program_name_en": "Master of Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-business-analytics",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31",
+          "2024-03-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/8月",
+    "duration": "1.5年",
+    "tuition": "33696澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 225
+  },
+  {
+    "id": "7b00a2de-96e8-44c3-b98d-f70966499b82",
+    "detail_page_url": "https://www.compassedu.hk/majr_62984",
+    "program_name": "贝尔法斯特女王大学商业分析理学硕士",
+    "program_name_en": "MSc Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/55.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qub.ac.uk/courses/postgraduate-taught/business-analytics-msc/",
+    "university_name": "贝尔法斯特女王大学",
+    "university_name_en": "Queen's University Belfast",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-09",
+        "application_end_date": [
+          "2025-08-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25800英镑/年",
+    "qs_2026_rank": 199,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "838246cf-e926-45f5-baca-8a786511eb9c",
+    "detail_page_url": "https://www.compassedu.hk/majr_65530",
+    "program_name": "东北大学（美国）商业分析硕士",
+    "program_name_en": "MS in Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "商业分析",
+    "university_logo_url": "https://logo.compassedu.hk/170.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://damore-mckim.northeastern.edu/programs/ms-business-analytics/",
+    "university_name": "东北大学（美国）",
+    "university_name_en": "Northeastern University(United States)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-24",
+          "2025-01-09",
+          "2025-03-27",
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "12或16个月",
+    "tuition": "1640美元/学分",
+    "qs_2026_rank": 109,
+    "usnews_2026_rank": 308,
+    "the_2025_rank": 120,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 425,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 425
+  }
+]

@@ -1,0 +1,18 @@
+city,state_province,country_region,region_code,zip_code,city_type,is_capital
+Ann Arbor,MI,United States,,,normal,False
+Baltimore,MD,United States,,,normal,False
+Berkeley,CA,United States,,,normal,False
+Cambridge,MA,United States,,,normal,False
+Chicago,IL,United States,,,normal,False
+Durham,NC,United States,,,normal,False
+Evanston,IL,United States,,,normal,False
+Houston,TX,United States,,,normal,False
+Ithaca,NY,United States,,,normal,False
+Los Angeles,CA,United States,,,normal,False
+Nashville,TN,United States,,,normal,True
+New Haven,CT,United States,,,normal,False
+New York,NY,United States,,,normal,False
+Notre Dame,IN,United States,,,normal,False
+Philadelphia,PA,United States,,,normal,False
+Providence,RI,United States,,,normal,True
+Stanford,CA,United States,,,normal,False

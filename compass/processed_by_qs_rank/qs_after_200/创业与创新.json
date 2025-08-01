@@ -1,0 +1,4342 @@
+[
+  {
+    "completion_rate": "56 / 56",
+    "fail_count": 0,
+    "original_total": 129,
+    "classification": "QS200后"
+  },
+  {
+    "id": "acbaa6d0-df0e-44d4-a488-51c3bef1f072",
+    "detail_page_url": "https://www.compassedu.hk/majr_64374",
+    "program_name": "亚琛工业大学技术、创新、营销和创业管理和工程",
+    "program_name_en": "M.Sc. Management and Engineering in Technology, Innovation, Marketing and Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.business-school.rwth-aachen.de/en/programs/m-sc-management-engineering-in-technology-innovation-marketing-entrepreneurship/",
+    "university_name": "亚琛工业大学",
+    "university_name_en": "RWTH Aachen University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1.5年",
+    "tuition": "20000欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 225,
+    "the_2025_rank": 92,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f7d17444-78f2-4b1c-a9f5-20e5b3481d0a",
+    "detail_page_url": "https://www.compassedu.hk/majr_64383",
+    "program_name": "亚琛工业大学科技创业",
+    "program_name_en": "M.Sc. Technology Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.business-school.rwth-aachen.de/en/programs/m-sc-technology-entrepreneuship/?utm_source=RWTH%20Webseite&utm_medium=Profil&utm_campaign=TENT",
+    "university_name": "亚琛工业大学",
+    "university_name_en": "RWTH Aachen University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1.5年",
+    "tuition": "20000欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 225,
+    "the_2025_rank": 92,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8efec4e8-8ce1-49e5-9e4d-439c7f816c45",
+    "detail_page_url": "https://www.compassedu.hk/majr_73717",
+    "program_name": "佛罗里达大学创业理学硕士",
+    "program_name_en": "MS in Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warrington.ufl.edu/master-of-science-in-entrepreneurship/",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-01",
+          "2025-06-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "1年",
+    "tuition": "38,724美元",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9782a596-4021-41bb-b590-3bb100906100",
+    "detail_page_url": "https://www.compassedu.hk/majr_50912",
+    "program_name": "拉夫堡大学设计创新管理理学硕士",
+    "program_name_en": "MSc Design Innovation Management",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/design-innovation-management/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "30950英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1e1a0405-fb69-4b9c-a579-382ea0e56fc0",
+    "detail_page_url": "https://www.compassedu.hk/majr_50919",
+    "program_name": "拉夫堡大学创业、金融与创新理学硕士",
+    "program_name_en": "MSc Entrepreneurship, Finance and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/entrepreneurship-finance-innovation/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-05-10",
+        "application_end_date": [
+          "2024-12-06"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/10月",
+    "duration": "1年",
+    "tuition": "31750英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f3eff952-fe94-4044-bfed-a5f7f7c3c45d",
+    "detail_page_url": "https://www.compassedu.hk/majr_50920",
+    "program_name": "拉夫堡大学创业与创新管理理学硕士",
+    "program_name_en": "MSc Entrepreneurship and Innovation Management",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/entrepreneurship-innovation-management/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-05-10",
+        "application_end_date": [
+          "2024-12-06"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/10月",
+    "duration": "1年",
+    "tuition": "31750英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c08433fb-a450-4866-bd70-f6d9cbd25415",
+    "detail_page_url": "https://www.compassedu.hk/majr_73750",
+    "program_name": "罗切斯特大学技术企业与管理理学硕士",
+    "program_name_en": "MS in Technical Entrepreneurship and Management",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/143.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rochester.edu/college/gradstudies/admissions/index.html",
+    "university_name": "罗切斯特大学",
+    "university_name_en": "University of Rochester",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物医学工程"
+      },
+      {
+        "key": "2",
+        "value": "化学工程"
+      },
+      {
+        "key": "3",
+        "value": "计算机科学"
+      },
+      {
+        "key": "4",
+        "value": "数据科学"
+      },
+      {
+        "key": "5",
+        "value": "电气与计算机工程"
+      },
+      {
+        "key": "6",
+        "value": "能源与环境"
+      },
+      {
+        "key": "7",
+        "value": "材料科学"
+      },
+      {
+        "key": "8",
+        "value": "机械工业"
+      },
+      {
+        "key": "9",
+        "value": "光学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "64,000美元",
+    "program_size": "25-35人",
+    "average_admitted_gre": "313",
+    "qs_2026_rank": 236,
+    "usnews_2026_rank": 201,
+    "the_2025_rank": 127,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f7da921c-6fb2-4041-b06d-5530ca3cf1f7",
+    "detail_page_url": "https://www.compassedu.hk/majr_53608",
+    "program_name": "思克莱德大学创业、创新与技术理学硕士",
+    "program_name_en": "MSc Entrepreneurship, Innovation & Technology",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/entrepreneurshipinnovationtechnology/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31100英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3a0eef1b-9242-477e-9e3c-04e38fa3acc1",
+    "detail_page_url": "https://www.compassedu.hk/majr_62440",
+    "program_name": "萨里大学创业与创新管理理学硕士",
+    "program_name_en": "MSc Entrepreneurship & Innovation Management",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/entrepreneurship-innovation-management-msc",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-18",
+        "application_end_date": [
+          "2024-12-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "24900英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5ebd5816-c768-4206-85e6-1803c54867c7",
+    "detail_page_url": "https://www.compassedu.hk/majr_51532",
+    "program_name": "萨塞克斯大学创业与创新理学硕士",
+    "program_name_en": "MSc Entrepreneurship and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/entrepreneurship-and-innovation-msc",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "30f114bc-3d89-4344-aca8-71a0b578322b",
+    "detail_page_url": "https://www.compassedu.hk/majr_64716",
+    "program_name": "赫瑞瓦特大学数字设计与创新文学硕士",
+    "program_name_en": "MA Digital Design and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/digital-design-innovation",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-06"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "63",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "19816英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c418ac0e-1316-43f9-bc95-a09098610827",
+    "detail_page_url": "https://www.compassedu.hk/majr_73746",
+    "program_name": "加州大学欧文分校创新与创业硕士",
+    "program_name_en": "Master of Innovation and Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/154.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://merage.uci.edu/programs/masters/master-innovation-entrepreneurship/index.html",
+    "university_name": "加州大学欧文分校",
+    "university_name_en": "University of California, Irvine",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-15",
+          "2024-12-01",
+          "2025-02-01",
+          "2025-04-01",
+          "2025-05-01",
+          "2025-06-01",
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      }
+    ],
+    "interview": "机面（kira）/真人单面",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "36学分",
+    "tuition": "54,000美元",
+    "qs_2026_rank": 293,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 76,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "11602b70-5cd0-4526-a8b5-553a92fc9e7a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73620",
+    "program_name": "圣母大学工程，科学与科技创业硕士",
+    "program_name_en": "MS in Engineering, Science and Technology Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/98.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://esteem.nd.edu/",
+    "university_name": "圣母大学",
+    "university_name_en": "University of Notre Dame",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-08",
+          "2024-12-03",
+          "2025-01-28",
+          "2025-03-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "S23"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "58,190美元",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 407,
+    "the_2025_rank": 196,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "075a6ae5-08e9-4169-ae05-9e47938990fc",
+    "detail_page_url": "https://www.compassedu.hk/majr_52829",
+    "program_name": "阿斯顿大学创业与创新理学硕士",
+    "program_name_en": "MSc Entrepreneurship and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.aston.ac.uk/study/courses/entrepreneurship-msc/september-2025",
+    "university_name": "阿斯顿大学",
+    "university_name_en": "Aston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "23500英镑/年",
+    "qs_2026_rank": 395,
+    "usnews_2026_rank": 594,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 87,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4de92db2-15d8-4a87-baa5-58e0b6b57811",
+    "detail_page_url": "https://www.compassedu.hk/majr_61925",
+    "program_name": "邓迪大学创业、创新与国际商务理学硕士",
+    "program_name_en": "MSc Entrepreneurship, Innovation and International Business",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/entrepreneurship-innovation-international-business",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-10-20",
+        "application_end_date": [
+          "2024-11-18"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 625.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a91032ac-66b5-4ed4-a67f-a70d4d8a4d27",
+    "detail_page_url": "https://www.compassedu.hk/majr_74806",
+    "program_name": "邓迪大学创业、创与和伊斯兰金融理学硕士",
+    "program_name_en": "MSc Entrepreneurship, Innovation and Islamic Finance",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/entrepreneurship-innovation-islamic-finance",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-10-20",
+        "application_end_date": [
+          "2024-11-18"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 625.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "54d16fce-4db4-4d07-b47a-9f12c8b6c855",
+    "detail_page_url": "https://www.compassedu.hk/majr_64972",
+    "program_name": "埃塞克斯大学国际商务与创业理学硕士",
+    "program_name_en": "MSc International Business and Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00631/1/MSc-International-Business-and-Entrepreneurship",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "42",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "23500英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "00e3e682-060b-4688-bda4-61684c2e6138",
+    "detail_page_url": "https://www.compassedu.hk/majr_64978",
+    "program_name": "埃塞克斯大学创业与创新理学硕士",
+    "program_name_en": "MSc Entrepreneurship and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00558/1/MSc-Entrepreneurship-and-Innovation",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "42",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "23500英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1bce2bf0-0b6b-463a-8d13-781f1dfce976",
+    "detail_page_url": "https://www.compassedu.hk/majr_72217",
+    "program_name": "埃塞克斯大学运动治疗理学硕士",
+    "program_name_en": "MSc Sports Therapy",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01539/1/MSc-Sports-Therapy?startdate=24-10&studymode=FullTime",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "42",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "01e63870-ac51-4a77-a310-938ed05c6fe9",
+    "detail_page_url": "https://www.compassedu.hk/majr_61918",
+    "program_name": "伦敦大学皇家霍洛威学院创业与创新理学硕士",
+    "program_name_en": "MSc Entrepreneurship and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/entrepreneurship-and-innovation/",
+    "university_name": "伦敦大学皇家霍洛威学院",
+    "university_name_en": "Royal Holloway, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "22",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "61",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26100英镑/年",
+    "qs_2026_rank": 461,
+    "usnews_2026_rank": 913,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3b225fde-5e5f-47b7-b146-95095d62f401",
+    "detail_page_url": "https://www.compassedu.hk/majr_61919",
+    "program_name": "伦敦大学皇家霍洛威学院创业与创新理学硕士（含1年商业实习）",
+    "program_name_en": "MSc Entrepreneurship and Innovation with a Year in Business",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/entrepreneurship-and-innovation-with-a-year-in-business/",
+    "university_name": "伦敦大学皇家霍洛威学院",
+    "university_name_en": "Royal Holloway, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "22",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "61",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "15660英镑/年",
+    "qs_2026_rank": 461,
+    "usnews_2026_rank": 913,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "03bc9a21-1ce5-45ff-9a97-91b9aa170e53",
+    "detail_page_url": "https://www.compassedu.hk/majr_49399",
+    "program_name": "新加坡管理大学创业与创新理学硕士",
+    "program_name_en": "MSc Entrepreneurship and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/285.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://masters.smu.edu.sg/programme/master-entrepreneurship-innovation",
+    "university_name": "新加坡管理大学",
+    "university_name_en": "Singapore Management University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "59950新币/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 616,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 55,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "01a49f78-9564-4c40-9a55-8dd6b44ce7d9",
+    "detail_page_url": "https://www.compassedu.hk/majr_63110",
+    "program_name": "巴黎高等商学院企业家",
+    "program_name_en": "MSc X-HEC Entrepreneurs",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/355.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hec.edu/en/master-s-programs/x-hec-programs/msc-x-hec-entrepreneurs",
+    "university_name": "巴黎高等商学院",
+    "university_name_en": "Hautes Etudes Commerciales Paris",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-10",
+          "2025-01-06",
+          "2025-02-27",
+          "2025-04-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33350欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0ef94278-3270-493d-841f-e9c106c9e88b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63128",
+    "program_name": "凯致商学院创新、转型与创业",
+    "program_name_en": "Master of Science in Innovation, Transformation, Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/356.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://kedge-bs.cn/programmes/innovation-transformation-entrepreneurship",
+    "university_name": "凯致商学院",
+    "university_name_en": "KEDGE Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "13450欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "12e051c5-de56-4fc0-ab79-8e13a8394a39",
+    "detail_page_url": "https://www.compassedu.hk/majr_63141",
+    "program_name": "北方高等商学院创业与创新",
+    "program_name_en": "MSc in Entrepreneurship & Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/357.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://master.edhec.edu/msc-entrepreneurship-and-innovation",
+    "university_name": "北方高等商学院",
+    "university_name_en": "EDHEC Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "13650欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4393d81e-5b2a-4103-b735-86505fab2724",
+    "detail_page_url": "https://www.compassedu.hk/majr_63142",
+    "program_name": "北方高等商学院创意商业与社会创新",
+    "program_name_en": "MSc in Creative Business & Social Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/357.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://master.edhec.edu/msc-creative-business-and-social-innovation",
+    "university_name": "北方高等商学院",
+    "university_name_en": "EDHEC Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "13650欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ae2d1c09-d53a-456a-acf4-4d8bc5e70a39",
+    "detail_page_url": "https://www.compassedu.hk/majr_63170",
+    "program_name": "里昂商学院全球创新与创业专业硕士",
+    "program_name_en": "MSc in Global Innovation & Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/358.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://en.em-lyon.com.cn/program/msc-in-global-innovation-entrepreneurship",
+    "university_name": "里昂商学院",
+    "university_name_en": "EMLYON Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-04",
+          "2024-12-02",
+          "2025-01-13",
+          "2025-02-17",
+          "2025-03-17",
+          "2025-04-16",
+          "2025-05-19",
+          "2025-06-16",
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "19167欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1e231c18-f77d-4c79-bbe1-fc6eafb0c846",
+    "detail_page_url": "https://www.compassedu.hk/majr_63210",
+    "program_name": "图卢兹商学院创业",
+    "program_name_en": "MSc ENTREPRENEURSHIP",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/362.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tbs-education.com/program/msc-entrepreneurship-and-business-development/",
+    "university_name": "图卢兹商学院",
+    "university_name_en": "Toulouse Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19500欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c820c8fc-8af4-4b47-b87e-e1c4c5257841",
+    "detail_page_url": "https://www.compassedu.hk/majr_63260",
+    "program_name": "欧洲高等商学院可持续发展创业与创新硕士",
+    "program_name_en": "MSc in Sustainability Entrepreneurship and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/363.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.escpeurope.eu/programmes/specialised-masters-MScs/MSc-in-sustainability-entrepreneurship-and-innovation",
+    "university_name": "欧洲高等商学院",
+    "university_name_en": "ESCP Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-20",
+          "2025-01-08",
+          "2025-02-05",
+          "2025-04-08",
+          "2025-05-05",
+          "2025-06-03",
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "16600欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "255668f1-d1a9-40c9-b14b-02552ed053d4",
+    "detail_page_url": "https://www.compassedu.hk/majr_63261",
+    "program_name": "格勒诺布尔高等商学院创业与全球营销硕士",
+    "program_name_en": "MSc Entrepreneurship & Global Marketing",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/364.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://en.grenoble-em.com/msc-entrepreneurship-global-marketing",
+    "university_name": "格勒诺布尔高等商学院",
+    "university_name_en": "Grenoble Graduate School Of Business",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "63",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "14555欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5babd254-19d9-46b9-9c45-9995799cb0a4",
+    "detail_page_url": "https://www.compassedu.hk/majr_63270",
+    "program_name": "格勒诺布尔高等商学院创新与创业硕士",
+    "program_name_en": "MSc Innovation and Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/364.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://en.grenoble-em.com/msc-innovation-strategy-and-entrepreneurship",
+    "university_name": "格勒诺布尔高等商学院",
+    "university_name_en": "Grenoble Graduate School Of Business",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "12950欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e6b110bf-8333-40f9-99e4-359a02a38db2",
+    "detail_page_url": "https://www.compassedu.hk/majr_64402",
+    "program_name": "香港岭南大学商业创新与创业理学硕士",
+    "program_name_en": "MSc Business Innovation and Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/master-of-science-in-business-innovation-and-entrepreneurship",
+    "university_name": "香港岭南大学",
+    "university_name_en": "Lingnan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "46",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "288000港币/年",
+    "qs_2026_rank": 705.5,
+    "usnews_2026_rank": 1009,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8076dba3-c0fe-4aad-9c74-5198458b29de",
+    "detail_page_url": "https://www.compassedu.hk/majr_64748",
+    "program_name": "伦敦大学城市学院创业学理学硕士",
+    "program_name_en": "MSc Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bayes.city.ac.uk/study/masters/courses/entrepreneurship",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "25",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "62",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32600英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 120
+  },
+  {
+    "id": "32916e5a-24b9-4d51-aa97-f6ab21788239",
+    "detail_page_url": "https://www.compassedu.hk/majr_64753",
+    "program_name": "伦敦大学城市学院创新、创造力与领导力理学硕士",
+    "program_name_en": "MSc Innovation, Creativity and Leadership",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bayes.city.ac.uk/study/masters/courses/innovation-creativity-and-leadership",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "25",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "62",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26000英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 120
+  },
+  {
+    "id": "ed40742c-5449-43b1-b40a-a7711af4542a",
+    "detail_page_url": "https://www.compassedu.hk/majr_65051",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（计算）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Computing)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-comp/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4f18df82-60c2-43c2-9e88-6789588bad35",
+    "detail_page_url": "https://www.compassedu.hk/majr_65052",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（设计）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Design)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-design/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "52cc4c07-5392-49c6-8434-d917ad27af22",
+    "detail_page_url": "https://www.compassedu.hk/majr_65053",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（时尚）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Fashion)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-fashion/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b3df88a8-f92a-43b2-bd4a-b4e47088e86f",
+    "detail_page_url": "https://www.compassedu.hk/majr_65054",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（媒体与传播）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Media & Communications)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-media/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e727c946-5e27-48e2-9435-a67b693d2dd0",
+    "detail_page_url": "https://www.compassedu.hk/majr_65055",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（音乐）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Music)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-music/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "eed0bf54-41f3-4fb4-b0a2-158abc8217f5",
+    "detail_page_url": "https://www.compassedu.hk/majr_65056",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（戏剧与表演）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Theatre & Performance)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-theatre/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3795ec1a-20ff-442b-8134-ab02ab8ab9fc",
+    "detail_page_url": "https://www.compassedu.hk/majr_65057",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（领导力）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Leadership)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-leadership/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c51c5e36-2bf8-4293-8410-b0cd8a09dc36",
+    "detail_page_url": "https://www.compassedu.hk/majr_65064",
+    "program_name": "伦敦大学金史密斯学院创新管理理学硕士",
+    "program_name_en": "MSc Management of Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/msc-management-innovation/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25450英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3b54ae71-e88f-47b5-89df-a64453b2c061",
+    "detail_page_url": "https://www.compassedu.hk/majr_65260",
+    "program_name": "威斯敏斯特大学创业、创新与企业发展理学硕士",
+    "program_name_en": "MSc Entrepreneurship, Innovation and Enterprise Development",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/business-and-management-courses/2025-26/september/full-time/entrepreneurship-innovation-and-enterprise-development-msc",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "19500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6fc6a8ed-87bd-411d-b8d6-6a9b224456f7",
+    "detail_page_url": "https://www.compassedu.hk/majr_65272",
+    "program_name": "威斯敏斯特大学可持续发展管理与创新理学硕士",
+    "program_name_en": "MSc Sustainability Management and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/business-and-management-courses/2025-26/september/full-time/sustainability-management-and-innovation-msc",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9edc6b8f-3959-405d-b0c7-58d3539601aa",
+    "detail_page_url": "https://www.compassedu.hk/majr_65358",
+    "program_name": "考文垂大学企业与创新理学硕士",
+    "program_name_en": "MSc Enterprise and Innovation",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/london/course-structure/pg/msc-enterprise-and-innovation/?term=2024-25",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1月",
+    "duration": "1年",
+    "tuition": "20050英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7f6502d7-a35f-4f93-99a5-a908a86ca329",
+    "detail_page_url": "https://www.compassedu.hk/majr_65374",
+    "program_name": "考文垂大学国际创业理学硕士",
+    "program_name_en": "MSc International Entrepreneurship",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/fbl/international-entrepreneurship-msc/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "20050英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "20950c33-3da1-4a75-83f8-5a715592f11c",
+    "detail_page_url": "https://www.compassedu.hk/majr_67712",
+    "program_name": "香港岭南大学社会创业与创新管理文学硕士",
+    "program_name_en": "MA Social Entrepreneurship and Innovation Management",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/master-of-arts-in-social-entrepreneurship-and-innovation-management",
+    "university_name": "香港岭南大学",
+    "university_name_en": "Lingnan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "190800港币/年",
+    "qs_2026_rank": 705.5,
+    "usnews_2026_rank": 1009,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "32d1caef-965a-4763-9e3a-3e90ec54b4fe",
+    "detail_page_url": "https://www.compassedu.hk/majr_71555",
+    "program_name": "伦敦大学金史密斯学院国际零售商业、可持续发展与科技文学硕士",
+    "program_name_en": "MA International Retail Business, Sustainability & Technologies",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-international-retail-business-sustainability-technologies/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "24350英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "96a7a730-e911-4a5c-9bc8-2953d280aac8",
+    "detail_page_url": "https://www.compassedu.hk/majr_71596",
+    "program_name": "香港恒生大学创业管理理学硕士",
+    "program_name_en": "MSc Entrepreneurial Management",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/404.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://sbus.hsu.edu.hk/en/prog/master-of-science-in-entrepreneurial-management/programme-information/",
+    "university_name": "香港恒生大学",
+    "university_name_en": "The Hang Seng University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "189000港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "936d9d2e-2a48-4645-a017-4b4f85fcd6c4",
+    "detail_page_url": "https://www.compassedu.hk/majr_71616",
+    "program_name": "考文垂大学应用创新领导力文学硕士",
+    "program_name_en": "MA Applied Innovation Leadership",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/fah/applied-innovation-leadership-ma/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "18600英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3345fa62-7f96-4b98-adbf-99e1ac0d2dc8",
+    "detail_page_url": "https://www.compassedu.hk/majr_72493",
+    "program_name": "香港岭南大学人道主义技术与包容性商业理学硕士",
+    "program_name_en": "MSc Humanitarian Technology and Inclusive Business",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/master-of-science-in-humanitarian-technology-and-inclusive-business",
+    "university_name": "香港岭南大学",
+    "university_name_en": "Lingnan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "190800港币/年",
+    "qs_2026_rank": 705.5,
+    "usnews_2026_rank": 1009,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d3ec1a30-9c2d-45f9-aba9-e9d0e6137e73",
+    "detail_page_url": "https://www.compassedu.hk/majr_75104",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（设计管理）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Design Management)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-design-management/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "24594cac-422e-4aa5-a2ca-ccfee1badc69",
+    "detail_page_url": "https://www.compassedu.hk/majr_75105",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（时尚管理）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Fashion Management)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-fashion-management/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "12c72e5a-e755-444d-ab6c-67b79ac7c5f9",
+    "detail_page_url": "https://www.compassedu.hk/majr_75106",
+    "program_name": "伦敦大学金史密斯学院创意与文化创业文学硕士（社会创新）",
+    "program_name_en": "MA Creative & Cultural Entrepreneurship (Social Innovation)",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-creative-cultural-entrepreneurship-social-innovation/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "69865baf-3a44-4581-a9e4-3ede18b7c23d",
+    "detail_page_url": "https://www.compassedu.hk/majr_77038",
+    "program_name": "伦敦大学亚非学院创新、创业与战略理学硕士",
+    "program_name_en": "MSc Innovation, Entrepreneurship and Strategy",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/msc-innovation-entrepreneurship-and-strategy",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26770英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7e455f67-0cdb-4ec1-95e1-ad2479a7525d",
+    "detail_page_url": "https://www.compassedu.hk/majr_77039",
+    "program_name": "伦敦大学亚非学院创新、创业与战略理学硕士（含实习）",
+    "program_name_en": "MSc Innovation, Entrepreneurship and Strategy with Placement Year",
+    "primary_category": "商科",
+    "secondary_category": "创业与创新",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/msc-innovation-entrepreneurship-and-strategy-placement-year",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "14078英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

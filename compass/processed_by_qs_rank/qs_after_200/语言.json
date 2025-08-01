@@ -1,0 +1,5565 @@
+[
+  {
+    "completion_rate": "73 / 73",
+    "fail_count": 0,
+    "original_total": 305,
+    "classification": "QS200后"
+  },
+  {
+    "id": "a25c7e54-20fb-49c0-845f-793eaa04be88",
+    "detail_page_url": "https://www.compassedu.hk/majr_52116",
+    "program_name": "纽卡斯尔大学（英国）笔译与口译文学硕士（2年制）",
+    "program_name_en": "MA Translation and Interpreting (two years)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a250a509-791f-4d93-813a-257f0c2b9361",
+    "detail_page_url": "https://www.compassedu.hk/majr_73384",
+    "program_name": "纽卡斯尔大学（英国）会议口译文学硕士",
+    "program_name_en": "MA Conference Interpreting",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2a6dad36-71f9-435d-8637-2e393e8a0deb",
+    "detail_page_url": "https://www.compassedu.hk/majr_73751",
+    "program_name": "罗切斯特大学语言学硕士",
+    "program_name_en": "MA in Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/143.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.sas.rochester.edu/lin/graduate/master-of-arts.html",
+    "university_name": "罗切斯特大学",
+    "university_name_en": "University of Rochester",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "语音学"
+      },
+      {
+        "key": "2",
+        "value": "音系学"
+      },
+      {
+        "key": "3",
+        "value": "形态学"
+      },
+      {
+        "key": "4",
+        "value": "句法"
+      },
+      {
+        "key": "5",
+        "value": "语义学"
+      },
+      {
+        "key": "6",
+        "value": "语用学"
+      },
+      {
+        "key": "序号",
+        "value": "细分方向"
+      },
+      {
+        "key": "1",
+        "value": "理论/形式语言学"
+      },
+      {
+        "key": "2",
+        "value": "实验/经验语言学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "95"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "32学分",
+    "tuition": "60,480美元",
+    "qs_2026_rank": 236,
+    "usnews_2026_rank": 201,
+    "the_2025_rank": 127,
+    "arwu_2024_rank": 151,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8dbfe78b-2dcb-4b20-b839-b816bfbc349b",
+    "detail_page_url": "https://www.compassedu.hk/majr_1828",
+    "program_name": "香港浸会大学语言研究文学硕士",
+    "program_name_en": "MA Language Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/45.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-arts-ma-in-language-studies",
+    "university_name": "香港浸会大学",
+    "university_name_en": "Hong Kong Baptist University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-02",
+        "application_end_date": [
+          "2025-04-05"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "500"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "151200港币/年",
+    "qs_2026_rank": 244,
+    "usnews_2026_rank": 439,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 601,
+    "qs_2026_modern_languages_rank": 225.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "de13b5fa-4bb9-4903-9bc1-a5cc8da507eb",
+    "detail_page_url": "https://www.compassedu.hk/majr_1830",
+    "program_name": "香港浸会大学翻译与双语传播文学硕士",
+    "program_name_en": "MA Translation and Bilingual Communication",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/45.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-arts-ma-in-translation-and-bilingual-communication-approved-programme-under-ugc-s-targeted-tpg-programmes-fellowships-scheme",
+    "university_name": "香港浸会大学",
+    "university_name_en": "Hong Kong Baptist University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-07",
+        "application_end_date": [
+          "2025-06-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "500"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "150000港币/年",
+    "qs_2026_rank": 244,
+    "usnews_2026_rank": 439,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 601,
+    "qs_2026_modern_languages_rank": 225.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5c5681de-1e77-4e58-b358-0c8bd5d6cbff",
+    "detail_page_url": "https://www.compassedu.hk/majr_74098",
+    "program_name": "思克莱德大学应用翻译与口译理学硕士",
+    "program_name_en": "MSc Applied Translation & Interpreting",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/appliedtranslationinterpreting/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21550英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "77b691f2-06f0-4336-a527-d9993c8ac7d5",
+    "detail_page_url": "https://www.compassedu.hk/majr_50456",
+    "program_name": "萨里大学口译、技术与人工智能（中文）文学硕士",
+    "program_name_en": "MA Interpreting, Technology and AI (Chinese)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/interpreting-technology-and-ai-chinese-pathway-ma",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21800英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e1141367-5339-42f2-9b63-ef1fedb42234",
+    "detail_page_url": "https://www.compassedu.hk/majr_50458",
+    "program_name": "萨里大学笔译与人工智能文学硕士",
+    "program_name_en": "MA Translation and AI",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/translation-and-ai-ma",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "7",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "24",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "76",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21800英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b3ba2f1a-1e91-41f9-bd08-7521ca82a456",
+    "detail_page_url": "https://www.compassedu.hk/majr_61393",
+    "program_name": "萨里大学笔译、口译与人工智能文学硕士",
+    "program_name_en": "MA Translation, Interpreting and AI",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8103cfde-d42d-47c9-8c61-ee2ec91301d2",
+    "detail_page_url": "https://www.compassedu.hk/majr_64539",
+    "program_name": "阿伯丁大学英语语言与文学文学硕士",
+    "program_name_en": "MLitt English Language and Literature",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1817/english-language-and-literature/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cca63b05-a527-4d1a-ac84-796f77c019c3",
+    "detail_page_url": "https://www.compassedu.hk/majr_64548",
+    "program_name": "阿伯丁大学翻译研究理学硕士",
+    "program_name_en": "MSc Translation Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/329/translation-studies/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2b118473-7b54-4d12-b442-b3b070f86ecb",
+    "detail_page_url": "https://www.compassedu.hk/majr_67202",
+    "program_name": "萨里大学口译、技术与人工智能文学硕士",
+    "program_name_en": "MA Interpreting, Technology and AI",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/interpreting-technology-and-ai-ma",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21800英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "84dff244-0aa2-4cde-8753-1a490dfe7fee",
+    "detail_page_url": "https://www.compassedu.hk/majr_75063",
+    "program_name": "萨里大学翻译与人工智能（中文）文学硕士",
+    "program_name_en": "MA Translation and AI (Chinese)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/translation-and-ai-chinese-pathway-ma",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-18",
+        "application_end_date": [
+          "2024-12-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "67",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/9月",
+    "duration": "1年",
+    "tuition": "21800英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c8486394-4a0e-40a1-a839-7267040496e0",
+    "detail_page_url": "https://www.compassedu.hk/majr_63404",
+    "program_name": "安特卫普大学数字文本分析",
+    "program_name_en": "Digital Text Analysis",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/372.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uantwerpen.be/en/study/programmes/all-programmes/digital-text-analysis/",
+    "university_name": "安特卫普大学",
+    "university_name_en": "University of Antwerp",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "5800欧元/年",
+    "qs_2026_rank": 280,
+    "usnews_2026_rank": 204,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": 275.5,
+    "qs_2026_linguistics_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1b757dcb-1749-4019-ab4b-9758ee16c75d",
+    "detail_page_url": "https://www.compassedu.hk/majr_63029",
+    "program_name": "澳门大学英语研究文学硕士",
+    "program_name_en": "MA English Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fah.um.edu.mo/master-of-arts-in-english-studies/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "41f26f07-92ae-4826-bfbf-a7b2bde659cb",
+    "detail_page_url": "https://www.compassedu.hk/majr_63038",
+    "program_name": "澳门大学翻译（英汉）文学硕士",
+    "program_name_en": "MA Translation Studies (English-Chinese)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fah.um.edu.mo/master-of-arts-in-translation-studies/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "14428968-8293-4e76-a764-d3eb348c1c32",
+    "detail_page_url": "https://www.compassedu.hk/majr_63039",
+    "program_name": "澳门大学翻译（葡汉）文学硕士",
+    "program_name_en": "MA Translation Studies (Portuguese-Chinese)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fah.um.edu.mo/master-of-arts-in-translation-studies/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "addda914-2538-4213-bf3f-c3529ec7f8a6",
+    "detail_page_url": "https://www.compassedu.hk/majr_63040",
+    "program_name": "澳门大学汉语语言学哲学硕士",
+    "program_name_en": "MPhil Chinese Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fah.um.edu.mo/master-of-philosophy-in-chinese-linguistics/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2e432c0a-1d11-4155-b928-75e67efa596a",
+    "detail_page_url": "https://www.compassedu.hk/majr_63042",
+    "program_name": "澳门大学葡萄牙语言及跨文化研究哲学硕士",
+    "program_name_en": "MPhil Portuguese Language and Intercultural Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fah.um.edu.mo/master-of-philosophy-in-portuguese-language-and-intercultural-studies/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": 325.5,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5ecf92c5-37a1-4d5c-904a-bfe590668011",
+    "detail_page_url": "https://www.compassedu.hk/majr_64735",
+    "program_name": "赫瑞瓦特大学口译理学硕士",
+    "program_name_en": "MSc Interpreting",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/interpreting",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21192英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "98c95c32-69f3-4100-b374-66cd2224693f",
+    "detail_page_url": "https://www.compassedu.hk/majr_64736",
+    "program_name": "赫瑞瓦特大学口译与笔译理学硕士",
+    "program_name_en": "MSc Interpreting and Translating",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/interpreting-translating",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21192英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f677493f-8bff-425f-b01f-c089c566268d",
+    "detail_page_url": "https://www.compassedu.hk/majr_64738",
+    "program_name": "赫瑞瓦特大学笔译理学硕士",
+    "program_name_en": "MSc Translating",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/translating",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21192英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4ac959ab-63a3-4ba9-a070-7fc120972d26",
+    "detail_page_url": "https://www.compassedu.hk/majr_74188",
+    "program_name": "赫瑞瓦特大学汉英笔译与口译理学硕士",
+    "program_name_en": "MSc Chinese-English Translation and Interpreting",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/chinese-english-translation-interpreting",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "73",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21192英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ea3c27e6-68ad-4645-b23c-631070b8e197",
+    "detail_page_url": "https://www.compassedu.hk/majr_52824",
+    "program_name": "莱斯特大学翻译文学硕士",
+    "program_name_en": "MA Translation",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://le.ac.uk/courses/translation-studies-ma/2025",
+    "university_name": "莱斯特大学",
+    "university_name_en": "University of Leicester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-19",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19700英镑/年",
+    "qs_2026_rank": 326,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 191,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f73d99a8-3a6e-4559-b6b7-5031d304642a",
+    "detail_page_url": "https://www.compassedu.hk/majr_75996",
+    "program_name": "莱斯特大学翻译文学硕士（汉语方向）",
+    "program_name_en": "MA Translation (Chinese Pathway)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/27.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://le.ac.uk/courses/translation-chinese-pathway-ma/2025",
+    "university_name": "莱斯特大学",
+    "university_name_en": "University of Leicester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-19",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "19700英镑/年",
+    "qs_2026_rank": 326,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 191,
+    "arwu_2024_rank": 301,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7a1ec0c1-6850-4bc6-af71-f622b93b20d5",
+    "detail_page_url": "https://www.compassedu.hk/majr_51513",
+    "program_name": "东安格利亚大学应用翻译研究文学硕士",
+    "program_name_en": "MA Applied Translation Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/35.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uea.ac.uk/course/postgraduate/ma-applied-translation-studies/2025-26/sep",
+    "university_name": "东安格利亚大学",
+    "university_name_en": "University of East Anglia",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-24",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22700英镑/年",
+    "qs_2026_rank": 381,
+    "usnews_2026_rank": 423,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b0ae1833-82b4-46a0-a2f9-17c19eaa9874",
+    "detail_page_url": "https://www.compassedu.hk/majr_62044",
+    "program_name": "东安格利亚大学文学翻译文学硕士",
+    "program_name_en": "MA Literary Translation",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/35.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uea.ac.uk/course/postgraduate/ma-literary-translation/2025-26/sep",
+    "university_name": "东安格利亚大学",
+    "university_name_en": "University of East Anglia",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-24",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "7",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "98",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "76",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22700英镑/年",
+    "qs_2026_rank": 381,
+    "usnews_2026_rank": 423,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "efa5b1de-2723-4fbe-aa63-8322e19463d5",
+    "detail_page_url": "https://www.compassedu.hk/majr_74256",
+    "program_name": "阿斯顿大学英语学文学硕士",
+    "program_name_en": "MA English",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.aston.ac.uk/study/courses/english-ma/september-2025",
+    "university_name": "阿斯顿大学",
+    "university_name_en": "Aston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21750英镑/年",
+    "qs_2026_rank": 395,
+    "usnews_2026_rank": 594,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ae8f1313-cb4e-4bde-ae72-821faba4d353",
+    "detail_page_url": "https://www.compassedu.hk/majr_53336",
+    "program_name": "邓迪大学语言心理学理学硕士",
+    "program_name_en": "MSc Psychology of Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/psychology-language",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d41f4cd6-512e-4cc9-b5a3-0192a9a6538b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63070",
+    "program_name": "澳门科技大学外国语硕士",
+    "program_name_en": "MA in Foreign Language Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.must.edu.mo/cn/uic/programme/masters/foreign-language-studies/study-plan",
+    "university_name": "澳门科技大学",
+    "university_name_en": "Macau University of Science and Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-10",
+        "application_end_date": [
+          "2025-02-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "500"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "120000港币/年",
+    "qs_2026_rank": 440,
+    "usnews_2026_rank": 699,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b3d36662-1913-461a-a36e-23682d3df8fc",
+    "detail_page_url": "https://www.compassedu.hk/majr_65006",
+    "program_name": "埃塞克斯大学语言学文学硕士",
+    "program_name_en": "MA Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00662/1/MA-Linguistics",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ce39e750-4418-420d-b0a6-b5df76b581a3",
+    "detail_page_url": "https://www.compassedu.hk/majr_65007",
+    "program_name": "埃塞克斯大学心理语言学文学硕士",
+    "program_name_en": "MA Psycholinguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00751/1/MA-Psycholinguistics",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "30da65c3-cce5-4693-bb3b-147455636166",
+    "detail_page_url": "https://www.compassedu.hk/majr_65008",
+    "program_name": "埃塞克斯大学应用语言学文学硕士",
+    "program_name_en": "MA Applied Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00448/1/MA-Applied-Linguistics",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2024-11-11"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6b487790-7b93-4f71-8c46-3c3500cb079c",
+    "detail_page_url": "https://www.compassedu.hk/majr_65009",
+    "program_name": "埃塞克斯大学语言学研究文学硕士",
+    "program_name_en": "MA Linguistic Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/pg00661/1/ma-linguistic-studies?startdate=24-10&studymode=FullTime",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e1f80b00-19a6-4b18-aae6-6224445ef106",
+    "detail_page_url": "https://www.compassedu.hk/majr_65010",
+    "program_name": "埃塞克斯大学英语语言与语言学文学硕士",
+    "program_name_en": "MA English Language and Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00555/1/MA-English-Language-and-Linguistics",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "801e7eb5-028e-4d57-84db-08932e58e7ff",
+    "detail_page_url": "https://www.compassedu.hk/majr_65011",
+    "program_name": "埃塞克斯大学笔译与专业实践文学硕士",
+    "program_name_en": "MA Translation and Professional Practice",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01071/1/MA-Translation-and-Professional-Practice?startdate=24-10&studymode=FullTime",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5456e1a6-25df-4e96-a9d0-6acfc6236543",
+    "detail_page_url": "https://www.compassedu.hk/majr_65012",
+    "program_name": "埃塞克斯大学笔译、口译与字幕文学硕士",
+    "program_name_en": "MA Translation, Interpreting and Subtitling",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00836/1/MA-Translation-Interpreting-and-Subtitling?startdate=24-10&studymode=FullTime",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "81ad0877-3f40-400a-9dc1-3f410c0b6f70",
+    "detail_page_url": "https://www.compassedu.hk/majr_65013",
+    "program_name": "埃塞克斯大学视听与文学翻译文学硕士",
+    "program_name_en": "MA Audiovisual and Literary Translation",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00835/1/MA-Audiovisual-and-Literary-Translation",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8406b290-d5f3-4667-b65f-53f2180751cd",
+    "detail_page_url": "https://www.compassedu.hk/majr_65014",
+    "program_name": "埃塞克斯大学会议口译与笔译文学硕士（中英）",
+    "program_name_en": "MA Conference Interpreting and Translation (Chinese-English)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01134/1/MA-Conference-Interpreting-and-Translation-Chinese-English?startdate=24-10",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9d612a74-4fb1-44e1-b61f-0d80951781b9",
+    "detail_page_url": "https://www.compassedu.hk/majr_65015",
+    "program_name": "埃塞克斯大学中英笔译与专业实践文学硕士",
+    "program_name_en": "MA Chinese-English Translation and Professional Practice",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01288/1/MA-Chinese-English-Translation-and-Professional-Practice?startdate=24-10&studymode=FullTime",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "01e9d7a7-7c23-4124-8e35-83575cac9f08",
+    "detail_page_url": "https://www.compassedu.hk/majr_65016",
+    "program_name": "埃塞克斯大学高级口译与专业翻译文学硕士（中英）",
+    "program_name_en": "MA Advanced Interpreting with Specialised Translation (Chinese-English)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01072/1/MA-Advanced-Interpreting-with-Specialised-Translation-Chinese-English?startdate=24-10&studymode=FullTime",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-02",
+        "application_end_date": [
+          "2024-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "21700英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "82f898ef-a256-4b50-9ece-5336a1bc8a7d",
+    "detail_page_url": "https://www.compassedu.hk/majr_5005",
+    "program_name": "香港教育大学中文研究文学硕士（语文教育）",
+    "program_name_en": "MA Chinese Studies (Language Education)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/60.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.eduhk.hk/fhm/tc/postgraduate-programme/master-of-arts-in-chinese-studies-language-education-macsle",
+    "university_name": "香港教育大学",
+    "university_name_en": "The Education University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-12",
+        "application_end_date": [
+          "2025-01-03",
+          "2025-02-10",
+          "2025-02-28",
+          "2025-03-31",
+          "2025-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "真人群面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "150000港币/年",
+    "qs_2026_rank": 530,
+    "usnews_2026_rank": 633,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c89b4eb7-a51b-47e8-90c3-cb2974d12aad",
+    "detail_page_url": "https://www.compassedu.hk/majr_53452",
+    "program_name": "伦敦大学亚非学院语言学文学硕士",
+    "program_name_en": "MA Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-linguistics",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8dac6456-cd6a-46e8-9157-c5d696255e50",
+    "detail_page_url": "https://www.compassedu.hk/majr_53453",
+    "program_name": "伦敦大学亚非学院语言学与强化语言文学硕士",
+    "program_name_en": "MA Linguistics and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-linguistics-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "dd2161dc-ae82-42bf-ad06-a4fbe47e484f",
+    "detail_page_url": "https://www.compassedu.hk/majr_61962",
+    "program_name": "伦敦大学亚非学院翻译与跨文化研究文学硕士",
+    "program_name_en": "MA Translation and Intercultural Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-translation-and-intercultural-studies",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "098a4f87-5fd3-448e-b24a-e7fc240e54b0",
+    "detail_page_url": "https://www.compassedu.hk/majr_62399",
+    "program_name": "香港岭南大学翻译研究文学硕士",
+    "program_name_en": "MA Translation Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/master-of-arts-in-translation-studies",
+    "university_name": "香港岭南大学",
+    "university_name_en": "Lingnan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-05-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "154000港币/年",
+    "qs_2026_rank": 705.5,
+    "usnews_2026_rank": 1009,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "624301f6-bcf5-4d60-b23f-48be692b8b09",
+    "detail_page_url": "https://www.compassedu.hk/majr_63022",
+    "program_name": "澳门理工大学中葡笔译暨传译硕士",
+    "program_name_en": "Master of Chinese-Portuguese Translation and Interpreting",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/353.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mpu.edu.mo/eslt/zh/master_cpti.php",
+    "university_name": "澳门理工大学",
+    "university_name_en": "Macao Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "85000澳门币/年",
+    "qs_2026_rank": 925.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6c7676f2-25b5-4063-9f0b-086e40aa250f",
+    "detail_page_url": "https://www.compassedu.hk/majr_65225",
+    "program_name": "威斯敏斯特大学英语语言与语言学文学硕士",
+    "program_name_en": "MA English Language and Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/english-and-creative-writing-courses/2025-26/september/full-time/english-language-and-linguistics-ma",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fd1ff3b1-a02a-4c29-863e-a62e3a3ad1f4",
+    "detail_page_url": "https://www.compassedu.hk/majr_65226",
+    "program_name": "威斯敏斯特大学英语语言与文学文学硕士",
+    "program_name_en": "MA English Language and Literature",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/english-and-creative-writing-courses/2025-26/september/full-time/english-language-and-literature-ma",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "233c1c8f-7d55-489e-a59e-562f8fe2ddaf",
+    "detail_page_url": "https://www.compassedu.hk/majr_65230",
+    "program_name": "威斯敏斯特大学专业翻译文学硕士",
+    "program_name_en": "MA Specialised Translation",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/languages-courses/2025-26/september/full-time/specialised-translation-ma",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "7",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "76",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f473050d-26e0-4b8f-a417-32127741f113",
+    "detail_page_url": "https://www.compassedu.hk/majr_65231",
+    "program_name": "威斯敏斯特大学笔译与口译文学硕士",
+    "program_name_en": "MA Translation and Interpreting",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/languages-courses/2025-26/september/full-time/translation-and-interpreting-ma",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "25"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "76"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2ce41bcf-c08d-463d-a90e-acc964ab776c",
+    "detail_page_url": "https://www.compassedu.hk/majr_67529",
+    "program_name": "伦敦大学亚非学院伊斯兰研究文学硕士",
+    "program_name_en": "MA Islamic Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-islamic-studies",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "95544193-3beb-4d1c-9093-82530317c78e",
+    "detail_page_url": "https://www.compassedu.hk/majr_71558",
+    "program_name": "香港都会大学应用英语语言学文学硕士",
+    "program_name_en": "MA Applied English Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/as/programmes-courses/tpg/maaelf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "110100港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4289bc8a-3ba6-4af1-9623-1bb0e35a9b72",
+    "detail_page_url": "https://www.compassedu.hk/majr_71559",
+    "program_name": "香港都会大学专业双语翻译文学硕士",
+    "program_name_en": "MA Bilingual Professional Translation",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/as/programmes-courses/tpg/mabptf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "119400港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "17cf3c6f-ee7c-43b7-a719-ef4b718fa039",
+    "detail_page_url": "https://www.compassedu.hk/majr_71601",
+    "program_name": "香港恒生大学英语教学与评核文学硕士",
+    "program_name_en": "MA English Language Teaching and Assessment",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/404.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://elta.hsu.edu.hk/en/home/",
+    "university_name": "香港恒生大学",
+    "university_name_en": "The Hang Seng University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "500"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "109920港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c6e96c6c-abfb-4761-8165-88ab9f73c01d",
+    "detail_page_url": "https://www.compassedu.hk/majr_71602",
+    "program_name": "香港恒生大学环球英语文学及文化研究文学硕士",
+    "program_name_en": "MA Global English Literary and Cultural Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/404.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://gelcs.hsu.edu.hk/en/home/",
+    "university_name": "香港恒生大学",
+    "university_name_en": "The Hang Seng University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "500"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "109920港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bd9d8e2e-8a2d-43cf-992c-9428d6e60820",
+    "detail_page_url": "https://www.compassedu.hk/majr_71604",
+    "program_name": "香港恒生大学翻译文学硕士（商务与法律）",
+    "program_name_en": "MA Translation (Business and Legal)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/404.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://stfl.hsu.edu.hk/en/programme-objectives-master-in-translation-business-legal-matbl/",
+    "university_name": "香港恒生大学",
+    "university_name_en": "The Hang Seng University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "142020港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1f2f22b9-f025-4a85-826e-d746d6dfb95d",
+    "detail_page_url": "https://www.compassedu.hk/majr_71605",
+    "program_name": "香港恒生大学翻译文学硕士（电脑辅助翻译）",
+    "program_name_en": "MA Translation (Computer-Aided Translation)",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/404.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://stfl.hsu.edu.hk/en/programme-objectives-master-computer-aided-translation-matcat/",
+    "university_name": "香港恒生大学",
+    "university_name_en": "The Hang Seng University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "142080港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c940199c-bb0f-43c8-a15b-bde634a9d640",
+    "detail_page_url": "https://www.compassedu.hk/majr_73835",
+    "program_name": "佐治亚大学语言学硕士",
+    "program_name_en": "MA in Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/174.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://linguistics.uga.edu/ma-thesis-introduction",
+    "university_name": "佐治亚大学",
+    "university_name_en": "University of Georgia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求",
+        "小分要求": "S26"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求",
+        "小分要求": "S7.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "33-36学分",
+    "tuition": "26,576美元",
+    "qs_2026_rank": 525,
+    "usnews_2026_rank": 345,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 401,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "237fe769-6311-462a-bec9-e13386b3278c",
+    "detail_page_url": "https://www.compassedu.hk/majr_74250",
+    "program_name": "伦敦大学金史密斯学院计算语言学文学硕士",
+    "program_name_en": "MA Computational Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/398.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gold.ac.uk/pg/ma-computational-linguistics/",
+    "university_name": "伦敦大学金史密斯学院",
+    "university_name_en": "Goldsmiths, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "59",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21000英镑/年",
+    "qs_2026_rank": 715.5,
+    "usnews_2026_rank": 1419,
+    "the_2025_rank": 501,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4bd47b01-f992-41d1-886c-ca22c0638347",
+    "detail_page_url": "https://www.compassedu.hk/majr_74734",
+    "program_name": "澳门城市大学应用语言学文学硕士",
+    "program_name_en": "MA Applied Linguistics",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/352.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fhss.cityu.edu.mo/list-97/675",
+    "university_name": "澳门城市大学",
+    "university_name_en": "City University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "100000港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0e5f787b-0d4e-4cd9-96b0-6ffae1203d67",
+    "detail_page_url": "https://www.compassedu.hk/majr_75102",
+    "program_name": "威斯敏斯特大学专业翻译文学硕士（含专业实践）",
+    "program_name_en": "MA Specialised Translation with Professional Experience",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/languages-courses/2025-26/september/full-time/specialised-translation-with-professional-experience-ma",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "7",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "76",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "17500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bbc8426c-8134-4468-a9a5-e7a1d70fb57e",
+    "detail_page_url": "https://www.compassedu.hk/majr_75103",
+    "program_name": "威斯敏斯特大学笔译与口译文学硕士（含专业实践）",
+    "program_name_en": "MA Translation and Interpreting with Professional Experience",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/languages-courses/2025-26/september/full-time/translation-and-interpreting-with-professional-experience-ma",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "25"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "76"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "19500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cfac5c7c-4f9c-4861-8bce-156edfc4024d",
+    "detail_page_url": "https://www.compassedu.hk/majr_75113",
+    "program_name": "伦敦大学亚非学院非洲研究与强化语言文学硕士",
+    "program_name_en": "MA African Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "79f328d7-cf64-4427-91b4-25dc779b050b",
+    "detail_page_url": "https://www.compassedu.hk/majr_75115",
+    "program_name": "伦敦大学亚非学院比较文学与强化语言文学硕士",
+    "program_name_en": "MA Comparative Literature and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-comparative-literature-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "dbbad38c-06dd-4368-b91d-fce0d2a70bb7",
+    "detail_page_url": "https://www.compassedu.hk/majr_75116",
+    "program_name": "伦敦大学亚非学院伊朗研究与强化语言文学硕士",
+    "program_name_en": "MA Iranian Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-iranian-studies-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "360535b1-0ee9-45f6-ac1e-de9d01ecbc05",
+    "detail_page_url": "https://www.compassedu.hk/majr_75117",
+    "program_name": "伦敦大学亚非学院后殖民研究与强化语言文学硕士",
+    "program_name_en": "MA Postcolonial Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-postcolonial-studies-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ae31b6b0-6abf-4399-9a3d-a5cfc0e1d61f",
+    "detail_page_url": "https://www.compassedu.hk/majr_75118",
+    "program_name": "伦敦大学亚非学院南亚研究与强化语言文学硕士",
+    "program_name_en": "MA South Asian Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-south-asian-studies-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f2cbd61f-ad09-4fe0-86a4-7e002cafbb32",
+    "detail_page_url": "https://www.compassedu.hk/majr_75121",
+    "program_name": "伦敦大学亚非学院日语研究与强化语言文学硕士",
+    "program_name_en": "MA Japanese Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-japanese-studies-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "26330英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "32501e08-d635-4c85-92e7-39bbd88bd688",
+    "detail_page_url": "https://www.compassedu.hk/majr_75122",
+    "program_name": "伦敦大学亚非学院韩语研究与强化语言文学硕士",
+    "program_name_en": "MA Korean Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-korean-studies-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "26330英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a391caef-0602-4d4c-8c53-b9ca2c00ed31",
+    "detail_page_url": "https://www.compassedu.hk/majr_75123",
+    "program_name": "伦敦大学亚非学院汉语研究与强化语言文学硕士",
+    "program_name_en": "MA Chinese Studies and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-chinese-studies-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "26330英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 91,
+    "qs_2026_linguistics_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b086a232-d349-42a7-a2b1-287fe3fbd29b",
+    "detail_page_url": "https://www.compassedu.hk/majr_75407",
+    "program_name": "香港教育大学跨文化传意及翻译文学硕士",
+    "program_name_en": "MA Intercultural Communication and Translation",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/60.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.eduhk.hk/fhm/postgraduate-programme/master-of-arts-in-intercultural-communication-and-translation-maict",
+    "university_name": "香港教育大学",
+    "university_name_en": "The Education University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-13",
+        "application_end_date": [
+          "2025-01-03",
+          "2025-02-10",
+          "2025-02-28",
+          "2025-03-31",
+          "2025-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "147000港币/年",
+    "qs_2026_rank": 530,
+    "usnews_2026_rank": 633,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_modern_languages_rank": null,
+    "qs_2026_linguistics_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8d699200-35b2-41f0-a071-70c1d3af35ee",
+    "detail_page_url": "https://www.compassedu.hk/majr_75985",
+    "program_name": "香港岭南大学数码英语研究文学硕士",
+    "program_name_en": "MA Digital English Studies",
+    "primary_category": "社科",
+    "secondary_category": "语言",
+    "university_logo_url": "https://logo.compassedu.hk/46.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Arts-in-Digital-English-Studies",
+    "university_name": "香港岭南大学",
+    "university_name_en": "Lingnan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-12-02",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "150000港币/年",
+    "qs_2026_rank": 705.5,
+    "usnews_2026_rank": 1009,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_modern_languages_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

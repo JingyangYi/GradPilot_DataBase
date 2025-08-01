@@ -1,0 +1,5839 @@
+[
+  {
+    "completion_rate": "75 / 75",
+    "fail_count": 0,
+    "original_total": 179,
+    "classification": "QS200后"
+  },
+  {
+    "id": "634d4bb5-bc94-4447-a24f-430a351a3cf8",
+    "detail_page_url": "https://www.compassedu.hk/majr_64358",
+    "program_name": "亚琛工业大学数字化与产业变革工商管理硕士",
+    "program_name_en": "Full-Time MBA in Digitalization & Industrial Change",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rwth-aachen.de/go/id/jlobw?lidx=1#aaaaaaaaaajloeh",
+    "university_name": "亚琛工业大学",
+    "university_name_en": "RWTH Aachen University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1.5年",
+    "tuition": "20000欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 225,
+    "the_2025_rank": 92,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "33e470cc-e555-4e63-9e80-1205dffb914b",
+    "detail_page_url": "https://www.compassedu.hk/majr_73914",
+    "program_name": "马里兰大学帕克分校工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/165.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rhsmith.umd.edu/programs/full-time-mba",
+    "university_name": "马里兰大学帕克分校",
+    "university_name_en": "University of Maryland, College Park",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融"
+      },
+      {
+        "key": "2",
+        "value": "营销"
+      },
+      {
+        "key": "3",
+        "value": "咨询"
+      },
+      {
+        "key": "4",
+        "value": "供应链"
+      },
+      {
+        "key": "5",
+        "value": "创新科技"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "小分要求": "S22,L24, R26,W24"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "L7.0,R7.0,S6.5,W7.0"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "54学分",
+    "tuition": "2157美元/学分",
+    "qs_2026_rank": 207,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 112,
+    "arwu_2024_rank": 58,
+    "qs_2026_business_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fc56ed39-ea31-4b0c-b6ba-efbee5fef49d",
+    "detail_page_url": "https://www.compassedu.hk/majr_62889",
+    "program_name": "拉夫堡大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/full-time-mba/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "32000英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e8571990-0965-4470-a3c3-8d260ac76327",
+    "detail_page_url": "https://www.compassedu.hk/majr_74104",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-business-administration-mba",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "1.5年",
+    "tuition": "43250澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c6668398-f275-4f63-8d18-9e37aeebf4ea",
+    "detail_page_url": "https://www.compassedu.hk/majr_74105",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士（全球）",
+    "program_name_en": "MBA (Global)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-business-administration-mba-global",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "39050澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2eed3a4e-4f13-49ec-84cb-6f0d3c4bbdb2",
+    "detail_page_url": "https://www.compassedu.hk/majr_74915",
+    "program_name": "纽卡斯尔大学（澳大利亚）会计专业硕士/ 工商管理硕士双学位",
+    "program_name_en": "Double Degree Master of Professional Accounting / MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://newcastle.edu.au/degrees/master-professional-accounting-business-administration",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "42860澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "377364fd-7660-4547-a3a4-6b2bb6f3d4fd",
+    "detail_page_url": "https://www.compassedu.hk/majr_74916",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士（全球）/数据分析理学硕士双学位",
+    "program_name_en": "Double Degree MBA (Global) / MSc Data Analytics",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-business-administration-global-science-data-analytics",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "40865澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bcd75314-4159-4f89-a888-e3152179c34c",
+    "detail_page_url": "https://www.compassedu.hk/majr_74917",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士/应用金融硕士双学位",
+    "program_name_en": "Double Degree MBA / Master of Applied Finance",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-business-administration-applied-finance",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "43680澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b878694d-3bb1-447d-8e79-ef11336f7caa",
+    "detail_page_url": "https://www.compassedu.hk/majr_74918",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士/人力资源管理硕士双学位",
+    "program_name_en": "Double Degree MBA / Master of Human Resource Management",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-business-administration-human-resource-management",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "43385澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0d6f1b13-5ebb-49a9-a9de-48ee65959908",
+    "detail_page_url": "https://www.compassedu.hk/majr_74919",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士/国际商务硕士双学位",
+    "program_name_en": "Double Degree MBA / Master of International Business",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-business-administration-international-business",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "43680澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7fb1572e-f19b-4fae-bb08-4fd0e3e951ce",
+    "detail_page_url": "https://www.compassedu.hk/majr_74920",
+    "program_name": "纽卡斯尔大学（澳大利亚）工商管理硕士/市场营销硕士双学位",
+    "program_name_en": "Double Degree MBA / Master of Marketing",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "暂无",
+    "program_url": "暂无",
+    "university_name": "暂无",
+    "university_name_en": "暂无",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1bfc0f34-7a66-4e6e-9005-af3815172626",
+    "detail_page_url": "https://www.compassedu.hk/majr_75028",
+    "program_name": "纽卡斯尔大学（澳大利亚）卫生经济学、管理与政策硕士/工商管理硕士双学位",
+    "program_name_en": "Double Degree Master of Health Economics, Management and Policy / MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/414.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.newcastle.edu.au/degrees/master-of-health-economics-management-and-policy-business-administration",
+    "university_name": "纽卡斯尔大学（澳大利亚）",
+    "university_name_en": "The University of Newcastle, Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-10-28",
+          "2025-02-17"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "78",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/8月",
+    "duration": "2年",
+    "tuition": "42980澳元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "149f8896-781d-4bf4-9374-b9b9a60237bd",
+    "detail_page_url": "https://www.compassedu.hk/majr_72810",
+    "program_name": "罗切斯特大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/143.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://simon.rochester.edu/programs/full-time-mba",
+    "university_name": "罗切斯特大学",
+    "university_name_en": "University of Rochester",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融"
+      },
+      {
+        "key": "2",
+        "value": "营销"
+      },
+      {
+        "key": "3",
+        "value": "咨询"
+      },
+      {
+        "key": "序号",
+        "value": "细分方向"
+      },
+      {
+        "key": "1",
+        "value": "资产管理"
+      },
+      {
+        "key": "2",
+        "value": "银行业"
+      },
+      {
+        "key": "3",
+        "value": "企业融资"
+      },
+      {
+        "key": "4",
+        "value": "风险投资与私募股权"
+      },
+      {
+        "key": "5",
+        "value": "品牌管理"
+      },
+      {
+        "key": "6",
+        "value": "产品管理"
+      },
+      {
+        "key": "7",
+        "value": "运营"
+      },
+      {
+        "key": "8",
+        "value": "定价"
+      },
+      {
+        "key": "9",
+        "value": "战略"
+      },
+      {
+        "key": "10",
+        "value": "技术"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "小分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "68学分",
+    "tuition": "50,000美元",
+    "program_size": "112人",
+    "sex_ratio": "57:43",
+    "qs_2026_rank": 236,
+    "usnews_2026_rank": 201,
+    "the_2025_rank": 127,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ec178d14-0423-4c27-93d2-11b166b0eb01",
+    "detail_page_url": "https://www.compassedu.hk/majr_72594",
+    "program_name": "达特茅斯学院工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/90.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tuck.dartmouth.edu/mba",
+    "university_name": "达特茅斯学院",
+    "university_name_en": "Dartmouth College",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "夏季",
+    "duration": "两年",
+    "tuition": "77,520美元/年",
+    "program_size": "287人",
+    "average_accepted_gpa": "3.52",
+    "average_admitted_gre": "726",
+    "sex_ratio": "55:45",
+    "qs_2026_rank": 247,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "68bab85b-5339-466e-96f9-d2c8de3af4f1",
+    "detail_page_url": "https://www.compassedu.hk/majr_67392",
+    "program_name": "思克莱德大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/mba/mba-fulltime/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "-"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "38950英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2999e238-457f-4b81-80d1-496ee415a3e2",
+    "detail_page_url": "https://www.compassedu.hk/majr_62909",
+    "program_name": "萨里大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/37.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.surrey.ac.uk/postgraduate/master-business-administration-mba",
+    "university_name": "萨里大学",
+    "university_name_en": "University of Surrey",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30200英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 326,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fd3e6f91-f1d2-4758-ba15-9d7f44612e30",
+    "detail_page_url": "https://www.compassedu.hk/majr_64526",
+    "program_name": "阿伯丁大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/31/mba-aberdeen/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ef344267-48da-4bec-aaa5-6fde1abc9110",
+    "detail_page_url": "https://www.compassedu.hk/majr_64527",
+    "program_name": "阿伯丁大学商业分析工商管理硕士",
+    "program_name_en": "MBA (Business Analytics)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1130/mba-business-analytics/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 525.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2d60151f-3427-4dad-b67e-bd111a27a01a",
+    "detail_page_url": "https://www.compassedu.hk/majr_73949",
+    "program_name": "弗吉尼亚大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/105.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.darden.virginia.edu/",
+    "university_name": "弗吉尼亚大学",
+    "university_name_en": "University of Virginia",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "21个月",
+    "tuition": "35,556美元/学年",
+    "qs_2026_rank": 275,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 163,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "99988f10-a862-4fcf-93b6-33af39e57e16",
+    "detail_page_url": "https://www.compassedu.hk/majr_62858",
+    "program_name": "萨塞克斯大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/master-of-business-administration-mba",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-11-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "20",
+        "阅读": "19",
+        "写作": "23",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "27300英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "89b5beba-4cc6-4ff2-aef3-385c10ef5e9b",
+    "detail_page_url": "https://www.compassedu.hk/majr_73963",
+    "program_name": "匹兹堡大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://business.pitt.edu/mba/signature-mba/",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "财务信息披露"
+      },
+      {
+        "key": "2",
+        "value": "决策管理"
+      },
+      {
+        "key": "3",
+        "value": "企业融资"
+      },
+      {
+        "key": "4",
+        "value": "企业估值"
+      },
+      {
+        "key": "5",
+        "value": "投资与贸易"
+      },
+      {
+        "key": "6",
+        "value": "客户关系建立"
+      },
+      {
+        "key": "7",
+        "value": "价值创造与管理"
+      },
+      {
+        "key": "8",
+        "value": "数字营销与大数据"
+      },
+      {
+        "key": "9",
+        "value": "组织中的领导者"
+      },
+      {
+        "key": "10",
+        "value": "咨询管理"
+      },
+      {
+        "key": "11",
+        "value": "创新创业"
+      },
+      {
+        "key": "12",
+        "value": "业务分析"
+      },
+      {
+        "key": "13",
+        "value": "过程与质量管理"
+      },
+      {
+        "key": "14",
+        "value": "供应链管理"
+      },
+      {
+        "key": "15",
+        "value": "数字创新"
+      },
+      {
+        "key": "16",
+        "value": "资讯科技项目管理"
+      },
+      {
+        "key": "17",
+        "value": "资讯系统设计"
+      },
+      {
+        "key": "18",
+        "value": "数据编程"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "18个月",
+    "tuition": "2100美元/学期",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "36fc65bb-d262-4b6c-b454-e365d7163813",
+    "detail_page_url": "https://www.compassedu.hk/majr_63045",
+    "program_name": "澳门大学高级管理人员工商管理硕士",
+    "program_name_en": "EMBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://emba.fba.um.edu.mo/?lang=en",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "275000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c3cf1a5e-dae7-4297-9535-1a87ff9be161",
+    "detail_page_url": "https://www.compassedu.hk/majr_63046",
+    "program_name": "澳门大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fba.um.edu.mo/pgraduate/mba/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "102000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 575.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "967d99ee-387a-4a92-8636-8527d29c82f6",
+    "detail_page_url": "https://www.compassedu.hk/majr_72805",
+    "program_name": "加州大学欧文分校工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/154.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://merage.uci.edu/programs/mba/full-time-mba/index.html",
+    "university_name": "加州大学欧文分校",
+    "university_name_en": "University of California, Irvine",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、GMAT、GRE，不接受：雅思",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "18-21个月",
+    "tuition": "59,684美元",
+    "program_size": "51人",
+    "average_accepted_gpa": "3.47",
+    "qs_2026_rank": 293,
+    "usnews_2026_rank": 96,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 76,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1093587e-fba1-48af-9b44-abb09156724e",
+    "detail_page_url": "https://www.compassedu.hk/majr_72643",
+    "program_name": "圣母大学两年制工商管理硕士",
+    "program_name_en": "Two-Year Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/98.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mendoza.nd.edu/graduate-programs/two-year-mba/",
+    "university_name": "圣母大学",
+    "university_name_en": "University of Notre Dame",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融"
+      },
+      {
+        "key": "2",
+        "value": "咨询"
+      },
+      {
+        "key": "3",
+        "value": "科技"
+      },
+      {
+        "key": "4",
+        "value": "市场营销"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "两年",
+    "tuition": "63.440 美元",
+    "program_size": "120人",
+    "average_accepted_gpa": "3.3",
+    "average_admitted_gre": "685/315",
+    "employment_rate": "96%",
+    "average_graduate_salary": "166,599 美元",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 407,
+    "the_2025_rank": 196,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "39ff942b-f7c1-484f-8f60-acec82f6081c",
+    "detail_page_url": "https://www.compassedu.hk/majr_72883",
+    "program_name": "凯斯西储大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/146.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://weatherhead.case.edu/degrees/masters/mba/full-time/",
+    "university_name": "凯斯西储大学",
+    "university_name_en": "Case Western Reserve University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融（STEM方向）"
+      },
+      {
+        "key": "2",
+        "value": "金融科技（STEM方向）"
+      },
+      {
+        "key": "3",
+        "value": "运营（STEM方向）"
+      },
+      {
+        "key": "4",
+        "value": "商业分析（STEM方向）"
+      },
+      {
+        "key": "5",
+        "value": "市场营销"
+      },
+      {
+        "key": "6",
+        "value": "组织领导力"
+      },
+      {
+        "key": "7",
+        "value": "医疗管理"
+      },
+      {
+        "key": "8",
+        "value": "设计、创新和创业"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "60学分",
+    "tuition": "1565美元/学分",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 176,
+    "the_2025_rank": 159,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "af244ffd-3394-4b37-aaa4-b04838afc997",
+    "detail_page_url": "https://www.compassedu.hk/majr_73905",
+    "program_name": "迈阿密大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/149.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bus.miami.edu/academic-programs/mba-masters/index.html",
+    "university_name": "迈阿密大学",
+    "university_name_en": "University of Miami",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "94"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "21个月",
+    "tuition": "2,310 美元/学分",
+    "qs_2026_rank": 314,
+    "usnews_2026_rank": 234,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a86bf9dc-8fba-48ee-87ff-f6372fa14228",
+    "detail_page_url": "https://www.compassedu.hk/majr_73953",
+    "program_name": "弗吉尼亚理工大学工商管理理学硕士-商业分析",
+    "program_name_en": "Master of Science in Business Administration-Business Analytics",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/182.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://cba.pamplin.vt.edu/grads/masters.html",
+    "university_name": "弗吉尼亚理工大学",
+    "university_name_en": "Virginia Polytechnic Institute and State University (Virginia Tech)",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "统计"
+      },
+      {
+        "key": "2",
+        "value": "计算机编程"
+      },
+      {
+        "key": "3",
+        "value": "数据库管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "11个月",
+    "tuition": "1,740.5美元/学分",
+    "program_size": "40-50人人",
+    "employment_rate": "97.5%",
+    "average_graduate_salary": "85,000美元",
+    "qs_2026_rank": 358,
+    "usnews_2026_rank": 281,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 325,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 325
+  },
+  {
+    "id": "c4cfcedb-e921-4ceb-a945-9cf91064262d",
+    "detail_page_url": "https://www.compassedu.hk/majr_67496",
+    "program_name": "东安格利亚大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/35.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uea.ac.uk/course/postgraduate/mba-master-of-business-administration/2025-26/sep",
+    "university_name": "东安格利亚大学",
+    "university_name_en": "University of East Anglia",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-24",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26950英镑/年",
+    "qs_2026_rank": 381,
+    "usnews_2026_rank": 423,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 625.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9ce4320a-3c1e-4281-b9fd-19df84470ca2",
+    "detail_page_url": "https://www.compassedu.hk/majr_67608",
+    "program_name": "阿斯顿大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/53.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.aston.ac.uk/study/courses/mba-full-time/september-2025",
+    "university_name": "阿斯顿大学",
+    "university_name_en": "Aston University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "93",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30000英镑/年",
+    "qs_2026_rank": 395,
+    "usnews_2026_rank": 594,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 87,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1752fa6d-4804-411c-b0b2-bd56d4620505",
+    "detail_page_url": "https://www.compassedu.hk/majr_67575",
+    "program_name": "肯特大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/56.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.kent.ac.uk/courses/postgraduate/291/mba",
+    "university_name": "肯特大学",
+    "university_name_en": "University of Kent",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-12",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26500英镑/年",
+    "qs_2026_rank": 397,
+    "usnews_2026_rank": 618,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d453d1a7-dab9-4b2a-87da-9cb1a2fcf9db",
+    "detail_page_url": "https://www.compassedu.hk/majr_63014",
+    "program_name": "澳门科技大学高级管理人员工商管理硕士",
+    "program_name_en": "Executive Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.must.edu.mo/cn/msb/programme/other/emba",
+    "university_name": "澳门科技大学",
+    "university_name_en": "Macau University of Science and Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-10",
+        "application_end_date": [
+          "2025-02-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "220000港币/年",
+    "qs_2026_rank": 440,
+    "usnews_2026_rank": 699,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6c2eb99d-c98b-4f69-9282-b4dc8078c2f4",
+    "detail_page_url": "https://www.compassedu.hk/majr_63015",
+    "program_name": "澳门科技大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/350.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.must.edu.mo/cn/msb/programme/masters-degree-programme/master-business-administration/study-plan",
+    "university_name": "澳门科技大学",
+    "university_name_en": "Macau University of Science and Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-10",
+        "application_end_date": [
+          "2025-02-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "130000港币/年",
+    "qs_2026_rank": 440,
+    "usnews_2026_rank": 699,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7f9c3c12-c73b-4fdb-8b72-39373d80ab57",
+    "detail_page_url": "https://www.compassedu.hk/majr_64976",
+    "program_name": "埃塞克斯大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00472/1/Master-of-Business-Administration-The-Essex-MBA",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "2023-05-09",
+        "application_end_date": [
+          "2023-10-20"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "48d40ff2-e7d8-464c-8689-21c0d066115d",
+    "detail_page_url": "https://www.compassedu.hk/majr_49396",
+    "program_name": "新加坡管理大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/285.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://masters.smu.edu.sg/programme/master-of-business-administration",
+    "university_name": "新加坡管理大学",
+    "university_name_en": "Singapore Management University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-30",
+          "2025-02-28",
+          "2025-05-31"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-15",
+          "2025-07-15",
+          "2025-10-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "1/8月",
+    "duration": "1年",
+    "tuition": "81750新币/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 616,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 55,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e5773018-a39d-4726-9c0e-55622c0120f7",
+    "detail_page_url": "https://www.compassedu.hk/majr_63008",
+    "program_name": "伦敦商学院工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/349.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.london.edu/masters-degrees/mba",
+    "university_name": "伦敦商学院",
+    "university_name_en": "London Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-09-06",
+          "2025-01-03",
+          "2025-03-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1.5年",
+    "tuition": "79967英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 793,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f8c004e7-3e1d-4ef6-a494-f01e482c9432",
+    "detail_page_url": "https://www.compassedu.hk/majr_63010",
+    "program_name": "伦敦商学院高级工商管理硕士（伦敦）",
+    "program_name_en": "Executive MBA London",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/349.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.london.edu/masters-degrees/executive-mba-london",
+    "university_name": "伦敦商学院",
+    "university_name_en": "London Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-02-27",
+          "2025-05-22",
+          "2025-08-07",
+          "2025-11-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "2年",
+    "tuition": "64975英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 793,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ea26bfad-d96b-474d-ac06-6b9a767787d5",
+    "detail_page_url": "https://www.compassedu.hk/majr_63011",
+    "program_name": "伦敦商学院斯隆领导力与战略硕士",
+    "program_name_en": "Sloan Masters in Leadership and Strategy",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/349.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.london.edu/masters-degrees/sloan-masters-in-leadership-and-strategy",
+    "university_name": "伦敦商学院",
+    "university_name_en": "London Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-06",
+        "application_end_date": [
+          "2025-02-25",
+          "2025-04-29",
+          "2025-06-24",
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "12月",
+    "duration": "1年",
+    "tuition": "97950英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 793,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b90cd330-5ceb-4a62-9758-2a4374e7ff50",
+    "detail_page_url": "https://www.compassedu.hk/majr_63031",
+    "program_name": "澳门理工大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/353.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.mpu.edu.mo/esce/zh/master_mba.php",
+    "university_name": "澳门理工大学",
+    "university_name_en": "Macao Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-15",
+        "application_end_date": [
+          "2025-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "85000澳门币/年",
+    "qs_2026_rank": 925.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "36ae7ff3-51a7-4073-b426-2ab3006e9c7b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63131",
+    "program_name": "凯致商学院国际贸易与物流",
+    "program_name_en": "Master of Science in International Trade & Logistics",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/356.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://kedge-bs.cn/programmes/international-trade-logistics",
+    "university_name": "凯致商学院",
+    "university_name_en": "KEDGE Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "13250欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "364911bb-5c1f-4567-a9a7-4d07f4bb9e0b",
+    "detail_page_url": "https://www.compassedu.hk/majr_63207",
+    "program_name": "澳门城市大学工商管理硕士（中文学制）",
+    "program_name_en": "Master of Business Administration (Chinese)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/352.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fob.cityu.edu.mo/master/16",
+    "university_name": "澳门城市大学",
+    "university_name_en": "City University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "120000港币/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "44fb6d35-7c32-4388-8f1e-daa806108e73",
+    "detail_page_url": "https://www.compassedu.hk/majr_63257",
+    "program_name": "格勒诺布尔高等商学院国际商务管理理学硕士（MIB）",
+    "program_name_en": "MSc Management in International Business (MIB)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/364.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://en.grenoble-em.com/msc-management-international-business-mib",
+    "university_name": "格勒诺布尔高等商学院",
+    "university_name_en": "Grenoble Graduate School Of Business",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-27"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1-2年",
+    "tuition": "25900欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a6c98df6-8398-4362-a4e2-c243fa870c70",
+    "detail_page_url": "https://www.compassedu.hk/majr_64751",
+    "program_name": "伦敦大学城市学院工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bayes.city.ac.uk/study/mba/full-time",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-09-22",
+          "2024-11-03",
+          "2025-01-12",
+          "2025-02-16",
+          "2025-03-30",
+          "2025-05-11",
+          "2025-06-29"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "25",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "62",
+        "口语": "60"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "600"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "50400英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 120,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 120
+  },
+  {
+    "id": "4a6ef0c9-7003-4d70-849f-5c550b0893bb",
+    "detail_page_url": "https://www.compassedu.hk/majr_65269",
+    "program_name": "威斯敏斯特大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/399.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.westminster.ac.uk/business-and-management-courses/2025-26/september/full-time/master-of-business-administration-mba",
+    "university_name": "威斯敏斯特大学",
+    "university_name_en": "University of Westminster",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "2024-11-15"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "19500英镑/年",
+    "qs_2026_rank": 825.5,
+    "usnews_2026_rank": 1687,
+    "the_2025_rank": 801,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d18f2226-56b9-4838-ba2a-e79e889f9b1b",
+    "detail_page_url": "https://www.compassedu.hk/majr_65363",
+    "program_name": "考文垂大学全球商务工商管理硕士",
+    "program_name_en": "MBA Global Business",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/london/course-structure/pg/global-business-mba/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-23"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "22550英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e70f5132-11cb-490b-96d5-3bc4f914203c",
+    "detail_page_url": "https://www.compassedu.hk/majr_65376",
+    "program_name": "考文垂大学国际时尚管理工商管理硕士",
+    "program_name_en": "MBA International Fashion Management",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/london/course-structure/pg/international-fashion-management-mba/",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-23"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "22550英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b108061a-3dc5-43be-a478-f6b84db714b6",
+    "detail_page_url": "https://www.compassedu.hk/majr_65382",
+    "program_name": "考文垂大学国际市场营销工商管理硕士",
+    "program_name_en": "MBA International Marketing",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/london/course-structure/pg/international-marketing-mba/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-23"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "22550英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "48baae0d-1f9e-40ad-9dba-7ac96045afd4",
+    "detail_page_url": "https://www.compassedu.hk/majr_65387",
+    "program_name": "考文垂大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/400.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.coventry.ac.uk/course-structure/pg/fbl/masters-in-business-administration/?term=2025-26",
+    "university_name": "考文垂大学",
+    "university_name_en": "Coventry University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-01",
+        "application_end_date": [
+          "2024-07-31"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2024-12-16"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "19"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/5/9月",
+    "duration": "1年",
+    "tuition": "20350英镑/年",
+    "qs_2026_rank": 558,
+    "usnews_2026_rank": 1144,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f7612224-1dbb-4504-bff9-6664e67968a0",
+    "detail_page_url": "https://www.compassedu.hk/majr_71576",
+    "program_name": "香港都会大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/ba/mbaf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "430000港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "56df49c0-1d25-4870-8c15-a4d887a79785",
+    "detail_page_url": "https://www.compassedu.hk/majr_71577",
+    "program_name": "香港都会大学工商管理硕士（循特别入学途径）",
+    "program_name_en": "MBA (Special Entry Route)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/ba/mbaf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "549970港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c83d078f-274d-4332-8677-4a8c1f7b44ee",
+    "detail_page_url": "https://www.compassedu.hk/majr_71578",
+    "program_name": "香港都会大学工商管理硕士（循途径一）",
+    "program_name_en": "MBA (through Pathway 1)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/ba/mbaf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "309970港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aae5eb7d-cddd-4137-b6c8-b176e199fdf7",
+    "detail_page_url": "https://www.compassedu.hk/majr_71585",
+    "program_name": "香港都会大学工商管理硕士（中文）",
+    "program_name_en": "MBA (in Chinese)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/ba/tc/mbacf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "430000港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6bca7908-b04a-43d3-ac2b-e66f3bf9d5d9",
+    "detail_page_url": "https://www.compassedu.hk/majr_71586",
+    "program_name": "香港都会大学工商管理硕士（中文）（循途径一）",
+    "program_name_en": "MBA (in Chinese) (through Pathway 1)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/402.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hkmu.edu.hk/ba/tc/mbacf/",
+    "university_name": "香港都会大学",
+    "university_name_en": "Hong Kong Metropolitan University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "309970港币/年",
+    "qs_2026_rank": 785.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "20249f3c-e8f0-444b-a0bc-e6a0df409236",
+    "detail_page_url": "https://www.compassedu.hk/majr_71642",
+    "program_name": "克兰菲尔德大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/401.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time",
+    "university_name": "克兰菲尔德大学",
+    "university_name_en": "Cranfield University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-30",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "600"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "47335英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 801,
+    "qs_2026_business_rank": 149,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f394d32b-880c-4f0d-b8d3-4dcd8e0e9d6f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72807",
+    "program_name": "波士顿学院全职工商管理硕士",
+    "program_name_en": "Full-Time MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/238.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bc.edu/content/bc-web/schools/carroll-school/graduate/mba/full-time-mba.html",
+    "university_name": "波士顿学院",
+    "university_name_en": "Boston College",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "两年",
+    "tuition": "59,030美元",
+    "program_size": "70-90人",
+    "average_accepted_gpa": "3.36",
+    "average_admitted_gre": "312",
+    "sex_ratio": "65:35",
+    "qs_2026_rank": 526,
+    "usnews_2026_rank": 518,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e9567c3f-07cd-430d-9cc7-29117e903826",
+    "detail_page_url": "https://www.compassedu.hk/majr_72848",
+    "program_name": "威廉玛丽学院工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/141.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mason.wm.edu/graduate/mba/index.php",
+    "university_name": "威廉玛丽学院",
+    "university_name_en": "William & Mary",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "供应链管理"
+      },
+      {
+        "key": "3",
+        "value": "金融"
+      },
+      {
+        "key": "4",
+        "value": "咨询"
+      },
+      {
+        "key": "5",
+        "value": "创新创业"
+      },
+      {
+        "key": "6",
+        "value": "市场营销"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "两年",
+    "tuition": "47,230美元",
+    "average_accepted_gpa": "3.3",
+    "sex_ratio": "70:30",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 1207,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5a96ac56-4c38-41cf-9fda-4b4bf5215f34",
+    "detail_page_url": "https://www.compassedu.hk/majr_72875",
+    "program_name": "布兰迪斯大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/140.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.brandeis.edu/global/academics/mba/index.html",
+    "university_name": "布兰迪斯大学",
+    "university_name_en": "Brandeis University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "金融"
+      },
+      {
+        "key": "2",
+        "value": "市场营销"
+      },
+      {
+        "key": "3",
+        "value": "数据分析"
+      },
+      {
+        "key": "4",
+        "value": "策略和创新"
+      },
+      {
+        "key": "5",
+        "value": "房地产"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "58766美元/年",
+    "average_accepted_gpa": "3.5",
+    "average_admitted_gre": "313",
+    "sex_ratio": "40:60",
+    "employment_rate": "92%",
+    "average_graduate_salary": "113320美元/年",
+    "qs_2026_rank": 745.5,
+    "usnews_2026_rank": 664,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c83e6caa-650d-40a6-995e-be8938e5ee08",
+    "detail_page_url": "https://www.compassedu.hk/majr_72881",
+    "program_name": "杜兰大学工商管理学硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/160.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://freeman.tulane.edu/programs/graduate/full-time-mba",
+    "university_name": "杜兰大学",
+    "university_name_en": "Tulane University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "金融"
+      },
+      {
+        "key": "3",
+        "value": "策略与营销"
+      },
+      {
+        "key": "4",
+        "value": "可持续性"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "630"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "312"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "55663美元/年",
+    "qs_2026_rank": 597,
+    "usnews_2026_rank": 394,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7ceddd6a-641d-4d45-9b5e-3fde3d21e222",
+    "detail_page_url": "https://www.compassedu.hk/majr_73107",
+    "program_name": "圣何塞州立大学专业人员工商管理硕士",
+    "program_name_en": "MBA for Professionals",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/320.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sjsu.edu/lucasgsb/prospective-students/mba/professionals.php",
+    "university_name": "圣何塞州立大学",
+    "university_name_en": "San Jose State University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季",
+    "duration": "24-36个月",
+    "tuition": "35700美元",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 1677,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d1950339-86c0-416a-93a2-e860750ad6cc",
+    "detail_page_url": "https://www.compassedu.hk/majr_73109",
+    "program_name": "旧金山大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/231.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.usfca.edu/management/programs/graduate/mba/full-time",
+    "university_name": "旧金山大学",
+    "university_name_en": "University of San Francisco",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "创业与创新"
+      },
+      {
+        "key": "3",
+        "value": "金融"
+      },
+      {
+        "key": "4",
+        "value": "营销"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "92"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季",
+    "duration": "20个月",
+    "tuition": "1650美元/学分",
+    "qs_2026_rank": 1300.5,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9709703d-2866-4d54-b331-3a861c272219",
+    "detail_page_url": "https://www.compassedu.hk/majr_73866",
+    "program_name": "里海大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/147.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://business.lehigh.edu/academics/graduate/masters-programs/one-year-mba",
+    "university_name": "里海大学",
+    "university_name_en": "Lehigh University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "财务管理"
+      },
+      {
+        "key": "3",
+        "value": "市场营销"
+      },
+      {
+        "key": "4",
+        "value": "供应链管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "小分要求": "R25,L20,S24,W25"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "R7.0,L6.5,S7.5,W6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "68,900美元/年",
+    "qs_2026_rank": 668,
+    "usnews_2026_rank": 989,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": 901,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fc2875e0-bdf6-418a-85c8-994e4ad7dffd",
+    "detail_page_url": "https://www.compassedu.hk/majr_73867",
+    "program_name": "伦斯勒理工学院工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/159.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://lallyschool.rpi.edu/mba",
+    "university_name": "伦斯勒理工学院",
+    "university_name_en": "Rensselaer Polytechnic Institute",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生命科学创业"
+      },
+      {
+        "key": "2",
+        "value": "商务分析"
+      },
+      {
+        "key": "3",
+        "value": "金融"
+      },
+      {
+        "key": "4",
+        "value": "管理信息系统"
+      },
+      {
+        "key": "5",
+        "value": "市场营销"
+      },
+      {
+        "key": "6",
+        "value": "技术创业"
+      },
+      {
+        "key": "7",
+        "value": "供应链管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "45学分",
+    "tuition": "58,600美元/年",
+    "qs_2026_rank": 695,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e20812d6-386a-401c-b7d5-185d9ca8be51",
+    "detail_page_url": "https://www.compassedu.hk/majr_73915",
+    "program_name": "佩珀代因大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/164.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://bschool.pepperdine.edu/mba-programs/full-time-mba/",
+    "university_name": "佩珀代因大学",
+    "university_name_en": "Pepperdine University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业分析"
+      },
+      {
+        "key": "2",
+        "value": "数字创新和信息系统"
+      },
+      {
+        "key": "3",
+        "value": "争议处理"
+      },
+      {
+        "key": "4",
+        "value": "娱乐、媒体和体育管理"
+      },
+      {
+        "key": "5",
+        "value": "创业"
+      },
+      {
+        "key": "6",
+        "value": "金融"
+      },
+      {
+        "key": "7",
+        "value": "领导力与管理组织变革"
+      },
+      {
+        "key": "8",
+        "value": "营销"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "55学分",
+    "tuition": "1,950美元/学分",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bba14d79-d0b2-42c6-b1bd-a51fb5a56f44",
+    "detail_page_url": "https://www.compassedu.hk/majr_73956",
+    "program_name": "明尼苏达大学双城分校工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/178.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://onestop2.umn.edu/pcas/viewCatalogProgram.do?programID=7262",
+    "university_name": "明尼苏达大学双城分校",
+    "university_name_en": "University of Minnesota-Twin Cities",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "W22,S23,L20,R22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "2,075美元/学分",
+    "employment_rate": "96%",
+    "average_graduate_salary": "121,882美元",
+    "qs_2026_rank": 210,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 87,
+    "arwu_2024_rank": 47,
+    "qs_2026_business_rank": 96,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "172978a3-ab33-4eb3-9614-3eed2a3a6489",
+    "detail_page_url": "https://www.compassedu.hk/majr_73993",
+    "program_name": "康涅狄格大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/167.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mba.uconn.edu/",
+    "university_name": "康涅狄格大学",
+    "university_name_en": "University of Connecticut",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "业务分析"
+      },
+      {
+        "key": "2",
+        "value": "商业道德与合规"
+      },
+      {
+        "key": "3",
+        "value": "金融"
+      },
+      {
+        "key": "4",
+        "value": "一般业务"
+      },
+      {
+        "key": "5",
+        "value": "管理"
+      },
+      {
+        "key": "6",
+        "value": "市场"
+      },
+      {
+        "key": "7",
+        "value": "供应链管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "小分要求": "L22, R22,W22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "1,100美元/学分",
+    "qs_2026_rank": 534,
+    "usnews_2026_rank": 292,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "c2763de2-10f3-462e-84db-c62714c9c3d2",
+    "detail_page_url": "https://www.compassedu.hk/majr_74025",
+    "program_name": "美利坚大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/190.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.american.edu/kogod/graduate/mba/index.cfm",
+    "university_name": "美利坚大学",
+    "university_name_en": "American University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "21个月",
+    "tuition": "1,922美元/学分",
+    "average_accepted_gpa": "GPA3.16",
+    "qs_2026_rank": 587,
+    "usnews_2026_rank": 747,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "75f216e3-e373-44f7-8ec0-2dbf752161f7",
+    "detail_page_url": "https://www.compassedu.hk/majr_74032",
+    "program_name": "南卫理公会大学工商管理",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/172.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.smu.edu/cox/Degrees-and-Programs/Two-Year-MBA/Overview",
+    "university_name": "南卫理公会大学",
+    "university_name_en": "Southern Methodist University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "会计"
+      },
+      {
+        "key": "2",
+        "value": "金融:公司金融、能源金融和投资的进一步专业化"
+      },
+      {
+        "key": "3",
+        "value": "商业分析"
+      },
+      {
+        "key": "4",
+        "value": "供应链"
+      },
+      {
+        "key": "5",
+        "value": "管理"
+      },
+      {
+        "key": "6",
+        "value": "市场营销:客户参与的进一步专业化"
+      },
+      {
+        "key": "7",
+        "value": "房地产"
+      },
+      {
+        "key": "8",
+        "value": "战略与创业"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "48,394美元/年",
+    "average_accepted_gpa": "GPA3.41",
+    "average_admitted_gre": "GMAT694 GRE315",
+    "sex_ratio": "52:48",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 877,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 701,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "01da17b8-e60e-4a80-be2d-4da99a951062",
+    "detail_page_url": "https://www.compassedu.hk/majr_74053",
+    "program_name": "贝勒大学工商管理硕士",
+    "program_name_en": "Business - Full Time MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/183.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.baylor.edu/business/mba/",
+    "university_name": "贝勒大学",
+    "university_name_en": "Baylor University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "医疗保健管理"
+      },
+      {
+        "key": "2",
+        "value": "商业分析"
+      },
+      {
+        "key": "3",
+        "value": "创业与企业创新"
+      },
+      {
+        "key": "4",
+        "value": "网络安全"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "夏季",
+    "duration": "17-22个月",
+    "tuition": "27,422美元/学期",
+    "average_accepted_gpa": "3.53",
+    "average_admitted_gre": "309",
+    "average_graduate_salary": "78,000美元",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 440,
+    "the_2025_rank": 601,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "802d9782-8efa-4ba7-94c7-b4862c5534a1",
+    "detail_page_url": "https://www.compassedu.hk/majr_74064",
+    "program_name": "克莱姆森大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/176.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.clemson.edu/online/programs/mba.html",
+    "university_name": "克莱姆森大学",
+    "university_name_en": "Clemson University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/夏季/秋季",
+    "duration": "12-18个月",
+    "tuition": "17,425美元",
+    "qs_2026_rank": 975.5,
+    "usnews_2026_rank": 676,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 701,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "79d93d2a-f79e-41a4-89cf-2ebc9390cf8b",
+    "detail_page_url": "https://www.compassedu.hk/majr_74082",
+    "program_name": "斯蒂文斯理工学院工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/197.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.stevens.edu/school-business/masters-programs/mba/stevens-mba",
+    "university_name": "斯蒂文斯理工学院",
+    "university_name_en": "Stevens Institute of Technology",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业智能和分析"
+      },
+      {
+        "key": "2",
+        "value": "金融"
+      },
+      {
+        "key": "3",
+        "value": "财务分析"
+      },
+      {
+        "key": "4",
+        "value": "金融工程"
+      },
+      {
+        "key": "5",
+        "value": "金融科技 - Fintech"
+      },
+      {
+        "key": "6",
+        "value": "信息系统"
+      },
+      {
+        "key": "7",
+        "value": "网络、通信管理与服务"
+      },
+      {
+        "key": "8",
+        "value": "项目管理"
+      },
+      {
+        "key": "9",
+        "value": "可持续管理"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "86"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季/春季/夏季",
+    "duration": "约30学分",
+    "tuition": "43,528美元/年",
+    "qs_2026_rank": 673,
+    "usnews_2026_rank": 1014,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cc7133e6-a7fe-4996-a8b5-63e47f709ac9",
+    "detail_page_url": "https://www.compassedu.hk/majr_74089",
+    "program_name": "杨百翰大学工商管理硕士",
+    "program_name_en": "Master of Business Administration",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/179.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://marriott.byu.edu/mba/",
+    "university_name": "杨百翰大学",
+    "university_name_en": "Brigham Young University-Provo",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "创业"
+      },
+      {
+        "key": "2",
+        "value": "金融"
+      },
+      {
+        "key": "3",
+        "value": "营销"
+      },
+      {
+        "key": "4",
+        "value": "运营与供应链"
+      },
+      {
+        "key": "5",
+        "value": "战略人力资源"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "58,544美元",
+    "average_accepted_gpa": "3.55",
+    "qs_2026_rank": 1100.5,
+    "usnews_2026_rank": 817,
+    "the_2025_rank": null,
+    "arwu_2024_rank": 601,
+    "qs_2026_business_rank": 625.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "29a4c9c4-b0da-42a1-b5ce-be85ac6b28ba",
+    "detail_page_url": "https://www.compassedu.hk/majr_74261",
+    "program_name": "伦敦商学院高级工商管理硕士（迪拜）",
+    "program_name_en": "EMBA (Dubai)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/349.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.london.edu/masters-degrees/executive-mba",
+    "university_name": "伦敦商学院",
+    "university_name_en": "London Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-02-27",
+          "2025-05-22",
+          "2025-08-07",
+          "2025-11-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "5月",
+    "duration": "2年",
+    "tuition": "77750美元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 793,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1d84292f-7c08-4a92-b0e6-650e0ea56194",
+    "detail_page_url": "https://www.compassedu.hk/majr_74279",
+    "program_name": "白金汉大学工商管理硕士",
+    "program_name_en": "MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/30.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.buckingham.ac.uk/courses/postgraduate/master-of-business-administration-mba",
+    "university_name": "白金汉大学",
+    "university_name_en": "University of Buckingham",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-11-24"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-05",
+        "application_end_date": [
+          "2024-08-02"
+        ]
+      },
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-22"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "22144英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "56bf6143-fee3-46a3-a8b6-2ac6a02acdf5",
+    "detail_page_url": "https://www.compassedu.hk/majr_75156",
+    "program_name": "新加坡管理大学高级工商管理硕士",
+    "program_name_en": "Executive MBA",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/285.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://masters.smu.edu.sg/programme/executive-master-of-business-administration",
+    "university_name": "新加坡管理大学",
+    "university_name_en": "Singapore Management University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2024-11-30",
+          "2025-03-31",
+          "2025-05-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "119900新币/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 616,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 55,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8e9bcfa2-5ea7-4321-b6f2-154eaf60ae8e",
+    "detail_page_url": "https://www.compassedu.hk/majr_76380",
+    "program_name": "伦敦商学院工商管理硕士（一年期）",
+    "program_name_en": "MBA (One-year)",
+    "primary_category": "商科",
+    "secondary_category": "工商管理",
+    "university_logo_url": "https://logo.compassedu.hk/349.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.london.edu/masters-degrees/one-year-mba",
+    "university_name": "伦敦商学院",
+    "university_name_en": "London Business School",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-09-06",
+          "2025-01-03",
+          "2025-03-24",
+          "2025-04-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "1年",
+    "tuition": "75000英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 793,
+    "the_2025_rank": null,
+    "arwu_2024_rank": null,
+    "qs_2026_business_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

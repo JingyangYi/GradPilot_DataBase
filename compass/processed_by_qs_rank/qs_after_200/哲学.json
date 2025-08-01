@@ -1,0 +1,802 @@
+[
+  {
+    "completion_rate": "10 / 10",
+    "fail_count": 0,
+    "original_total": 73,
+    "classification": "QS200后"
+  },
+  {
+    "id": "a3bbba1e-0b6d-447e-b46d-434fe7fae1c5",
+    "detail_page_url": "https://www.compassedu.hk/majr_51588",
+    "program_name": "萨塞克斯大学哲学文学硕士",
+    "program_name_en": "MA Philosophy",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/philosophy-ma",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22575英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_philosophy_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "92ce6608-98f3-433a-9929-60f3bd645b58",
+    "detail_page_url": "https://www.compassedu.hk/majr_72433",
+    "program_name": "澳门大学哲学文学硕士",
+    "program_name_en": "MA Philosophy",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/351.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://fah.um.edu.mo/master-of-arts-in-philosophy/",
+    "university_name": "澳门大学",
+    "university_name_en": "University of Macau",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-03",
+        "application_end_date": [
+          "2025-01-02",
+          "2025-03-14"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "430"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "87000澳门币/年",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 230,
+    "the_2025_rank": 180,
+    "arwu_2024_rank": 301,
+    "qs_2026_philosophy_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "dab402fb-6c44-4fad-80d8-d709c9c5f16a",
+    "detail_page_url": "https://www.compassedu.hk/majr_64885",
+    "program_name": "埃塞克斯大学哲学文学硕士",
+    "program_name_en": "MA Philosophy",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG00706/1/MA-Philosophy",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "42",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_philosophy_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "51d7883c-0238-4864-ac98-fe212f300a5e",
+    "detail_page_url": "https://www.compassedu.hk/majr_65180",
+    "program_name": "埃塞克斯大学西方马克思主义与翻译硕士",
+    "program_name_en": "MA Western Marxism and Translation",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01534/1/MA-Western-Marxism-and-Translation",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_philosophy_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "137436ba-d3f2-4f60-93a6-c75f418f9537",
+    "detail_page_url": "https://www.compassedu.hk/majr_75081",
+    "program_name": "埃塞克斯大学西方马克思主义文学硕士",
+    "program_name_en": "MA Western Marxism",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/397.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.essex.ac.uk/courses/PG01609/1/MA-Western-Marxism",
+    "university_name": "埃塞克斯大学",
+    "university_name_en": "University of Essex",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2024-11-11"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-13",
+        "application_end_date": [
+          "2025-07-21"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "42",
+        "阅读": "42",
+        "写作": "50",
+        "口语": "42"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/10月",
+    "duration": "1年",
+    "tuition": "22750英镑/年",
+    "qs_2026_rank": 456,
+    "usnews_2026_rank": 628,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_philosophy_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "14817701-60cf-4560-a293-a65a1061883b",
+    "detail_page_url": "https://www.compassedu.hk/majr_67426",
+    "program_name": "伦敦大学皇家霍洛威学院欧洲哲学文学硕士",
+    "program_name_en": "MA European Philosophy",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/philosophy/european-philosophy/",
+    "university_name": "伦敦大学皇家霍洛威学院",
+    "university_name_en": "Royal Holloway, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "7",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "26",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "69",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "20800英镑/年",
+    "qs_2026_rank": 461,
+    "usnews_2026_rank": 913,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_philosophy_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "322183f4-07d5-42a0-984d-1c7b4dec9f29",
+    "detail_page_url": "https://www.compassedu.hk/majr_67427",
+    "program_name": "伦敦大学皇家霍洛威学院政治哲学文学硕士",
+    "program_name_en": "MA Political Philosophy",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/philosophy/political-philosophy/",
+    "university_name": "伦敦大学皇家霍洛威学院",
+    "university_name_en": "Royal Holloway, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "7",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "26",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "69",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "20800英镑/年",
+    "qs_2026_rank": 461,
+    "usnews_2026_rank": 913,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_philosophy_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9afbcd6b-1858-4414-adcd-6ec3be8c036c",
+    "detail_page_url": "https://www.compassedu.hk/majr_77024",
+    "program_name": "伦敦大学亚非学院佛教研究与强化语言文学硕士",
+    "program_name_en": "MA Buddhist Studies with Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-buddhist-studies-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_philosophy_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f803b111-eb7e-4e5b-9755-69dbac9693b5",
+    "detail_page_url": "https://www.compassedu.hk/majr_77028",
+    "program_name": "伦敦大学亚非学院全球哲学文学硕士",
+    "program_name_en": "MA Global Philosophy",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-global-philosophy",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_philosophy_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8a12ce97-e0bc-4489-93a9-3ac3c87e2a1a",
+    "detail_page_url": "https://www.compassedu.hk/majr_77029",
+    "program_name": "伦敦大学亚非学院全球哲学与强化语言文学硕士",
+    "program_name_en": "MA Global Philosophy and Intensive Language",
+    "primary_category": "社科",
+    "secondary_category": "哲学",
+    "university_logo_url": "https://logo.compassedu.hk/32.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.soas.ac.uk/study/find-course/ma-global-philosophy-and-intensive-language",
+    "university_name": "伦敦大学亚非学院",
+    "university_name_en": "SOAS, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "23",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "25320英镑/年",
+    "qs_2026_rank": 511,
+    "usnews_2026_rank": 1667,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": null,
+    "qs_2026_philosophy_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

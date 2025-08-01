@@ -1,0 +1,2756 @@
+[
+  {
+    "completion_rate": "36 / 36",
+    "fail_count": 0,
+    "original_total": 162,
+    "classification": "QS200后"
+  },
+  {
+    "id": "a5cba32d-4d53-48d0-ab75-30a1ed9c9993",
+    "detail_page_url": "https://www.compassedu.hk/majr_64346",
+    "program_name": "亚琛工业大学生物医学工程",
+    "program_name_en": "M.Sc. Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/391.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rwth-aachen.de/go/id/bokx?lidx=1#aaaaaaaaaaaboky",
+    "university_name": "亚琛工业大学",
+    "university_name_en": "RWTH Aachen University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-03-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "2年",
+    "tuition": "600欧元/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": 225,
+    "the_2025_rank": 92,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "11b45557-2b87-4de6-b1c9-f3533681429f",
+    "detail_page_url": "https://www.compassedu.hk/majr_73714",
+    "program_name": "佛罗里达大学生物医学工程理学硕士",
+    "program_name_en": "MS in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bme.ufl.edu/academics/bme-graduate-program/ms-and-me/",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "30学分",
+    "tuition": "30,134美元",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "qs_2026_biological_rank": 87,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3866d958-d0d2-43a4-815e-6b4d34d67c40",
+    "detail_page_url": "https://www.compassedu.hk/majr_73715",
+    "program_name": "佛罗里达大学农业与生物工程硕士",
+    "program_name_en": "MEng in Agricultural and Biological Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://gradcatalog.ufl.edu/graduate/colleges-departments/engineering/agricultural-biological/agricultural-biological/#degreesofferedtext",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "地理信息系统"
+      },
+      {
+        "key": "2",
+        "value": "水文科学"
+      },
+      {
+        "key": "3",
+        "value": "湿地科学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "2年",
+    "tuition": "50,008美元",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "qs_2026_biological_rank": 87,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "08c4acc8-2aec-424b-9bee-169fdab91b3e",
+    "detail_page_url": "https://www.compassedu.hk/majr_73716",
+    "program_name": "佛罗里达大学农业与生物工程理学硕士",
+    "program_name_en": "MS in Agricultural and Biological Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/168.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://gradcatalog.ufl.edu/graduate/colleges-departments/engineering/agricultural-biological/agricultural-biological/#degreesofferedtext",
+    "university_name": "佛罗里达大学",
+    "university_name_en": "University of Florida",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生态农业"
+      },
+      {
+        "key": "2",
+        "value": "地理信息系统"
+      },
+      {
+        "key": "3",
+        "value": "水文科学"
+      },
+      {
+        "key": "4",
+        "value": "湿地科学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "2年",
+    "tuition": "50,008美元",
+    "qs_2026_rank": 212,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 130,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 152,
+    "qs_2026_biological_rank": 87,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "de29cfe0-2d13-4b80-90d9-324f40fa2d32",
+    "detail_page_url": "https://www.compassedu.hk/majr_64455",
+    "program_name": "拉夫堡大学生物医学工程理学硕士",
+    "program_name_en": "MSc Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/biomedical-engineering/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_engineering_and_technology_rank": 189,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "48841bc4-76f7-4f16-b6b6-8ad669661f5e",
+    "detail_page_url": "https://www.compassedu.hk/majr_64456",
+    "program_name": "拉夫堡大学生物技术理学硕士",
+    "program_name_en": "MSc Biotechnology",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/29.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/biotechnology/",
+    "university_name": "拉夫堡大学",
+    "university_name_en": "Loughborough University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "63",
+        "阅读": "63",
+        "写作": "63",
+        "口语": "63"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "29950英镑/年",
+    "qs_2026_rank": 225,
+    "usnews_2026_rank": 521,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 701,
+    "qs_2026_engineering_and_technology_rank": 189,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8ceb0f4b-a496-4f37-9b53-ed59a64ff411",
+    "detail_page_url": "https://www.compassedu.hk/majr_72042",
+    "program_name": "罗切斯特大学生物医学工程理学硕士",
+    "program_name_en": "MS in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/143.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hajim.rochester.edu/bme/graduate/ms.html",
+    "university_name": "罗切斯特大学",
+    "university_name_en": "University of Rochester",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "医药科技与创新"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "1818美元/学分",
+    "qs_2026_rank": 236,
+    "usnews_2026_rank": 201,
+    "the_2025_rank": 127,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 525.5,
+    "qs_2026_biological_rank": 375.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2a5211b9-d571-4f79-940d-fbed8f2f6057",
+    "detail_page_url": "https://www.compassedu.hk/majr_72032",
+    "program_name": "范德堡大学生物医学工程理学硕士",
+    "program_name_en": "MS in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/97.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.vanderbilt.edu/bme/GraduateProgram/index.php",
+    "university_name": "范德堡大学",
+    "university_name_en": "Vanderbilt University",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-01"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物材料和药物输送"
+      },
+      {
+        "key": "2",
+        "value": "生物力学和力学生物学"
+      },
+      {
+        "key": "3",
+        "value": "医疗器械和建模"
+      },
+      {
+        "key": "4",
+        "value": "医学影像"
+      },
+      {
+        "key": "5",
+        "value": "生物医学光子学"
+      },
+      {
+        "key": "6",
+        "value": "低资源和微流体诊断"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "89"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "2150美元/学分",
+    "qs_2026_rank": 250,
+    "usnews_2026_rank": 66,
+    "the_2025_rank": 90,
+    "arwu_2024_rank": 66,
+    "qs_2026_engineering_and_technology_rank": 525.5,
+    "qs_2026_biological_rank": 138,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "643b2192-dc97-4ee8-8ca7-37cbac9f8254",
+    "detail_page_url": "https://www.compassedu.hk/majr_53513",
+    "program_name": "思克莱德大学生物医学工程学理学硕士",
+    "program_name_en": "MSc Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/biomedicalengineering/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-19",
+        "application_end_date": [
+          "-"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "31100英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": 237,
+    "qs_2026_biological_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9081a822-d91d-4ca5-ae9e-7c803cad0589",
+    "detail_page_url": "https://www.compassedu.hk/majr_53609",
+    "program_name": "思克莱德大学生物医学科学理学硕士",
+    "program_name_en": "MSc Biomedical Sciences",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/51.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.strath.ac.uk/courses/postgraduatetaught/biomedicalsciences/",
+    "university_name": "思克莱德大学",
+    "university_name_en": "University of Strathclyde",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-14",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "73",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "60",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31250英镑/年",
+    "qs_2026_rank": 251,
+    "usnews_2026_rank": 427,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": 237,
+    "qs_2026_biological_rank": 475.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "180c4220-fac6-4442-9034-052cdef9c35b",
+    "detail_page_url": "https://www.compassedu.hk/majr_64514",
+    "program_name": "阿伯丁大学生物医学工程理学硕士",
+    "program_name_en": "MSc Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/394.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1223/biomedical-engineering/",
+    "university_name": "阿伯丁大学",
+    "university_name_en": "University of Aberdeen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 262,
+    "usnews_2026_rank": 371,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 394,
+    "qs_2026_biological_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "eb5a3afb-7653-43b0-8d0f-e3b2d89bd492",
+    "detail_page_url": "https://www.compassedu.hk/majr_72036",
+    "program_name": "弗吉尼亚大学生物医学工程理学硕士",
+    "program_name_en": "MS in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/105.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.virginia.edu/departments/biomedical-engineering/academics/graduate-program/ms",
+    "university_name": "弗吉尼亚大学",
+    "university_name_en": "University of Virginia",
+    "apply_time": [
+      {
+        "title": "22年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-12-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "18-24个月",
+    "tuition": "1753美元/学分",
+    "average_accepted_gpa": "3.5",
+    "qs_2026_rank": 275,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 163,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 341,
+    "qs_2026_biological_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "30e19d79-113f-47a7-a2da-b818305b91bb",
+    "detail_page_url": "https://www.compassedu.hk/majr_72037",
+    "program_name": "弗吉尼亚大学生物医学工程工学硕士",
+    "program_name_en": "MEng in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/105.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.virginia.edu/departments/biomedical-engineering/academics/graduate-program/me",
+    "university_name": "弗吉尼亚大学",
+    "university_name_en": "University of Virginia",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "18-24个月",
+    "tuition": "1753美元/学分",
+    "average_accepted_gpa": "3.5",
+    "qs_2026_rank": 275,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 163,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": 341,
+    "qs_2026_biological_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ac261a09-e4c8-459f-ad32-b3f7a269feea",
+    "detail_page_url": "https://www.compassedu.hk/majr_76075",
+    "program_name": "萨塞克斯大学生物医学工程理学硕士",
+    "program_name_en": "MSc Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/6.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sussex.ac.uk/study/masters/courses/biomedical-engineering-msc",
+    "university_name": "萨塞克斯大学",
+    "university_name_en": "University of Sussex",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "59",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26250英镑/年",
+    "qs_2026_rank": 278,
+    "usnews_2026_rank": 259,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 201,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a00a6e36-a394-4fe1-b069-152df94c9ffe",
+    "detail_page_url": "https://www.compassedu.hk/majr_71767",
+    "program_name": "匹兹堡大学生物工程医学产品工程专业硕士",
+    "program_name_en": "Professional MS in Bioengineering-Medical Product Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.engineering.pitt.edu/departments/bioengineering/programs/graduate/graduate-overview/",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [
+      {
+        "title": "22年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-12-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "3学期",
+    "tuition": "23476美元/学期",
+    "average_graduate_salary": "85000美元",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_engineering_and_technology_rank": 390,
+    "qs_2026_biological_rank": 122,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "07b589b0-f5ec-44fe-be7e-3ebac583e35a",
+    "detail_page_url": "https://www.compassedu.hk/majr_71768",
+    "program_name": "匹兹堡大学生物工程理学研究硕士",
+    "program_name_en": "Research MS Program in Bioengineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/169.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.engineering.pitt.edu/departments/bioengineering/programs/graduate/graduate-overview/",
+    "university_name": "匹兹堡大学",
+    "university_name_en": "University of Pittsburgh",
+    "apply_time": [
+      {
+        "title": "22年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-12-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "3学期",
+    "tuition": "23476美元/学期",
+    "qs_2026_rank": 281,
+    "usnews_2026_rank": 52,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 90,
+    "qs_2026_engineering_and_technology_rank": 390,
+    "qs_2026_biological_rank": 122,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fa985ae3-fc54-43ac-a91b-6f850b5fe18a",
+    "detail_page_url": "https://www.compassedu.hk/majr_72685",
+    "program_name": "乔治城大学生物信息学硕士",
+    "program_name_en": "MS in Bioinformatics",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/101.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://bioinformatics.georgetown.edu/",
+    "university_name": "乔治城大学",
+    "university_name_en": "Georgetown University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "30学分",
+    "tuition": "56,640美元",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "7ee9ee7b-06e1-479a-bf3d-3297b3619537",
+    "detail_page_url": "https://www.compassedu.hk/majr_72686",
+    "program_name": "乔治城大学生物技术硕士",
+    "program_name_en": "MS in Biotechnology",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/101.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://grad.georgetown.edu/admissions/programs/biotechnology",
+    "university_name": "乔治城大学",
+    "university_name_en": "Georgetown University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物业务"
+      },
+      {
+        "key": "2",
+        "value": "生命科学"
+      },
+      {
+        "key": "3",
+        "value": "药物设计与发现"
+      },
+      {
+        "key": "4",
+        "value": "创业"
+      },
+      {
+        "key": "5",
+        "value": "工业科学"
+      },
+      {
+        "key": "6",
+        "value": "细胞和基因治疗"
+      },
+      {
+        "key": "7",
+        "value": "个性定制"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "春季/秋季",
+    "duration": "30学分",
+    "tuition": "56,640美元",
+    "qs_2026_rank": 285,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e356f738-4033-4c4c-9bc4-00baa581e1b5",
+    "detail_page_url": "https://www.compassedu.hk/majr_75504",
+    "program_name": "赫瑞瓦特大学生物医学工程理学硕士（赫瑞瓦特大学-爱丁堡大学联合开设）",
+    "program_name_en": "Joint MSc Biomedical Engineering (Heriot-Watt-Edinburgh)",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/395.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.hw.ac.uk/study/postgraduate/biomedical-engineering",
+    "university_name": "赫瑞瓦特大学",
+    "university_name_en": "Heriot-Watt University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-08-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "37300英镑/年",
+    "qs_2026_rank": 287,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_engineering_and_technology_rank": 254,
+    "qs_2026_biological_rank": 675.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "266e727f-363d-4f6b-afd0-f6763fb63e30",
+    "detail_page_url": "https://www.compassedu.hk/majr_63466",
+    "program_name": "荷语布鲁塞尔自由大学生物医学工程理学硕士",
+    "program_name_en": "Master of Science in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/376.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.vub.be/en/study/international-master-of-science-in-biomedical-engineering/",
+    "university_name": "荷语布鲁塞尔自由大学",
+    "university_name_en": "Vrije Universiteit Brussel",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "3422欧元/年",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 349,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": 345,
+    "qs_2026_biological_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5f6dbbd8-bfe3-4d47-8fe2-df438fcf66da",
+    "detail_page_url": "https://www.compassedu.hk/majr_63469",
+    "program_name": "荷语布鲁塞尔自由大学生物医学工程理学硕士",
+    "program_name_en": "Master of Science in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/376.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.vub.be/en/study/biomedical-engineering/",
+    "university_name": "荷语布鲁塞尔自由大学",
+    "university_name_en": "Vrije Universiteit Brussel",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-15",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "3422欧元/年",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 349,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_engineering_and_technology_rank": 345,
+    "qs_2026_biological_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "14effaed-d7ba-4eed-a118-8df5aaa62904",
+    "detail_page_url": "https://www.compassedu.hk/majr_72044",
+    "program_name": "凯斯西储大学生物医学工程理学硕士",
+    "program_name_en": "MS in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/146.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.case.edu/ebme/academics/graduate",
+    "university_name": "凯斯西储大学",
+    "university_name_en": "Case Western Reserve University",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-07-31"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物材料与组织工程"
+      },
+      {
+        "key": "2",
+        "value": "生物医学影像"
+      },
+      {
+        "key": "3",
+        "value": "神经工程与康复"
+      },
+      {
+        "key": "4",
+        "value": "大数据分析与健康信息学"
+      },
+      {
+        "key": "5",
+        "value": "代谢组学与系统生物学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "80%（typical）"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "2057美元/学分",
+    "average_accepted_gpa": "3.5以上",
+    "average_admitted_gre": "80%",
+    "qs_2026_rank": 294,
+    "usnews_2026_rank": 176,
+    "the_2025_rank": 159,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": 425.5,
+    "qs_2026_biological_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ee1f5307-4468-4fba-a16c-78e7bbd3a32d",
+    "detail_page_url": "https://www.compassedu.hk/majr_71757",
+    "program_name": "塔夫茨大学生物工程理学硕士",
+    "program_name_en": "MS in Bioengineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/108.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://asegrad.tufts.edu/academics/explore-graduate-programs/bioengineering",
+    "university_name": "塔夫茨大学",
+    "university_name_en": "Tufts University",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-15"
+        ]
+      }
+    ],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "生物信息学"
+      },
+      {
+        "key": "2",
+        "value": "生物材料"
+      },
+      {
+        "key": "3",
+        "value": "生物力学系统和设备"
+      },
+      {
+        "key": "4",
+        "value": "细胞和生物处理工程"
+      },
+      {
+        "key": "5",
+        "value": "环境生物技术"
+      },
+      {
+        "key": "6",
+        "value": "信号与系统"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "30学分",
+    "tuition": "1697美元/学分",
+    "qs_2026_rank": 334,
+    "usnews_2026_rank": 296,
+    "the_2025_rank": 179,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a8b48978-b665-4aba-8358-7fbd13db70f3",
+    "detail_page_url": "https://www.compassedu.hk/majr_72038",
+    "program_name": "塔夫茨大学生物医学工程理学硕士",
+    "program_name_en": "MS in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/108.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://engineering.tufts.edu/bme/prospective-students/masters",
+    "university_name": "塔夫茨大学",
+    "university_name_en": "Tufts University",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-09-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "30学分",
+    "tuition": "50910美元/年",
+    "qs_2026_rank": 334,
+    "usnews_2026_rank": 296,
+    "the_2025_rank": 179,
+    "arwu_2024_rank": 151,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cd68f95e-9ee9-40a6-a49e-7f63a29808cd",
+    "detail_page_url": "https://www.compassedu.hk/majr_53267",
+    "program_name": "邓迪大学生物医学工程理学硕士",
+    "program_name_en": "MSc Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/biomedical-engineering",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-10-20",
+        "application_end_date": [
+          "2024-11-18"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "27900英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "57aea975-485c-4384-bff6-69b49e5fe34c",
+    "detail_page_url": "https://www.compassedu.hk/majr_67434",
+    "program_name": "邓迪大学生物医学与分子科学理学硕士",
+    "program_name_en": "MSc Biomedical and Molecular Sciences",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/biomedical-molecular-sciences",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27900英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "af0ab797-a4f4-48a8-83fc-3c75318c0803",
+    "detail_page_url": "https://www.compassedu.hk/majr_67435",
+    "program_name": "邓迪大学生物医学与分子科学和商业理学硕士",
+    "program_name_en": "MSc Biomedical and Molecular Sciences with Business",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/biomedical-molecular-sciences-business",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5616308f-52b3-43a0-a1d0-660f34ce700f",
+    "detail_page_url": "https://www.compassedu.hk/majr_67436",
+    "program_name": "邓迪大学生物医学与分子科学和创业学理学硕士",
+    "program_name_en": "MSc Biomedical and Molecular Sciences with Entrepreneurship",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/biomedical-molecular-sciences-entrepreneurship",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b9d436eb-e3a7-4084-bb4a-31b3e4d705c7",
+    "detail_page_url": "https://www.compassedu.hk/majr_67437",
+    "program_name": "邓迪大学生物医学与分子科学和管理理学硕士",
+    "program_name_en": "MSc Biomedical and Molecular Sciences with Management",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/biomedical-molecular-sciences-management",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b440172a-8eed-4408-a687-88fa461826df",
+    "detail_page_url": "https://www.compassedu.hk/majr_67438",
+    "program_name": "邓迪大学生物医学与分子科学和市场营销理学硕士",
+    "program_name_en": "MSc Biomedical and Molecular Sciences with Marketing",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/57.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.dundee.ac.uk/postgraduate/biomedical-molecular-sciences-marketing",
+    "university_name": "邓迪大学",
+    "university_name_en": "University of Dundee",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23000英镑/年",
+    "qs_2026_rank": 428,
+    "usnews_2026_rank": 399,
+    "the_2025_rank": 301,
+    "arwu_2024_rank": 401,
+    "qs_2026_engineering_and_technology_rank": null,
+    "qs_2026_biological_rank": 187,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e0e25f0b-7a9d-48ac-9527-f94f7729a6f5",
+    "detail_page_url": "https://www.compassedu.hk/majr_74207",
+    "program_name": "伦敦大学皇家霍洛威学院生物医学电子工程理学硕士",
+    "program_name_en": "MSc Biomedical Electronic Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/36.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.royalholloway.ac.uk/studying-here/postgraduate/electronic-engineering/biomedical-electronic-engineering/",
+    "university_name": "伦敦大学皇家霍洛威学院",
+    "university_name_en": "Royal Holloway, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-07-13"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "51",
+        "阅读": "51",
+        "写作": "51",
+        "口语": "51"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26100英镑/年",
+    "qs_2026_rank": 461,
+    "usnews_2026_rank": 913,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 801,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8b20e194-a190-4fdc-97dc-a9cd375882fb",
+    "detail_page_url": "https://www.compassedu.hk/majr_63372",
+    "program_name": "法语布鲁塞尔自由大学生物工程",
+    "program_name_en": "Master of science in Biomedical Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/371.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ulb.be/en/programme/ma-ircb",
+    "university_name": "法语布鲁塞尔自由大学",
+    "university_name_en": "Université Libre de Bruxelles",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-02-16",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "5.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "2505欧元/年",
+    "qs_2026_rank": 227,
+    "usnews_2026_rank": 252,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 101,
+    "qs_2026_engineering_and_technology_rank": 314,
+    "qs_2026_biological_rank": 173,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aaa9171d-f655-43f5-8958-791a0167ef81",
+    "detail_page_url": "https://www.compassedu.hk/majr_71766",
+    "program_name": "雪城大学生物工程理学硕士",
+    "program_name_en": "MS in Bioengineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/173.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://ecs.syracuse.edu/academics/biomedical-and-chemical-engineering/programs/bioengineering-master-program?_ga=2.235284163.312042701.1647223613-414",
+    "university_name": "雪城大学",
+    "university_name_en": "Syracuse University",
+    "apply_time": [
+      {
+        "title": "22年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2022-10-01",
+          "2022-11-15"
+        ]
+      },
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-03-01",
+          "2023-06-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "L20,R20,S20,W21"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "L6.5,R6.5,S6.5,W6"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "30-36学分",
+    "tuition": "1734美元/学分",
+    "average_accepted_gpa": "3.3",
+    "average_admitted_gre": "Q163, V48",
+    "average_graduate_salary": "55000-64999美元",
+    "qs_2026_rank": 745.5,
+    "usnews_2026_rank": 483,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 701,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "76a78810-9373-47ee-a3ab-4945053e84e3",
+    "detail_page_url": "https://www.compassedu.hk/majr_72137",
+    "program_name": "伦斯勒理工学院化学与生物工程理学硕士",
+    "program_name_en": "MS in Chemical and Biological Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/159.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://cbe.rpi.edu/graduate/masters-programs",
+    "university_name": "伦斯勒理工学院",
+    "university_name_en": "Rensselaer Polytechnic Institute",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "58600美元/年",
+    "qs_2026_rank": 695,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fb16482c-4e89-4c04-aafb-9fc73bacc67f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72138",
+    "program_name": "伦斯勒理工学院化学与生物工程工学硕士",
+    "program_name_en": "M.Eng in Chemical and Biological Engineering",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/159.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://cbe.rpi.edu/graduate/masters-programs",
+    "university_name": "伦斯勒理工学院",
+    "university_name_en": "Rensselaer Polytechnic Institute",
+    "apply_time": [
+      {
+        "title": "23年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-01-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "88"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "58600美元/年",
+    "qs_2026_rank": 695,
+    "usnews_2026_rank": 937,
+    "the_2025_rank": 401,
+    "arwu_2024_rank": 501,
+    "qs_2026_engineering_and_technology_rank": 425.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "df5707a9-9c45-447e-9192-9d19efa56b1a",
+    "detail_page_url": "https://www.compassedu.hk/majr_74813",
+    "program_name": "伦敦大学城市学院生物医学工程与数据分析理学硕士",
+    "program_name_en": "MSc Biomedical Engineering with Data Analytics",
+    "primary_category": "工科",
+    "secondary_category": "生物工程",
+    "university_logo_url": "https://logo.compassedu.hk/396.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.city.ac.uk/prospective-students/courses/postgraduate/biomedical-engineering-with-data-analytics",
+    "university_name": "伦敦大学城市学院",
+    "university_name_en": "City, University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "22850英镑/年",
+    "qs_2026_rank": null,
+    "usnews_2026_rank": null,
+    "the_2025_rank": 351,
+    "arwu_2024_rank": null,
+    "qs_2026_engineering_and_technology_rank": null,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

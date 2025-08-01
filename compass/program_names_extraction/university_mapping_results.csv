@@ -1,0 +1,17 @@
+﻿目标大学名称,匹配成功,排名文件中文名,排名文件英文名,国家地区,QS_2026,USNews_2026,匹配类型,备注
+东北大学（美国）,是,东北大学,Northeastern University,美国,384,220,exact_with_country,匹配到1个结果，选择第一个
+西北大学（美国）,是,西北大学,Northwestern University,美国,42,24,exact_with_country,匹配到1个结果，选择第一个
+苏黎世联邦理工大学,是,苏黎世联邦理工学院,ETH Zurich,瑞士,7,35,keyword,匹配到1个结果，选择第一个
+荷语鲁汶大学,是,天主教鲁汶大学（荷兰语区）,KU Leuven,比利时,60,50,keyword,匹配到4个结果，选择第一个
+弗吉尼亚理工大学,是,弗吉尼亚理工,Virginia Polytechnic Institute and State University,美国,358,281,keyword,匹配到1个结果，选择第一个
+德州大学达拉斯分校,是,德克萨斯大学-达拉斯,The University of Texas at Dallas,美国,597,537,regex,匹配到2个结果，选择第一个
+伍伦贡大学,是,卧龙岗大学,University of Wollongong,澳大利亚,184,212,keyword,匹配到1个结果，选择第一个
+南安普顿大学马来西亚分校,是,南安普顿大学,University of Southampton,英国,87,118,keyword,匹配到1个结果，选择第一个
+马来西亚莫纳什大学,是,蒙纳士大学,Monash University,澳大利亚,36,38,keyword,匹配到1个结果，选择第一个
+纽约市立大学巴鲁克学院,是,纽约市立大学,City University of New York,美国,613,-,keyword,匹配到6个结果，选择第一个
+约克大学（英国）,是,约克大学,University of York,英国,169,302,exact_with_country,匹配到1个结果，选择第一个
+纽卡斯尔大学（英国）,是,纽卡斯尔大学,Newcastle University,英国,137,170,exact_with_country,匹配到1个结果，选择第一个
+皇家墨尔本理工大学,是,墨尔本皇家理工大学,RMIT University,澳大利亚,125,198,keyword,匹配到1个结果，选择第一个
+北卡罗来纳州立大学罗利分校,是,北卡罗来纳州立大学,North Carolina State University,美国,272,269,keyword,匹配到1个结果，选择第一个
+马来西亚国立大学,否,,,,,,regex,未找到匹配
+伦敦大学城市学院,是,伦敦大学城市学院,City University London,英国,-,-,regex,匹配到1个结果，选择第一个

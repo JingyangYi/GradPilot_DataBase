@@ -1,0 +1,3591 @@
+[
+  {
+    "completion_rate": "46 / 46",
+    "fail_count": 0,
+    "original_total": 78,
+    "classification": "QS前200"
+  },
+  {
+    "id": "78740df7-fd4b-41dc-aca3-53bce1e962f8",
+    "detail_page_url": "https://www.compassedu.hk/majr_1671",
+    "program_name": "新加坡国立大学供应链管理理学硕士",
+    "program_name_en": "MSc Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/40.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://tliap.nus.edu.sg/education/",
+    "university_name": "新加坡国立大学",
+    "university_name_en": "National University of Singapore",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-28",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/8月",
+    "duration": "1年",
+    "tuition": "55590新币/年",
+    "qs_2026_rank": 8,
+    "usnews_2026_rank": 20,
+    "the_2025_rank": 17,
+    "arwu_2024_rank": 68,
+    "qs_2026_business_rank": 8,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "2d0e2134-9959-4c41-b2f2-827b8612909d",
+    "detail_page_url": "https://www.compassedu.hk/majr_4855",
+    "program_name": "南洋理工大学供应链工程理学硕士",
+    "program_name_en": "MSc Supply Chain Engineering",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/39.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ntu.edu.sg/mae/admissions/programmes/graduate-programmes/detail/master-of-science-in-supply-chain-logistics",
+    "university_name": "南洋理工大学",
+    "university_name_en": "Nanyang Technological University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-11-04",
+        "application_end_date": [
+          "2025-02-28"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-01",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "85",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/8月",
+    "duration": "1年",
+    "tuition": "51503新币/年",
+    "qs_2026_rank": 12,
+    "usnews_2026_rank": 28,
+    "the_2025_rank": 30,
+    "arwu_2024_rank": 90,
+    "qs_2026_business_rank": 14,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e30c562b-84cd-4a8b-a476-b75ddf40fb49",
+    "detail_page_url": "https://www.compassedu.hk/majr_53917",
+    "program_name": "悉尼大学物流与供应链管理硕士",
+    "program_name_en": "Master of Logistics and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-logistics-and-supply-chain-management.html",
+    "university_name": "悉尼大学",
+    "university_name_en": "The University of Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-01"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-15"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "17",
+        "阅读": "17",
+        "写作": "19",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "72",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "58800澳元/年",
+    "qs_2026_rank": 25,
+    "usnews_2026_rank": 29,
+    "the_2025_rank": 61,
+    "arwu_2024_rank": 74,
+    "qs_2026_business_rank": 56,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e949bc8f-f732-4932-931c-c28e6a6cc4f3",
+    "detail_page_url": "https://www.compassedu.hk/majr_52616",
+    "program_name": "曼彻斯特大学运营、项目与供应链管理理学硕士",
+    "program_name_en": "MSc Operations, Project and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/49.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.manchester.ac.uk/study/masters/courses/list/07783/msc-operations-project-and-supply-chain-management/",
+    "university_name": "曼彻斯特大学",
+    "university_name_en": "The University of Manchester",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-10",
+        "application_end_date": [
+          "2024-12-07",
+          "2025-03-02",
+          "2025-05-04",
+          "2025-07-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "70",
+        "阅读": "70",
+        "写作": "70",
+        "口语": "70"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29000英镑/年",
+    "qs_2026_rank": 35,
+    "usnews_2026_rank": 68,
+    "the_2025_rank": 53,
+    "arwu_2024_rank": 52,
+    "qs_2026_business_rank": 45,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5901e68f-d1f0-4223-851f-cd405775b2fc",
+    "detail_page_url": "https://www.compassedu.hk/majr_72708",
+    "program_name": "密歇根大学安娜堡分校供应链管理硕士",
+    "program_name_en": "Master of Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/107.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://michiganross.umich.edu/programs/master-of-supply-chain-management",
+    "university_name": "密歇根大学安娜堡分校",
+    "university_name_en": "University of Michigan, Ann Arbor",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "小分要求": ""
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "机面（kira）",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "十个月",
+    "tuition": "62,415美元",
+    "qs_2026_rank": 45,
+    "usnews_2026_rank": 21,
+    "the_2025_rank": 22,
+    "arwu_2024_rank": 30,
+    "qs_2026_business_rank": 29,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aa51c240-8d3a-458d-a3d9-1e97aef64099",
+    "detail_page_url": "https://www.compassedu.hk/majr_62343",
+    "program_name": "布里斯托大学全球运营与供应链管理理学硕士",
+    "program_name_en": "MSc Global Operations and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/23.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-global-operations-and-supply-chain-management/",
+    "university_name": "布里斯托大学",
+    "university_name_en": "University of Bristol",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-09-20",
+        "application_end_date": [
+          "2023-11-21"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-18",
+        "application_end_date": [
+          "2025-07-25"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32300英镑/年",
+    "qs_2026_rank": 51,
+    "usnews_2026_rank": 105,
+    "the_2025_rank": 78,
+    "arwu_2024_rank": 97,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "bdbc4ad4-14fd-471b-b9b8-c8608e28311d",
+    "detail_page_url": "https://www.compassedu.hk/majr_49704",
+    "program_name": "香港理工大学供应链与物流管理理学硕士",
+    "program_name_en": "MSc Supply Chain and Logistics Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/45080-sfm-sfp-sqm-sqp",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-10-31"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-12-15",
+          "2026-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "1/8月",
+    "duration": "1.5年",
+    "tuition": "154000港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 46,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3bcaa9df-eb3f-45f6-8983-efd1ff317c38",
+    "detail_page_url": "https://www.compassedu.hk/majr_62394",
+    "program_name": "香港理工大学全球供应链管理理学硕士",
+    "program_name_en": "MSc Global Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/44089-sfm-sfp-gpm-spp",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-25",
+        "application_end_date": [
+          "2024-11-21",
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "207000港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 46,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fd2352de-23fe-4737-9f90-a42ae4d0a5b8",
+    "detail_page_url": "https://www.compassedu.hk/majr_64396",
+    "program_name": "香港理工大学营运管理学理学硕士",
+    "program_name_en": "MSc Operations Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/44.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.polyu.edu.hk/study/pg/tpg/2026/44092-ofm-opm",
+    "university_name": "香港理工大学",
+    "university_name_en": "The Hong Kong Polytechnic University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-25",
+        "application_end_date": [
+          "2024-11-21",
+          "2025-04-30"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-07-02",
+        "application_end_date": [
+          "2025-10-15",
+          "2026-01-15",
+          "2026-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "真人单面",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "207000港币/年",
+    "qs_2026_rank": 54,
+    "usnews_2026_rank": 58,
+    "the_2025_rank": 84,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 46,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4f306544-73fb-424d-920b-4d6c75f6219d",
+    "detail_page_url": "https://www.compassedu.hk/majr_1868",
+    "program_name": "香港城市大学营运与供应链管理理学硕士",
+    "program_name_en": "MSc Operations and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/43.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cityu.edu.hk/pg/programme/p09",
+    "university_name": "香港城市大学",
+    "university_name_en": "City University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-04-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "六级",
+        "总分要求": "450"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "261000港币/年",
+    "qs_2026_rank": 63,
+    "usnews_2026_rank": 54,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 61,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4e10e276-d23b-4404-99cf-1354394bc313",
+    "detail_page_url": "https://www.compassedu.hk/majr_50315",
+    "program_name": "华威大学供应链与物流管理理学硕士",
+    "program_name_en": "MSc Supply Chain and Logistics Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/15.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://warwick.ac.uk/study/postgraduate/courses/msc-supply-chain-logistics-management",
+    "university_name": "华威大学",
+    "university_name_en": "The University of Warwick",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-08-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "机面（video）",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "35340英镑/年",
+    "qs_2026_rank": 74,
+    "usnews_2026_rank": 182,
+    "the_2025_rank": 106,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 35,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4f643c3b-3f2c-4f19-959e-a4eda09c98c0",
+    "detail_page_url": "https://www.compassedu.hk/majr_72370",
+    "program_name": "伯明翰大学供应链管理理学硕士",
+    "program_name_en": "MSc Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/34.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/business-and-management-courses/supply-chain-management-msc",
+    "university_name": "伯明翰大学",
+    "university_name_en": "University of Birmingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "22",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "34930英镑/年",
+    "qs_2026_rank": 76,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 93,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 143,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fe3ba4a2-a280-462f-82ce-7318431d389a",
+    "detail_page_url": "https://www.compassedu.hk/majr_54342",
+    "program_name": "西澳大学商业信息与物流管理硕士",
+    "program_name_en": "Master of Business Information and Logistics Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/292.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uwa.edu.au/study/Courses/Master-of-Business-Information-and-Logistics-Management",
+    "university_name": "西澳大学",
+    "university_name_en": "The University of Western Australia",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-01-13"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2023-04-01",
+        "application_end_date": [
+          "2025-06-09"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-02-23"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2024-04-01",
+        "application_end_date": [
+          "2026-07-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "82",
+        "听力": "20",
+        "阅读": "18",
+        "写作": "22",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "49500澳元/年",
+    "qs_2026_rank": 77,
+    "usnews_2026_rank": 98,
+    "the_2025_rank": 149,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e31665f9-bce3-4131-a4b6-a518e17a00ce",
+    "detail_page_url": "https://www.compassedu.hk/majr_72989",
+    "program_name": "华盛顿大学供应链管理硕士",
+    "program_name_en": "Master of Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/151.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://foster.uw.edu/academics/degree-programs/master-of-supply-chain-management/",
+    "university_name": "华盛顿大学",
+    "university_name_en": "University of Washington",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "92"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "600"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "310"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "夏季/秋季",
+    "duration": "1年",
+    "tuition": "56,127美元/年",
+    "program_size": "39人",
+    "qs_2026_rank": 81,
+    "usnews_2026_rank": 8,
+    "the_2025_rank": 25,
+    "arwu_2024_rank": 18,
+    "qs_2026_business_rank": 99,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4572c23-25c7-41f2-8648-4c8e9ae5b118",
+    "detail_page_url": "https://www.compassedu.hk/majr_76381",
+    "program_name": "阿德莱德大学采购与供应链管理硕士",
+    "program_name_en": "Master of Procurement and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/293.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://adelaideuni.edu.au/study/degrees/master-of-procurement-and-supply-chain-management/int/",
+    "university_name": "阿德莱德大学",
+    "university_name_en": "The University of Adelaide",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "50500澳元/年",
+    "qs_2026_rank": 82,
+    "usnews_2026_rank": 99,
+    "the_2025_rank": 128,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "88320e32-c4eb-4a75-8a69-6ef611912537",
+    "detail_page_url": "https://www.compassedu.hk/majr_76424",
+    "program_name": "宾夕法尼亚州立大学供应链管理硕士",
+    "program_name_en": "Master of Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/153.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://mscm.smeal.psu.edu/",
+    "university_name": "宾夕法尼亚州立大学",
+    "university_name_en": "Pennsylvania State University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "S19"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "9个月",
+    "qs_2026_rank": 82,
+    "usnews_2026_rank": 91,
+    "the_2025_rank": 100,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 68,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "54e5b203-b3e5-41f5-8b47-b01b95ad6ee1",
+    "detail_page_url": "https://www.compassedu.hk/majr_50996",
+    "program_name": "利兹大学全球供应链管理理学硕士",
+    "program_name_en": "MSc Global Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/g505/global-supply-chain-management-msc",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-06-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30500英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "24404d85-287d-4e11-9064-bacbd3221682",
+    "detail_page_url": "https://www.compassedu.hk/majr_51309",
+    "program_name": "南安普顿大学物流与供应链分析理学硕士",
+    "program_name_en": "MSc Logistics and Supply Chain Analytics",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/logistics-supply-chain-analytics-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32800英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e4c8f574-cb0c-48b8-8143-7f7834129228",
+    "detail_page_url": "https://www.compassedu.hk/majr_72365",
+    "program_name": "南安普顿大学战略运营与供应链管理理学硕士",
+    "program_name_en": "MSc Strategic Operations and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/28.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.southampton.ac.uk/courses/strategic-operations-supply-chain-management-masters-msc",
+    "university_name": "南安普顿大学",
+    "university_name_en": "University of Southampton",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-26",
+        "application_end_date": [
+          "2025-08-26"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "21",
+        "阅读": "22",
+        "写作": "21",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "64",
+        "阅读": "64",
+        "写作": "64",
+        "口语": "64"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32800英镑/年",
+    "qs_2026_rank": 87,
+    "usnews_2026_rank": 118,
+    "the_2025_rank": 115,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "1d25c442-d6ab-4ab3-b1c8-9a500091f992",
+    "detail_page_url": "https://www.compassedu.hk/majr_72847",
+    "program_name": "波士顿大学供应链管理硕士",
+    "program_name_en": "MS in Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/139.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bu.edu/met/degrees-certificates/ms-supply-chain-management/",
+    "university_name": "波士顿大学",
+    "university_name_en": "Boston University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "分析"
+      },
+      {
+        "key": "2",
+        "value": "物流管理"
+      },
+      {
+        "key": "3",
+        "value": "风险管理"
+      },
+      {
+        "key": "4",
+        "value": "全球业务（目前不接受申请）"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "84",
+        "小分要求": "R:21,L:18,S:23,W:22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "12-20个月",
+    "tuition": "61,050美元",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 75,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 78,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "a63a070a-fe5f-46b8-b523-08251ca72ac2",
+    "detail_page_url": "https://www.compassedu.hk/majr_73859",
+    "program_name": "普渡大学西拉法叶分校全球供应链管理硕士",
+    "program_name_en": "MS in Global Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/171.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://business.purdue.edu/masters/programs/ms-global-supply-chain-management/",
+    "university_name": "普渡大学西拉法叶分校",
+    "university_name_en": "Purdue University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "105",
+        "小分要求": "R22,L19,S22,W22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "8.0",
+        "小分要求": "R7.5,L7.0,S7.5,W7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季/春季",
+    "duration": "10-18个月",
+    "tuition": "1,575美元/学分",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 173,
+    "the_2025_rank": 79,
+    "arwu_2024_rank": 100,
+    "qs_2026_business_rank": 96,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9641d689-c3cb-4430-a2ec-7d93482dcff1",
+    "detail_page_url": "https://www.compassedu.hk/majr_51808",
+    "program_name": "谢菲尔德大学物流与供应链管理理学硕士",
+    "program_name_en": "MSc Logistics and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/logistics-and-supply-chain-management-msc",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31190英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0d274680-426a-4c61-8d37-0e01eda7e6b9",
+    "detail_page_url": "https://www.compassedu.hk/majr_50181",
+    "program_name": "杜伦大学管理学（供应链物流）理学硕士",
+    "program_name_en": "MSc Management (Supply Chain Logistics)",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/12.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.durham.ac.uk/business/courses/management-supply-chain-logistics-n2p909/september-2025/",
+    "university_name": "杜伦大学",
+    "university_name_en": "Durham University",
+    "apply_time": [
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "2023-10-01",
+        "application_end_date": [
+          "2024-02-27"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "102",
+        "听力": "23",
+        "阅读": "23",
+        "写作": "23",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "68",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "32500英镑/年",
+    "qs_2026_rank": 94,
+    "usnews_2026_rank": 292,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 121,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "247ac362-0388-4437-b10d-d2467e926c62",
+    "detail_page_url": "https://www.compassedu.hk/majr_73138",
+    "program_name": "悉尼科技大学战略供应链管理硕士",
+    "program_name_en": "Master of Strategic Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-strategic-supply-chain-management",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "21",
+        "口语": "/"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "50016澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "53d6e09e-6a21-4336-85bc-d6d4bcbe2eaa",
+    "detail_page_url": "https://www.compassedu.hk/majr_73139",
+    "program_name": "悉尼科技大学战略供应链管理硕士（扩展）",
+    "program_name_en": "Master of Strategic Supply Chain Management (Extension)",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/410.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.uts.edu.au/study/find-a-course/master-strategic-supply-chain-management-extension",
+    "university_name": "悉尼科技大学",
+    "university_name_en": "University of Technology Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-30",
+        "application_end_date": [
+          "2024-11-30"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2025-05-16"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "50",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "2年",
+    "tuition": "50016澳元/年",
+    "qs_2026_rank": 96,
+    "usnews_2026_rank": 83,
+    "the_2025_rank": 154,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5f66ce6e-0989-4fb1-a073-ea178b8bf185",
+    "detail_page_url": "https://www.compassedu.hk/majr_52278",
+    "program_name": "诺丁汉大学供应链与运营管理理学硕士",
+    "program_name_en": "MSc Supply Chain and Operations Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/25.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.nottingham.ac.uk/pgstudy/course/taught/supply-chain-and-operations-management-msc",
+    "university_name": "诺丁汉大学",
+    "university_name_en": "University of Nottingham",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-06-21",
+        "application_end_date": [
+          "2025-08-04"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30750英镑/年",
+    "qs_2026_rank": 97,
+    "usnews_2026_rank": 153,
+    "the_2025_rank": 136,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 131,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "038f0900-6380-4ed5-9c98-3d59cafd9c5f",
+    "detail_page_url": "https://www.compassedu.hk/majr_72828",
+    "program_name": "威斯康星大学麦迪逊分校供应链管理理学硕士",
+    "program_name_en": "MS in Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/152.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://wsb.wisc.edu/programs-degrees/masters/supply-chain",
+    "university_name": "威斯康星大学麦迪逊分校",
+    "university_name_en": "University of Wisconsin-Madison",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "49,913美元",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 72,
+    "the_2025_rank": 56,
+    "arwu_2024_rank": 36,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4c9d0f71-8530-4ef3-8968-87508d68588f",
+    "detail_page_url": "https://www.compassedu.hk/majr_74578",
+    "program_name": "伦敦大学玛丽皇后学院供应链管理理学硕士",
+    "program_name_en": "MSc Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/54.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/supply-chain-management-msc/",
+    "university_name": "伦敦大学玛丽皇后学院",
+    "university_name_en": "Queen Mary University of London",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-12",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "92",
+        "听力": "18",
+        "阅读": "19",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "71",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "33500英镑/年",
+    "qs_2026_rank": 110,
+    "usnews_2026_rank": 94,
+    "the_2025_rank": 141,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 325.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "08e517b9-84a9-4454-a0fe-fc7bf1ee47df",
+    "detail_page_url": "https://www.compassedu.hk/majr_74395",
+    "program_name": "皇家墨尔本理工大学供应链与物流管理硕士",
+    "program_name_en": "Master of Supply Chain and Logistics Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/413.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-supply-chain-and-logistics-management-mc198",
+    "university_name": "皇家墨尔本理工大学",
+    "university_name_en": "Royal Melbourne Institute of Technology",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-03-05"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-03-11",
+        "application_end_date": [
+          "2025-07-23"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-07-28",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "12",
+        "阅读": "13",
+        "写作": "21",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "48000澳元/年",
+    "qs_2026_rank": 125,
+    "usnews_2026_rank": 198,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 149,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 149
+  },
+  {
+    "id": "ce736fcb-ad7c-4ed0-8e90-2971ed7a2576",
+    "detail_page_url": "https://www.compassedu.hk/majr_50859",
+    "program_name": "巴斯大学操作、物流与供应链管理理学硕士",
+    "program_name_en": "MSc Operations, Logistics and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/20.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.bath.ac.uk/courses/postgraduate-2025/taught-postgraduate-courses/msc-operations-logistics-and-supply-chain-management/",
+    "university_name": "巴斯大学",
+    "university_name_en": "University of Bath",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-20",
+        "application_end_date": [
+          "2025-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "24"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "30500英镑/年",
+    "qs_2026_rank": 132,
+    "usnews_2026_rank": 403,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 501,
+    "qs_2026_business_rank": 102,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "03557f63-661e-41bf-94f8-81392d439e12",
+    "detail_page_url": "https://www.compassedu.hk/majr_52015",
+    "program_name": "纽卡斯尔大学（英国）运营、物流与供应链管理理学硕士",
+    "program_name_en": "MSc Operations, Logistics and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/5154f/",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "65",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28700英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_business_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 225
+  },
+  {
+    "id": "39efcea9-2398-4ec3-8c1e-329f24e2a7cb",
+    "detail_page_url": "https://www.compassedu.hk/majr_64206",
+    "program_name": "埃因霍芬理工大学运营管理和物流理学硕士",
+    "program_name_en": "MSc Operations Management and Logistics",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/386.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.tue.nl/en/education/graduate-school/master-operations-management-and-logistics/",
+    "university_name": "埃因霍芬理工大学",
+    "university_name_en": "Eindhoven University of Technology",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "2年",
+    "tuition": "17250欧元/年",
+    "qs_2026_rank": 140,
+    "usnews_2026_rank": 409,
+    "the_2025_rank": 185,
+    "arwu_2024_rank": 401,
+    "qs_2026_business_rank": 275.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "056084e5-fad7-458a-a6bd-d346374c929e",
+    "detail_page_url": "https://www.compassedu.hk/majr_72728",
+    "program_name": "南加州大学全球供应链管理理学硕士",
+    "program_name_en": "MS in Global Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/103.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-global-supply-chain-management",
+    "university_name": "南加州大学",
+    "university_name_en": "University of Southern California",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "R:20,L:20,S:20,W:20,"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "30学分",
+    "tuition": "66,000 美元",
+    "qs_2026_rank": 146,
+    "usnews_2026_rank": 77,
+    "the_2025_rank": 72,
+    "arwu_2024_rank": 62,
+    "qs_2026_business_rank": 72,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "57603456-f190-43e5-93dc-1eb94eaff685",
+    "detail_page_url": "https://www.compassedu.hk/majr_53434",
+    "program_name": "利物浦大学运营与供应链管理理学硕士",
+    "program_name_en": "MSc Operations and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/48.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.liverpool.ac.uk/courses/2025/operations-and-supply-chain-management-msc",
+    "university_name": "利物浦大学",
+    "university_name_en": "University of Liverpool",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-07-11"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "19",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "27000英镑/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 137,
+    "the_2025_rank": 160,
+    "arwu_2024_rank": 101,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "12632399-182a-47a0-b27e-8e09055f5fa5",
+    "detail_page_url": "https://www.compassedu.hk/majr_64128",
+    "program_name": "格罗宁根大学供应链管理理学硕士",
+    "program_name_en": "MSc Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rug.nl/masters/supply-chain-management/",
+    "university_name": "格罗宁根大学",
+    "university_name_en": "University of Groningen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-10-15"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-01"
+        ]
+      },
+      {
+        "title": "27年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-10-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "24",
+        "口语": "20"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9/2月",
+    "duration": "1年",
+    "tuition": "21400欧元/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 75,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 69,
+    "qs_2026_business_rank": 141,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e789f8c1-d1bf-4c44-88da-c5cc16fd697d",
+    "detail_page_url": "https://www.compassedu.hk/majr_50335",
+    "program_name": "埃克塞特大学国际供应链管理理学硕士",
+    "program_name_en": "MSc International Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/5.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.exeter.ac.uk/study/postgraduate/courses/engineering/supplymanagementmsc/",
+    "university_name": "埃克塞特大学",
+    "university_name_en": "University of Exeter",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-04-28",
+        "application_end_date": [
+          "2026-01-05"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "6",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "18",
+        "阅读": "18",
+        "写作": "21",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "67",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "64",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "1/9月",
+    "duration": "1年",
+    "tuition": "39000英镑/年",
+    "qs_2026_rank": 155,
+    "usnews_2026_rank": 127,
+    "the_2025_rank": 172,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ea317e25-d813-47eb-9526-ef82d663938b",
+    "detail_page_url": "https://www.compassedu.hk/majr_50820",
+    "program_name": "兰卡斯特大学物流与供应链管理理学硕士",
+    "program_name_en": "MSc Logistics and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/4.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/logistics-and-supply-chain-management-msc/2025/",
+    "university_name": "兰卡斯特大学",
+    "university_name_en": "Lancaster University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "19",
+        "阅读": "19",
+        "写作": "22",
+        "口语": "19"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "58",
+        "听力": "50",
+        "阅读": "50",
+        "写作": "50",
+        "口语": "50"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "10月",
+    "duration": "1年",
+    "tuition": "27300英镑/年",
+    "qs_2026_rank": 157,
+    "usnews_2026_rank": 267,
+    "the_2025_rank": 168,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 99,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4eb17746-1b84-49df-9c51-c3c53379d242",
+    "detail_page_url": "https://www.compassedu.hk/majr_74071",
+    "program_name": "密歇根州立大学供应链管理理学硕士",
+    "program_name_en": "MS in Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/180.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://broad.msu.edu/masters/supply-chain-management/",
+    "university_name": "密歇根州立大学",
+    "university_name_en": "Michigan State University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80",
+        "小分要求": "S19,L19,R19,W22"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "春季/秋季",
+    "duration": "21个月",
+    "tuition": "57,600美元/年",
+    "qs_2026_rank": 161,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 122,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 78,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0fe5340b-8f4f-4514-8040-9441092da229",
+    "detail_page_url": "https://www.compassedu.hk/majr_72611",
+    "program_name": "圣路易斯华盛顿大学供应链管理理学硕士",
+    "program_name_en": "MS in Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/93.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://olin.wustl.edu/programs/specialized-masters/ms-in-supply-chain-management/index.php ",
+    "university_name": "圣路易斯华盛顿大学",
+    "university_name_en": "Washington University in St. Louis",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "10-18个月",
+    "tuition": "80,730美元",
+    "average_accepted_gpa": "3.4",
+    "average_admitted_gre": "695/327",
+    "qs_2026_rank": 167,
+    "usnews_2026_rank": 31,
+    "the_2025_rank": 69,
+    "arwu_2024_rank": 23,
+    "qs_2026_business_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "85bb1a51-c6dd-41bd-befc-f5bbb1124f67",
+    "detail_page_url": "https://www.compassedu.hk/majr_75467",
+    "program_name": "约克大学（英国）物流与供应链管理理学硕士",
+    "program_name_en": "MSc Logistics and Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/19.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-logistics-supply-chain-management/",
+    "university_name": "约克大学（英国）",
+    "university_name_en": "University of York(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-23",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "87",
+        "听力": "21",
+        "阅读": "21",
+        "写作": "21",
+        "口语": "21"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "55",
+        "阅读": "55",
+        "写作": "55",
+        "口语": "55"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "31080英镑/年",
+    "qs_2026_rank": 169,
+    "usnews_2026_rank": 302,
+    "the_2025_rank": 146,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 425,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 425
+  },
+  {
+    "id": "6a9bd56f-0348-4330-aa80-9751d0f95326",
+    "detail_page_url": "https://www.compassedu.hk/majr_76103",
+    "program_name": "亚利桑那州立大学供应链管理硕士",
+    "program_name_en": "MS in Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/111.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://wpcarey.asu.edu/masters-programs/supply-chain",
+    "university_name": "亚利桑那州立大学",
+    "university_name_en": "Arizona State University—Tempe",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "80"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "9个月",
+    "tuition": "40,452美元",
+    "qs_2026_rank": 173,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 83,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "cc1d6053-42d1-4640-820b-81ffc9266a38",
+    "detail_page_url": "https://www.compassedu.hk/majr_53032",
+    "program_name": "卡迪夫大学物流与运营管理理学硕士",
+    "program_name_en": "MSc Logistics and Operations Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/logistics-and-operations-management-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28450英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "82554396-ddf7-4199-8374-dd41a6ce3fc8",
+    "detail_page_url": "https://www.compassedu.hk/majr_53033",
+    "program_name": "卡迪夫大学海事政策与航运管理理学硕士",
+    "program_name_en": "MSc Maritime Policy and Shipping Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/maritime-policy-and-shipping-management-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "21450英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f398537c-188a-4bbe-b184-3f75744ae01c",
+    "detail_page_url": "https://www.compassedu.hk/majr_61848",
+    "program_name": "卡迪夫大学可持续供应链管理理学硕士",
+    "program_name_en": "MSc Sustainable Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainable-supply-chain-management-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "5.5",
+        "阅读": "5.5",
+        "写作": "5.5",
+        "口语": "5.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "17",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "69",
+        "听力": "59",
+        "阅读": "59",
+        "写作": "59",
+        "口语": "59"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "28450英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_business_rank": 175.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b8e1bd35-9c5b-4694-8b3f-031dcd8fd34c",
+    "detail_page_url": "https://www.compassedu.hk/majr_73416",
+    "program_name": "伍伦贡大学供应链管理硕士",
+    "program_name_en": "Master of Supply Chain Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/412.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://coursefinder.uow.edu.au/information/index.html?course=master-supply-chain-management",
+    "university_name": "伍伦贡大学",
+    "university_name_en": "University of Wollongong Australia",
+    "apply_time": [
+      {
+        "title": "24年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2023-12-31",
+          "2024-03-31"
+        ]
+      },
+      {
+        "title": "24年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-06-30"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "86",
+        "听力": "17",
+        "阅读": "18",
+        "写作": "18",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "62",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/8月",
+    "duration": "1.5年",
+    "tuition": "33696澳元/年",
+    "qs_2026_rank": 184,
+    "usnews_2026_rank": 212,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 301,
+    "qs_2026_business_rank": 225,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_business_rank": 225
+  },
+  {
+    "id": "29dadd48-a814-4251-af33-3f8b1ea04d86",
+    "detail_page_url": "https://www.compassedu.hk/majr_75399",
+    "program_name": "慕尼黑工业大学亚洲分校物流工程与管理理学硕士",
+    "program_name_en": "MSc Logistics Engineering and Management",
+    "primary_category": "商科",
+    "secondary_category": "供应链管理",
+    "university_logo_url": "https://logo.compassedu.hk/348.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://tum-asia.edu.sg/admissions/graduate/master-of-science-in-logistics-engineering-management/",
+    "university_name": "慕尼黑工业大学亚洲分校",
+    "university_name_en": "Technical University of Munich Asia",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-01",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "8月",
+    "duration": "2年",
+    "tuition": "17985新币/年",
+    "qs_2026_rank": 22,
+    "usnews_2026_rank": 79,
+    "the_2025_rank": 26,
+    "arwu_2024_rank": 47,
+    "qs_2026_business_rank": 105,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]

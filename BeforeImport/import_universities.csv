@@ -1,0 +1,18 @@
+univ_name,city,state_province,country_region,ranking,website
+Brown University,Providence,RI,United States,9,brown.edu
+Columbia University,New York,NY,United States,12,columbia.edu
+Cornell University,Ithaca,NY,United States,12,www.cornell.edu
+Duke University,Durham,NC,United States,7,duke.edu
+Harvard University,Cambridge,MA,United States,3,arvard.edu
+Johns Hopkins University,Baltimore,MD,United States,9,jhu.edu
+Northwestern University,Evanston,IL,United States,9,www.northwestern.edu
+Rice University,Houston,TX,United States,17,rice.edu
+Stanford University,Stanford,CA,United States,3,www.stanford.edu
+"University of California, Berkeley",Berkeley,CA,United States,15,berkeley.edu
+"University of California, Los Angeles",Los Angeles,CA,United States,15,www.ucla.edu
+University of Chicago,Chicago,IL,United States,12,www.uchicago.edu
+"University of Michigan, Ann Arbor",Ann Arbor,MI,United States,21,umich.edu
+University of Notre Dame,Notre Dame,IN,United States,20,www.nd.edu
+University of Pennsylvania,Philadelphia,PA,United States,6,www.upenn.edu
+Vanderbilt University,Nashville,TN,United States,18,vanderbilt.edu
+Yale University,New Haven,CT,United States,3,yale.edu

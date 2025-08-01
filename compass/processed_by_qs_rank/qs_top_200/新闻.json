@@ -1,0 +1,2520 @@
+[
+  {
+    "completion_rate": "33 / 33",
+    "fail_count": 0,
+    "original_total": 66,
+    "classification": "QS前200"
+  },
+  {
+    "id": "e2751438-079a-4284-9ce7-3e3b8878e6ef",
+    "detail_page_url": "https://www.compassedu.hk/majr_73522",
+    "program_name": "斯坦福大学新闻学硕士",
+    "program_name_en": "MA in Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/86.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://journalism.stanford.edu/",
+    "university_name": "斯坦福大学",
+    "university_name_en": "Stanford University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-03"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、GRE，不接受：雅思、GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "9个月",
+    "tuition": "1,207美元/学分",
+    "qs_2026_rank": 3,
+    "usnews_2026_rank": 3,
+    "the_2025_rank": 6,
+    "arwu_2024_rank": 2,
+    "qs_2026_communication_rank": 5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "aae73463-b3fc-47bc-ae07-6a83aa73658f",
+    "detail_page_url": "https://www.compassedu.hk/majr_1587",
+    "program_name": "香港大学新闻学硕士",
+    "program_name_en": "Master of Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/47.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-journalism-socsc",
+    "university_name": "香港大学",
+    "university_name_en": "The University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-07",
+        "application_end_date": [
+          "2025-01-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "95",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "笔试/真人单面",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "255000港币/年",
+    "qs_2026_rank": 11,
+    "usnews_2026_rank": 44,
+    "the_2025_rank": 35,
+    "arwu_2024_rank": 69,
+    "qs_2026_communication_rank": 46,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e28c926e-32ca-45ba-b54b-f9bd6418f2b8",
+    "detail_page_url": "https://www.compassedu.hk/majr_73638",
+    "program_name": "加州大学伯克利分校新闻硕士",
+    "program_name_en": "Master of Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/100.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://journalism.berkeley.edu/",
+    "university_name": "加州大学伯克利分校",
+    "university_name_en": "University of California, Berkeley",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "105"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "2年",
+    "tuition": "5,850美元",
+    "qs_2026_rank": 17,
+    "usnews_2026_rank": 6,
+    "the_2025_rank": 8,
+    "arwu_2024_rank": 5,
+    "qs_2026_communication_rank": 11,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "9fd8c3bc-477f-4ae8-afb2-2eb150929a99",
+    "detail_page_url": "https://www.compassedu.hk/majr_53857",
+    "program_name": "墨尔本大学新闻学硕士",
+    "program_name_en": "Master of Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-01-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "7",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "27",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "72",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "75",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "47242澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_communication_rank": 39,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5b52f38e-7f50-4a43-b63b-0856dc75c294",
+    "detail_page_url": "https://www.compassedu.hk/majr_62981",
+    "program_name": "墨尔本大学国际新闻学硕士",
+    "program_name_en": "Master of International Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/287.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/",
+    "university_name": "墨尔本大学",
+    "university_name_en": "The University of Melbourne",
+    "apply_time": [
+      {
+        "title": "26年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-01-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6.5",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "13",
+        "阅读": "13",
+        "写作": "24",
+        "口语": "18"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "65",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "47242澳元/年",
+    "qs_2026_rank": 19,
+    "usnews_2026_rank": 30,
+    "the_2025_rank": 39,
+    "arwu_2024_rank": 37,
+    "qs_2026_communication_rank": 39,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e3663e75-373c-45ff-9679-3c2cb462a9d0",
+    "detail_page_url": "https://www.compassedu.hk/majr_54110",
+    "program_name": "新南威尔士大学新闻与传播硕士",
+    "program_name_en": "Master of Journalism & Communication",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/289.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.unsw.edu.au/study/postgraduate/master-of-journalism-and-communication?studentType=international",
+    "university_name": "新南威尔士大学",
+    "university_name_en": "The University of New South Wales",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-03-31"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2025-01-09",
+        "application_end_date": [
+          "2025-06-18"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "22",
+        "阅读": "22",
+        "写作": "23",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "54",
+        "阅读": "54",
+        "写作": "54",
+        "口语": "54"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/5/9月",
+    "duration": "2年",
+    "tuition": "49750澳元/年",
+    "qs_2026_rank": 20,
+    "usnews_2026_rank": 34,
+    "the_2025_rank": 83,
+    "arwu_2024_rank": 77,
+    "qs_2026_communication_rank": 125.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d2db42f2-cc95-4522-a551-730e55b31b78",
+    "detail_page_url": "https://www.compassedu.hk/majr_53993",
+    "program_name": "悉尼大学媒体实践硕士",
+    "program_name_en": "Master of Media Practice",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/288.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sydney.edu.au/courses/courses/pc/master-of-media-practice.html",
+    "university_name": "悉尼大学",
+    "university_name_en": "The University of Sydney",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "2024-03-15",
+        "application_end_date": [
+          "2024-09-10"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-03-15",
+        "application_end_date": [
+          "2025-03-26"
+        ]
+      },
+      {
+        "title": "26年春季入学",
+        "application_start_date": "2025-03-15",
+        "application_end_date": [
+          "2025-10-31"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "2025-03-15",
+        "application_end_date": [
+          "2026-03-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "96",
+        "听力": "17",
+        "阅读": "17",
+        "写作": "19",
+        "口语": "17"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "72",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/8月",
+    "duration": "1.5年",
+    "tuition": "54600澳元/年",
+    "qs_2026_rank": 25,
+    "usnews_2026_rank": 29,
+    "the_2025_rank": 61,
+    "arwu_2024_rank": 74,
+    "qs_2026_communication_rank": 28,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "55175d8a-7b14-4190-94f3-e0e3471fb922",
+    "detail_page_url": "https://www.compassedu.hk/majr_1750",
+    "program_name": "香港中文大学新闻学文学硕士",
+    "program_name_en": "MA Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/41.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.gs.cuhk.edu.hk/admissions/programme/social-science#ma-in-journalism",
+    "university_name": "香港中文大学",
+    "university_name_en": "The Chinese University of Hong Kong",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-01",
+        "application_end_date": [
+          "2024-12-09",
+          "2025-01-20"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "79",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "/",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "180000港币/年",
+    "qs_2026_rank": 32,
+    "usnews_2026_rank": 37,
+    "the_2025_rank": 44,
+    "arwu_2024_rank": 101,
+    "qs_2026_communication_rank": 12,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d33238b1-a7a4-4d09-8ced-e6b3a621a13a",
+    "detail_page_url": "https://www.compassedu.hk/majr_54323",
+    "program_name": "莫纳什大学新闻学硕士",
+    "program_name_en": "Master of Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.monash.edu/study/courses/find-a-course/journalism-a6008?international=true",
+    "university_name": "莫纳什大学",
+    "university_name_en": "Monash University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-11-07"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "20",
+        "阅读": "19",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "58",
+        "阅读": "58",
+        "写作": "58",
+        "口语": "58"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "2年",
+    "tuition": "43400澳元/年",
+    "qs_2026_rank": 36,
+    "usnews_2026_rank": 38,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 82,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "19e5b2d5-f13d-40a0-80fb-22519200a5e6",
+    "detail_page_url": "https://www.compassedu.hk/majr_54324",
+    "program_name": "莫纳什大学新闻学硕士双学位（莫纳什大学-华威大学）",
+    "program_name_en": "Double Degree Master of Journalism (Monash-Warwick)",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/291.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.monash.edu/study/courses/find-a-course/journalism-double-masters-with-university-of-warwick-a6015?international=true",
+    "university_name": "莫纳什大学",
+    "university_name_en": "Monash University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-06-15"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "20",
+        "阅读": "19",
+        "写作": "24",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "58",
+        "阅读": "58",
+        "写作": "58",
+        "口语": "58"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "7月",
+    "duration": "2.5年",
+    "tuition": "43400澳元/年",
+    "qs_2026_rank": 36,
+    "usnews_2026_rank": 38,
+    "the_2025_rank": 58,
+    "arwu_2024_rank": 82,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "0690105d-9e7f-4cb2-bcbb-fd825a90c938",
+    "detail_page_url": "https://www.compassedu.hk/majr_73614",
+    "program_name": "哥伦比亚大学新闻学文学硕士",
+    "program_name_en": "MA in Jouranlism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/83.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://journalism.columbia.edu/ma-degree",
+    "university_name": "哥伦比亚大学",
+    "university_name_en": "Columbia University",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "艺术与文化"
+      },
+      {
+        "key": "2",
+        "value": "商业与经济"
+      },
+      {
+        "key": "3",
+        "value": "政治"
+      },
+      {
+        "key": "4",
+        "value": "科学"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "114"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "8"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "1年",
+    "tuition": "68,586美元",
+    "qs_2026_rank": 38,
+    "usnews_2026_rank": 10,
+    "the_2025_rank": 18,
+    "arwu_2024_rank": 8,
+    "qs_2026_communication_rank": 9,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "5894022f-b2a9-4cfc-9f76-aa780163d111",
+    "detail_page_url": "https://www.compassedu.hk/majr_73564",
+    "program_name": "西北大学（美国）新闻学硕士",
+    "program_name_en": "MS in Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/91.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.medill.northwestern.edu/journalism/graduate-journalism/index.html",
+    "university_name": "西北大学（美国）",
+    "university_name_en": "Northwestern University(United States)",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "商业、经济与货币（夏季入学）"
+      },
+      {
+        "key": "2",
+        "value": "健康、环境与科学（夏季入学）"
+      },
+      {
+        "key": "3",
+        "value": "媒体创新与内容策略（夏季入学）"
+      },
+      {
+        "key": "4",
+        "value": "麦迪尔调查项目（夏季入学）"
+      },
+      {
+        "key": "5",
+        "value": "政治、政策和外交事务（夏季入学）"
+      },
+      {
+        "key": "6",
+        "value": "杂志（秋季入学）"
+      },
+      {
+        "key": "7",
+        "value": "社会正义和解决方案新闻学（秋季入学）"
+      },
+      {
+        "key": "8",
+        "value": "体育媒体（秋季入学）"
+      },
+      {
+        "key": "9",
+        "value": "视频和广播（秋季入学）"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、GMAT、GRE，不接受：雅思",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GMAT",
+        "总分要求": "无要求"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季/秋季",
+    "duration": "1年",
+    "tuition": "69,932美元",
+    "program_size": "154人",
+    "qs_2026_rank": 42,
+    "usnews_2026_rank": 24,
+    "the_2025_rank": 31,
+    "arwu_2024_rank": 33,
+    "qs_2026_communication_rank": 23,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_communication_rank": 23
+  },
+  {
+    "id": "42132494-b55f-41b6-8eba-b3176635b8e3",
+    "detail_page_url": "https://www.compassedu.hk/majr_72721",
+    "program_name": "纽约大学商业及经济报告硕士",
+    "program_name_en": "MA in Business & Economic Reporting",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://journalism.nyu.edu/graduate/programs/business-and-economic-reporting/",
+    "university_name": "纽约大学",
+    "university_name_en": "New York University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "44学分",
+    "tuition": "78,848 美元",
+    "qs_2026_rank": 55,
+    "usnews_2026_rank": 32,
+    "the_2025_rank": 33,
+    "arwu_2024_rank": 31,
+    "qs_2026_communication_rank": 13,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "8c1c7705-0b10-49a2-b8c6-dd331809261d",
+    "detail_page_url": "https://www.compassedu.hk/majr_73691",
+    "program_name": "纽约大学科学、健康与环境报道硕士",
+    "program_name_en": "Master's in Science, Health & Environmental Reporting",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://journalism.nyu.edu/graduate/programs/science-health-and-environmental-reporting/",
+    "university_name": "纽约大学",
+    "university_name_en": "New York University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "38学分",
+    "tuition": "74,664美元",
+    "qs_2026_rank": 55,
+    "usnews_2026_rank": 32,
+    "the_2025_rank": 33,
+    "arwu_2024_rank": 31,
+    "qs_2026_communication_rank": 13,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "4e4af080-2491-4818-a6f2-c0090825ccc9",
+    "detail_page_url": "https://www.compassedu.hk/majr_73704",
+    "program_name": "纽约大学新闻与纪录片硕士",
+    "program_name_en": "Master's in News & Documentary",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/142.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://journalism.nyu.edu/graduate/programs/news-and-documentary/",
+    "university_name": "纽约大学",
+    "university_name_en": "New York University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "秋季",
+    "duration": "36学分",
+    "tuition": "74,664美元",
+    "qs_2026_rank": 55,
+    "usnews_2026_rank": 32,
+    "the_2025_rank": 33,
+    "arwu_2024_rank": 31,
+    "qs_2026_communication_rank": 13,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "162b2b5e-90b0-45e9-a85f-003e85ffa191",
+    "detail_page_url": "https://www.compassedu.hk/majr_73797",
+    "program_name": "伊利诺伊大学香槟分校新闻理学硕士",
+    "program_name_en": "MS in Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/155.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://media.illinois.edu/journalism/degrees-programs/masters",
+    "university_name": "伊利诺伊大学香槟分校",
+    "university_name_en": "University of Illinois at Urbana-Champaign",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "79"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "tuition": "30,564美元",
+    "qs_2026_rank": 70,
+    "usnews_2026_rank": 109,
+    "the_2025_rank": 46,
+    "arwu_2024_rank": 55,
+    "qs_2026_communication_rank": 42,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fd2b7fd4-c9a4-4161-9921-f6e615275b0b",
+    "detail_page_url": "https://www.compassedu.hk/majr_51111",
+    "program_name": "利兹大学国际新闻学文学硕士",
+    "program_name_en": "MA International Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/38.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://courses.leeds.ac.uk/e135/international-journalism-ma",
+    "university_name": "利兹大学",
+    "university_name_en": "University of Leeds",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-10-02",
+        "application_end_date": [
+          "2025-07-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "21",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "64",
+        "听力": "60",
+        "阅读": "60",
+        "写作": "60",
+        "口语": "60"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29000英镑/年",
+    "qs_2026_rank": 86,
+    "usnews_2026_rank": 133,
+    "the_2025_rank": 123,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 33,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ab3121b5-0876-4671-9359-064426036fb4",
+    "detail_page_url": "https://www.compassedu.hk/majr_73782",
+    "program_name": "波士顿大学新闻学硕士",
+    "program_name_en": "MS in Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/139.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "http://www.bu.edu/com/academics/degree-programs/ms-in-journalism/",
+    "university_name": "波士顿大学",
+    "university_name_en": "Boston University",
+    "apply_time": [],
+    "program_track": [],
+    "language_requirements_summary": "接受：托福、雅思、GRE，不接受：GMAT",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "100"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "7"
+      },
+      {
+        "考试类型": "GRE",
+        "总分要求": "无要求"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "秋季",
+    "duration": "50学分",
+    "tuition": "172,462美元",
+    "qs_2026_rank": 88,
+    "usnews_2026_rank": 86,
+    "the_2025_rank": 75,
+    "arwu_2024_rank": 101,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "19ad00f1-108e-40b1-8573-2b9782e0cdcd",
+    "detail_page_url": "https://www.compassedu.hk/majr_51748",
+    "program_name": "谢菲尔德大学广播新闻学文学硕士",
+    "program_name_en": "MA Broadcast Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/broadcast-journalism-ma",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "103",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "72",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29030英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f3b877d8-9d3b-48e4-8451-820e24464609",
+    "detail_page_url": "https://www.compassedu.hk/majr_51749",
+    "program_name": "谢菲尔德大学全球新闻学文学硕士",
+    "program_name_en": "MA Global Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/global-journalism-ma",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "88",
+        "听力": "19",
+        "阅读": "20",
+        "写作": "19",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "61",
+        "听力": "56",
+        "阅读": "56",
+        "写作": "56",
+        "口语": "56"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26310英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "6b76a906-8bd2-4125-8ac6-055676345d8b",
+    "detail_page_url": "https://www.compassedu.hk/majr_61652",
+    "program_name": "谢菲尔德大学新闻学文学硕士",
+    "program_name_en": "MA Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/26.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.sheffield.ac.uk/postgraduate/taught/courses/2025/journalism-ma",
+    "university_name": "谢菲尔德大学",
+    "university_name_en": "The University of Sheffield",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-16",
+        "application_end_date": [
+          "2025-09-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7",
+        "阅读": "7",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "103",
+        "听力": "22",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "25"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "72",
+        "听力": "67",
+        "阅读": "67",
+        "写作": "67",
+        "口语": "67"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "29030英镑/年",
+    "qs_2026_rank": 92,
+    "usnews_2026_rank": 166,
+    "the_2025_rank": 98,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "d2941fbe-8b17-4a51-b94b-20b66f973726",
+    "detail_page_url": "https://www.compassedu.hk/majr_52035",
+    "program_name": "纽卡斯尔大学（英国）国际多媒体新闻文学硕士",
+    "program_name_en": "MA International Multimedia Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/4082f/",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "70",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26300英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_communication_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_communication_rank": 125
+  },
+  {
+    "id": "0712b191-41af-4985-9151-1c48f149d8fa",
+    "detail_page_url": "https://www.compassedu.hk/majr_52036",
+    "program_name": "纽卡斯尔大学（英国）媒体与新闻文学硕士",
+    "program_name_en": "MA Media and Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/33.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.ncl.ac.uk/postgraduate/degrees/4075f/#profile",
+    "university_name": "纽卡斯尔大学（英国）",
+    "university_name_en": "Newcastle University(United Kingdom)",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-07-29",
+        "application_end_date": [
+          "2025-08-24"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "听力": "6.5",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "听力": "21",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "22"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "70",
+        "听力": "70",
+        "阅读": "65",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "26300英镑/年",
+    "qs_2026_rank": 137,
+    "usnews_2026_rank": 170,
+    "the_2025_rank": 157,
+    "arwu_2024_rank": 201,
+    "qs_2026_communication_rank": 125,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null,
+    "qs_communication_rank": 125
+  },
+  {
+    "id": "6edd2c9a-a9cd-4262-96ad-a834837f0dee",
+    "detail_page_url": "https://www.compassedu.hk/majr_73698",
+    "program_name": "南加州大学新闻学理学硕士",
+    "program_name_en": "MS in Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/103.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://annenberg.usc.edu/journalism/journalism-ms",
+    "university_name": "南加州大学",
+    "university_name_en": "University of Southern California",
+    "apply_time": [],
+    "program_track": [
+      {
+        "key": "1",
+        "value": "长篇视频"
+      },
+      {
+        "key": "2",
+        "value": "新闻视频"
+      },
+      {
+        "key": "3",
+        "value": "录音"
+      },
+      {
+        "key": "4",
+        "value": "文本"
+      },
+      {
+        "key": "5",
+        "value": "数字化"
+      }
+    ],
+    "language_requirements_summary": "接受：托福、雅思，不接受：GMAT、GRE",
+    "lang_examination": [
+      {
+        "考试类型": "托福",
+        "总分要求": "90",
+        "小分要求": "R20,L20,S20,W20"
+      },
+      {
+        "考试类型": "雅思",
+        "总分要求": "6.5",
+        "小分要求": "6"
+      }
+    ],
+    "interview": "暂无",
+    "stem": "STEM",
+    "intakeSeason": "夏季",
+    "duration": "36学分，10个月",
+    "tuition": "83864美元",
+    "program_size": "27人",
+    "average_accepted_gpa": "3.61",
+    "sex_ratio": "63Female:26Male",
+    "qs_2026_rank": 146,
+    "usnews_2026_rank": 77,
+    "the_2025_rank": 72,
+    "arwu_2024_rank": 62,
+    "qs_2026_communication_rank": 7,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "f1ab5465-c9ad-40b6-ab21-62504edbd043",
+    "detail_page_url": "https://www.compassedu.hk/majr_64047",
+    "program_name": "格罗宁根大学新闻学文学硕士",
+    "program_name_en": "MA Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/384.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.rug.nl/masters/journalism-english-taught/",
+    "university_name": "格罗宁根大学",
+    "university_name_en": "University of Groningen",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-05-01"
+        ]
+      },
+      {
+        "title": "26年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2026-05-01"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "6.5",
+        "口语": "6.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "/",
+        "阅读": "/",
+        "写作": "25",
+        "口语": "/"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1.5年",
+    "tuition": "19200欧元/年",
+    "qs_2026_rank": 147,
+    "usnews_2026_rank": 75,
+    "the_2025_rank": 80,
+    "arwu_2024_rank": 69,
+    "qs_2026_communication_rank": 75.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ec1f2814-42b6-4bdf-aa73-33eb76342a96",
+    "detail_page_url": "https://www.compassedu.hk/majr_53079",
+    "program_name": "卡迪夫大学广播新闻学文学硕士",
+    "program_name_en": "MA Broadcast Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/broadcast-journalism-ma",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7.5",
+        "阅读": "7.5",
+        "写作": "7.5",
+        "口语": "7.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "109",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "26"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "80",
+        "听力": "80",
+        "阅读": "80",
+        "写作": "80",
+        "口语": "80"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23700英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "3f74e86f-c8dd-45b7-8cf0-4ed14fecc7ac",
+    "detail_page_url": "https://www.compassedu.hk/majr_53080",
+    "program_name": "卡迪夫大学计算与数据新闻学理学硕士",
+    "program_name_en": "MSc Computational and Data Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23700英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "e6dea5d3-08c3-4a48-88a1-5d51c630f15b",
+    "detail_page_url": "https://www.compassedu.hk/majr_53082",
+    "program_name": "卡迪夫大学国际新闻学文学硕士",
+    "program_name_en": "MA International Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/international-journalism-ma",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23700英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "700ffcf2-8d74-478e-9b04-ce08e9011daf",
+    "detail_page_url": "https://www.compassedu.hk/majr_53084",
+    "program_name": "卡迪夫大学新闻、媒体与传播文学硕士",
+    "program_name_en": "MA Journalism, Media and Communications",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/journalism,-media-and-communications-ma",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "2025-08-31"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6",
+        "阅读": "6",
+        "写作": "6",
+        "口语": "6"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "100",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "20",
+        "口语": "20"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "76",
+        "听力": "62",
+        "阅读": "62",
+        "写作": "62",
+        "口语": "62"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23700英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "b9810b5b-9b2d-4397-a4d1-d9a0372de936",
+    "detail_page_url": "https://www.compassedu.hk/majr_53085",
+    "program_name": "卡迪夫大学杂志新闻学文学硕士",
+    "program_name_en": "MA Magazine Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/magazine-journalism-ma",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7.5",
+        "阅读": "7.5",
+        "写作": "7.5",
+        "口语": "7.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "109",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "26"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "80",
+        "听力": "80",
+        "阅读": "80",
+        "写作": "80",
+        "口语": "80"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23700英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "ecebc9f5-f9ca-4515-90cd-a46655dc6e32",
+    "detail_page_url": "https://www.compassedu.hk/majr_53086",
+    "program_name": "卡迪夫大学新闻学文学硕士",
+    "program_name_en": "MA News Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/52.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/news-journalism-ma",
+    "university_name": "卡迪夫大学",
+    "university_name_en": "Cardiff University",
+    "apply_time": [
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "2024-09-11",
+        "application_end_date": [
+          "-"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7.5",
+        "听力": "7.5",
+        "阅读": "7.5",
+        "写作": "7.5",
+        "口语": "7.5"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "109",
+        "听力": "24",
+        "阅读": "24",
+        "写作": "24",
+        "口语": "26"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "80",
+        "听力": "80",
+        "阅读": "80",
+        "写作": "80",
+        "口语": "80"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "9月",
+    "duration": "1年",
+    "tuition": "23700英镑/年",
+    "qs_2026_rank": 181,
+    "usnews_2026_rank": 192,
+    "the_2025_rank": 201,
+    "arwu_2024_rank": 151,
+    "qs_2026_communication_rank": 50,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "89cb0d2d-e018-40f3-bf75-57dbe6cecd71",
+    "detail_page_url": "https://www.compassedu.hk/majr_74311",
+    "program_name": "科廷大学多媒体新闻硕士",
+    "program_name_en": "Master of Multimedia Journalism",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/415.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.curtin.edu.au/study/offering/course-pg-master-of-multimedia-journalism--mc-mmjrn/",
+    "university_name": "科廷大学",
+    "university_name_en": "Curtin University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "58",
+        "阅读": "58",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2月",
+    "duration": "1.5年",
+    "tuition": "33336澳元/年",
+    "qs_2026_rank": 183,
+    "usnews_2026_rank": 152,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_communication_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  },
+  {
+    "id": "fb3f1ff2-98e7-4765-8fa3-303c9eb12bb8",
+    "detail_page_url": "https://www.compassedu.hk/majr_76211",
+    "program_name": "科廷大学多媒体新闻硕士（全球）",
+    "program_name_en": "Master of Multimedia Journalism (Global)",
+    "primary_category": "社科",
+    "secondary_category": "新闻",
+    "university_logo_url": "https://logo.compassedu.hk/415.png?imageMogr2/auto-orient/thumbnail/160x160>/blur/1x0/quality/99|imageslim",
+    "program_url": "https://www.curtin.edu.au/study/offering/course-pg-master-of-multimedia-journalism-global--mc-mmjrg/",
+    "university_name": "科廷大学",
+    "university_name_en": "Curtin University",
+    "apply_time": [
+      {
+        "title": "25年春季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2024-12-02"
+        ]
+      },
+      {
+        "title": "25年秋季入学",
+        "application_start_date": "/",
+        "application_end_date": [
+          "2025-04-28"
+        ]
+      }
+    ],
+    "program_track": [],
+    "language_requirements_summary": "暂无",
+    "lang_examination": [
+      {
+        "考试类型": "雅思",
+        "总分要求": "7",
+        "听力": "6.5",
+        "阅读": "6.5",
+        "写作": "7",
+        "口语": "7"
+      },
+      {
+        "考试类型": "托福",
+        "总分要求": "94",
+        "听力": "20",
+        "阅读": "20",
+        "写作": "27",
+        "口语": "23"
+      },
+      {
+        "考试类型": "PTE",
+        "总分要求": "65",
+        "听力": "58",
+        "阅读": "58",
+        "写作": "65",
+        "口语": "65"
+      }
+    ],
+    "interview": "暂无",
+    "intakeSeason": "2/7月",
+    "duration": "2年",
+    "tuition": "32934澳元/年",
+    "qs_2026_rank": 183,
+    "usnews_2026_rank": 152,
+    "the_2025_rank": 251,
+    "arwu_2024_rank": 201,
+    "qs_2026_communication_rank": 225.5,
+    "gpa_requirement": null,
+    "academic_background": null,
+    "admission_url": null,
+    "state": null,
+    "city": null,
+    "department": null,
+    "department_url": null,
+    "degree_type": null,
+    "university_description": null,
+    "application_fee_usd": null,
+    "material_requirements": null,
+    "additional_application_info": null,
+    "additional_program_info": null,
+    "fee_waiver_info": null,
+    "recommendation_letters_num": null,
+    "toefl_ets_code": null,
+    "program_tags": null,
+    "professional_program": null,
+    "capstone_thesis": null,
+    "exclusive_application": null,
+    "application_url": null
+  }
+]
