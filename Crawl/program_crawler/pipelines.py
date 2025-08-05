@@ -65,9 +65,14 @@ class JsonWriterPipeline:
         safe_program_name = self.sanitize_filename(program_name)
         safe_source_file = source_file.replace('.json', '')  # 移除原有扩展名
         
+        # 根据来源文件创建子文件夹
+        subject_dir = os.path.join(self.output_dir, safe_source_file)
+        if not os.path.exists(subject_dir):
+            os.makedirs(subject_dir)
+        
         # 构建文件名：项目名_来源文件.json
         filename = f"{safe_program_name}_{safe_source_file}.json"
-        filepath = os.path.join(self.output_dir, filename)
+        filepath = os.path.join(subject_dir, filename)
         
         # 保存JSON文件
         try:

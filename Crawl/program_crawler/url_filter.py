@@ -20,8 +20,7 @@ URL_WHITELIST_KEYWORDS = [
     'apply', 'admission', 'requirements', 'deadline', 'application', 'entry requirements',
     'tuition', 'funding', 'scholarship',
     'duration', 'thesis', 'dissertation',
-    'toefl', 'ielts',
-    'transcript', 'recommendation', 'cv', 'personal-statement'
+    'frequently asked questions', 'career', 'certificates', 'tracks', 'faqs'
 ]
 
 # 链接文本黑名单 - 基于链接描述文本的过滤

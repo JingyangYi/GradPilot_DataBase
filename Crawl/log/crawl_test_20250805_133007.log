@@ -1,0 +1,186 @@
+2025-08-05 13:30:07 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-05 13:30:07 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-05 13:30:07 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/test_urls.csv
+2025-08-05 13:30:07 [program_spider] INFO: 文件是否存在: True
+2025-08-05 13:30:07 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:30:07 [program_spider] INFO: 成功加载 1 个项目
+2025-08-05 13:30:07 [program_spider] INFO: 允许的域名: ['advanced.jhu.edu']
+2025-08-05 13:30:07 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-05 13:30:07 [program_spider] INFO: ================================================================================
+2025-08-05 13:30:07 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-05 13:30:07 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-05 13:30:07 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-05 13:30:07 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_test_20250805_133007.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-05 13:30:08 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-05 13:30:08 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-05 13:30:08 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-05 13:30:08 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:30:08 [program_spider] INFO: 开始爬取项目 [1/1]
+2025-08-05 13:30:08 [program_spider] INFO: 项目名称: 约翰霍普金斯大学公共管理文学硕士
+2025-08-05 13:30:08 [program_spider] INFO: 项目ID: 2c5851ca-6921-4c4e-9f18-103b19faf828
+2025-08-05 13:30:08 [program_spider] INFO: 根URL: https://advanced.jhu.edu/academics/graduate/ma-public-management/
+2025-08-05 13:30:08 [program_spider] INFO: 剩余项目数: 0
+2025-08-05 13:30:08 [program_spider] INFO: ================================================================================
+2025-08-05 13:30:08 [scrapy.core.engine] INFO: Spider opened
+2025-08-05 13:30:08 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在处理根页面 (已处理0个页面): https://advanced.jhu.edu/academics/graduate/ma-public-management/
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 页面总链接数: 142
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 移除导航后链接数: 54 (移除了 0 个导航链接)
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/ (锚文本: 'Home')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/academics/ (锚文本: 'Academics')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/academics/graduate/ma-public-management/faculty/ (锚文本: 'Faculty')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/request-information/ (锚文本: 'REQUEST INFO')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/academics/graduate/ma-public-management/watch-video/ (锚文本: 'WATCH VIDEO')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/request-information/ (锚文本: 'REQUEST INFO')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/academics/graduate/ma-public-management/watch-video/ (锚文本: 'WATCH VIDEO')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/events/?filters%5Bcategory%5D=governmental-studies (锚文本: 'View Governmental Studies Events')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/event/intelligence-liaison-and-foreign-policy-the-hidden-link/ (锚文本: '')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/event/intelligence-liaison-and-foreign-policy-the-hidden-link/ (锚文本: 'Intelligence Liaison and Foreign Policy: The Hidden Link')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/events/?filters[category]=aap-event (锚文本: 'AAP Event')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/event/ma-in-public-management-online-information-session/ (锚文本: 'MA in Public Management Information Session')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/events/?filters[category]=aap-event (锚文本: 'AAP Event')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/event/ma-global-security-studies-online-info-session/ (锚文本: 'MA in Global Security Studies Information Session')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/events/?filters[category]=aap-event (锚文本: 'AAP Event')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/event/ma-in-nonprofit-management-information-session/ (锚文本: 'MA in Nonprofit Management Information Session')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/events/?filters[category]=aap-event (锚文本: 'AAP Event')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/events/?filters%5Bcategory%5D=governmental-studies (锚文本: 'View Governmental Studies Events')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/academics/graduate/ma-public-management/faculty/ (锚文本: 'Meet Our Faculty')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/about/centers/center-for-data-analytics-policy-and-government/ (锚文本: 'More About the Center')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/intelligence-community-navigates-ai-powers-and-pitfalls/ (锚文本: '')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/intelligence-community-navigates-ai-powers-and-pitfalls/ (锚文本: 'Intelligence Community Navigates AI Powers and Pitfalls')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/?filters[category]=governmental-studies (锚文本: 'Governmental Studies')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/students-put-theory-into-practice-in-annual-simulation/ (锚文本: '')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/students-put-theory-into-practice-in-annual-simulation/ (锚文本: 'Students Put Theory into Practice in Annual Simulation')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/?filters[category]=governmental-studies (锚文本: 'Governmental Studies')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/former-us-ambassador-shares-insights-on-president-putin/ (锚文本: '')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/former-us-ambassador-shares-insights-on-president-putin/ (锚文本: 'Former U.S. Ambassador Shares Insights on President Putin')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/?filters[category]=governmental-studies (锚文本: 'Governmental Studies')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/wei-li-werner-awarded-bryce-harlow-foundation-fellowship/ (锚文本: '')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/wei-li-werner-awarded-bryce-harlow-foundation-fellowship/ (锚文本: 'Wei Li Werner Awarded Bryce Harlow Foundation Fellowship')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/news/?filters[category]=governmental-studies (锚文本: 'Governmental Studies')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 无效链接: tel:8444170874 (锚文本: '844-417-0874')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/cdn-cgi/l/email-protection (锚文本: '[email protected]')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://www.linkedin.com/showcase/dataanalytics-policy-government-studies-at-johns-hopkins-aap/?trk=affiliated-pages (锚文本: 'LinkedIn')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: http://www.youtube.com/playlist?list=PLA2CE450BD9C0D4A6 (锚文本: 'YouTube')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://www.instagram.com/hopkins_cdapg/ (锚文本: 'Instagram')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://www.facebook.com/JHUGovStudies/  (锚文本: 'Facebook')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://twitter.com/Hopkins_CDAPG (锚文本: 'X')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/prospective-students/ (锚文本: 'Prospective Students')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/new-students/ (锚文本: 'New Students')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/current-students/ (锚文本: 'Current Students')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/faculty/ (锚文本: 'Faculty')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 链接不匹配关键词: https://advanced.jhu.edu/alumni/ (锚文本: 'Alumni')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 有效链接数: 53, 关键词匹配数: 10, 最终提取数: 10
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 页面 https://advanced.jhu.edu/academics/graduate/ma-public-management/ (depth=0, is_root=True) 提取到 10 个链接
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 爬取子链接: https://advanced.jhu.edu/apply/ (锚文本: 'apply', 匹配关键词: 'apply')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 爬取子链接: https://advanced.jhu.edu/academics/graduate/ (锚文本: 'Graduate Degrees', 匹配关键词: 'graduate')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 爬取子链接: https://advanced.jhu.edu/academics/graduate/ma-public-management/degree-details-and-courses/ (锚文本: 'MA in Public Management Degree Details and Courses', 匹配关键词: 'course')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 爬取子链接: https://advanced.jhu.edu/academics/graduate/ma-public-management/admission-application-requirements/ (锚文本: 'Admission and Application Requirements', 匹配关键词: 'admission')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 爬取子链接: https://advanced.jhu.edu/admissions-aid/tuition-fees/ (锚文本: 'Learn more about tuition and fees.', 匹配关键词: 'tuition')
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 提取链接完成，去重前 10 个链接，去重后 5 个新请求（去重了 5 个重复链接）
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 添加 5 个新请求，当前剩余: 5
+2025-08-05 13:30:09 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 已处理页面: 1, 剩余请求数: 5
+2025-08-05 13:30:14 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在处理子页面(深度1) (已处理1个页面): https://advanced.jhu.edu/admissions-aid/tuition-fees/
+2025-08-05 13:30:14 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 已处理页面: 2, 剩余请求数: 4
+2025-08-05 13:30:14 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在处理子页面(深度1) (已处理2个页面): https://advanced.jhu.edu/academics/graduate/ma-public-management/admission-application-requirements/
+2025-08-05 13:30:14 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 已处理页面: 3, 剩余请求数: 3
+2025-08-05 13:30:16 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在处理子页面(深度1) (已处理3个页面): https://advanced.jhu.edu/academics/graduate/ma-public-management/degree-details-and-courses/
+2025-08-05 13:30:16 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 已处理页面: 4, 剩余请求数: 2
+2025-08-05 13:30:18 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在处理子页面(深度1) (已处理4个页面): https://advanced.jhu.edu/academics/graduate/
+2025-08-05 13:30:18 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 已处理页面: 5, 剩余请求数: 1
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在处理子页面(深度1) (已处理5个页面): https://applygrad.jhu.edu/apply/?sr=1db8ac7a-97b5-44ae-a7ac-a75fdf22277a
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 已处理页面: 6, 剩余请求数: 0
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 正在完成项目
+2025-08-05 13:30:20 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828] 项目完成: 约翰霍普金斯大学公共管理文学硕士
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828]   - 总页数: 6
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828]   - 成功页数: 6
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828]   - 失败页数: 0
+2025-08-05 13:30:20 [program_spider] INFO: [2c5851ca-6921-4c4e-9f18-103b19faf828]   - 成功率: 100.0%
+2025-08-05 13:30:20 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:30:20 [program_spider] INFO: 成功保存项目数据: output/公共政策与事务/约翰霍普金斯大学公共管理文学硕士_公共政策与事务.json
+2025-08-05 13:30:20 [program_spider] INFO: 
+==================================================
+2025-08-05 13:30:20 [program_spider] INFO: 所有项目已完成
+2025-08-05 13:30:20 [program_spider] INFO: 完成率: 1/1 (100%)
+2025-08-05 13:30:20 [program_spider] INFO: ==================================================
+2025-08-05 13:30:20 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-08-05 13:30:20 [program_spider] INFO: === 爬虫完成统计 ===
+2025-08-05 13:30:20 [program_spider] INFO: 总项目数: 1
+2025-08-05 13:30:20 [program_spider] INFO: 完成项目数: 1
+2025-08-05 13:30:20 [program_spider] INFO: 失败项目数: 0
+2025-08-05 13:30:20 [program_spider] INFO: 关闭原因: finished
+2025-08-05 13:30:20 [program_spider] INFO: 完成率: 100.0%
+2025-08-05 13:30:20 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7213,
+ 'downloader/request_count': 7,
+ 'downloader/request_method_count/GET': 7,
+ 'downloader/response_bytes': 97850,
+ 'downloader/response_count': 7,
+ 'downloader/response_status_count/200': 6,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 12.826597,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 8, 5, 5, 30, 20, 862675, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 621673,
+ 'httpcompression/response_count': 6,
+ 'item_scraped_count': 1,
+ 'log_count/INFO': 101,
+ 'log_count/WARNING': 1,
+ 'memusage/max': 71663616,
+ 'memusage/startup': 71663616,
+ 'request_depth_max': 1,
+ 'response_received_count': 6,
+ 'scheduler/dequeued': 7,
+ 'scheduler/dequeued/memory': 7,
+ 'scheduler/enqueued': 7,
+ 'scheduler/enqueued/memory': 7,
+ 'start_time': datetime.datetime(2025, 8, 5, 5, 30, 8, 36078, tzinfo=datetime.timezone.utc)}
+2025-08-05 13:30:20 [scrapy.core.engine] INFO: Spider closed (finished)
