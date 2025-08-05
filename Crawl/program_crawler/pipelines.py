@@ -16,6 +16,7 @@
 import json
 import os
 import re
+from datetime import datetime
 
 
 class JsonWriterPipeline:
@@ -88,9 +89,15 @@ class JsonWriterPipeline:
             # 记录成功保存的日志
             spider.logger.info(f'成功保存项目数据: {filepath}')
             
+            # 更新状态跟踪
+            self.update_crawl_status(item, 'success')
+            
         except Exception as e:
             # 记录保存失败的错误
             spider.logger.error(f'保存文件失败 {filepath}: {str(e)}')
+            
+            # 记录失败项目
+            self.update_crawl_status(item, 'failed', str(e))
             raise
         
         return item  # 返回原始item，供下一个管道处理
@@ -129,3 +136,57 @@ class JsonWriterPipeline:
         
         # 限制文件名长度为50个字符，避免路径过长
         return filename[:50] if len(filename) > 50 else filename
+    
+    def update_crawl_status(self, item, status, error_msg=None):
+        """更新爬取状态追踪"""
+        status_file = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'crawl_status.json')
+        
+        try:
+            # 读取现有状态
+            if os.path.exists(status_file):
+                with open(status_file, 'r', encoding='utf-8') as f:
+                    crawl_status = json.load(f)
+            else:
+                crawl_status = {
+                    "subjects": {},
+                    "failed_projects": [],
+                    "completed_subjects": [],
+                    "last_update": None
+                }
+            
+            project_id = item.get('project_id')
+            source_file = item.get('source_file', 'unknown.json').replace('.json', '')
+            
+            # 更新学科状态
+            if source_file not in crawl_status['subjects']:
+                crawl_status['subjects'][source_file] = {
+                    'status': 'running',
+                    'total': 0,
+                    'completed': 0,
+                    'failed': 0
+                }
+            
+            if status == 'success':
+                crawl_status['subjects'][source_file]['completed'] += 1
+            elif status == 'failed':
+                crawl_status['subjects'][source_file]['failed'] += 1
+                
+                # 记录失败项目详情
+                failed_project = {
+                    'project_id': project_id,
+                    'program_name': item.get('program_name'),
+                    'source_file': source_file,
+                    'error': error_msg,
+                    'timestamp': datetime.now().isoformat()
+                }
+                crawl_status['failed_projects'].append(failed_project)
+            
+            crawl_status['last_update'] = datetime.now().isoformat()
+            
+            # 保存状态
+            with open(status_file, 'w', encoding='utf-8') as f:
+                json.dump(crawl_status, f, ensure_ascii=False, indent=2)
+                
+        except Exception as e:
+            # 状态更新失败不应该影响主流程
+            pass

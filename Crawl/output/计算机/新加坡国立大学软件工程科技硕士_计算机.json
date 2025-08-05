@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T15:26:06.677718",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-software-engineering"
+    }
+  ],
+  "program_name": "新加坡国立大学软件工程科技硕士",
+  "project_id": "a1ee8943-5fde-4f54-a6f2-db885f330f2a",
+  "root_url": "https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-software-engineering",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

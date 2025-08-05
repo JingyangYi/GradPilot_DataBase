@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T15:25:07.185620",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://tdsi.nus.edu.sg/mdts/"
+    }
+  ],
+  "program_name": "新加坡国立大学国防技术与系统硕士双学位",
+  "project_id": "4ebc4364-7789-4238-a076-24620bdec60a",
+  "root_url": "https://tdsi.nus.edu.sg/mdts/",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

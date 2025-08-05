@@ -1,0 +1,59 @@
+{
+  "crawl_time": "2025-08-05T15:20:27.235011",
+  "pages": [
+    {
+      "content": "[HEADING] Master of Science Communication And Public Engagement\nMaster of Science Communication and Public Engagement\nAs nations continue to address the gap in interest towards Science, Technology, Engineering and Mathematics (STEM), professionals with an advanced appreciation for the nuances in the interaction between scientific and non-scientific communities are expected to be highly sought after. Such professionals would fill roles as Public Relations Manager, Communications Director, Corporate Strategy Manager, Research Manager, or Science Journalist.\nThe Master of Science Communication and Public Engagement aims to bridge this gap by equipping graduates with skills and knowledge in communicating science to a broad range of audiences, as well as engaging with key stakeholders to mediate the interaction between technical experts, decision makers and consumers.\nThe programme structure:\nStudents need to complete a total of 42 credit hours of courses. This includes 30 credits of core courses; and 12 credits of elective courses.\nCore Courses (30 credits):\r\nSQJ7001 Research Methodology (4 credits)\r\nSQJ7013 Research Project (12 credits)\r\nSQJ7003 Principles in Science Communication and Public Engagement (4 credits)\r\nSQJ7004 Science and Media in Multicultural Society (4 credits)\r\nSQJ7005 Science, Policy and Public Impact (3 credits) \r\nSQJ7006 Big Data in Science Communication (3 credits)\nElective Courses (12 credits)\r\nSQJ7007 Controversial Issues in Science and Technology (3 credits)\r\nSQJ7008 Systems Thinking for Decision Making (3 credits) \r\nSQJ7009 Social Innovations (3 credits)\r\nSQJ7010 Digital Law and Communication Ethics (3 credits)\r\nSQJ7011 Managing Science and Technology Events (3 credits)\r\nSQJ7012 Science Diplomacy (3 credits)\nEntry requirements: \r\nApplicants must have a Bachelor’s Degree with Honours CGPA of 3.00 and above or equivalent in the relevant field. Applicants with a Bachelor’s Degree of CGPA between 2.70 to 2.99 may be considered if they meet ONE (1) the following criteria: \r\n \r\n1. Having relevant work experience\r\n2. Produce publications in the related fields \r\n3. Is a recipient of a scholarship\r\n4. Is a graduate of the Universiti Malaya, or\r\n5. Is a government servant\nEnglish Language Requirement (for international applicants only):\nFulfil any one of the following:\nThe University revises the aspects of admission requirements periodically. It is important to check these requirements on the programme website prior to applying.\nIntake Schedule & Period of Candidature: \r\n●    Intakes: First Semester (October); Second Semester (March)\r\n●    Period of Candidature: (minimum) 1 year = 2 normal semesters & 1 special semester; (maximum) 4 years = 8 normal semesters\nMore information about the Programme:\nAcademic Calendar 2024/2025\nTo learn more about the study plan for the programme NEW!\nTo learn more about the tentative timetable for Semester 2, 2024-2025 NEW!\nTo download the latest programme flyer\nTo download module synopses\nTo apply, please visit the University of Malaya e-Application page (MAYA Portal) at: \r\nhttps://pgadmission.um.edu.my/ \r\nMore for information on study at UM, please visit: https://study.um.edu.my/\nIf you have any inquiry related to application, please contact:\r\nProgramme Coordinator:\r\nDr. Nurzatil Sharleeza Mat Jalaluddin\r\nE-mail:  nurzatil@um.edu.my\nLast Update: 20/02/2025\n• STS - Universiti Malaya\n• ketua_saintek@um.edu.my\n• +0379674166\n• Home\n• Master of Science Communication And Public Engagement\n• Academic Calendar 2024/2025\n• To learn more about the study plan for the programme NEW!\n• To learn more about the tentative timetable for Semester 2, 2024-2025 NEW!\n• To download the latest programme flyer\n• To download module synopses\n[HTML_TABLE]\nCompetency | Score /Band\nMUET | B4.0\nIELTS | 6.0\nTOEFL iBT (Centre-based) | 60\nTOEFL Essentials (Online) | 8.5\nPearson Test of English (PTE) | 59\nCambridge English Qualifications & Tests | (i) B1 Preliminary, B2 First, C1 Advanced, C2 Proficiency | 169\n(ii) Occupational English Test (OET) (Conventional/ Online) | 250",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [
+        {
+          "anchor_text": "To learn more about the study plan for the programme",
+          "matched_keyword": "program",
+          "url": "https://sts.um.edu.my/img/files/Study%20plan%20SQJ(1).pdf"
+        },
+        {
+          "anchor_text": "To download the latest programme flyer",
+          "matched_keyword": "program",
+          "url": "https://sts.um.edu.my/Image/STS%20MSc%202023.pdf"
+        },
+        {
+          "anchor_text": "To download module synopses",
+          "matched_keyword": "module",
+          "url": "https://sts.um.edu.my/img/files/Synopsis%20Program%20MScCom%26PubEng.pdf"
+        }
+      ],
+      "title": "STS - Universiti Malaya",
+      "url": "https://sts.um.edu.my/master-of-science-communication-and-public-engagement.html"
+    },
+    {
+      "content": "非HTML内容 - Content-Type: application/pdf",
+      "crawl_status": "skipped_non_html",
+      "depth": 1,
+      "links": [],
+      "title": "",
+      "url": "https://sts.um.edu.my/img/files/Study%20plan%20SQJ(1).pdf"
+    },
+    {
+      "content": "非HTML内容 - Content-Type: application/pdf",
+      "crawl_status": "skipped_non_html",
+      "depth": 1,
+      "links": [],
+      "title": "",
+      "url": "https://sts.um.edu.my/img/files/Synopsis%20Program%20MScCom%26PubEng.pdf"
+    },
+    {
+      "content": "非HTML内容 - Content-Type: application/pdf",
+      "crawl_status": "skipped_non_html",
+      "depth": 1,
+      "links": [],
+      "title": "",
+      "url": "https://sts.um.edu.my/Image/STS%20MSc%202023.pdf"
+    }
+  ],
+  "program_name": "马来亚大学科学传播与公众参与硕士",
+  "project_id": "bed96dac-0640-4685-83ec-0ef0977b3c85",
+  "root_url": "https://sts.um.edu.my/master-of-science-communication-and-public-engagement.html",
+  "source_file": "科学传播.json",
+  "status": "completed",
+  "total_pages": 4
+}

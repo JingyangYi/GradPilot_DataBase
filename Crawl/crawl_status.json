@@ -1,0 +1,23 @@
+{
+  "subjects": {
+    "科学传播": {
+      "status": "running",
+      "total": 12,
+      "completed": 0,
+      "failed": 0,
+      "start_time": "2025-08-05T15:17:36.211160",
+      "end_time": null
+    },
+    "计算机": {
+      "status": "running",
+      "total": 462,
+      "completed": 0,
+      "failed": 0,
+      "start_time": "2025-08-05T15:19:49.071791",
+      "end_time": null
+    }
+  },
+  "failed_projects": [],
+  "completed_subjects": [],
+  "last_update": "2025-08-05T15:19:49.071796"
+}

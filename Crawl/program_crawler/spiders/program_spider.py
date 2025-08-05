@@ -69,7 +69,7 @@ class ProgramSpider(scrapy.Spider):
         self.logger.info(f"文件是否存在: {os.path.exists(csv_path)}")
         
         try:
-            with open(csv_path, 'r', encoding='utf-8') as f:
+            with open(csv_path, 'r', encoding='utf-8-sig') as f:  # 处理BOM字符
                 reader = csv.DictReader(f)
                 for row in reader:
                     project = {
@@ -93,6 +93,11 @@ class ProgramSpider(scrapy.Spider):
             
         except Exception as e:
             self.logger.error(f"加载CSV文件失败: {e}")
+            # 输出更详细的错误信息帮助调试
+            import traceback
+            self.logger.error(f"详细错误信息: {traceback.format_exc()}")
+            # 不要继续运行，确保问题被发现
+            raise RuntimeError(f"CSV文件加载失败，无法继续: {e}")
             
     def start_requests(self):
         """开始第一个项目的爬取，其他项目将在前一个完成后依次启动"""
@@ -283,7 +288,7 @@ class ProgramSpider(scrapy.Spider):
         # 最后检查当前项目是否完成（在所有yield操作完成后）
         self.request_counters[project_id] -= 1
         processed_pages_after = current_project_data['successful_pages'] + current_project_data['failed_pages']
-        self.logger.info(f"[{project_id}] 已处理页面: {processed_pages_after}, 剩余请求数: {self.request_counters[project_id]}")
+        self.logger.debug(f"[{project_id}] 已处理页面: {processed_pages_after}, 剩余请求数: {self.request_counters[project_id]}")
         
         if self.request_counters[project_id] <= 0:
             yield from self.complete_project(project_id)
@@ -345,10 +350,83 @@ class ProgramSpider(scrapy.Spider):
         processed_pages = current_project_data['successful_pages'] + current_project_data['failed_pages']
         self.logger.info(f"[{project_id}] 已处理页面: {processed_pages}, 剩余请求数: {self.request_counters[project_id]}")
 
+        # 记录失败到状态文件
+        self.record_failed_request(project_id, failure)
+
         # 如果当前项目所有请求都已回收，立即完成项目
         if self.request_counters[project_id] <= 0:
             self.logger.info(f"[{project_id}] 项目在错误处理中完成，立即收尾 …")
             yield from self.complete_project(project_id)
+    
+    def record_failed_request(self, project_id, failure):
+        """记录失败的请求到状态文件"""
+        try:
+            import json
+            import os
+            from datetime import datetime
+            
+            # 构建状态文件路径
+            status_file = os.path.join(
+                os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))), 
+                'crawl_status.json'
+            )
+            
+            # 获取项目信息
+            project_data = self.project_data.get(project_id, {})
+            program_name = project_data.get('program_name', 'Unknown')
+            source_file = project_data.get('source_file', 'unknown.json').replace('.json', '')
+            
+            # 构建错误信息
+            error_msg = f"{failure.type.__name__}: {failure.value}"
+            if hasattr(failure.value, 'response') and failure.value.response is not None:
+                error_msg += f" (HTTP {failure.value.response.status})"
+            
+            # 创建失败项目记录
+            failed_project = {
+                'project_id': project_id,
+                'program_name': program_name,
+                'source_file': source_file,
+                'url': failure.request.url,
+                'error': error_msg,
+                'error_type': failure.type.__name__,
+                'timestamp': datetime.now().isoformat()
+            }
+            
+            # 读取现有状态
+            if os.path.exists(status_file):
+                with open(status_file, 'r', encoding='utf-8') as f:
+                    crawl_status = json.load(f)
+            else:
+                crawl_status = {
+                    "subjects": {},
+                    "failed_projects": [],
+                    "completed_subjects": [],
+                    "last_update": None
+                }
+            
+            # 添加失败项目
+            crawl_status['failed_projects'].append(failed_project)
+            crawl_status['last_update'] = datetime.now().isoformat()
+            
+            # 更新学科失败计数
+            if source_file not in crawl_status['subjects']:
+                crawl_status['subjects'][source_file] = {
+                    'status': 'running',
+                    'total': 0,
+                    'completed': 0,
+                    'failed': 0
+                }
+            crawl_status['subjects'][source_file]['failed'] += 1
+            
+            # 保存状态
+            with open(status_file, 'w', encoding='utf-8') as f:
+                json.dump(crawl_status, f, ensure_ascii=False, indent=2)
+                
+            self.logger.debug(f"[{project_id}] 失败记录已保存到状态文件")
+            
+        except Exception as e:
+            # 状态记录失败不应影响主流程
+            self.logger.warning(f"[{project_id}] 记录失败状态时出错: {e}")
             
     def complete_project(self, project_id):
         """完成当前项目，输出统计信息并开始下一个项目"""
@@ -675,9 +753,9 @@ class ProgramSpider(scrapy.Spider):
                         self.logger.debug(f"[{project_id}] 匹配链接: {href} (锚文本: '{anchor_text}', 关键词: '{matched_keyword}')")
 
                     else:
-                        self.logger.info(f"[{project_id}] 链接不匹配关键词: {href} (锚文本: '{anchor_text}')")
+                        self.logger.debug(f"[{project_id}] 链接不匹配关键词: {href} (锚文本: '{anchor_text}')")
                 else:
-                    self.logger.info(f"[{project_id}] 无效链接: {href} (锚文本: '{anchor_text}')")
+                    self.logger.debug(f"[{project_id}] 无效链接: {href} (锚文本: '{anchor_text}')")
             
             self.logger.info(f"[{project_id}] 有效链接数: {valid_count}, 关键词匹配数: {keyword_matched_count}, 最终提取数: {len(links)}")
             return links
