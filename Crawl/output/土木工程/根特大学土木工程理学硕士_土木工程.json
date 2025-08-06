@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:26:30.441480",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://studiekiezer.ugent.be/2025/master-of-science-in-civil-engineering-en"
+    }
+  ],
+  "program_name": "根特大学土木工程理学硕士",
+  "project_id": "4d3c577a-0fd0-42ba-ba6c-2d9e8399d936",
+  "root_url": "https://studiekiezer.ugent.be/master-of-science-in-civil-engineering-en",
+  "source_file": "土木工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

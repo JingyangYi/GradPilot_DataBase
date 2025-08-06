@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:53:10.477265",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://studiekiezer.ugent.be/2025/master-of-science-in-chemical-engineering-en"
+    }
+  ],
+  "program_name": "根特大学化学工程理学硕士",
+  "project_id": "919ea035-270a-4068-84d8-9b7bc2e4bb6a",
+  "root_url": "https://studiekiezer.ugent.be/master-of-science-in-chemical-engineering-en",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

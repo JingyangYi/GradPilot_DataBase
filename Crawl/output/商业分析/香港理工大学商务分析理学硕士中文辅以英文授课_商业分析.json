@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:08:06.510603",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.polyu.edu.hk/mm/study/tpg/ba_eias/"
+    }
+  ],
+  "program_name": "香港理工大学商务分析理学硕士（中文辅以英文授课）",
+  "project_id": "1856ea34-30a1-49fb-a84d-d00e189f3ae6",
+  "root_url": "https://www.polyu.edu.hk/mm/study/tpg/ba_eias/",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

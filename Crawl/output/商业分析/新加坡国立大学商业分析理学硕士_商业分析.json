@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:55:55.059410",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://msba.nus.edu.sg/"
+    }
+  ],
+  "program_name": "新加坡国立大学商业分析理学硕士",
+  "project_id": "bbc66811-513d-4b1d-819d-460287fb42ca",
+  "root_url": "https://msba.nus.edu.sg/",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

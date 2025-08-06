@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:14:36.612780",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/"
+    }
+  ],
+  "program_name": "华盛顿大学商业分析硕士",
+  "project_id": "7826d738-5bb0-4e11-b445-a67026624ee1",
+  "root_url": "https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

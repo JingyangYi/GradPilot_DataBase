@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:02:29.128024",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://michiganross.umich.edu/graduate/master-of-business-analytics"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校商业分析硕士",
+  "project_id": "342ee399-2cf8-4766-837e-e42dc835ec97",
+  "root_url": "https://michiganross.umich.edu/graduate/master-of-business-analytics",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

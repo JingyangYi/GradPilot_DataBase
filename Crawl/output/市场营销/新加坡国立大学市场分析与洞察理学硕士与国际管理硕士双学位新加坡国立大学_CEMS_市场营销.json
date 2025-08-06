@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:56:01.343801",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://mscmarketing.nus.edu.sg/cems-mim/"
+    }
+  ],
+  "program_name": "新加坡国立大学市场分析与洞察理学硕士与国际管理硕士双学位（新加坡国立大学-CEMS）",
+  "project_id": "bbb466bf-82ab-4e05-97a3-885d74d10d62",
+  "root_url": "https://mscmarketing.nus.edu.sg/cems-mim/",
+  "source_file": "市场营销.json",
+  "status": "completed",
+  "total_pages": 1
+}

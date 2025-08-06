@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:43:38.220864",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://robotics.umich.edu/academics/graduate/"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校机器人学理学硕士",
+  "project_id": "2bcc7878-7da1-48b0-8e92-e80876e614b5",
+  "root_url": "https://robotics.umich.edu/academics/graduate/",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

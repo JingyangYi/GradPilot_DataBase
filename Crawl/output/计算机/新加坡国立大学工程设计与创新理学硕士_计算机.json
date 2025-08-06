@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:58:36.587584",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://masters.nus.edu.sg/programmes/master-of-science-in-engineering-design---innovation"
+    }
+  ],
+  "program_name": "新加坡国立大学工程设计与创新理学硕士",
+  "project_id": "013b629b-4860-42f0-85ec-47e89c7324cc",
+  "root_url": "https://masters.nus.edu.sg/programmes/master-of-science-in-engineering-design---innovation",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

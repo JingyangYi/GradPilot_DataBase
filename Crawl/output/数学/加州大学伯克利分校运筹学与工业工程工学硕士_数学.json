@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T06:48:42.149685",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://ieor.berkeley.edu/academics/master-of-engineering/"
+    }
+  ],
+  "program_name": "加州大学伯克利分校运筹学与工业工程工学硕士",
+  "project_id": "b5a5bdd9-3f06-4bde-94bc-774a048e89da",
+  "root_url": "https://ieor.berkeley.edu/academics/master-of-engineering/",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:05:35.404670",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.cityu.edu.hk/pg/programme/p58"
+    }
+  ],
+  "program_name": "香港城市大学材料工程与纳米技术理学硕士",
+  "project_id": "d3f32a90-8ccf-425d-9348-65dffa7d46f7",
+  "root_url": "https://www.cityu.edu.hk/pg/programme/p58",
+  "source_file": "材料.json",
+  "status": "completed",
+  "total_pages": 1
+}

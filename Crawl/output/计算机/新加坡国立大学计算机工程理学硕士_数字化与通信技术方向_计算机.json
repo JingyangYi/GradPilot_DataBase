@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:58:32.569181",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://cde.nus.edu.sg/ece/graduate/msc-computer-engineering/"
+    }
+  ],
+  "program_name": "新加坡国立大学计算机工程理学硕士 - 数字化与通信技术方向",
+  "project_id": "138869bf-24e0-4d6e-b897-d6e170f79de3",
+  "root_url": "https://cde.nus.edu.sg/ece/graduate/msc-computer-engineering/",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

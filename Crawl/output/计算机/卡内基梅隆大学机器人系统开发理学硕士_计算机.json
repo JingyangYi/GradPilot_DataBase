@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:46:51.076331",
+  "pages": [
+    {
+      "content": "The Master of Science (M.S.) in Robotic Systems Development (MRSD) is an advanced graduate degree with a focus on technical and business skills. The program is designed for recent college graduates or practicing professionals who wish to enter the robotics and automation field as practitioners in the commercial sector. MRSD aims to teach the multidisciplinary skills needed to succeed in industry.\nThe MRSD curriculum provides a broad education in the sciences and technologies of robotics, reinforces theory through hands-on laboratory projects and exposes students to practical business principles and skills. The unique curriculum allows students to work as a team towards practical system-level robotics development and integration projects. Key business concepts and practices in the curriculum include technology planning, product conceptualization and development, team management, project management, prototyping, production, marketing, and sales.\n[CARD]\nHome\nSkip to content\n[CARD]\nAlex Krause",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "Home - MRSD | Master of Science - Robotic Systems Development Program",
+      "url": "https://mrsd.ri.cmu.edu/"
+    }
+  ],
+  "program_name": "卡内基梅隆大学机器人系统开发理学硕士",
+  "project_id": "478a7729-d216-4078-915f-9bf0456d09a9",
+  "root_url": "https://mrsd.ri.cmu.edu/",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

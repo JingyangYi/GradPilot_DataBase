@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:03:17.763136",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering/master-tracks/aerodynamics-wind-energy"
+    }
+  ],
+  "program_name": "代尔夫特理工大学航空航天工程理学硕士 - 空气动力学与风能",
+  "project_id": "652d46e7-cf72-4162-8ea2-9ac1d5d0c6b9",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/ae/msc-aerospace-engineering/master-tracks/aerodynamics-wind-energy",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

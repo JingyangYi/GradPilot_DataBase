@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:46:44.448844",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://graduate.northeastern.edu/programs/ms-chemical-engineering/master-of-science-in-chemical-engineering/"
+    }
+  ],
+  "program_name": "东北大学（美国）化学工程理学硕士",
+  "project_id": "29811b96-ad5d-4e38-97ae-2665d3fa5e51",
+  "root_url": "https://www.northeastern.edu/graduate/program/master-of-science-in-chemical-engineering-5260/",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

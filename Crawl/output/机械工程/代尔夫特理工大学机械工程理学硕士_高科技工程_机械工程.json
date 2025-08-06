@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:03:20.151049",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/me/msc-mechanical-engineering/track-overview/track-high-tech-engineering"
+    }
+  ],
+  "program_name": "代尔夫特理工大学机械工程理学硕士-高科技工程",
+  "project_id": "b1d3de6d-238d-4d8b-8367-86acdcb8dcb7",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/me/msc-mechanical-engineering/track-overview/track-high-tech-engineering",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

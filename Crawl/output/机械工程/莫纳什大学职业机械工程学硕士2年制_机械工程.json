@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:01:16.411837",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.monash.edu/study/courses/find-a-course/professional-engineering-e6011?international=true"
+    }
+  ],
+  "program_name": "莫纳什大学职业机械工程学硕士（2年制）",
+  "project_id": "1cd4acf0-4586-439a-a52a-2e2204bc2933",
+  "root_url": "https://www.monash.edu/study/courses/find-a-course/professional-engineering-e6011?international=true#overview-1,Mechanical_engineering",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:19:02.673237",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.epfl.ch/education/master/programs/robotics/"
+    }
+  ],
+  "program_name": "洛桑联邦理工学院机器人技术理学硕士",
+  "project_id": "cb966c8e-5b92-435f-a523-59c0fbf6890d",
+  "root_url": "https://www.epfl.ch/education/master/programs/robotics/",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

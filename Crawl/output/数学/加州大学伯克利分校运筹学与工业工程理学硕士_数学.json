@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T06:48:41.727958",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://ieor.berkeley.edu/academics/master-of-science/"
+    }
+  ],
+  "program_name": "加州大学伯克利分校运筹学与工业工程理学硕士",
+  "project_id": "4d119ceb-b90e-4f34-92b0-42f1494685e3",
+  "root_url": "https://ieor.berkeley.edu/academics/master-of-science/",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

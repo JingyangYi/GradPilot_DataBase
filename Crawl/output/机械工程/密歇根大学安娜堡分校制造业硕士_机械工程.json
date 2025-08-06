@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:02:48.589189",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.engin.umich.edu/academics/graduate-professional/masters/"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校制造业硕士",
+  "project_id": "f32f9359-637f-46fd-9c51-5ecff69bea3f",
+  "root_url": "https://masters.engin.umich.edu/degree/manufacturing-meng/",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

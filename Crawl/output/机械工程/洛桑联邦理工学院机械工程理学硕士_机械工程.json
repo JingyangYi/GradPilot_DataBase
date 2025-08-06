@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:56:55.426183",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.epfl.ch/education/master/programs/mechanical-engineering/"
+    }
+  ],
+  "program_name": "洛桑联邦理工学院机械工程理学硕士",
+  "project_id": "10bfe83c-ed66-4ac6-8580-0fd0389b1911",
+  "root_url": "https://www.epfl.ch/education/master/programs/mechanical-engineering/",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

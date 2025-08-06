@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:06:59.136587",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://msfin.cuhk.edu.cn/zh-hans"
+    }
+  ],
+  "program_name": "香港中文大学金融学理学硕士（CUHK-Shenzhen）",
+  "project_id": "0f15fd57-0ed2-4b7e-ad77-87ec1c75696b",
+  "root_url": "https://msfin.cuhk.edu.cn/",
+  "source_file": "金融.json",
+  "status": "completed",
+  "total_pages": 1
+}

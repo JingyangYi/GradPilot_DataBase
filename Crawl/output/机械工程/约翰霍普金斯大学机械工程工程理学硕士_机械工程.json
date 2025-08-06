@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:56:57.044408",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://me.jhu.edu/education/graduate-studies/masters-program/"
+    }
+  ],
+  "program_name": "约翰霍普金斯大学机械工程工程理学硕士",
+  "project_id": "cf7bbc52-e1ee-4256-997b-c1a61bca7768",
+  "root_url": "https://me.jhu.edu/education/graduate-studies/masters-program/",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

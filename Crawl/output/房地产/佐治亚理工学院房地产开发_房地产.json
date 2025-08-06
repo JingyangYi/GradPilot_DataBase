@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T06:19:01.085663",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://grad.gatech.edu/degree-programs/real-estate-development"
+    }
+  ],
+  "program_name": "佐治亚理工学院房地产开发",
+  "project_id": "e8b56854-7ad0-414e-bd08-227b0605bfc9",
+  "root_url": "https://grad.gatech.edu/degree-programs/real-estate-development",
+  "source_file": "房地产.json",
+  "status": "completed",
+  "total_pages": 1
+}

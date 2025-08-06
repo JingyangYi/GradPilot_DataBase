@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:26:35.120381",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/msc-building-and-infrastructure-information-modelling-bim-for-smart-engineering"
+    }
+  ],
+  "program_name": "卡迪夫大学智能工程建筑与基础设施信息建模理学硕士",
+  "project_id": "62e145ec-2e8b-4b0f-bf40-b5db1a17a62d",
+  "root_url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/msc-building-and-infrastructure-information-modelling-bim-for-smart-engineering",
+  "source_file": "土木工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:48:46.999962",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-data-science"
+    }
+  ],
+  "program_name": "麦考瑞大学商业分析硕士/数据科学硕士双学位",
+  "project_id": "58fd3674-3767-44fb-8a91-27677cc7f7ba",
+  "root_url": "https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-data-science",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

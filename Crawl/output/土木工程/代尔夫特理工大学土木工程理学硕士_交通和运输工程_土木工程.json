@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:47:58.724567",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/programme/track-traffic-and-transport-engineering"
+    }
+  ],
+  "program_name": "代尔夫特理工大学土木工程理学硕士-交通和运输工程",
+  "project_id": "a19d8852-1e3d-4ee5-ae0c-f8ace291a627",
+  "root_url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/programme/track-traffic-and-transport-engineering",
+  "source_file": "土木工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

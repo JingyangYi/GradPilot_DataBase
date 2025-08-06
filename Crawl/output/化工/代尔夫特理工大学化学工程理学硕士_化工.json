@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:37:38.293178",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/cheme/msc-chemical-engineering"
+    }
+  ],
+  "program_name": "代尔夫特理工大学化学工程理学硕士",
+  "project_id": "857e544f-15a7-4e5e-ad3b-3d4d5b5c6ee3",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/cheme/msc-chemical-engineering",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

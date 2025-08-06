@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:47:28.085056",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://chbe.rice.edu/academics/graduate-programs/professional-masters-program/about-mche-program"
+    }
+  ],
+  "program_name": "莱斯大学化学工程硕士",
+  "project_id": "0fdc146d-6811-4544-8c51-3210b185e908",
+  "root_url": "https://chbe.rice.edu/academics/graduate-programs/professional-masters-program/about-mche-program",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

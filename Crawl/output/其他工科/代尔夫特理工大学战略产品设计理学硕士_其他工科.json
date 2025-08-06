@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:29:04.703887",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/spd/msc-strategic-product-design"
+    }
+  ],
+  "program_name": "代尔夫特理工大学战略产品设计理学硕士",
+  "project_id": "f17fe290-9ebf-4583-b0d6-5396f5f90b06",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/spd/msc-strategic-product-design",
+  "source_file": "其他工科.json",
+  "status": "completed",
+  "total_pages": 1
+}

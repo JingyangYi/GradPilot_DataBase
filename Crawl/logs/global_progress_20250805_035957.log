@@ -1,0 +1,34 @@
+2025-08-05 03:59:57,581 [GLOBAL] INFO: 开始分批爬取，共 62 个学科
+2025-08-05 03:59:57,581 [GLOBAL] INFO: 开始爬取学科: 计算机 (462 个项目)
+2025-08-05 03:59:57,592 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_计算机.csv
+2025-08-05 04:59:59,750 [GLOBAL] INFO: 开始爬取学科: 金融 (203 个项目)
+2025-08-05 04:59:59,760 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_金融.csv
+2025-08-05 06:00:01,953 [GLOBAL] INFO: 开始爬取学科: 房地产 (36 个项目)
+2025-08-05 06:00:01,957 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_房地产.csv
+2025-08-05 06:32:42,623 [GLOBAL] INFO: 学科 房地产 爬取完成
+2025-08-05 06:32:44,683 [GLOBAL] INFO: 开始爬取学科: 数学 (253 个项目)
+2025-08-05 06:32:44,692 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_数学.csv
+2025-08-05 07:17:10,851 [GLOBAL] INFO: 学科 数学 爬取完成
+2025-08-05 07:17:12,875 [GLOBAL] INFO: 开始爬取学科: 机械工程 (132 个项目)
+2025-08-05 07:17:12,883 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_机械工程.csv
+2025-08-05 08:17:15,132 [GLOBAL] INFO: 开始爬取学科: 工商管理 (104 个项目)
+2025-08-05 08:17:15,139 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_工商管理.csv
+2025-08-05 09:17:17,349 [GLOBAL] INFO: 开始爬取学科: 其他工科 (73 个项目)
+2025-08-05 09:17:17,356 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_其他工科.csv
+2025-08-05 09:44:46,833 [GLOBAL] INFO: 学科 其他工科 爬取完成
+2025-08-05 09:44:48,837 [GLOBAL] INFO: 开始爬取学科: 材料 (94 个项目)
+2025-08-05 09:44:48,845 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_材料.csv
+2025-08-05 10:29:19,582 [GLOBAL] INFO: 学科 材料 爬取完成
+2025-08-05 10:29:21,599 [GLOBAL] INFO: 开始爬取学科: 土木工程 (132 个项目)
+2025-08-05 10:29:21,608 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_土木工程.csv
+2025-08-05 11:28:40,724 [GLOBAL] INFO: 学科 土木工程 爬取完成
+2025-08-05 11:28:42,741 [GLOBAL] INFO: 开始爬取学科: 化工 (69 个项目)
+2025-08-05 11:28:42,749 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_化工.csv
+2025-08-05 11:55:24,570 [GLOBAL] INFO: 学科 化工 爬取完成
+2025-08-05 11:55:26,574 [GLOBAL] INFO: 开始爬取学科: 商业分析 (79 个项目)
+2025-08-05 11:55:26,581 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_商业分析.csv
+2025-08-05 12:54:12,092 [GLOBAL] INFO: 学科 商业分析 爬取完成
+2025-08-05 12:54:14,095 [GLOBAL] INFO: 开始爬取学科: 市场营销 (106 个项目)
+2025-08-05 12:54:14,104 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_市场营销.csv
+2025-08-05 13:54:16,512 [GLOBAL] INFO: 开始爬取学科: 物理 (135 个项目)
+2025-08-05 13:54:16,519 [GLOBAL] INFO: 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_物理.csv

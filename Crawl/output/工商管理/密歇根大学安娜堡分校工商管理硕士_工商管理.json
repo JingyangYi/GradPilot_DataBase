@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T13:00:22.979942",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://michiganross.umich.edu/graduate/full-time-mba"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校工商管理硕士",
+  "project_id": "c7bb1bf9-4364-468b-813a-097ef5eae80e",
+  "root_url": "https://michiganross.umich.edu/graduate/full-time-mba",
+  "source_file": "工商管理.json",
+  "status": "completed",
+  "total_pages": 1
+}

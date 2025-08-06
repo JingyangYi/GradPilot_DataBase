@@ -1,0 +1,59 @@
+{
+  "crawl_time": "2025-08-05T09:13:40.801127",
+  "pages": [
+    {
+      "content": "[HEADING] Full-Time MBA\n[HEADING] COLLABORATE FOR IMPACT\n[HEADING] The UC Davis Difference\n[HEADING] A vibe unlike any other.\n[HEADING] Game-changing innovation.\n[HEADING] UC Davis Experience.\n[HEADING] Industry Immersions\n[HEADING] \"The STEM-designated UC Davis MBA and its emphasis on analytics and collaborative leadership became the pillars of my educational experience. I look forward to making a difference in the world, leading by example and inspiring others.\"\nTwo Year STEM-Designated Program         100% In Person in Davis, CA         Summer 2025 Start\nImmerse yourself in a Top 20 MBA with a close-knit community that inspires others to achieve, helps others to succeed, builds trust and challenges you as a collaborative leader.\nThe Davis campus is deeply connected and an engine for growth across Northern California's thriving economy and global innovation hubs—offering you extraordinary opportunities and valuable networks.\nTake advantage of all the opportunities that UC Davis’ globally ranked research university community has to offer, from the arts and theater to sports and campus traditions—and a lot of experiences that will surprise you.\nExperience a transformational journey that combines UC Davis’ pioneering research and our corporate partnership network to develop your business knowledge and skills. Take a deep dive into one of these three key areas:\nDeepi Agrawal MBA 22\nMBA Student Ambassador\nSenior Marketing Manager\nAmazon\n• Food and Agriculture\n• Sustainable Energy\n• Biotechnology\n[GRID_TABLE]\nFull-Time MBA\n COLLABORATE FOR IMPACT\n\n\n\nRequest More InformationApply Today\nRequest More InformationApply Today\n[GRID_TABLE]\nIndustry Immersions\nExperience a transformational journey that combines UC Davis’ pioneering research and our corporate partnership network to develop your business knowledge and skills. Take a deep dive into one of these three key areas:\n\nFood and Agriculture\nSustainable Energy\nBiotechnology\n\n\n\nLearn More About our Industry Immersions\nLearn More About our Industry Immersions\n[GRID_TABLE]\nRequest More Info\n\n\n\n Schedule a Consult\n\n\n\n Apply Today\nRequest More Info\n\n\n\n Schedule a Consult\n\n\n\n Apply Today\nRequest More Info\nSchedule a Consult\nApply Today\n[GRID_TABLE]\nRequest More Info\nSchedule a Consult\nApply Today\n[CARD]\nFull-Time MBA\n COLLABORATE FOR IMPACT\n\n\n\nRequest More InformationApply Today\n[CARD]\nFull-Time MBA\nRequest More InformationApply Today\n[CARD]\nFull-Time MBA\n[CARD]\nCOLLABORATE FOR IMPACT\n[CARD]\nRequest More InformationApply Today\n[CARD]\nIndustry Immersions\nExperience a transformational journey that combines UC Davis’ pioneering research and our corporate partnership network to develop your business knowledge and skills. Take a deep dive into one of these three key areas:\n\nFood and Agriculture\nSustainable Energy\nBiotechnology\n\n\n\nLearn More About our Industry Immersions\n[CARD]\nLearn More About our Industry Immersions\n[CARD]\nIndustry Immersions\nExperience a transformational journey that combines UC Davis’ pioneering research and our corporate partnership network to develop your business knowledge and skills. Take a deep dive into one of these three key areas:\n\nFood and Agriculture\nSustainable Energy\nBiotechnology",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [
+        {
+          "anchor_text": "Apply Today",
+          "matched_keyword": "apply",
+          "url": "https://apply.ucdavis.edu/apply"
+        },
+        {
+          "anchor_text": "Graduate Degrees",
+          "matched_keyword": "graduate",
+          "url": "https://gsm.ucdavis.edu/graduate-degrees"
+        },
+        {
+          "anchor_text": "Apply Today",
+          "matched_keyword": "apply",
+          "url": "https://apply.ucdavis.edu/apply/"
+        }
+      ],
+      "title": "Full-Time MBA | UC Davis Graduate School of Management",
+      "url": "https://gsm.ucdavis.edu/full-time-mba"
+    },
+    {
+      "content": "[HEADING] Collaborate for impact\nOur nationally and internationally recognized graduate business programs are focused on preparing the next generation of inspired, innovative and collaborative leaders who are committed to making a positive impact. Our four campuses span Northern California’s economic megaregion—and virtually with the first University of California Online MBA program.\nAll eight of our programs are STEM-designated,  reflecting the rigorous curriculum that emphasizes quantitative analysis and data-driven decision making. We invite you to learn more to find the program that best fits your personal and professional goals.",
+      "crawl_status": "success",
+      "depth": 1,
+      "links": [],
+      "title": "Graduate Degrees | UC Davis Graduate School of Management",
+      "url": "https://gsm.ucdavis.edu/graduate-degrees"
+    },
+    {
+      "content": "[HEADING] UC Davis Graduate School of Management\n[HEADING] Returning users:\n[HEADING] First-time users:\nIf you are not redirected, click here.\nCreate an account\n[HTML_TABLE]\nReturning users:Log in | First-time users:Create an account",
+      "crawl_status": "success",
+      "depth": 1,
+      "links": [],
+      "title": "UC Davis Graduate School of Management",
+      "url": "https://apply.ucdavis.edu/apply/"
+    },
+    {
+      "content": "[HEADING] UC Davis Graduate School of Management\n[HEADING] Returning users:\n[HEADING] First-time users:\nIf you are not redirected, click here.\nCreate an account\n[HTML_TABLE]\nReturning users:Log in | First-time users:Create an account",
+      "crawl_status": "success",
+      "depth": 1,
+      "links": [],
+      "title": "UC Davis Graduate School of Management",
+      "url": "https://apply.ucdavis.edu/apply/"
+    }
+  ],
+  "program_name": "加州大学戴维斯分校工商管理硕士",
+  "project_id": "b29731cc-c545-4885-a1f5-a0df4b465780",
+  "root_url": "https://gsm.ucdavis.edu/full-time-mba",
+  "source_file": "工商管理.json",
+  "status": "completed",
+  "total_pages": 4
+}

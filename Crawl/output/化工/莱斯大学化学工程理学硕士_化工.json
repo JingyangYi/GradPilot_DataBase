@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:47:27.898848",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://chbe.rice.edu/academics/graduate-programs/master-science-program"
+    }
+  ],
+  "program_name": "莱斯大学化学工程理学硕士",
+  "project_id": "9feb1a5c-b473-4c57-bef3-81b5f90c9b01",
+  "root_url": "https://chbe.rice.edu/academics/graduate-programs/master-science-program",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

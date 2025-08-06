@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:31:50.460220",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://tum-asia.edu.sg/graduate-studies/master-industrial-chemistry/"
+    }
+  ],
+  "program_name": "新加坡国立大学工业化学理学硕士（新加坡国立大学-慕尼黑工业大学联合开设）",
+  "project_id": "d87fda4f-1aa1-494b-bfb1-853944d46fbf",
+  "root_url": "https://tum-asia.edu.sg/admissions/graduate/msc-industrial-chemistry/",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

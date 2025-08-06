@@ -1,0 +1,122 @@
+2025-08-05 03:57:27,506 [global] 开始分批爬取，共 62 个学科
+2025-08-05 03:57:27,506 [global] 开始爬取学科: 计算机 (462 个项目)
+2025-08-05 03:57:27,521 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_计算机.csv
+2025-08-05 03:57:29,566 [global] 开始爬取学科: 金融 (203 个项目)
+2025-08-05 03:57:29,575 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_金融.csv
+2025-08-05 03:57:31,620 [global] 开始爬取学科: 房地产 (36 个项目)
+2025-08-05 03:57:31,626 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_房地产.csv
+2025-08-05 03:57:33,676 [global] 开始爬取学科: 数学 (253 个项目)
+2025-08-05 03:57:33,686 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_数学.csv
+2025-08-05 03:57:35,733 [global] 开始爬取学科: 机械工程 (132 个项目)
+2025-08-05 03:57:35,741 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_机械工程.csv
+2025-08-05 03:57:37,787 [global] 开始爬取学科: 工商管理 (104 个项目)
+2025-08-05 03:57:37,795 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_工商管理.csv
+2025-08-05 03:57:39,854 [global] 开始爬取学科: 其他工科 (73 个项目)
+2025-08-05 03:57:39,861 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_其他工科.csv
+2025-08-05 03:57:41,908 [global] 开始爬取学科: 材料 (94 个项目)
+2025-08-05 03:57:41,915 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_材料.csv
+2025-08-05 03:57:43,962 [global] 开始爬取学科: 土木工程 (132 个项目)
+2025-08-05 03:57:43,970 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_土木工程.csv
+2025-08-05 03:57:46,019 [global] 开始爬取学科: 化工 (69 个项目)
+2025-08-05 03:57:46,026 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_化工.csv
+2025-08-05 03:57:48,073 [global] 开始爬取学科: 商业分析 (79 个项目)
+2025-08-05 03:57:48,079 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_商业分析.csv
+2025-08-05 03:57:50,126 [global] 开始爬取学科: 市场营销 (106 个项目)
+2025-08-05 03:57:50,134 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_市场营销.csv
+2025-08-05 03:57:52,194 [global] 开始爬取学科: 物理 (135 个项目)
+2025-08-05 03:57:52,200 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_物理.csv
+2025-08-05 03:57:54,235 [global] 开始爬取学科: 交通运输 (46 个项目)
+2025-08-05 03:57:54,242 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_交通运输.csv
+2025-08-05 03:57:56,279 [global] 开始爬取学科: 医学 (425 个项目)
+2025-08-05 03:57:56,291 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_医学.csv
+2025-08-05 03:57:58,339 [global] 开始爬取学科: 地球科学 (136 个项目)
+2025-08-05 03:57:58,345 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_地球科学.csv
+2025-08-05 03:58:00,392 [global] 开始爬取学科: 生物工程 (126 个项目)
+2025-08-05 03:58:00,401 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_生物工程.csv
+2025-08-05 03:58:02,449 [global] 开始爬取学科: 金工金数 (114 个项目)
+2025-08-05 03:58:02,457 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_金工金数.csv
+2025-08-05 03:58:04,503 [global] 开始爬取学科: 数据科学 (212 个项目)
+2025-08-05 03:58:04,512 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_数据科学.csv
+2025-08-05 03:58:06,555 [global] 开始爬取学科: 创业与创新 (73 个项目)
+2025-08-05 03:58:06,562 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_创业与创新.csv
+2025-08-05 03:58:08,610 [global] 开始爬取学科: 环境工程 (227 个项目)
+2025-08-05 03:58:08,620 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_环境工程.csv
+2025-08-05 03:58:10,668 [global] 开始爬取学科: 航空工程 (31 个项目)
+2025-08-05 03:58:10,674 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_航空工程.csv
+2025-08-05 03:58:12,722 [global] 开始爬取学科: 科学传播 (12 个项目)
+2025-08-05 03:58:12,727 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_科学传播.csv
+2025-08-05 03:58:14,774 [global] 开始爬取学科: 管理 (215 个项目)
+2025-08-05 03:58:14,783 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_管理.csv
+2025-08-05 03:58:16,844 [global] 开始爬取学科: 药学 (66 个项目)
+2025-08-05 03:58:16,851 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_药学.csv
+2025-08-05 03:58:18,899 [global] 开始爬取学科: 电气电子 (228 个项目)
+2025-08-05 03:58:18,909 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_电气电子.csv
+2025-08-05 03:58:20,959 [global] 开始爬取学科: 化学 (82 个项目)
+2025-08-05 03:58:20,967 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_化学.csv
+2025-08-05 03:58:23,014 [global] 开始爬取学科: 经济 (232 个项目)
+2025-08-05 03:58:23,024 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_经济.csv
+2025-08-05 03:58:25,071 [global] 开始爬取学科: 公共卫生 (177 个项目)
+2025-08-05 03:58:25,079 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_公共卫生.csv
+2025-08-05 03:58:27,129 [global] 开始爬取学科: 生物 (320 个项目)
+2025-08-05 03:58:27,139 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_生物.csv
+2025-08-05 03:58:29,187 [global] 开始爬取学科: 能源 (71 个项目)
+2025-08-05 03:58:29,194 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_能源.csv
+2025-08-05 03:58:31,241 [global] 开始爬取学科: 教育 (398 个项目)
+2025-08-05 03:58:31,252 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_教育.csv
+2025-08-05 03:58:33,298 [global] 开始爬取学科: 公共政策与事务 (215 个项目)
+2025-08-05 03:58:33,307 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_公共政策与事务.csv
+2025-08-05 03:58:35,354 [global] 开始爬取学科: 法律 (407 个项目)
+2025-08-05 03:58:35,365 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_法律.csv
+2025-08-05 03:58:37,414 [global] 开始爬取学科: 新闻 (33 个项目)
+2025-08-05 03:58:37,420 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_新闻.csv
+2025-08-05 03:58:39,468 [global] 开始爬取学科: 文化 (279 个项目)
+2025-08-05 03:58:39,478 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_文化.csv
+2025-08-05 03:58:41,526 [global] 开始爬取学科: 工程管理 (135 个项目)
+2025-08-05 03:58:41,533 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_工程管理.csv
+2025-08-05 03:58:43,582 [global] 开始爬取学科: 历史 (256 个项目)
+2025-08-05 03:58:43,591 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_历史.csv
+2025-08-05 03:58:45,637 [global] 开始爬取学科: 国际关系 (346 个项目)
+2025-08-05 03:58:45,648 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_国际关系.csv
+2025-08-05 03:58:47,695 [global] 开始爬取学科: 语言 (232 个项目)
+2025-08-05 03:58:47,704 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_语言.csv
+2025-08-05 03:58:49,752 [global] 开始爬取学科: 艺术 (167 个项目)
+2025-08-05 03:58:49,760 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_艺术.csv
+2025-08-05 03:58:51,807 [global] 开始爬取学科: 影视 (61 个项目)
+2025-08-05 03:58:51,814 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_影视.csv
+2025-08-05 03:58:53,860 [global] 开始爬取学科: 社会学与社工 (253 个项目)
+2025-08-05 03:58:53,869 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_社会学与社工.csv
+2025-08-05 03:58:55,915 [global] 开始爬取学科: 媒介与社会 (14 个项目)
+2025-08-05 03:58:55,921 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_媒介与社会.csv
+2025-08-05 03:58:57,986 [global] 开始爬取学科: 其他社科 (290 个项目)
+2025-08-05 03:58:57,996 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_其他社科.csv
+2025-08-05 03:59:00,045 [global] 开始爬取学科: 哲学 (63 个项目)
+2025-08-05 03:59:00,052 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_哲学.csv
+2025-08-05 03:59:02,102 [global] 开始爬取学科: 建筑 (258 个项目)
+2025-08-05 03:59:02,112 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_建筑.csv
+2025-08-05 03:59:04,159 [global] 开始爬取学科: 工业工程 (41 个项目)
+2025-08-05 03:59:04,165 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_工业工程.csv
+2025-08-05 03:59:06,212 [global] 开始爬取学科: 心理学 (236 个项目)
+2025-08-05 03:59:06,222 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_心理学.csv
+2025-08-05 03:59:08,269 [global] 开始爬取学科: 食品科学 (61 个项目)
+2025-08-05 03:59:08,276 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_食品科学.csv
+2025-08-05 03:59:10,322 [global] 开始爬取学科: 人力资源管理 (51 个项目)
+2025-08-05 03:59:10,327 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_人力资源管理.csv
+2025-08-05 03:59:12,376 [global] 开始爬取学科: 媒体与传播 (83 个项目)
+2025-08-05 03:59:12,383 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_媒体与传播.csv
+2025-08-05 03:59:14,428 [global] 开始爬取学科: 供应链管理 (46 个项目)
+2025-08-05 03:59:14,435 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_供应链管理.csv
+2025-08-05 03:59:16,481 [global] 开始爬取学科: 会计 (95 个项目)
+2025-08-05 03:59:16,489 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_会计.csv
+2025-08-05 03:59:18,535 [global] 开始爬取学科: 新媒体 (19 个项目)
+2025-08-05 03:59:18,541 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_新媒体.csv
+2025-08-05 03:59:20,587 [global] 开始爬取学科: 信息系统 (92 个项目)
+2025-08-05 03:59:20,593 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_信息系统.csv
+2025-08-05 03:59:22,640 [global] 开始爬取学科: 体育 (19 个项目)
+2025-08-05 03:59:22,645 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_体育.csv
+2025-08-05 03:59:24,692 [global] 开始爬取学科: 策略传播 (35 个项目)
+2025-08-05 03:59:24,699 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_策略传播.csv
+2025-08-05 03:59:26,745 [global] 开始爬取学科: 其他商科 (25 个项目)
+2025-08-05 03:59:26,751 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_其他商科.csv
+2025-08-05 03:59:28,798 [global] 开始爬取学科: 媒体产业 (13 个项目)
+2025-08-05 03:59:28,804 [global] 执行命令: /home/jingyang22/.conda/envs/gp/bin/python /net/scratch/jingyang/GradPilot_DataBase/Crawl/run_crawler.py --csv-file /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_媒体产业.csv
+slurmstepd-h002: error: *** JOB 484036 ON h002 CANCELLED AT 2025-08-05T04:05:06 ***

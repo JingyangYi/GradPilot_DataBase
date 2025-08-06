@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:29:10.966019",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/lst/msc-life-science-and-technology"
+    }
+  ],
+  "program_name": "代尔夫特理工大学生命科学与技术理学硕士",
+  "project_id": "9d51c27b-8c07-4bcc-bc47-c1ba833ce333",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/lst/msc-life-science-and-technology",
+  "source_file": "其他工科.json",
+  "status": "completed",
+  "total_pages": 1
+}

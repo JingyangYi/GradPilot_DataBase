@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:50:17.221443",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://razak.utm.my/msc-business-intelligence-and-analytics/"
+    }
+  ],
+  "program_name": "马来西亚理工大学理学硕士（商业智能与分析）",
+  "project_id": "38e30879-1d44-4ec3-8cc7-d021392277c9",
+  "root_url": "https://razak.utm.my/msc-business-intelligence-and-analytics/",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

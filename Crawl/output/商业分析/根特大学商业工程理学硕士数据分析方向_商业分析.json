@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:51:33.992004",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://studiekiezer.ugent.be/2025/master-of-science-in-business-engineering-data-analytics-en"
+    }
+  ],
+  "program_name": "根特大学商业工程理学硕士（数据分析方向）",
+  "project_id": "b8c76626-52f1-457d-93c2-03b236598ae9",
+  "root_url": "https://studiekiezer.ugent.be/master-of-science-in-business-engineering-data-analytics-en",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

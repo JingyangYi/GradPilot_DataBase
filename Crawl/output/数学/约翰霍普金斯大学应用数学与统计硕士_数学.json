@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T06:54:36.710795",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-applied-mathematics-and-statistics/"
+    }
+  ],
+  "program_name": "约翰霍普金斯大学应用数学与统计硕士",
+  "project_id": "3a45b88b-c7f2-4523-9270-59ed2fc2a206",
+  "root_url": "https://engineering.jhu.edu/ams/graduate-studies/overview/ams-masters/",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

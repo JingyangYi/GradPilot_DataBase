@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:34:16.985025",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://engineering.jhu.edu/chembe/academics/graduate-studies/mse-program/"
+    }
+  ],
+  "program_name": "约翰霍普金斯大学化学与生物分子工程工程理学硕士",
+  "project_id": "0ad9d143-c476-4012-a7db-66b0a35b771f",
+  "root_url": "https://engineering.jhu.edu/chembe/academics/graduate-studies/mse-program/",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:03:18.412192",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/me/msc-mechanical-engineering/track-overview/track-energy-flow-process-technology"
+    }
+  ],
+  "program_name": "代尔夫特理工大学机械工程理学硕士-能源、流动和工艺技术",
+  "project_id": "9ee0ea14-e06d-4054-937d-41cd9afd3535",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/me/msc-mechanical-engineering/track-overview/track-energy-flow-process-technology",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:56:00.667446",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://mscmarketing.nus.edu.sg/"
+    }
+  ],
+  "program_name": "新加坡国立大学市场营销分析与洞察理学硕士",
+  "project_id": "bf468995-ccd7-4ea3-bf66-002a71fbe079",
+  "root_url": "https://mscmarketing.nus.edu.sg/",
+  "source_file": "市场营销.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:41:22.049624",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://studiekiezer.ugent.be/2025/master-of-science-in-fire-safety-engineering-en"
+    }
+  ],
+  "program_name": "根特大学消防安全工程理学硕士",
+  "project_id": "9d1ee0f8-e9c7-44f5-bb6e-426ad28549b8",
+  "root_url": "https://studiekiezer.ugent.be/master-of-science-in-fire-safety-engineering-en",
+  "source_file": "其他工科.json",
+  "status": "completed",
+  "total_pages": 1
+}

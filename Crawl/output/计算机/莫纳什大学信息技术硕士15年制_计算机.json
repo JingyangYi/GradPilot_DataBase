@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:36:42.273896",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c6001?international=true"
+    }
+  ],
+  "program_name": "莫纳什大学信息技术硕士（1.5年制）",
+  "project_id": "e8a67b52-7cf0-4672-a615-12cd8a4050f5",
+  "root_url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c6001?international=true",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

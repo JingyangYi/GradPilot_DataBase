@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:56:25.291388",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://mba.haas.berkeley.edu/"
+    }
+  ],
+  "program_name": "加州大学伯克利分校工商管理硕士",
+  "project_id": "9add80c1-0df8-4ce1-aef4-70829b1c2bfe",
+  "root_url": "https://mba.haas.berkeley.edu/",
+  "source_file": "工商管理.json",
+  "status": "completed",
+  "total_pages": 1
+}

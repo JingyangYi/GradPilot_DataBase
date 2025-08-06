@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:02:33.123353",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/mse/msc-materials-science-engineering"
+    }
+  ],
+  "program_name": "代尔夫特理工大学材料科学与工程理学硕士",
+  "project_id": "a52f6c85-7c75-442f-b7e3-93d981b92eda",
+  "root_url": "https://www.tudelft.nl/en/education/programmes/masters/mse/msc-materials-science-engineering",
+  "source_file": "材料.json",
+  "status": "completed",
+  "total_pages": 1
+}

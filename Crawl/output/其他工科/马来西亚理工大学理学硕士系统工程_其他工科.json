@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:41:16.535262",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://razak.utm.my/msc-systems-engineering/"
+    }
+  ],
+  "program_name": "马来西亚理工大学理学硕士（系统工程）",
+  "project_id": "1ec180b1-196e-45cb-b756-3104b6de9095",
+  "root_url": "https://razak.utm.my/msc-systems-engineering/",
+  "source_file": "其他工科.json",
+  "status": "completed",
+  "total_pages": 1
+}

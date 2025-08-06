@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:34:09.157380",
+  "pages": [
+    {
+      "content": "[HEADING] Graduate Study\n[HEADING] Chemical & Environmental Engineering\n[HEADING] Innovating for a Better Environment\nThe Chemical & Environmental Engineering Department at Yale offers several graduate degree options in Chemical Engineering or Environmental Engineering tracks including a joint degree program with the Yale School of the Environment. All Ph.D. students in Chemical & Environmental Engineering receive a generous financial package for at least six years of their studies. Our graduate programs prepare chemical and environmental engineers to become leaders in academia, government, industry, and entrepreneurship and innovation.",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "Chemical & Environmental Engineering Grad Study | Yale Engineering",
+      "url": "https://engineering.yale.edu/academic-study/departments/chemical-and-environmental-engineering/graduate-study"
+    }
+  ],
+  "program_name": "耶鲁大学化学工程理学硕士",
+  "project_id": "7072a195-8b23-4f73-8ff5-6bc4b06ae70c",
+  "root_url": "https://seas.yale.edu/departments/chemical-and-environmental-engineering/graduate-study",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

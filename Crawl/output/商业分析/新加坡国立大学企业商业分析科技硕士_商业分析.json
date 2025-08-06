@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:55:55.200848",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-enterprise-business-analytics"
+    }
+  ],
+  "program_name": "新加坡国立大学企业商业分析科技硕士",
+  "project_id": "91e70e35-1cbf-49e1-ac19-56eaed615975",
+  "root_url": "https://www.iss.nus.edu.sg/graduate-programmes/programme/detail/master-of-technology-in-enterprise-business-analytics",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

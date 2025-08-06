@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:27:05.880776",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://studiekiezer.ugent.be/2025/master-of-science-in-sustainable-materials-engineering-en"
+    }
+  ],
+  "program_name": "根特大学可持续材料工程理学硕士",
+  "project_id": "63041d67-e54a-413e-b791-de461e6550ce",
+  "root_url": "https://studiekiezer.ugent.be/master-of-science-in-sustainable-materials-engineering-en",
+  "source_file": "材料.json",
+  "status": "completed",
+  "total_pages": 1
+}

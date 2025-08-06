@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:52:06.370283",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tue.nl/en/education/graduate-school/masters-track-chemical-and-process-technology"
+    }
+  ],
+  "program_name": "埃因霍芬理工大学化学工程理学硕士-化学与工艺技术",
+  "project_id": "b8f8b781-e1a7-484b-af16-6b92b6ab4314",
+  "root_url": "https://www.tue.nl/en/education/graduate-school/mastertrack-chemical-and-process-technology/",
+  "source_file": "化工.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:41:24.592345",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://studiekiezer.ugent.be/2025/international-master-of-science-in-sustainable-and-innovative-natural-resource-management-en"
+    }
+  ],
+  "program_name": "根特大学可持续与创新自然资源管理国际理学硕士",
+  "project_id": "53ca9fa8-a701-41fa-99f6-042b3b4ee73c",
+  "root_url": "https://studiekiezer.ugent.be/international-master-of-science-in-sustainable-and-innovative-natural-resource-management-en",
+  "source_file": "其他工科.json",
+  "status": "completed",
+  "total_pages": 1
+}

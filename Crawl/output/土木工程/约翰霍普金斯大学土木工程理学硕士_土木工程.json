@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:44:34.773379",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://engineering.jhu.edu/case/academics/masters-program/mse-civil-engineering/"
+    }
+  ],
+  "program_name": "约翰霍普金斯大学土木工程理学硕士",
+  "project_id": "d82936f2-7494-4588-80bf-8f50fac6576b",
+  "root_url": "https://engineering.jhu.edu/case/academics/masters-program/mse-civil-engineering/",
+  "source_file": "土木工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

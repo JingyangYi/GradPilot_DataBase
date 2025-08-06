@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T07:09:53.353852",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/mathematics-master-s-degree/actuarial-mathematics-master-s-program.html"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校精算数学硕士",
+  "project_id": "dd979cdd-14c6-4eba-b993-82e94d725315",
+  "root_url": "https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/mathematics-master-s-degree/actuarial-mathematics-master-s-program.html",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T09:18:40.711569",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://mde.harvard.edu/"
+    }
+  ],
+  "program_name": "哈佛大学设计工程硕士",
+  "project_id": "46d63079-d6a5-4103-8858-e78f5745a10c",
+  "root_url": "https://mde.harvard.edu/",
+  "source_file": "其他工科.json",
+  "status": "completed",
+  "total_pages": 1
+}

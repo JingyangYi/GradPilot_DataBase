@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T06:43:27.102428",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc_in_statistics/"
+    }
+  ],
+  "program_name": "新加坡国立大学统计学理学硕士",
+  "project_id": "ca895ec2-0840-4f64-bfc6-1a0aaedbe366",
+  "root_url": "https://www.stat.nus.edu.sg/prospective-students/graduate-programme/msc_in_statistics/",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

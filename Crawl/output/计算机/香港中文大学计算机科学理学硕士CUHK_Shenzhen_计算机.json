@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:23:30.929397",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://sds.cuhk.edu.cn/page/2132"
+    }
+  ],
+  "program_name": "香港中文大学计算机科学理学硕士（CUHK-Shenzhen）",
+  "project_id": "f74eced0-d874-450e-9280-fa2506da9664",
+  "root_url": "https://sds.cuhk.edu.cn/page/2132",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

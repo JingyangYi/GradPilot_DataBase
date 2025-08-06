@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:41:06.109368",
+  "pages": [
+    {
+      "content": "[HEADING] GeoSystems Engineering\n[HEADING] Visit our website to learn about our program.\n[GRID_TABLE]\nGeoSystems Engineering\n\n\n\nVisit our website to learn about our program.\nVisit our website to learn about our program.",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "GeoSystems Engineering | Civil and Environmental Engineering",
+      "url": "https://ce.berkeley.edu/programs/geo"
+    }
+  ],
+  "program_name": "加州大学伯克利分校地理系统工程",
+  "project_id": "65767026-2c7e-4dca-a75c-334778c79187",
+  "root_url": "https://www.ce.berkeley.edu/programs/geo",
+  "source_file": "土木工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

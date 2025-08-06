@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:47:58.101036",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/programme/track-structural-engineering"
+    }
+  ],
+  "program_name": "代尔夫特理工大学土木工程理学硕士-结构和材料工程工程",
+  "project_id": "aae34e23-c63c-4b74-b71a-d77f9f5dfabb",
+  "root_url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/ce/msc-civil-engineering/programme/track-structural-engineering",
+  "source_file": "土木工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

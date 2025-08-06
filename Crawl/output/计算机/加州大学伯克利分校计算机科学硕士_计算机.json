@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:16:18.095012",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/admissions/"
+    }
+  ],
+  "program_name": "加州大学伯克利分校计算机科学硕士",
+  "project_id": "0e00947d-ad52-442e-954a-ad175a677f43",
+  "root_url": "https://eecs.berkeley.edu/academics/graduate/research-programs/admissions",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:51:09.048873",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.jbs.cam.ac.uk/masters-degrees/mba/"
+    }
+  ],
+  "program_name": "剑桥大学工商管理硕士",
+  "project_id": "a9034ac7-8202-4160-b35a-5b30821a52fc",
+  "root_url": "https://www.jbs.cam.ac.uk/masters-degrees/mba/",
+  "source_file": "工商管理.json",
+  "status": "completed",
+  "total_pages": 1
+}

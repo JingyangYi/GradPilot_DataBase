@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T10:19:10.511911",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.epfl.ch/education/master/programs/cyber-security/"
+    }
+  ],
+  "program_name": "洛桑联邦理工学院网络安全理学硕士",
+  "project_id": "9461fb35-e315-4c6d-9f47-18c1fe272544",
+  "root_url": "https://www.epfl.ch/education/master/programs/cyber-security/",
+  "source_file": "计算机.json",
+  "status": "completed",
+  "total_pages": 1
+}

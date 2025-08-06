@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:56:02.800548",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://me.berkeley.edu/graduate/meng/"
+    }
+  ],
+  "program_name": "加州大学伯克利分校机械工程工学硕士",
+  "project_id": "4f8c2bad-bd7f-479a-af1c-b42076767e2e",
+  "root_url": "https://me.berkeley.edu/graduate/meng/",
+  "source_file": "机械工程.json",
+  "status": "completed",
+  "total_pages": 1
+}

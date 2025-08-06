@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T07:09:55.364776",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://ioe.engin.umich.edu/graduate/masters-programs/industrial-and-operations-engineering-masters/masters-program-curriculum/"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校工业与运筹工程理学硕士",
+  "project_id": "87c33d36-9bd1-4ef5-b923-1985aecb123f",
+  "root_url": "https://ioe.engin.umich.edu/graduate/masters-program/",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

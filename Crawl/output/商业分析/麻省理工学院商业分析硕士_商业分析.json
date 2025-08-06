@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T11:55:32.330657",
+  "pages": [
+    {
+      "content": "[HEADING] One-Year Degree in Advanced Analytics\n[HEADING] Join our community. Introduce yourself today!\n[HEADING] Contact Us\nThe MIT Sloan Master of Business Analytics (MBAn) program equips students with the skills to tackle business challenges using modern data science in just 12 months. Established in collaboration with MIT's Operations Research Center, this business program is designed for aspiring data science professionals, particularly engineers, mathematicians, physicists, and programmers. This analytics master’s program meets the industry’s demand for graduates who can apply data science to solve complex business challenges.\nConnect with Us – Complete the form below to receive personalized updates on admissions events, program news, newsletters, and application tips. You can update your details or unsubscribe at any time.\nmbanadmissions.mitsloan@mit.edu   |  +1.617.258.5434\n📍 50 Memorial Drive, E52-359, Cambridge, MA 02142",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "Introduce Yourself | Master of Business Analytics | MIT Sloan",
+      "url": "https://mitsloan.mit.edu/master-of-business-analytics/introduce-yourself"
+    }
+  ],
+  "program_name": "麻省理工学院商业分析硕士",
+  "project_id": "22864f2a-516d-4eb1-a00b-487a863a671e",
+  "root_url": "https://mitsloan.mit.edu/master-of-business-analytics#admissions",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T12:01:43.196394",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.monash.edu/study/courses/find-a-course/business-analytics-b6022?international=true"
+    }
+  ],
+  "program_name": "莫纳什大学商业分析硕士（1.5年制）",
+  "project_id": "36b42597-a906-4362-80d1-f5188c43ff8a",
+  "root_url": "https://www.monash.edu/study/courses/find-a-course/business-analytics-b6022?international=true",
+  "source_file": "商业分析.json",
+  "status": "completed",
+  "total_pages": 1
+}

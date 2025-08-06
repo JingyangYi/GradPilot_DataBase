@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T13:15:28.169941",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.cityu.edu.hk/pg/programme/p11"
+    }
+  ],
+  "program_name": "香港城市大学工商管理硕士",
+  "project_id": "e5bc2d73-0584-4e98-8f63-9a3e0b6b60ad",
+  "root_url": "https://www.cityu.edu.hk/pg/programme/p11",
+  "source_file": "工商管理.json",
+  "status": "completed",
+  "total_pages": 1
+}

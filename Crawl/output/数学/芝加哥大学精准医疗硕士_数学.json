@@ -1,0 +1,38 @@
+{
+  "crawl_time": "2025-08-05T06:46:31.198469",
+  "pages": [
+    {
+      "content": "[HEADING] Transforming Healthcare\n[HEADING] Distinctive Training\n[HEADING] The Future of Medicine\n[HEADING] The Institute for Population and Precision Health (IPPH)\nThe MS in Precision Health at the University of Chicago is one of the first programs of its kind, applying emerging technologies and research methodologies in precision medicine to a population health context in order to improve disease prevention and health promotion while addressing health disparities. This program will prepare you to tackle the most challenging biological, behavioral, and economic problems at the forefront of medicine and population health.\nThe curriculum includes foundational courses in epidemiology, biostatistics, bioinformatics, ethics, and precision healthcare, plus additional coursework in an area of concentration. This distinctive training equips students with the ability to better prevent disease, promote health, and reduce health disparities across communities.\nThe University of Chicago’s Master of Science in Precision Health program broadly trains students in the fields of genetics, biomedical informatics, data science, and communication, making them competitive for a number of careers in the precision and population health workforce. As the field of precision health continues to grow, so does the demand for highly trained professionals.\nLearn from leading precision medicine experts in the Institute for Population and Precision Health at UChicago. The IPPH is an interdisciplinary center that was founded in 2018 and brings together experts from across the University to tackle the most challenging biological, behavioral, and economic problems in preventive and population medicine.  As a community of scholars, clinicians, and researchers, we actively seek to push the boundaries of biological and medical discovery.\n• Apply Now\n• Request More Information\n[GRID_TABLE]\nApply Now\nRequest More Information",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [
+        {
+          "anchor_text": "Apply Now",
+          "matched_keyword": "apply",
+          "url": "https://apply-bsd.uchicago.edu/apply/"
+        },
+        {
+          "anchor_text": "Apply Now",
+          "matched_keyword": "apply",
+          "url": "https://apply-bsd.uchicago.edu/apply/"
+        }
+      ],
+      "title": "Master of Science in Precision Health – University of Chicago",
+      "url": "https://precisionhealth.bsd.uchicago.edu/"
+    },
+    {
+      "content": "[HEADING] The University of Chicago: Graduate Studies\n[HEADING] Application Management\n[HEADING] Returning users:\n[HEADING] First-time users:\n[HEADING] The University of Chicago\nWelcome! Thank you for your interest in applying to one of the programs in the Biological Sciences Division at the University of Chicago. The deadlines for entry in Autumn of 2026 are as follows:\nThe programs you may apply to through this application include:\nApplicants to the Graduate Program in Biophysical Sciences,Master of Science in Biomedical Informatics (MsBMI), Master of Science in Threat and Response Management should complete the application in the Physical Sciences Division: https://apply-psd.uchicago.edu/apply/ \n      If you are interested in the Master of Public Health (MPH), you must apply through SOPHAS: https://sophas.aspph.org/\n      You may begin your application using the \"Start New Application\" link below.\n      The Non-Degree Visiting Student application can be found at https://apply-bsd.uchicago.edu/apply/ndv/\nTo learn more about how we use the information collected here please review our Privacy Notice. We use data collected in the application to render admissions decisions, for internal and external reporting, institutional research, and other purposes.\n• The deadline to submit an application for all PhD programs is December 3, 2024. See our Frequently Asked Questions and Holistic Review and Application Guidance pages for more detailed information.\n• The MS in Precision Health, MS in Biomedical Sciences, and MS in Biomedical Informatics recognize the following application deadlines:\n        \n            Early Action: December 1, 2025\n          \n            Round 1: February 2, 2026\n          \n            Round 3: April 1, 2026\n          \n            Final Deadline: June 1, 2026\n• Early Action: December 1, 2025\n• Round 1: February 2, 2026\n• Round 3: April 1, 2026\n• Final Deadline: June 1, 2026\n• The deadline for the Master of Science in Public Health for Clinical Professionals (MSCP) is May 4, 2026.\n• Applications to the Master of Public Health (MPH) program must be submitted through SOPHAS and will not be accepted through this application.\n• Early Action: December 1, 2025\n• Round 1: February 2, 2026\n• Round 3: April 1, 2026\n• Final Deadline: June 1, 2026\n[HTML_TABLE]\nCluster | Degree Program\nBiomedical Sciences | Cancer Biology\n | Immunology\n | Microbiology\n | Molecular Metabolism\nDarwinian Sciences | Ecology and Evolution\n | Evolutionary Biology\n | Integrative Biology\nMolecular Biosciences | Biochemistry and Molecular Biophysics\n | Cell and Molecular Biology\n | Development, Regeneration, and Stem Cell Biology\n | Genetics, Genomics, and Systems Biology\n | Human Genetics\nNeuroscience and Medical Physics | Neurobiology\n | Computational Neuroscience\n | Medical Physics\nOther (Unclustered) Program | Public Health Sciences\n[HTML_TABLE]\nDegree Program\nMaster of Science in Public Health for Clinical Professionals (MSCP)\nMaster of Science in Precision Health (MsPH)\nMaster of Science in Biomedical Sciences (MsBmS)\n[HTML_TABLE]\nReturning users:Log in to continue an application. | First-time users:Create an account to start a new application.",
+      "crawl_status": "success",
+      "depth": 1,
+      "links": [],
+      "title": "Application Management",
+      "url": "https://apply-bsd.uchicago.edu/apply/"
+    }
+  ],
+  "program_name": "芝加哥大学精准医疗硕士",
+  "project_id": "eec96d0b-0c97-4a4f-b8da-e4642699cb09",
+  "root_url": "https://precisionhealth.bsd.uchicago.edu/",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 2
+}

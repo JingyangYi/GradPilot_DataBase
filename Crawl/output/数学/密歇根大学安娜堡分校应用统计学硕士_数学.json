@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T07:10:02.154459",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://lsa.umich.edu/stats/masters_students/mastersprograms/applied-stats-masters-program.html"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校应用统计学硕士",
+  "project_id": "8e0e19e3-1d9c-4680-8fb3-8cbcf0397c89",
+  "root_url": "https://lsa.umich.edu/stats/masters_students/mastersprograms/applied-stats-masters-program.html",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

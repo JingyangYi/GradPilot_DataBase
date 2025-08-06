@@ -1,0 +1,548 @@
+2025-08-05 03:59:30 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: program_crawler)
+2025-08-05 03:59:30 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.14.4',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.9.23 (main, Jun  5 2025, 13:40:20) - [GCC 11.2.0]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Linux-5.15.0-143-generic-x86_64-with-glibc2.35'}
+2025-08-05 03:59:30 [program_spider] INFO: 尝试加载CSV文件: /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_媒体产业.csv
+2025-08-05 03:59:30 [program_spider] INFO: 文件是否存在: True
+2025-08-05 03:59:30 [program_spider] INFO: 
+================================================================================
+2025-08-05 03:59:30 [program_spider] INFO: 成功加载 13 个项目
+2025-08-05 03:59:30 [program_spider] INFO: 允许的域名: ['www.kcl.ac.uk', 'warwick.ac.uk', 'courses.leeds.ac.uk', 'www.southampton.ac.uk', 'www.sheffield.ac.uk', 'www.nottingham.ac.uk', 'www.qmul.ac.uk', 'www.rmit.edu.au', 'www.cardiff.ac.uk']
+2025-08-05 03:59:30 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-05 03:59:30 [program_spider] INFO: ================================================================================
+2025-08-05 03:59:30 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-05 03:59:30 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-05 03:59:30 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_full_20250805_035930.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-05 03:59:30 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-05 03:59:30 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.start.StartSpiderMiddleware',
+ 'scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-05 03:59:30 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-05 03:59:30 [scrapy.core.engine] INFO: Spider opened
+2025-08-05 03:59:30 [py.warnings] WARNING: /home/jingyang22/.conda/envs/gp/lib/python3.9/site-packages/scrapy/core/spidermw.py:433: ScrapyDeprecationWarning: program_crawler.spiders.program_spider.ProgramSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-05 03:59:30 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-05 03:59:30 [program_spider] INFO: 
+================================================================================
+2025-08-05 03:59:30 [program_spider] INFO: 开始爬取项目 [1/13]
+2025-08-05 03:59:30 [program_spider] INFO: 项目名称: 伦敦大学国王学院全球媒体产业硕士
+2025-08-05 03:59:30 [program_spider] INFO: 项目ID: 2bb1e263-c08e-4563-8814-819a7575824c
+2025-08-05 03:59:30 [program_spider] INFO: 根URL: https://www.kcl.ac.uk/study/postgraduate-taught/courses/global-media-industries-ma
+2025-08-05 03:59:30 [program_spider] INFO: 剩余项目数: 12
+2025-08-05 03:59:30 [program_spider] INFO: ================================================================================
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 正在处理根页面 (已处理0个页面): https://www.kcl.ac.uk/study/postgraduate-taught/courses/global-media-industries-ma
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 页面总链接数: 118
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 移除导航后链接数: 18 (移除了 0 个导航链接)
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 有效链接数: 17, 关键词匹配数: 1, 最终提取数: 1
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 页面 https://www.kcl.ac.uk/study/postgraduate-taught/courses/global-media-industries-ma (depth=0, is_root=True) 提取到 1 个链接
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 爬取子链接: https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 提取链接完成，去重前 1 个链接，去重后 1 个新请求（去重了 0 个重复链接）
+2025-08-05 03:59:32 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 添加 1 个新请求，当前剩余: 1
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 正在处理子页面(深度1) (已处理1个页面): https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 正在完成项目
+2025-08-05 03:59:33 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 项目完成: 伦敦大学国王学院全球媒体产业硕士
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c]   - 总页数: 2
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c]   - 成功页数: 2
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c]   - 失败页数: 0
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c]   - 成功率: 100.0%
+2025-08-05 03:59:33 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 03:59:33 [program_spider] INFO: [2bb1e263-c08e-4563-8814-819a7575824c] 仍有 12 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 03:59:33 [program_spider] INFO: 成功保存项目数据: output/媒体产业/伦敦大学国王学院全球媒体产业硕士_媒体产业.json
+2025-08-05 03:59:33 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 03:59:33 [program_spider] INFO: 
+================================================================================
+2025-08-05 03:59:33 [program_spider] INFO: 开始爬取项目 [2/13]
+2025-08-05 03:59:33 [program_spider] INFO: 项目名称: 伦敦大学国王学院数字经济理学硕士
+2025-08-05 03:59:33 [program_spider] INFO: 项目ID: ae5a07d9-bd32-4a85-be76-a81858a5d979
+2025-08-05 03:59:33 [program_spider] INFO: 根URL: https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc
+2025-08-05 03:59:33 [program_spider] INFO: 剩余项目数: 11
+2025-08-05 03:59:33 [program_spider] INFO: ================================================================================
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 正在处理根页面 (已处理0个页面): https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 页面总链接数: 120
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 移除导航后链接数: 20 (移除了 0 个导航链接)
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 有效链接数: 19, 关键词匹配数: 3, 最终提取数: 3
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 页面 https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-economy-msc (depth=0, is_root=True) 提取到 3 个链接
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 爬取子链接: https://www.kcl.ac.uk/ddh/career-paths (锚文本: 'Find out more about what careers our alumni have gone on to', 匹配关键词: 'career')
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 爬取子链接: https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 提取链接完成，去重前 3 个链接，去重后 2 个新请求（去重了 1 个重复链接）
+2025-08-05 03:59:35 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 添加 2 个新请求，当前剩余: 2
+2025-08-05 03:59:37 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 正在处理子页面(深度1) (已处理1个页面): https://www.kcl.ac.uk/ddh/career-paths
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 正在处理子页面(深度1) (已处理2个页面): https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 正在完成项目
+2025-08-05 03:59:39 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 项目完成: 伦敦大学国王学院数字经济理学硕士
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979]   - 总页数: 3
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979]   - 成功页数: 3
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979]   - 失败页数: 0
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979]   - 成功率: 100.0%
+2025-08-05 03:59:39 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 03:59:39 [program_spider] INFO: [ae5a07d9-bd32-4a85-be76-a81858a5d979] 仍有 11 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 03:59:39 [program_spider] INFO: 成功保存项目数据: output/媒体产业/伦敦大学国王学院数字经济理学硕士_媒体产业.json
+2025-08-05 03:59:39 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 03:59:39 [program_spider] INFO: 
+================================================================================
+2025-08-05 03:59:39 [program_spider] INFO: 开始爬取项目 [3/13]
+2025-08-05 03:59:39 [program_spider] INFO: 项目名称: 伦敦大学国王学院文化与创意产业文学硕士
+2025-08-05 03:59:39 [program_spider] INFO: 项目ID: 0d42ebe9-c712-47bd-b1f1-83a55bfe37db
+2025-08-05 03:59:39 [program_spider] INFO: 根URL: https://www.kcl.ac.uk/study/postgraduate-taught/courses/cultural-and-creative-industries-ma
+2025-08-05 03:59:39 [program_spider] INFO: 剩余项目数: 10
+2025-08-05 03:59:39 [program_spider] INFO: ================================================================================
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 正在处理根页面 (已处理0个页面): https://www.kcl.ac.uk/study/postgraduate-taught/courses/cultural-and-creative-industries-ma
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 页面总链接数: 118
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 移除导航后链接数: 18 (移除了 0 个导航链接)
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 有效链接数: 17, 关键词匹配数: 1, 最终提取数: 1
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 页面 https://www.kcl.ac.uk/study/postgraduate-taught/courses/cultural-and-creative-industries-ma (depth=0, is_root=True) 提取到 1 个链接
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 爬取子链接: https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 提取链接完成，去重前 1 个链接，去重后 1 个新请求（去重了 0 个重复链接）
+2025-08-05 03:59:41 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 添加 1 个新请求，当前剩余: 1
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 正在处理子页面(深度1) (已处理1个页面): https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 正在完成项目
+2025-08-05 03:59:43 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 项目完成: 伦敦大学国王学院文化与创意产业文学硕士
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db]   - 总页数: 2
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db]   - 成功页数: 2
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db]   - 失败页数: 0
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db]   - 成功率: 100.0%
+2025-08-05 03:59:43 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 03:59:43 [program_spider] INFO: [0d42ebe9-c712-47bd-b1f1-83a55bfe37db] 仍有 10 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 03:59:43 [program_spider] INFO: 成功保存项目数据: output/媒体产业/伦敦大学国王学院文化与创意产业文学硕士_媒体产业.json
+2025-08-05 03:59:43 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 03:59:43 [program_spider] INFO: 
+================================================================================
+2025-08-05 03:59:43 [program_spider] INFO: 开始爬取项目 [4/13]
+2025-08-05 03:59:43 [program_spider] INFO: 项目名称: 伦敦大学国王学院数字资产与媒体管理文学硕士
+2025-08-05 03:59:43 [program_spider] INFO: 项目ID: e5a78946-2141-4d71-ba9d-cff7061208c6
+2025-08-05 03:59:43 [program_spider] INFO: 根URL: https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-asset-and-media-management-ma
+2025-08-05 03:59:43 [program_spider] INFO: 剩余项目数: 9
+2025-08-05 03:59:43 [program_spider] INFO: ================================================================================
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 正在处理根页面 (已处理0个页面): https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-asset-and-media-management-ma
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 页面总链接数: 120
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 移除导航后链接数: 20 (移除了 0 个导航链接)
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 有效链接数: 19, 关键词匹配数: 3, 最终提取数: 3
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 页面 https://www.kcl.ac.uk/study/postgraduate-taught/courses/digital-asset-and-media-management-ma (depth=0, is_root=True) 提取到 3 个链接
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 爬取子链接: https://www.kcl.ac.uk/ddh/career-paths (锚文本: 'Find out more about careers our alumni have gone on to', 匹配关键词: 'career')
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 爬取子链接: https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 提取链接完成，去重前 3 个链接，去重后 2 个新请求（去重了 1 个重复链接）
+2025-08-05 03:59:45 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 添加 2 个新请求，当前剩余: 2
+2025-08-05 03:59:47 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 正在处理子页面(深度1) (已处理1个页面): https://www.kcl.ac.uk/ddh/career-paths
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 正在处理子页面(深度1) (已处理2个页面): https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 正在完成项目
+2025-08-05 03:59:49 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 项目完成: 伦敦大学国王学院数字资产与媒体管理文学硕士
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6]   - 总页数: 3
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6]   - 成功页数: 3
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6]   - 失败页数: 0
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6]   - 成功率: 100.0%
+2025-08-05 03:59:49 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 03:59:49 [program_spider] INFO: [e5a78946-2141-4d71-ba9d-cff7061208c6] 仍有 9 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 03:59:49 [program_spider] INFO: 成功保存项目数据: output/媒体产业/伦敦大学国王学院数字资产与媒体管理文学硕士_媒体产业.json
+2025-08-05 03:59:49 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 03:59:49 [program_spider] INFO: 
+================================================================================
+2025-08-05 03:59:49 [program_spider] INFO: 开始爬取项目 [5/13]
+2025-08-05 03:59:49 [program_spider] INFO: 项目名称: 华威大学创意与媒体管理文学硕士
+2025-08-05 03:59:49 [program_spider] INFO: 项目ID: 9c354fab-8f0b-4013-90a7-09ce80c22502
+2025-08-05 03:59:49 [program_spider] INFO: 根URL: https://warwick.ac.uk/study/postgraduate/courses/ma-creative-media-enterprises
+2025-08-05 03:59:49 [program_spider] INFO: 剩余项目数: 8
+2025-08-05 03:59:49 [program_spider] INFO: ================================================================================
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理根页面 (已处理0个页面): https://warwick.ac.uk/study/postgraduate/courses/ma-creative-media-enterprises
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 页面总链接数: 92
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 移除导航后链接数: 38 (移除了 0 个导航链接)
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 有效链接数: 28, 关键词匹配数: 9, 最终提取数: 9
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 页面 https://warwick.ac.uk/study/postgraduate/courses/ma-creative-media-enterprises (depth=0, is_root=True) 提取到 9 个链接
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/study/postgraduate/apply/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/study/postgraduate/apply/english/ (锚文本: 'English language requirementsLink opens in a new window', 匹配关键词: 'requirements')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/study/international/admissions/entry-requirements (锚文本: 'international entry requirements pageLink opens in a new window', 匹配关键词: 'requirements')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://courses.warwick.ac.uk/ (锚文本: 'module catalogue', 匹配关键词: 'module')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/services/academicoffice/finance/fees/postgraduatefees/ (锚文本: 'Find your taught course fees', 匹配关键词: 'course')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/study/scholarships-and-bursaries/ (锚文本: 'Scholarships and financial support', 匹配关键词: 'scholarship')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/study/postgraduate/apply/taught (锚文本: 'How to apply for a postgraduate taught course', 匹配关键词: 'graduate')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 爬取子链接: https://warwick.ac.uk/study/postgraduate/apply/admissionspolicy/ (锚文本: 'Admissions statement', 匹配关键词: 'admission')
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 提取链接完成，去重前 9 个链接，去重后 8 个新请求（去重了 1 个重复链接）
+2025-08-05 03:59:51 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 添加 8 个新请求，当前剩余: 8
+2025-08-05 03:59:52 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理1个页面): https://warwick.ac.uk/study/postgraduate/apply/
+2025-08-05 03:59:52 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理2个页面): https://courses.warwick.ac.uk/
+2025-08-05 03:59:54 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理3个页面): https://warwick.ac.uk/study/postgraduate/apply/admissionspolicy/
+2025-08-05 03:59:56 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理4个页面): https://warwick.ac.uk/study/postgraduate/apply/taught
+2025-08-05 03:59:58 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理5个页面): https://warwick.ac.uk/study/scholarships-and-bursaries/
+2025-08-05 04:00:02 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理6个页面): https://warwick.ac.uk/study/international/admissions/entry-requirements
+2025-08-05 04:00:04 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理7个页面): https://warwick.ac.uk/study/postgraduate/apply/english/
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在处理子页面(深度1) (已处理8个页面): https://warwick.ac.uk/services/finance/studentfinance/fees/postgraduatefees
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 正在完成项目
+2025-08-05 04:00:06 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 项目完成: 华威大学创意与媒体管理文学硕士
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502]   - 总页数: 9
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502]   - 成功页数: 9
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502]   - 失败页数: 0
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502]   - 成功率: 100.0%
+2025-08-05 04:00:06 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 04:00:06 [program_spider] INFO: [9c354fab-8f0b-4013-90a7-09ce80c22502] 仍有 8 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 04:00:06 [program_spider] INFO: 成功保存项目数据: output/媒体产业/华威大学创意与媒体管理文学硕士_媒体产业.json
+2025-08-05 04:00:06 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 04:00:06 [program_spider] INFO: 
+================================================================================
+2025-08-05 04:00:06 [program_spider] INFO: 开始爬取项目 [6/13]
+2025-08-05 04:00:06 [program_spider] INFO: 项目名称: 利兹大学媒体产业文学硕士
+2025-08-05 04:00:06 [program_spider] INFO: 项目ID: 440348c6-0c93-45fe-a270-2ae842bbea05
+2025-08-05 04:00:06 [program_spider] INFO: 根URL: https://courses.leeds.ac.uk/f579/media-industries-ma
+2025-08-05 04:00:06 [program_spider] INFO: 剩余项目数: 7
+2025-08-05 04:00:06 [program_spider] INFO: ================================================================================
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理根页面 (已处理0个页面): https://courses.leeds.ac.uk/f579/media-industries-ma
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 页面总链接数: 110
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 移除导航后链接数: 59 (移除了 0 个导航链接)
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 有效链接数: 36, 关键词匹配数: 15, 最终提取数: 15
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 页面 https://courses.leeds.ac.uk/f579/media-industries-ma (depth=0, is_root=True) 提取到 15 个链接
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://courses.leeds.ac.uk/course-search/undergraduate-courses (锚文本: 'Undergraduate courses', 匹配关键词: 'graduate')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://courses.leeds.ac.uk/course-search/masters-courses (锚文本: 'Masters courses', 匹配关键词: 'master')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://myleedsportal.leeds.ac.uk/signin-landing/?courseId=MA-COMM%2FMI&year=2025%2F26 (锚文本: 'Apply', 匹配关键词: 'apply')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://myleedsportal.leeds.ac.uk/signin-landing/?courseId=MA-COMM%2FMI-P&year=2025%2F26 (锚文本: 'Apply (Part time)', 匹配关键词: 'apply')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://ahc.leeds.ac.uk/media-masters/doc/how-to-apply (锚文本: 'deadlines', 匹配关键词: 'deadline')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://catalogue.leeds.ac.uk/Programme/202526?code=MA-COMM%2FMI (锚文本: 'For more information and a full list of typical modules available on this course, please read Media Industries MA Full Time in the course catalogue', 匹配关键词: 'course')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://catalogue.leeds.ac.uk/Programme/202526?code=MA-COMM%2FMI-P (锚文本: 'For more information and a full list of typical modules available on this course, please read Media Industries MA Part Time in the course catalogue', 匹配关键词: 'course')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://www.leeds.ac.uk/admissions-qualifications/ (锚文本: 'entry requirements for your country', 匹配关键词: 'requirements')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://www.leeds.ac.uk/language-centre-courses/doc/masters-pre-sessional-english (锚文本: 'postgraduate pre-sessional English courses', 匹配关键词: 'graduate')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://www.leeds.ac.uk/masters-applying/doc/admissions-policy-2025-26 (锚文本: 'University of Leeds Admissions Policy 2025', 匹配关键词: 'admission')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: http://www.leeds.ac.uk/pgtfees/ (锚文本: 'Masters fees', 匹配关键词: 'master')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: http://www.leeds.ac.uk/info/130536/funding (锚文本: 'Masters funding overview', 匹配关键词: 'master')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: http://ahc.leeds.ac.uk/media-masters/doc/funding-scholarships-17 (锚文本: 'scholarship and funding opportunities', 匹配关键词: 'funding')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://www.leeds.ac.uk/masters-your-career/doc/careers (锚文本: 'Careers support', 匹配关键词: 'career')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 爬取子链接: https://courses.leeds.ac.uk/courseterms (锚文本: 'Course Terms and Conditions', 匹配关键词: 'course')
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 提取链接完成，去重前 15 个链接，去重后 15 个新请求（去重了 0 个重复链接）
+2025-08-05 04:00:08 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 添加 15 个新请求，当前剩余: 15
+2025-08-05 04:00:09 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理1个页面): https://myleedsportal.leeds.ac.uk/signin-landing/?courseId=MA-COMM%2FMI-P&year=2025%2F26
+2025-08-05 04:00:09 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理2个页面): https://www.leeds.ac.uk/masters-your-career/doc/careers
+2025-08-05 04:00:09 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理3个页面): https://courses.leeds.ac.uk/course-search/undergraduate-courses
+2025-08-05 04:00:09 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理4个页面): https://catalogue.leeds.ac.uk/Programme/202526?code=MA-COMM%2FMI-P
+2025-08-05 04:00:10 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理5个页面): https://myleedsportal.leeds.ac.uk/signin-landing/?courseId=MA-COMM%2FMI&year=2025%2F26
+2025-08-05 04:00:11 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理6个页面): https://ahc.leeds.ac.uk/media-masters/doc/how-to-apply
+2025-08-05 04:00:11 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理7个页面): https://catalogue.leeds.ac.uk/Programme/202526?code=MA-COMM%2FMI
+2025-08-05 04:00:11 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理8个页面): https://courses.leeds.ac.uk/courseterms
+2025-08-05 04:00:12 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理9个页面): https://ahc.leeds.ac.uk:443/media-masters/doc/funding-scholarships-17
+2025-08-05 04:00:13 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理10个页面): https://courses.leeds.ac.uk/course-search/masters-courses
+2025-08-05 04:00:15 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理11个页面): https://www.leeds.ac.uk/masters-applying/doc/admissions-policy-2025-26
+2025-08-05 04:00:17 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理12个页面): https://www.leeds.ac.uk/language-centre-courses/doc/masters-pre-sessional-english
+2025-08-05 04:00:18 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理13个页面): https://www.leeds.ac.uk/admissions-qualifications/
+2025-08-05 04:00:23 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理14个页面): https://www.leeds.ac.uk:443/pgtfees/
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在处理子页面(深度1) (已处理15个页面): https://www.leeds.ac.uk/masters-funding
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 正在完成项目
+2025-08-05 04:00:25 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 项目完成: 利兹大学媒体产业文学硕士
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05]   - 总页数: 16
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05]   - 成功页数: 16
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05]   - 失败页数: 0
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05]   - 成功率: 100.0%
+2025-08-05 04:00:25 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 04:00:25 [program_spider] INFO: [440348c6-0c93-45fe-a270-2ae842bbea05] 仍有 7 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 04:00:25 [program_spider] INFO: 成功保存项目数据: output/媒体产业/利兹大学媒体产业文学硕士_媒体产业.json
+2025-08-05 04:00:25 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 04:00:25 [program_spider] INFO: 
+================================================================================
+2025-08-05 04:00:25 [program_spider] INFO: 开始爬取项目 [7/13]
+2025-08-05 04:00:25 [program_spider] INFO: 项目名称: 南安普顿大学数字媒体实践文学硕士
+2025-08-05 04:00:25 [program_spider] INFO: 项目ID: 2a2a4868-75c8-4e72-80c4-d3119a656733
+2025-08-05 04:00:25 [program_spider] INFO: 根URL: https://www.southampton.ac.uk/courses/digital-media-practices-masters-ma
+2025-08-05 04:00:25 [program_spider] INFO: 剩余项目数: 6
+2025-08-05 04:00:25 [program_spider] INFO: ================================================================================
+2025-08-05 04:00:28 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理根页面 (已处理0个页面): https://www.southampton.ac.uk/courses/digital-media-masters-ma
+2025-08-05 04:00:28 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 页面总链接数: 789
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 移除导航后链接数: 718 (移除了 0 个导航链接)
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 有效链接数: 694, 关键词匹配数: 158, 最终提取数: 158
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 页面 https://www.southampton.ac.uk/courses/digital-media-masters-ma (depth=0, is_root=True) 提取到 158 个链接
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/postgraduate (锚文本: 'View all courses', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/undergraduate (锚文本: 'Undergraduate study', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-taught (锚文本: 'Taught postgraduate study', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/pre-sessional (锚文本: 'Pre-sessional English courses', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding (锚文本: 'Tuition fees, funding and scholarships', 匹配关键词: 'tuition')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/short-courses (锚文本: 'Short courses', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/lifelonglearning/index.page (锚文本: 'Lunchtime evening and weekend courses', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses (锚文本: 'View all courses', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.online.southampton.ac.uk/ (锚文本: 'Online master's degrees', 匹配关键词: 'master')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/fees/postgraduate.page (锚文本: 'Postgraduate taught tuition fees', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/funding/postgraduate.page (锚文本: 'Funding your postgraduate taught studies', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/pre-masters-programmes (锚文本: 'Pre-masters for international students', 匹配关键词: 'master')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-taught/apply (锚文本: 'How to apply for a postgraduate taught degree', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-taught/offer-holder (锚文本: 'Postgraduate offer holders - prepare for your studies', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/funding (锚文本: 'Funding your research degree', 匹配关键词: 'funding')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/apply (锚文本: 'How to apply for a PhD or research degree', 匹配关键词: 'apply')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/undergraduate/foundation-years (锚文本: 'Foundation year programmes', 匹配关键词: 'program')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/fees/undergraduate.page (锚文本: 'Undergraduate tuition fees', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/funding/undergraduate.page (锚文本: 'Funding undergraduate studies', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/undergraduate/apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/student-life/accommodation/apply (锚文本: 'Apply for accommodation', 匹配关键词: 'apply')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/careers/employers/advertise-your-vacancies.page (锚文本: 'Advertise graduate jobs and internships', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://engage-uos.powerappsportals.com/SignIn (锚文本: 'Apply for this course', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://criticalinfrastructures.net/ (锚文本: 'Critical Infrastructure and Image Politics', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/subjects/art-design-fashion (锚文本: 'Art, design and fashion
+
+      Winchester School of Art offers a wide range of courses, whether you're inspired by fine art, games design, graphic communication or fashion and textiles.', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/programmespecs/2526-9413-ma-digital-media-practices (锚文本: 'Download 
+ODT 
+Download 2025-26 Course Description Document', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.oncampus.global/uk/campuses/southampton/progression-degrees.htm (锚文本: 'Learn more about the programmes available', 匹配关键词: 'program')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6264 (锚文本: 'Critical Media Practice
+This module will introduce you to resonant examples of critical media practices, enabling you to combine in critical ways the theory and practice of digital media. Through practice workshops with staff and invited practitioners, exploring key examples fro...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6265 (锚文本: 'Digital Media I: Critical Theory
+This module will introduce you to some of the core concepts and ideas in the broad theoretical context of Digital Media. We will explore contemporary global challenges in the media landscape and encourage you to develop critical thinking and identify pote...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6266 (锚文本: 'Digital Media II: Collaborative Critical Practice
+In this practice and research led module you will explore collaborative critical practice, and design and develop your own project. The module is team-taught, and thus informed by diverse voices with expertise in curated strands. Your project will be prod...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6269 (锚文本: 'Final Project (Digital Media Practices)
+The aim of this module is to develop your individually chosen and researched project, promoting a concentrated period of independent study alongside tutor and peer discussion and feedback. The module brings together and utilises your learning and skills d...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6267 (锚文本: 'Media Research and Methodologies I
+This module introduces a range of research techniques used in different traditions of digital media studies. In this module, you will be able to demonstrate a deep understanding of methods in media research; demonstrate awareness of disciplinary boundarie...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6268 (锚文本: 'Media Research and Methodologies II: Research Proposal Development
+This module provides a deeper engagement with the academic and research skills to support the preparation of your Final Project work. The module encourages you to engage directly with the range of physical and online library resources necessary to achieve...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6301 (锚文本: 'Creative Thinking and Problem Solving
+The module been designed for the purpose of promoting and developing creative thinking and problem solving (CTPS) skills and addresses the need for individuals and teams who can ‘think outside the box’, and apply fresh thinking to practical, ‘real world’ ...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6302 (锚文本: 'Digital Cultures
+Digital Cultures is an elective module covering a broad range of topics relating to the encounter with digital environments, audiovisual content and the aesthetics and politics of media technologies in historical and contemporary contexts. This module int...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6303 (锚文本: 'Entrepreneurship
+The module enables you to recognise entrepreneurial traits and behaviours and apply elements of these to the real world. 
+
+With a strong orientation towards the future, realised through forecasting in both finance and marketing, the module will provide ...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6218 (锚文本: 'Exploring the Visual Language of Display
+The module provides thematic examples of the theories and practices of visual presentation and display explored through interdisciplinary and critical contexts appropriate to the MA pathways. It offers a number of critical “tools”, enhanced through refere...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6304 (锚文本: 'Global Marketing
+The module seeks to advance your knowledge on key issues of globalization and changes to marketing approaches that have taken place due to internationalisation.. The module situates the concepts and terminology of global marketing in a range of different ...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/modules/artd6300 (锚文本: 'Sustainability in Business and Design
+This module addresses critical perspectives in relation to sustainability and its impact in art, design and the creative industries. The module seeks to inform your thinking in relation to sustainability issues, be they environmental, social or economic, ...', 匹配关键词: 'module')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/careers/index.page (锚文本: 'More about careers support', 匹配关键词: 'career')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/uni-life/fees-funding/pg-fees-funding/pg-fees/postgraduate-taught.page (锚文本: 'fees for other versions of this course', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/courses/fees/international.page (锚文本: 'tuition fees for overseas students', 匹配关键词: 'tuition')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/arts-humanities-deans-global (锚文本: 'Find out more about the Southampton Arts and Humanities Deans Global Talent Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/merit-postgraduate/wsa-progression (锚文本: 'Winchester School of Art Progression Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/international (锚文本: 'funding you could get as an international student', 匹配关键词: 'funding')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://falcon.soton.ac.uk/study/postgraduate-taught/apply (锚文本: 'read our step by step guide to postgraduate taught applications', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/pre-sessional/modules (锚文本: 'Course modules', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/developing-practical-application-uav-conservation-monitoring-endangered-wildlife (锚文本: 'Developing a practical application of unmanned aerial vehicle technologies for conservation research and monitoring of endangered wildlife', 匹配关键词: 'application')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/ecological-role-of-offshore-artificial-structures (锚文本: 'Ecological role of offshore artificial structures', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/modelling-soil-dewatering-recharge-for-cost-effective-climate (锚文本: 'Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/new-perspectives-on-ocean-photosynthesis (锚文本: 'New perspectives on ocean photosynthesis', 匹配关键词: 'thesis')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/novel-wavelength-fibre-lasers-for-industrial-applications (锚文本: 'Novel wavelength fibre lasers for industrial applications', 匹配关键词: 'application')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/quantifying-variability-in-phytoplankton-electron-requirements (锚文本: 'Quantifying variability in phytoplankton electron requirements for carbon fixation', 匹配关键词: 'requirements')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/resilient-sustainable-steel-framed-building-structures-0 (锚文本: 'Resilient and sustainable steel-framed building structures', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/the-duration-of-ridge-flank-hydrothermal-exchange (锚文本: 'The duration of ridge flank hydrothermal exchange and its role in global biogeochemical cycles', 匹配关键词: 'duration')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/the-role-of-iron-in-nitrogen-fixation-photosynthesis (锚文本: 'The role of iron in nitrogen fixation and photosynthesis in changing polar oceans', 匹配关键词: 'thesis')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/postgraduate-research/projects/older-people-access-to-digitalised-healthcare (锚文本: 'Understanding the structure and engagement of personal networks that support older people with complex care needs in marginalised communities and their ability to adapt to increasingly ‘digitalised’ health and social care', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships (锚文本: 'Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/terms-conditions (锚文本: 'Scholarship terms and conditions', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/undergraduate (锚文本: 'Undergraduate funding options', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/undergraduate/southampton-undergraduate-bursary (锚文本: 'Southampton undergraduate bursary', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/undergraduate/scholarships (锚文本: 'Undergraduate scholarships', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/engineering-excellence-scholarship (锚文本: 'Engineering Excellence Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-physics-astronomy-achievement (锚文本: 'Southampton Physics and Astronomy Achievement Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/postgraduate (锚文本: 'Postgraduate funding options', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/postgraduate/scholarships (锚文本: 'Postgraduate scholarships', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/competitive-postgraduate/black-futures (锚文本: 'Black Futures Postgraduate Research Scholarships (Environmental and Life Sciences)', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/black-futures (锚文本: 'Black Futures scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-egypt (锚文本: 'GREAT Scholarships 2025 – Egypt', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-france (锚文本: 'GREAT Scholarships 2025 – France', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-ghana (锚文本: 'GREAT Scholarships 2025 – Ghana', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/postgraduate-uk/innovation-social-impact (锚文本: 'Innovation and Social Impact Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/equitable (锚文本: 'Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/business-postgraduate-uk (锚文本: 'Southampton Business School Postgraduate UK Scholarship', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-genomics-talent-scholarship (锚文本: 'Southampton Genomics Talent Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/history-patricia-mather-helen-patterson (锚文本: 'Southampton History Patricia Mather and Helen Patterson Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/ma-holocaust-scholarships (锚文本: 'Southampton MA Holocaust scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/philosophy-david-humphris-norman (锚文本: 'Southampton Philosophy David Humphris-Norman Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/postgraduate/scholarships/southampton-philosophy-ma-scholarship (锚文本: 'Southampton Philosophy MA Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-photonics-impact-scholarship (锚文本: 'Southampton Photonics Impact Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/alumni-music (锚文本: 'Southampton UK Alumni Music Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/postgraduate-uk/study-in-art-media-technology-scholarship (锚文本: 'Study in Art and Media Technology Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/nihr-insight-programme (锚文本: 'The National Institute for Health and care Research South Central INSIGHT Programme', 匹配关键词: 'program')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/wsa-progression (锚文本: 'Winchester School of Art Progression Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/international/scholarships (锚文本: 'Scholarships for international students', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/engineering-global-talent-scholarship (锚文本: 'Engineering Global Talent Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/international/scholarships/medical-technology-innovation-design-masters (锚文本: 'Medical Technology, Innovation and Design Master’s Scholarship', 匹配关键词: 'master')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/merit-undergraduate (锚文本: 'Merit scholarships for international undergraduates', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/art-postgraduate-global (锚文本: 'Winchester School of Art Postgraduate Global Talent Scholarship', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-becas-chile (锚文本: 'Becas Chile Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-chevening (锚文本: 'Chevening Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-china-scholarship-council (锚文本: 'China Scholarship Council Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-colfuturo (锚文本: 'COLFUTURO  Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-distance-learning (锚文本: 'Commonwealth Distance Learning Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-masters (锚文本: 'Commonwealth Master's Scholarships', 匹配关键词: 'master')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-phd (锚文本: 'Commonwealth PhD Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-phd-high-income (锚文本: 'Commonwealth PhD Scholarships for high income countries', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-shared (锚文本: 'Commonwealth Shared Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/excellence-scholarship (锚文本: 'Excellence Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-split (锚文本: 'Commonwealth Split-Site Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-fiderh (锚文本: 'FIDERH Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-education-civic-scholarship (锚文本: 'Southampton Education Civic Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-ageing-gerontology-talent-scholarship (锚文本: 'Southampton Ageing and Gerontology Talent Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-teachers-postgraduate-scholarship (锚文本: 'Southampton Teachers' Postgraduate Scholarship', 匹配关键词: 'graduate')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-funed (锚文本: 'FUNED Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-great-mexico (锚文本: 'Great Scholarships 2024 – Mexico', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-great-nigeria (锚文本: 'Great Scholarships 2024 – Nigeria', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-marshall (锚文本: 'Marshall Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-said (锚文本: 'Saïd Foundation Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/canadian-prestige-law (锚文本: 'Southampton Canadian Prestige Scholarship for Law', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-xiamen-university (锚文本: 'Xiamen University PhD Scholarships', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/presidential (锚文本: 'Southampton Presidential International Scholarship', 匹配关键词: 'scholarship')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/fees-funding/scholarships/external-funding (锚文本: 'External funding opportunities', 匹配关键词: 'funding')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/study/short-courses/cpd/radiochemistry (锚文本: 'Radiochemistry course', 匹配关键词: 'course')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/research/groups/advanced-fibre-applications (锚文本: 'Advanced Fibre Applications', 匹配关键词: 'application')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications (锚文本: 'Centre for Geometry, Topology, and Applications', 匹配关键词: 'application')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/research/groups/infrastructure-group (锚文本: 'Infrastructure Group', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/research/institutes-centres/laser-direct-write-ldw-technologies-for-biomedical-applications (锚文本: 'Laser-Direct-Write (LDW) Technologies for Biomedical Applications', 匹配关键词: 'application')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 爬取子链接: https://www.southampton.ac.uk/research/institutes-centres/national-infrastructure-laboratory (锚文本: 'National Infrastructure Laboratory', 匹配关键词: 'structure')
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 提取链接完成，去重前 158 个链接，去重后 119 个新请求（去重了 39 个重复链接）
+2025-08-05 04:00:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 添加 119 个新请求，当前剩余: 119
+2025-08-05 04:00:30 [scrapy.extensions.logstats] INFO: Crawled 36 pages (at 36 pages/min), scraped 6 items (at 6 items/min)
+2025-08-05 04:00:31 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理1个页面): https://www.southampton.ac.uk/courses/postgraduate
+2025-08-05 04:00:34 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理2个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-split
+2025-08-05 04:00:34 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理3个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/excellence-scholarship
+2025-08-05 04:00:39 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理4个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-shared
+2025-08-05 04:00:40 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理5个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-phd-high-inc...
+2025-08-05 04:00:42 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理6个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-phd
+2025-08-05 04:00:47 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理7个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-masters
+2025-08-05 04:00:47 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理8个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-distance-lea...
+2025-08-05 04:00:51 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理9个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-china-scholarship-council
+2025-08-05 04:00:51 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理10个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-colfuturo
+2025-08-05 04:00:56 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理11个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-chevening
+2025-08-05 04:00:59 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理12个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-becas-chile
+2025-08-05 04:01:03 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理13个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/merit-undergraduate
+2025-08-05 04:01:08 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理14个页面): https://www.southampton.ac.uk/study/fees-funding/international/scholarships/medical-technology-innov...
+2025-08-05 04:01:10 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理15个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/engineering-global-talent-scholarship
+2025-08-05 04:01:11 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理16个页面): https://www.southampton.ac.uk/study/fees-funding/international/scholarships
+2025-08-05 04:01:16 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理17个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/wsa-progression
+2025-08-05 04:01:19 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理18个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/nihr-insight-programme
+2025-08-05 04:01:21 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理19个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/postgraduate-uk/study-in-art-media-tec...
+2025-08-05 04:01:25 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理20个页面): https://www.southampton.ac.uk/research/institutes-centres/national-infrastructure-laboratory
+2025-08-05 04:01:28 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理21个页面): https://www.southampton.ac.uk/research/institutes-centres/laser-direct-write-ldw-technologies-for-bi...
+2025-08-05 04:01:30 [scrapy.extensions.logstats] INFO: Crawled 57 pages (at 21 pages/min), scraped 6 items (at 0 items/min)
+2025-08-05 04:01:31 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理22个页面): https://www.southampton.ac.uk/research/groups/infrastructure-group
+2025-08-05 04:01:34 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理23个页面): https://www.southampton.ac.uk/research/institutes-centres/centre-for-geometry-topology-applications
+2025-08-05 04:01:38 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理24个页面): https://www.southampton.ac.uk/research/groups/advanced-fibre-applications
+2025-08-05 04:01:41 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理25个页面): https://www.southampton.ac.uk/study/short-courses/cpd/radiochemistry
+2025-08-05 04:01:44 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理26个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/external-funding
+2025-08-05 04:01:45 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理27个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/presidential
+2025-08-05 04:01:50 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理28个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-xiamen-university
+2025-08-05 04:01:52 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理29个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/canadian-prestige-law
+2025-08-05 04:01:55 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理30个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-said
+2025-08-05 04:01:58 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理31个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-marshall
+2025-08-05 04:02:02 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理32个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-great-nigeria
+2025-08-05 04:02:07 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理33个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-great-mexico
+2025-08-05 04:02:10 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理34个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-funed
+2025-08-05 04:02:13 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理35个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-teachers-postgraduate-scho...
+2025-08-05 04:02:16 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理36个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-ageing-gerontology-talent-...
+2025-08-05 04:02:20 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理37个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-education-civic-scholarshi...
+2025-08-05 04:02:22 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理38个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-fiderh
+2025-08-05 04:02:26 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理39个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/alumni-music
+2025-08-05 04:02:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理40个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-photonics-impact-scholarsh...
+2025-08-05 04:02:30 [scrapy.extensions.logstats] INFO: Crawled 76 pages (at 19 pages/min), scraped 6 items (at 0 items/min)
+2025-08-05 04:02:32 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理41个页面): https://www.southampton.ac.uk/study/fees-funding/postgraduate/scholarships/southampton-philosophy-ma...
+2025-08-05 04:02:35 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理42个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/philosophy-david-humphris-norman
+2025-08-05 04:02:38 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理43个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/ma-holocaust-scholarships
+2025-08-05 04:02:41 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理44个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/history-patricia-mather-helen-patterso...
+2025-08-05 04:02:44 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理45个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-genomics-talent-scholarshi...
+2025-08-05 04:02:47 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理46个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/business-postgraduate-uk
+2025-08-05 04:02:48 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理47个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/equitable
+2025-08-05 04:02:53 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理48个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/postgraduate-uk/innovation-social-impa...
+2025-08-05 04:02:55 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理49个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-ghana
+2025-08-05 04:02:58 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理50个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-france
+2025-08-05 04:02:59 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理51个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships
+2025-08-05 04:03:03 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理52个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-egypt
+2025-08-05 04:03:05 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理53个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/black-futures
+2025-08-05 04:03:11 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理54个页面): https://www.southampton.ac.uk/study/fees-funding/postgraduate/scholarships
+2025-08-05 04:03:14 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理55个页面): https://www.southampton.ac.uk/study/fees-funding/postgraduate
+2025-08-05 04:03:18 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理56个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/southampton-physics-astronomy-achievem...
+2025-08-05 04:03:20 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理57个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/engineering-excellence-scholarship
+2025-08-05 04:03:24 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理58个页面): https://www.southampton.ac.uk/study/fees-funding/undergraduate/scholarships
+2025-08-05 04:03:26 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理59个页面): https://www.southampton.ac.uk/study/fees-funding/undergraduate/southampton-undergraduate-bursary
+2025-08-05 04:03:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理60个页面): https://www.southampton.ac.uk/study/fees-funding/undergraduate
+2025-08-05 04:03:30 [scrapy.extensions.logstats] INFO: Crawled 96 pages (at 20 pages/min), scraped 6 items (at 0 items/min)
+2025-08-05 04:03:32 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理61个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/terms-conditions
+2025-08-05 04:03:33 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理62个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships
+2025-08-05 04:03:38 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理63个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/older-people-access-to-digitalise...
+2025-08-05 04:03:40 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理64个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/the-role-of-iron-in-nitrogen-fixa...
+2025-08-05 04:03:43 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理65个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/the-duration-of-ridge-flank-hydro...
+2025-08-05 04:03:45 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理66个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/resilient-sustainable-steel-frame...
+2025-08-05 04:03:48 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理67个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/quantifying-variability-in-phytop...
+2025-08-05 04:03:51 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理68个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/novel-wavelength-fibre-lasers-for...
+2025-08-05 04:03:54 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理69个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/new-perspectives-on-ocean-photosy...
+2025-08-05 04:03:56 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理70个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/modelling-soil-dewatering-recharg...
+2025-08-05 04:04:00 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理71个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/ecological-role-of-offshore-artif...
+2025-08-05 04:04:02 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理72个页面): https://www.southampton.ac.uk/study/postgraduate-research/projects/developing-practical-application-...
+2025-08-05 04:04:03 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理73个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships
+2025-08-05 04:04:07 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理74个页面): https://www.oncampus.global/our-study-centres/oncampus-southampton/progression-degrees
+2025-08-05 04:04:08 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理75个页面): https://www.southampton.ac.uk/study/pre-sessional/modules
+2025-08-05 04:04:11 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理76个页面): https://www.southampton.ac.uk/study/fees-funding/international
+2025-08-05 04:04:12 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理77个页面): https://criticalinfrastructures.net/
+2025-08-05 04:04:12 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理78个页面): https://engage-uos.powerappsportals.com/SignIn
+2025-08-05 04:04:17 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理79个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/arts-humanities-deans-global
+2025-08-05 04:04:18 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理80个页面): https://www.southampton.ac.uk/courses/fees/international.page
+2025-08-05 04:04:23 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理81个页面): https://www.southampton.ac.uk/careers/index.page
+2025-08-05 04:04:25 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理82个页面): https://www.southampton.ac.uk/courses/modules/artd6300
+2025-08-05 04:04:27 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理83个页面): https://www.southampton.ac.uk/courses/modules/artd6304
+2025-08-05 04:04:29 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理84个页面): https://www.southampton.ac.uk/courses/modules/artd6218
+2025-08-05 04:04:30 [scrapy.extensions.logstats] INFO: Crawled 120 pages (at 24 pages/min), scraped 6 items (at 0 items/min)
+2025-08-05 04:04:31 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理85个页面): https://www.southampton.ac.uk/courses/modules/artd6303
+2025-08-05 04:04:33 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理86个页面): https://www.southampton.ac.uk/courses/modules/artd6302
+2025-08-05 04:04:35 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理87个页面): https://www.southampton.ac.uk/courses/modules/artd6301
+2025-08-05 04:04:37 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理88个页面): https://www.southampton.ac.uk/courses/modules/artd6268
+2025-08-05 04:04:39 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理89个页面): https://www.southampton.ac.uk/courses/modules/artd6267
+2025-08-05 04:04:41 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理90个页面): https://www.southampton.ac.uk/courses/modules/artd6269
+2025-08-05 04:04:43 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理91个页面): https://www.southampton.ac.uk/courses/modules/artd6266
+2025-08-05 04:04:44 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理92个页面): https://www.online.southampton.ac.uk/
+2025-08-05 04:04:46 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理93个页面): https://www.southampton.ac.uk/courses/modules/artd6265
+2025-08-05 04:04:47 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理94个页面): https://www.southampton.ac.uk/courses/modules/artd6264
+2025-08-05 04:04:52 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理95个页面): https://www.southampton.ac.uk/study/fees-funding/scholarships/wsa-progression
+2025-08-05 04:04:54 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理96个页面): https://www.southampton.ac.uk/study/subjects/art-design-fashion
+2025-08-05 04:04:56 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理97个页面): https://www.southampton.ac.uk/careers/employers/advertise-your-vacancies.page
+2025-08-05 04:05:02 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理98个页面): https://www.southampton.ac.uk/student-life/accommodation/apply
+2025-08-05 04:05:04 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理99个页面): https://www.southampton.ac.uk/study/undergraduate/apply
+2025-08-05 04:05:04 [program_spider] INFO: [2a2a4868-75c8-4e72-80c4-d3119a656733] 正在处理子页面(深度1) (已处理100个页面): https://www.southampton.ac.uk/courses/fees/postgraduate.page

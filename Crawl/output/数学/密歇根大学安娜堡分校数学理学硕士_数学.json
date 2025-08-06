@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T07:09:51.378355",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/mathematics-master-s-degree.html"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校数学理学硕士",
+  "project_id": "d8319581-2f0c-49ef-87b7-e30826bf76ef",
+  "root_url": "https://lsa.umich.edu/math/graduates/GraduateStudentHandbook/mathematics-master-s-degree.html",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

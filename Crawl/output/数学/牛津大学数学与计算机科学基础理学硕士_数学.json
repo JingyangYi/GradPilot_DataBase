@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T06:36:41.011535",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematics-and-foundations-computer-science"
+    }
+  ],
+  "program_name": "牛津大学数学与计算机科学基础理学硕士",
+  "project_id": "242807f3-2275-4471-91d6-b78216ce6cdf",
+  "root_url": "https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematics-and-foundations-computer-science",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}

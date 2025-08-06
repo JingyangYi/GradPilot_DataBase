@@ -1,0 +1,784 @@
+2025-08-05 13:54:29 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: program_crawler)
+2025-08-05 13:54:30 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.14.4',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.9.23 (main, Jun  5 2025, 13:40:20) - [GCC 11.2.0]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Linux-5.15.0-143-generic-x86_64-with-glibc2.35'}
+2025-08-05 13:54:30 [program_spider] INFO: 尝试加载CSV文件: /net/scratch/jingyang/GradPilot_DataBase/Crawl/temp_物理.csv
+2025-08-05 13:54:30 [program_spider] INFO: 文件是否存在: True
+2025-08-05 13:54:30 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:54:30 [program_spider] INFO: 成功加载 135 个项目
+2025-08-05 13:54:30 [program_spider] INFO: 允许的域名: ['www.imperial.ac.uk', 'www.ox.ac.uk', 'www.postgraduate.study.cam.ac.uk', 'ethz.ch', 'www.physics.nus.edu.sg', 'www.ucl.ac.uk', 'portal.hku.hk', 'www.ntu.edu.sg', 'www.aep.cornell.edu', 'gradschool.cornell.edu', 'study.unimelb.edu.au', 'www.unsw.edu.au', 'www.tum.de', 'www.epfl.ch', 'www.sydney.edu.au', 'www.kcl.ac.uk', 'programsandcourses.anu.edu.au', 'www.gs.cuhk.edu.hk', 'www.ed.ac.uk', 'www.manchester.ac.uk', 'www.monash.edu', 'apam.columbia.edu', 'study.uq.edu.au', 'prog-crs.hkust.edu.hk', 'www.tudelft.nl', 'www.uva.nl', 'as.nyu.edu', 'www.physik.lmu.de', 'www.en.uni-muenchen.de', 'fs.um.edu.my', 'ias.um.edu.my', 'www.kuleuven.be', 'www.cityu.edu.hk', 'graduateprograms.brown.edu', 'www.birmingham.ac.uk', 'www.uwa.edu.au', 'www.gla.ac.uk', 'www.uni-heidelberg.de', 'adelaideuni.edu.au', 'courses.leeds.ac.uk', 'www.southampton.ac.uk', 'www.sheffield.ac.uk', 'www.nottingham.ac.uk', 'www.uzh.ch', 'www.uu.nl', 'www.qmul.ac.uk', 'www.st-andrews.ac.uk', 'www.universiteitleiden.nl', 'www.gradadmiss.gatech.edu', 'opticalsciences.physik.hu-berlin.de', 'admission.usm.my', 'www.tue.nl', 'www.liverpool.ac.uk', 'www.rug.nl', 'science.utm.my', 'www.exeter.ac.uk', 'masters.unige.ch', 'www.unibas.ch', 'studiekiezer.ugent.be', 'physics.wustl.edu', 'www.york.ac.uk', 'www.cardiff.ac.uk', 'uclouvain.be']
+2025-08-05 13:54:30 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-05 13:54:30 [program_spider] INFO: ================================================================================
+2025-08-05 13:54:30 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-05 13:54:30 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-05 13:54:30 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/crawl_full_20250805_135429.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-05 13:54:32 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-05 13:54:33 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.start.StartSpiderMiddleware',
+ 'scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-05 13:54:33 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-05 13:54:33 [scrapy.core.engine] INFO: Spider opened
+2025-08-05 13:54:33 [py.warnings] WARNING: /home/jingyang22/.conda/envs/gp/lib/python3.9/site-packages/scrapy/core/spidermw.py:433: ScrapyDeprecationWarning: program_crawler.spiders.program_spider.ProgramSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-05 13:54:33 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-05 13:54:33 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:54:33 [program_spider] INFO: 开始爬取项目 [1/135]
+2025-08-05 13:54:33 [program_spider] INFO: 项目名称: 帝国理工学院光学与光子学理学硕士
+2025-08-05 13:54:33 [program_spider] INFO: 项目ID: 946ff9da-9afb-4da9-897c-01593a3509dd
+2025-08-05 13:54:33 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/optics-photonics/
+2025-08-05 13:54:33 [program_spider] INFO: 剩余项目数: 134
+2025-08-05 13:54:33 [program_spider] INFO: ================================================================================
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/optics-photonics/
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 页面总链接数: 368
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 移除导航后链接数: 44 (移除了 0 个导航链接)
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 有效链接数: 27, 关键词匹配数: 15, 最终提取数: 15
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/optics-photonics/ (depth=0, is_root=True) 提取到 15 个链接
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/optics-photonics/?addCourse=1200689 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 提取链接完成，去重前 15 个链接，去重后 12 个新请求（去重了 3 个重复链接）
+2025-08-05 13:54:34 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 添加 12 个新请求，当前剩余: 12
+2025-08-05 13:54:35 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理1个页面): https://myimperial.powerappsportals.com/
+2025-08-05 13:54:35 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-05 13:54:37 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-05 13:54:39 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-05 13:54:41 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-05 13:54:43 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-05 13:54:45 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-05 13:54:47 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-05 13:54:49 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-05 13:54:51 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-05 13:54:53 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在处理子页面(深度1) (已处理12个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/optics-photonics/?addCourse=1200689
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 正在完成项目
+2025-08-05 13:54:55 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 项目完成: 帝国理工学院光学与光子学理学硕士
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd]   - 总页数: 13
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd]   - 成功页数: 13
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd]   - 失败页数: 0
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd]   - 成功率: 100.0%
+2025-08-05 13:54:55 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:54:55 [program_spider] INFO: [946ff9da-9afb-4da9-897c-01593a3509dd] 仍有 134 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:54:55 [program_spider] INFO: 成功保存项目数据: output/物理/帝国理工学院光学与光子学理学硕士_物理.json
+2025-08-05 13:54:55 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:54:55 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:54:55 [program_spider] INFO: 开始爬取项目 [2/135]
+2025-08-05 13:54:55 [program_spider] INFO: 项目名称: 帝国理工学院物理学理学硕士
+2025-08-05 13:54:55 [program_spider] INFO: 项目ID: dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e
+2025-08-05 13:54:55 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics/
+2025-08-05 13:54:55 [program_spider] INFO: 剩余项目数: 133
+2025-08-05 13:54:55 [program_spider] INFO: ================================================================================
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics/
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 页面总链接数: 371
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 移除导航后链接数: 47 (移除了 0 个导航链接)
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 有效链接数: 30, 关键词匹配数: 13, 最终提取数: 13
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics/ (depth=0, is_root=True) 提取到 13 个链接
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics/?addCourse=1200610 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 提取链接完成，去重前 13 个链接，去重后 11 个新请求（去重了 2 个重复链接）
+2025-08-05 13:54:57 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 添加 11 个新请求，当前剩余: 11
+2025-08-05 13:54:59 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理1个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-05 13:55:01 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-05 13:55:03 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-05 13:55:05 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-05 13:55:07 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-05 13:55:09 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-05 13:55:11 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-05 13:55:13 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-05 13:55:15 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-05 13:55:17 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics/?addCourse=1200610
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 正在完成项目
+2025-08-05 13:55:19 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 项目完成: 帝国理工学院物理学理学硕士
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e]   - 总页数: 12
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e]   - 成功页数: 12
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e]   - 失败页数: 0
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e]   - 成功率: 100.0%
+2025-08-05 13:55:19 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:55:19 [program_spider] INFO: [dc73bb29-c9c7-4de3-b6ed-a8cf1136e16e] 仍有 133 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:55:19 [program_spider] INFO: 成功保存项目数据: output/物理/帝国理工学院物理学理学硕士_物理.json
+2025-08-05 13:55:19 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:55:19 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:55:19 [program_spider] INFO: 开始爬取项目 [3/135]
+2025-08-05 13:55:19 [program_spider] INFO: 项目名称: 帝国理工学院物理学与量子动力学理学硕士
+2025-08-05 13:55:19 [program_spider] INFO: 项目ID: 4e790028-5693-4fba-922e-f5ee38d90a9a
+2025-08-05 13:55:19 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-quantum-dynamics/
+2025-08-05 13:55:19 [program_spider] INFO: 剩余项目数: 132
+2025-08-05 13:55:19 [program_spider] INFO: ================================================================================
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-quantum-dynamics/
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 页面总链接数: 370
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 移除导航后链接数: 46 (移除了 0 个导航链接)
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 有效链接数: 29, 关键词匹配数: 13, 最终提取数: 13
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-quantum-dynamics/ (depth=0, is_root=True) 提取到 13 个链接
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-quantum-dynamics/?addCourse=1201281 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 提取链接完成，去重前 13 个链接，去重后 11 个新请求（去重了 2 个重复链接）
+2025-08-05 13:55:21 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 添加 11 个新请求，当前剩余: 11
+2025-08-05 13:55:23 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理1个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-05 13:55:25 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-05 13:55:27 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-05 13:55:29 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-05 13:55:31 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-05 13:55:33 [scrapy.extensions.logstats] INFO: Crawled 31 pages (at 31 pages/min), scraped 2 items (at 2 items/min)
+2025-08-05 13:55:33 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-05 13:55:35 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-05 13:55:37 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-05 13:55:39 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-05 13:55:41 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-quantum-dynamics/?addCourse=120...
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 正在完成项目
+2025-08-05 13:55:43 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 项目完成: 帝国理工学院物理学与量子动力学理学硕士
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a]   - 总页数: 12
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a]   - 成功页数: 12
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a]   - 失败页数: 0
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a]   - 成功率: 100.0%
+2025-08-05 13:55:43 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:55:43 [program_spider] INFO: [4e790028-5693-4fba-922e-f5ee38d90a9a] 仍有 132 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:55:43 [program_spider] INFO: 成功保存项目数据: output/物理/帝国理工学院物理学与量子动力学理学硕士_物理.json
+2025-08-05 13:55:43 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:55:43 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:55:43 [program_spider] INFO: 开始爬取项目 [4/135]
+2025-08-05 13:55:43 [program_spider] INFO: 项目名称: 帝国理工学院物理学与扩展研究理学硕士
+2025-08-05 13:55:43 [program_spider] INFO: 项目ID: d85f420f-2647-4bf8-99f7-48d2d38a7339
+2025-08-05 13:55:43 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-extended-research/
+2025-08-05 13:55:43 [program_spider] INFO: 剩余项目数: 131
+2025-08-05 13:55:43 [program_spider] INFO: ================================================================================
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-extended-research/
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 页面总链接数: 370
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 移除导航后链接数: 46 (移除了 0 个导航链接)
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 有效链接数: 29, 关键词匹配数: 13, 最终提取数: 13
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-extended-research/ (depth=0, is_root=True) 提取到 13 个链接
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-extended-research/?addCourse=1200830 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 提取链接完成，去重前 13 个链接，去重后 11 个新请求（去重了 2 个重复链接）
+2025-08-05 13:55:45 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 添加 11 个新请求，当前剩余: 11
+2025-08-05 13:55:47 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理1个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-05 13:55:49 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-05 13:55:51 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-05 13:55:53 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-05 13:55:55 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-05 13:55:57 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-05 13:55:59 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-05 13:56:01 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-05 13:56:03 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-05 13:56:05 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/physics-extended-research/?addCourse=12...
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 正在完成项目
+2025-08-05 13:56:07 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 项目完成: 帝国理工学院物理学与扩展研究理学硕士
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339]   - 总页数: 12
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339]   - 成功页数: 12
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339]   - 失败页数: 0
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339]   - 成功率: 100.0%
+2025-08-05 13:56:07 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:56:07 [program_spider] INFO: [d85f420f-2647-4bf8-99f7-48d2d38a7339] 仍有 131 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:56:07 [program_spider] INFO: 成功保存项目数据: output/物理/帝国理工学院物理学与扩展研究理学硕士_物理.json
+2025-08-05 13:56:07 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:56:07 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:56:07 [program_spider] INFO: 开始爬取项目 [5/135]
+2025-08-05 13:56:07 [program_spider] INFO: 项目名称: 帝国理工学院安全与弹性：科学与技术理学硕士
+2025-08-05 13:56:07 [program_spider] INFO: 项目ID: 452bdad6-139b-426c-95dc-e2df0d156872
+2025-08-05 13:56:07 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/
+2025-08-05 13:56:07 [program_spider] INFO: 剩余项目数: 130
+2025-08-05 13:56:07 [program_spider] INFO: ================================================================================
+2025-08-05 13:56:09 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 页面总链接数: 387
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 移除导航后链接数: 63 (移除了 0 个导航链接)
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 有效链接数: 41, 关键词匹配数: 21, 最终提取数: 21
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/ (depth=0, is_root=True) 提取到 21 个链接
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/?addCourse=1218090 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/?addCourse=1218128 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/?addCourse=1218282 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 提取链接完成，去重前 21 个链接，去重后 14 个新请求（去重了 7 个重复链接）
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 添加 14 个新请求，当前剩余: 14
+2025-08-05 13:56:10 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理1个页面): https://myimperial.powerappsportals.com/
+2025-08-05 13:56:11 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-05 13:56:13 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-05 13:56:15 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-05 13:56:17 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-05 13:56:19 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-05 13:56:21 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-05 13:56:23 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-05 13:56:25 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-05 13:56:27 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-05 13:56:29 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-05 13:56:31 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理12个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/...
+2025-08-05 13:56:33 [scrapy.extensions.logstats] INFO: Crawled 62 pages (at 31 pages/min), scraped 4 items (at 2 items/min)
+2025-08-05 13:56:33 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理13个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/...
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在处理子页面(深度1) (已处理14个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/security-resilience-science-technology/...
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 正在完成项目
+2025-08-05 13:56:35 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 项目完成: 帝国理工学院安全与弹性：科学与技术理学硕士
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872]   - 总页数: 15
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872]   - 成功页数: 15
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872]   - 失败页数: 0
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872]   - 成功率: 100.0%
+2025-08-05 13:56:35 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:56:35 [program_spider] INFO: [452bdad6-139b-426c-95dc-e2df0d156872] 仍有 130 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:56:35 [program_spider] INFO: 成功保存项目数据: output/物理/帝国理工学院安全与弹性科学与技术理学硕士_物理.json
+2025-08-05 13:56:35 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:56:35 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:56:35 [program_spider] INFO: 开始爬取项目 [6/135]
+2025-08-05 13:56:35 [program_spider] INFO: 项目名称: 帝国理工学院量子场与基本力理学硕士
+2025-08-05 13:56:35 [program_spider] INFO: 项目ID: 434d73a9-44bc-4f83-8e40-751a0b051975
+2025-08-05 13:56:35 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/quantum-fields-fundamental-forces/
+2025-08-05 13:56:35 [program_spider] INFO: 剩余项目数: 129
+2025-08-05 13:56:35 [program_spider] INFO: ================================================================================
+2025-08-05 13:56:37 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/quantum-fields-fundamental-forces/
+2025-08-05 13:56:37 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 页面总链接数: 369
+2025-08-05 13:56:37 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 移除导航后链接数: 45 (移除了 0 个导航链接)
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 有效链接数: 28, 关键词匹配数: 15, 最终提取数: 15
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/quantum-fields-fundamental-forces/ (depth=0, is_root=True) 提取到 15 个链接
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/quantum-fields-fundamental-forces/?addCourse=1201780 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 提取链接完成，去重前 15 个链接，去重后 12 个新请求（去重了 3 个重复链接）
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 添加 12 个新请求，当前剩余: 12
+2025-08-05 13:56:38 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理1个页面): https://myimperial.powerappsportals.com/
+2025-08-05 13:56:39 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-05 13:56:41 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-05 13:56:43 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-05 13:56:45 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-05 13:56:47 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-05 13:56:49 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-05 13:56:51 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-05 13:56:53 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-05 13:56:55 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-05 13:56:57 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在处理子页面(深度1) (已处理12个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/quantum-fields-fundamental-forces/?addC...
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 正在完成项目
+2025-08-05 13:56:59 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 项目完成: 帝国理工学院量子场与基本力理学硕士
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975]   - 总页数: 13
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975]   - 成功页数: 13
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975]   - 失败页数: 0
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975]   - 成功率: 100.0%
+2025-08-05 13:56:59 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:56:59 [program_spider] INFO: [434d73a9-44bc-4f83-8e40-751a0b051975] 仍有 129 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:56:59 [program_spider] INFO: 成功保存项目数据: output/物理/帝国理工学院量子场与基本力理学硕士_物理.json
+2025-08-05 13:56:59 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:56:59 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:56:59 [program_spider] INFO: 开始爬取项目 [7/135]
+2025-08-05 13:56:59 [program_spider] INFO: 项目名称: 牛津大学物理学哲学研究硕士
+2025-08-05 13:56:59 [program_spider] INFO: 项目ID: 497a63d6-aaca-459e-84e6-e7abfdb32aa7
+2025-08-05 13:56:59 [program_spider] INFO: 根URL: https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics
+2025-08-05 13:56:59 [program_spider] INFO: 剩余项目数: 128
+2025-08-05 13:56:59 [program_spider] INFO: ================================================================================
+2025-08-05 13:57:01 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 正在处理根页面 (已处理0个页面): https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics
+2025-08-05 13:57:01 [program_spider] ERROR: 内容提取失败: Response content isn't text
+2025-08-05 13:57:01 [program_spider] ERROR: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 链接提取失败: Response content isn't text
+2025-08-05 13:57:01 [program_spider] WARNING: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 页面 https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 提取链接完成，去重前 0 个链接，去重后 0 个新请求（去重了 0 个重复链接）
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 正在完成项目
+2025-08-05 13:57:01 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 项目完成: 牛津大学物理学哲学研究硕士
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7]   - 总页数: 1
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7]   - 成功页数: 1
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7]   - 失败页数: 0
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7]   - 成功率: 100.0%
+2025-08-05 13:57:01 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:57:01 [program_spider] INFO: [497a63d6-aaca-459e-84e6-e7abfdb32aa7] 仍有 128 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:57:01 [program_spider] INFO: 成功保存项目数据: output/物理/牛津大学物理学哲学研究硕士_物理.json
+2025-08-05 13:57:01 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:57:01 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:57:01 [program_spider] INFO: 开始爬取项目 [8/135]
+2025-08-05 13:57:01 [program_spider] INFO: 项目名称: 牛津大学量子技术理学硕士
+2025-08-05 13:57:01 [program_spider] INFO: 项目ID: ce8b0ea6-1645-416e-9fd8-0043afda2fbc
+2025-08-05 13:57:01 [program_spider] INFO: 根URL: https://www.ox.ac.uk/admissions/graduate/courses/msc-quantum-technologies
+2025-08-05 13:57:01 [program_spider] INFO: 剩余项目数: 127
+2025-08-05 13:57:01 [program_spider] INFO: ================================================================================
+2025-08-05 13:57:02 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.ox.ac.uk/admissions/graduate/courses/msc-quantum-technologies from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 正在处理根页面 (已处理0个页面): https://www.ox.ac.uk/admissions/graduate/courses/msc-quantum-technologies
+2025-08-05 13:57:02 [program_spider] ERROR: 内容提取失败: Response content isn't text
+2025-08-05 13:57:02 [program_spider] ERROR: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 链接提取失败: Response content isn't text
+2025-08-05 13:57:02 [program_spider] WARNING: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 页面 https://www.ox.ac.uk/admissions/graduate/courses/msc-quantum-technologies (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 提取链接完成，去重前 0 个链接，去重后 0 个新请求（去重了 0 个重复链接）
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 正在完成项目
+2025-08-05 13:57:02 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 项目完成: 牛津大学量子技术理学硕士
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc]   - 总页数: 1
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc]   - 成功页数: 1
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc]   - 失败页数: 0
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc]   - 成功率: 100.0%
+2025-08-05 13:57:02 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:57:02 [program_spider] INFO: [ce8b0ea6-1645-416e-9fd8-0043afda2fbc] 仍有 127 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:57:02 [program_spider] INFO: 成功保存项目数据: output/物理/牛津大学量子技术理学硕士_物理.json
+2025-08-05 13:57:03 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:57:03 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:57:03 [program_spider] INFO: 开始爬取项目 [9/135]
+2025-08-05 13:57:03 [program_spider] INFO: 项目名称: 剑桥大学天体物理学高级研究硕士
+2025-08-05 13:57:03 [program_spider] INFO: 项目ID: 6f9a1c9b-d7a9-463d-84fc-fca9ce627afb
+2025-08-05 13:57:03 [program_spider] INFO: 根URL: https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast
+2025-08-05 13:57:03 [program_spider] INFO: 剩余项目数: 126
+2025-08-05 13:57:03 [program_spider] INFO: ================================================================================
+2025-08-05 13:57:03 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理根页面 (已处理0个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 页面总链接数: 219
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 移除导航后链接数: 209 (移除了 0 个导航链接)
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 有效链接数: 202, 关键词匹配数: 56, 最终提取数: 56
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 页面 https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast (depth=0, is_root=True) 提取到 56 个链接
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Undergraduate', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Undergraduate courses', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/applying?ucam-ref=global-header (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Postgraduate', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Postgraduate courses', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply?ucam-ref=global-header (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events?ucam-ref=global-header (锚文本: 'Postgraduate events', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header (锚文本: 'Fees and funding', 匹配关键词: 'funding')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/student-support/learn-language-cambridge (锚文本: 'Language tuition', 匹配关键词: 'tuition')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/careers (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses-overview (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses (锚文本: 'Course Directory', 匹配关键词: 'course')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/applying-university-funding (锚文本: 'Applying for University funding', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/doctoral-training-programmes (锚文本: 'Doctoral training programmes', 匹配关键词: 'program')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/external-funding-and-loans (锚文本: 'External funding and loans', 匹配关键词: 'funding')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines (锚文本: 'Application deadlines', 匹配关键词: 'deadline')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/entry-requirements (锚文本: 'Before you apply', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/international-applications (锚文本: 'International applications', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/ai-postgraduate-applications (锚文本: 'AI and postgraduate applications', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/admissions-fraud (锚文本: 'Admissions fraud', 匹配关键词: 'admission')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application (锚文本: 'After you apply', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome (锚文本: 'Outcome of your application', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start (锚文本: 'Defer your application', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/track-application (锚文本: 'Track your application', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/openday (锚文本: 'Postgraduate Open Days', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme (锚文本: 'AIM applicant support programme', 匹配关键词: 'program')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme/aim-masters (锚文本: 'AIM: Master's', 匹配关键词: 'master')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/student-newsletter (锚文本: 'Postgraduate Newsletter', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast/requirements (锚文本: 'Requirements', 匹配关键词: 'requirements')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast/apply (锚文本: 'How To Apply', 匹配关键词: 'apply')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events (锚文本: 'Postgraduate Admissions Events', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/qualifications/mast (锚文本: 'Master of Advanced Study', 匹配关键词: 'master')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://camadmissions.zendesk.com/hc/en-gb/requests/new (锚文本: 'Application - related enquiries', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.ast.cam.ac.uk/prospective-students/undergraduate/part-iiimast (锚文本: 'Course on Department Website', 匹配关键词: 'course')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/how-do-i-apply/application-funding-deadlines (锚文本: 'Deadlines page', 匹配关键词: 'deadline')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/admissions-statistics (锚文本: 'Admissions statistics', 匹配关键词: 'admission')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://apply.postgraduate.study.cam.ac.uk/applicant/login (锚文本: 'Start an application', 匹配关键词: 'application')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/portal/continuer (锚文本: 'Current Postgraduates', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Undergraduate', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.postgraduate.study.cam.ac.uk?ucam-ref=global-footer (锚文本: 'Postgraduate', 匹配关键词: 'graduate')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 提取链接完成，去重前 56 个链接，去重后 48 个新请求（去重了 8 个重复链接）
+2025-08-05 13:57:04 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 添加 48 个新请求，当前剩余: 48
+2025-08-05 13:57:04 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://camadmissions.zendesk.com/hc/en-gb/requests/new from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 请求失败详情:
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   URL: https://camadmissions.zendesk.com/hc/en-gb/requests/new
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   错误类型: HttpError
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   错误描述: Ignoring non-200 response
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   HTTP状态码: 403
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=O9W16ShGJhNOaO3IYitZLAS4MiwfAfA5v4Qo97OonKE-1754420224-1.0.1.1-Rsf1Zg_rbobKJENvIflAhNAOR9Qy1HYSX.bYWCrsGcg3ef4hnmP_PYlz9nXcn6XTu0qsruUWzkAe20t8W2XDK40q6PD5VincoF3el9FzAQQ; path=/; expires=Tue,; cf-ray: 96a884a5c9f010c0-ORD
+2025-08-05 13:57:05 [program_spider] ERROR: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   请求头: user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-05 13:57:05 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 已处理页面: 2, 剩余请求数: 47
+2025-08-05 13:57:05 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理2个页面): https://www.postgraduate.study.cam.ac.uk/courses?ucam-ref=global-header
+2025-08-05 13:57:06 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理3个页面): https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:57:07 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理4个页面): https://www.postgraduate.study.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:57:07 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理5个页面): https://www.ast.cam.ac.uk/students/prospective-students/undergraduate/part-iiimast
+2025-08-05 13:57:09 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理6个页面): https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header
+2025-08-05 13:57:09 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理7个页面): https://apply.postgraduate.study.cam.ac.uk/applicant/login?dswid=5132
+2025-08-05 13:57:09 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理8个页面): https://www.postgraduate.study.cam.ac.uk?ucam-ref=global-footer
+2025-08-05 13:57:09 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理9个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-footer
+2025-08-05 13:57:11 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理10个页面): https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-footer
+2025-08-05 13:57:11 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理11个页面): https://www.postgraduate.study.cam.ac.uk/portal/continuer
+2025-08-05 13:57:13 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理12个页面): https://www.undergraduate.study.cam.ac.uk/apply?ucam-ref=global-header
+2025-08-05 13:57:13 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理13个页面): https://www.postgraduate.study.cam.ac.uk/admissions-statistics
+2025-08-05 13:57:17 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理14个页面): https://www.postgraduate.study.cam.ac.uk/courses/qualifications/mast
+2025-08-05 13:57:19 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理15个页面): https://www.postgraduate.study.cam.ac.uk/events
+2025-08-05 13:57:21 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理16个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast/apply
+2025-08-05 13:57:23 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理17个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasasast/requirements
+2025-08-05 13:57:25 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理18个页面): https://www.postgraduate.study.cam.ac.uk/events/student-newsletter
+2025-08-05 13:57:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理19个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme/aim-masters
+2025-08-05 13:57:29 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理20个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme
+2025-08-05 13:57:31 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理21个页面): https://www.postgraduate.study.cam.ac.uk/openday
+2025-08-05 13:57:33 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理22个页面): https://www.postgraduate.study.cam.ac.uk/apply/track-application
+2025-08-05 13:57:33 [scrapy.extensions.logstats] INFO: Crawled 102 pages (at 40 pages/min), scraped 8 items (at 4 items/min)
+2025-08-05 13:57:35 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理23个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start
+2025-08-05 13:57:37 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理24个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome
+2025-08-05 13:57:39 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理25个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application
+2025-08-05 13:57:41 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理26个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/admissions-fraud
+2025-08-05 13:57:43 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理27个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:57:43 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理28个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/ai-postgraduate-applications
+2025-08-05 13:57:45 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理29个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/international-applications
+2025-08-05 13:57:47 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理30个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee
+2025-08-05 13:57:49 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理31个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents
+2025-08-05 13:57:51 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理32个页面): https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements
+2025-08-05 13:57:53 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理33个页面): https://www.postgraduate.study.cam.ac.uk/apply/before/entry-requirements
+2025-08-05 13:57:55 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理34个页面): https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines
+2025-08-05 13:57:57 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理35个页面): https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines
+2025-08-05 13:57:59 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理36个页面): https://www.postgraduate.study.cam.ac.uk/apply
+2025-08-05 13:58:01 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理37个页面): https://www.postgraduate.study.cam.ac.uk/funding/external-funding-and-loans
+2025-08-05 13:58:03 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理38个页面): https://www.postgraduate.study.cam.ac.uk/funding/doctoral-training-programmes
+2025-08-05 13:58:05 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理39个页面): https://www.postgraduate.study.cam.ac.uk/funding/applying-university-funding
+2025-08-05 13:58:07 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理40个页面): https://www.postgraduate.study.cam.ac.uk/funding
+2025-08-05 13:58:11 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理41个页面): https://www.postgraduate.study.cam.ac.uk/courses
+2025-08-05 13:58:13 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理42个页面): https://www.postgraduate.study.cam.ac.uk/courses-overview
+2025-08-05 13:58:15 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理43个页面): https://www.postgraduate.study.cam.ac.uk/why-cambridge/careers
+2025-08-05 13:58:17 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理44个页面): https://www.postgraduate.study.cam.ac.uk/why-cambridge/student-support/learn-language-cambridge
+2025-08-05 13:58:19 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理45个页面): https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header
+2025-08-05 13:58:21 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理46个页面): https://www.postgraduate.study.cam.ac.uk/events?ucam-ref=global-header
+2025-08-05 13:58:25 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理47个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在处理子页面(深度1) (已处理48个页面): https://www.postgraduate.study.cam.ac.uk/apply?ucam-ref=global-header
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 正在完成项目
+2025-08-05 13:58:27 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 项目完成: 剑桥大学天体物理学高级研究硕士
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   - 总页数: 48
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   - 成功页数: 48
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   - 失败页数: 1
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb]   - 成功率: 98.0%
+2025-08-05 13:58:27 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:58:27 [program_spider] INFO: [6f9a1c9b-d7a9-463d-84fc-fca9ce627afb] 仍有 126 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:58:27 [program_spider] INFO: 成功保存项目数据: output/物理/剑桥大学天体物理学高级研究硕士_物理.json
+2025-08-05 13:58:27 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:58:27 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:58:27 [program_spider] INFO: 开始爬取项目 [10/135]
+2025-08-05 13:58:27 [program_spider] INFO: 项目名称: 剑桥大学数学（理论物理）高级研究硕士
+2025-08-05 13:58:27 [program_spider] INFO: 项目ID: f38549b8-d757-4f73-a096-215d0157cb64
+2025-08-05 13:58:27 [program_spider] INFO: 根URL: https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph
+2025-08-05 13:58:27 [program_spider] INFO: 剩余项目数: 125
+2025-08-05 13:58:27 [program_spider] INFO: ================================================================================
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理根页面 (已处理0个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 页面总链接数: 223
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 移除导航后链接数: 213 (移除了 0 个导航链接)
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 有效链接数: 206, 关键词匹配数: 56, 最终提取数: 56
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 页面 https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph (depth=0, is_root=True) 提取到 56 个链接
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Undergraduate', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Undergraduate courses', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/applying?ucam-ref=global-header (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Postgraduate', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Postgraduate courses', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply?ucam-ref=global-header (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events?ucam-ref=global-header (锚文本: 'Postgraduate events', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header (锚文本: 'Fees and funding', 匹配关键词: 'funding')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/student-support/learn-language-cambridge (锚文本: 'Language tuition', 匹配关键词: 'tuition')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/careers (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses-overview (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses (锚文本: 'Course Directory', 匹配关键词: 'course')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/applying-university-funding (锚文本: 'Applying for University funding', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/doctoral-training-programmes (锚文本: 'Doctoral training programmes', 匹配关键词: 'program')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/external-funding-and-loans (锚文本: 'External funding and loans', 匹配关键词: 'funding')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines (锚文本: 'Application deadlines', 匹配关键词: 'deadline')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/entry-requirements (锚文本: 'Before you apply', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/international-applications (锚文本: 'International applications', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/ai-postgraduate-applications (锚文本: 'AI and postgraduate applications', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/admissions-fraud (锚文本: 'Admissions fraud', 匹配关键词: 'admission')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application (锚文本: 'After you apply', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome (锚文本: 'Outcome of your application', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start (锚文本: 'Defer your application', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/track-application (锚文本: 'Track your application', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/openday (锚文本: 'Postgraduate Open Days', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme (锚文本: 'AIM applicant support programme', 匹配关键词: 'program')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme/aim-masters (锚文本: 'AIM: Master's', 匹配关键词: 'master')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/student-newsletter (锚文本: 'Postgraduate Newsletter', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph/requirements (锚文本: 'Requirements', 匹配关键词: 'requirements')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph/apply (锚文本: 'How To Apply', 匹配关键词: 'apply')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events (锚文本: 'Postgraduate Admissions Events', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/qualifications/mast (锚文本: 'Master of Advanced Study', 匹配关键词: 'master')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://camadmissions.zendesk.com/hc/en-gb/requests/new (锚文本: 'Application - related enquiries', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: http://www.maths.cam.ac.uk/part-iii-prospective (锚文本: 'Course on Department Website', 匹配关键词: 'course')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/how-do-i-apply/application-funding-deadlines (锚文本: 'Deadlines page', 匹配关键词: 'deadline')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/admissions-statistics (锚文本: 'Admissions statistics', 匹配关键词: 'admission')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://apply.postgraduate.study.cam.ac.uk/applicant/login (锚文本: 'Start an application', 匹配关键词: 'application')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/portal/continuer (锚文本: 'Current Postgraduates', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Undergraduate', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.postgraduate.study.cam.ac.uk?ucam-ref=global-footer (锚文本: 'Postgraduate', 匹配关键词: 'graduate')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 提取链接完成，去重前 56 个链接，去重后 48 个新请求（去重了 8 个重复链接）
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 添加 48 个新请求，当前剩余: 48
+2025-08-05 13:58:29 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://camadmissions.zendesk.com/hc/en-gb/requests/new from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理1个页面): https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64] 请求失败详情:
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64]   URL: https://camadmissions.zendesk.com/hc/en-gb/requests/new
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64]   错误类型: HttpError
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64]   错误描述: Ignoring non-200 response
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64]   HTTP状态码: 403
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=dJDFwy7RCkI7fnqEymqfEYHLkO3.ITCi7VO1eHdxreM-1754420309-1.0.1.1-q.r61jtwVH_f1hWRQ4_HESKZf9sJv.J5gnpLIjG9IFjhTpg4gsVqNESuhLM5d7YRGQAdthyRA2qKIxOUMQ6koLnBGe.iTTSjAVZpPHnsZAE; path=/; expires=Tue,; cf-ray: 96a886b6488ca2a1-ORD
+2025-08-05 13:58:29 [program_spider] ERROR: [f38549b8-d757-4f73-a096-215d0157cb64]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-05 13:58:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 已处理页面: 3, 剩余请求数: 46
+2025-08-05 13:58:31 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理3个页面): https://www.postgraduate.study.cam.ac.uk?ucam-ref=global-footer
+2025-08-05 13:58:31 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理4个页面): https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-footer
+2025-08-05 13:58:33 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理5个页面): https://www.postgraduate.study.cam.ac.uk/portal/continuer
+2025-08-05 13:58:33 [scrapy.extensions.logstats] INFO: Crawled 134 pages (at 32 pages/min), scraped 9 items (at 1 items/min)
+2025-08-05 13:58:33 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理6个页面): https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html
+2025-08-05 13:58:33 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理7个页面): https://apply.postgraduate.study.cam.ac.uk/applicant/login?dswid=-7995
+2025-08-05 13:58:33 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理8个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-footer
+2025-08-05 13:58:35 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理9个页面): https://www.postgraduate.study.cam.ac.uk/admissions-statistics
+2025-08-05 13:58:39 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理10个页面): https://www.postgraduate.study.cam.ac.uk/courses/qualifications/mast
+2025-08-05 13:58:41 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理11个页面): https://www.postgraduate.study.cam.ac.uk/events
+2025-08-05 13:58:43 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理12个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph/apply
+2025-08-05 13:58:45 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理13个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/maamastph/requirements
+2025-08-05 13:58:47 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理14个页面): https://www.postgraduate.study.cam.ac.uk/events/student-newsletter
+2025-08-05 13:58:49 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理15个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme/aim-masters
+2025-08-05 13:58:51 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理16个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme
+2025-08-05 13:58:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理17个页面): https://www.postgraduate.study.cam.ac.uk/openday
+2025-08-05 13:58:55 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理18个页面): https://www.postgraduate.study.cam.ac.uk/apply/track-application
+2025-08-05 13:58:57 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理19个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start
+2025-08-05 13:58:59 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理20个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome
+2025-08-05 13:59:01 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理21个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application
+2025-08-05 13:59:03 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理22个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/admissions-fraud
+2025-08-05 13:59:05 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理23个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/ai-postgraduate-applications
+2025-08-05 13:59:05 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理24个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:59:07 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理25个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/international-applications
+2025-08-05 13:59:09 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理26个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee
+2025-08-05 13:59:11 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理27个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents
+2025-08-05 13:59:13 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理28个页面): https://www.undergraduate.study.cam.ac.uk/apply?ucam-ref=global-header
+2025-08-05 13:59:13 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理29个页面): https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements
+2025-08-05 13:59:15 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理30个页面): https://www.postgraduate.study.cam.ac.uk/apply/before/entry-requirements
+2025-08-05 13:59:15 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理31个页面): https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header
+2025-08-05 13:59:17 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理32个页面): https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines
+2025-08-05 13:59:19 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理33个页面): https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines
+2025-08-05 13:59:21 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理34个页面): https://www.postgraduate.study.cam.ac.uk/apply
+2025-08-05 13:59:23 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理35个页面): https://www.postgraduate.study.cam.ac.uk/funding/external-funding-and-loans
+2025-08-05 13:59:25 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理36个页面): https://www.postgraduate.study.cam.ac.uk/funding/doctoral-training-programmes
+2025-08-05 13:59:27 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理37个页面): https://www.postgraduate.study.cam.ac.uk/funding/applying-university-funding
+2025-08-05 13:59:29 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理38个页面): https://www.postgraduate.study.cam.ac.uk/funding
+2025-08-05 13:59:33 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理39个页面): https://www.postgraduate.study.cam.ac.uk/courses
+2025-08-05 13:59:33 [scrapy.extensions.logstats] INFO: Crawled 168 pages (at 34 pages/min), scraped 9 items (at 0 items/min)
+2025-08-05 13:59:35 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理40个页面): https://www.postgraduate.study.cam.ac.uk/courses-overview
+2025-08-05 13:59:37 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理41个页面): https://www.postgraduate.study.cam.ac.uk/why-cambridge/careers
+2025-08-05 13:59:39 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理42个页面): https://www.postgraduate.study.cam.ac.uk/why-cambridge/student-support/learn-language-cambridge
+2025-08-05 13:59:41 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理43个页面): https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header
+2025-08-05 13:59:43 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理44个页面): https://www.postgraduate.study.cam.ac.uk/events?ucam-ref=global-header
+2025-08-05 13:59:47 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理45个页面): https://www.postgraduate.study.cam.ac.uk/courses?ucam-ref=global-header
+2025-08-05 13:59:49 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理46个页面): https://www.postgraduate.study.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:59:51 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理47个页面): https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在处理子页面(深度1) (已处理48个页面): https://www.postgraduate.study.cam.ac.uk/apply?ucam-ref=global-header
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 正在完成项目
+2025-08-05 13:59:53 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 项目完成: 剑桥大学数学（理论物理）高级研究硕士
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64]   - 总页数: 48
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64]   - 成功页数: 48
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64]   - 失败页数: 1
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64]   - 成功率: 98.0%
+2025-08-05 13:59:53 [program_spider] INFO: ------------------------------------------------------------
+2025-08-05 13:59:53 [program_spider] INFO: [f38549b8-d757-4f73-a096-215d0157cb64] 仍有 125 个项目待爬，将在爬虫空闲时继续。
+2025-08-05 13:59:53 [program_spider] INFO: 成功保存项目数据: output/物理/剑桥大学数学理论物理高级研究硕士_物理.json
+2025-08-05 13:59:53 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-05 13:59:53 [program_spider] INFO: 
+================================================================================
+2025-08-05 13:59:53 [program_spider] INFO: 开始爬取项目 [11/135]
+2025-08-05 13:59:53 [program_spider] INFO: 项目名称: 剑桥大学行星科学与宇宙生命哲学硕士
+2025-08-05 13:59:53 [program_spider] INFO: 项目ID: 2b65e26a-ecdb-463d-afda-e76b5bee10fe
+2025-08-05 13:59:53 [program_spider] INFO: 根URL: https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl
+2025-08-05 13:59:53 [program_spider] INFO: 剩余项目数: 124
+2025-08-05 13:59:53 [program_spider] INFO: ================================================================================
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理根页面 (已处理0个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 页面总链接数: 225
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 移除导航后链接数: 215 (移除了 0 个导航链接)
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 有效链接数: 208, 关键词匹配数: 55, 最终提取数: 55
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 页面 https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl (depth=0, is_root=True) 提取到 55 个链接
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Undergraduate', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Undergraduate courses', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/applying?ucam-ref=global-header (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Postgraduate', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Postgraduate courses', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply?ucam-ref=global-header (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events?ucam-ref=global-header (锚文本: 'Postgraduate events', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header (锚文本: 'Fees and funding', 匹配关键词: 'funding')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/student-support/learn-language-cambridge (锚文本: 'Language tuition', 匹配关键词: 'tuition')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/careers (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses-overview (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses (锚文本: 'Course Directory', 匹配关键词: 'course')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/applying-university-funding (锚文本: 'Applying for University funding', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/doctoral-training-programmes (锚文本: 'Doctoral training programmes', 匹配关键词: 'program')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/external-funding-and-loans (锚文本: 'External funding and loans', 匹配关键词: 'funding')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines (锚文本: 'Application deadlines', 匹配关键词: 'deadline')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/entry-requirements (锚文本: 'Before you apply', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/international-applications (锚文本: 'International applications', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/ai-postgraduate-applications (锚文本: 'AI and postgraduate applications', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/admissions-fraud (锚文本: 'Admissions fraud', 匹配关键词: 'admission')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application (锚文本: 'After you apply', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome (锚文本: 'Outcome of your application', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start (锚文本: 'Defer your application', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/track-application (锚文本: 'Track your application', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/openday (锚文本: 'Postgraduate Open Days', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme (锚文本: 'AIM applicant support programme', 匹配关键词: 'program')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme/aim-masters (锚文本: 'AIM: Master's', 匹配关键词: 'master')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/student-newsletter (锚文本: 'Postgraduate Newsletter', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl/requirements (锚文本: 'Requirements', 匹配关键词: 'requirements')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl/apply (锚文本: 'How To Apply', 匹配关键词: 'apply')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: http://www.2021.postgraduate.study.cam.ac.uk/courses/qualifications/mphil (锚文本: 'Master of Philosophy', 匹配关键词: 'master')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://camadmissions.zendesk.com/hc/en-gb/requests/new (锚文本: 'Application - related enquiries', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: http://pslu.masters.cam.ac.uk/ (锚文本: 'Course on Department Website', 匹配关键词: 'course')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/how-do-i-apply/application-funding-deadlines (锚文本: 'Deadlines page', 匹配关键词: 'deadline')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/admissions-statistics (锚文本: 'Admissions statistics', 匹配关键词: 'admission')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://apply.postgraduate.study.cam.ac.uk/applicant/login (锚文本: 'Start an application', 匹配关键词: 'application')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/portal/continuer (锚文本: 'Current Postgraduates', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Undergraduate', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.postgraduate.study.cam.ac.uk?ucam-ref=global-footer (锚文本: 'Postgraduate', 匹配关键词: 'graduate')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 提取链接完成，去重前 55 个链接，去重后 47 个新请求（去重了 8 个重复链接）
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 添加 47 个新请求，当前剩余: 47
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理1个页面): https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-header
+2025-08-05 13:59:55 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://camadmissions.zendesk.com/hc/en-gb/requests/new from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-05 13:59:55 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理2个页面): https://camadmissions.zendesk.com/hc/en-gb/requests/new
+2025-08-05 13:59:55 [program_spider] ERROR: 内容提取失败: Response content isn't text
+2025-08-05 13:59:57 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理3个页面): https://www.postgraduate.study.cam.ac.uk?ucam-ref=global-footer
+2025-08-05 13:59:57 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理4个页面): https://www.undergraduate.study.cam.ac.uk/?ucam-ref=global-footer
+2025-08-05 13:59:57 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理5个页面): https://www.postgraduate.study.cam.ac.uk/courses/qualifications/mphil
+2025-08-05 13:59:59 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理6个页面): https://www.postgraduate.study.cam.ac.uk/portal/continuer
+2025-08-05 13:59:59 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理7个页面): https://apply.postgraduate.study.cam.ac.uk/applicant/login?dswid=16
+2025-08-05 13:59:59 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理8个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-footer
+2025-08-05 14:00:00 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理9个页面): https://www.pslu.masters.cam.ac.uk/
+2025-08-05 14:00:01 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理10个页面): https://www.postgraduate.study.cam.ac.uk/admissions-statistics
+2025-08-05 14:00:05 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理11个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl/apply
+2025-08-05 14:00:07 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理12个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/pcasmppsl/requirements
+2025-08-05 14:00:09 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理13个页面): https://www.postgraduate.study.cam.ac.uk/events/student-newsletter
+2025-08-05 14:00:11 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理14个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme/aim-masters
+2025-08-05 14:00:13 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理15个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme
+2025-08-05 14:00:15 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理16个页面): https://www.postgraduate.study.cam.ac.uk/openday
+2025-08-05 14:00:17 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理17个页面): https://www.postgraduate.study.cam.ac.uk/apply/track-application
+2025-08-05 14:00:19 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理18个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start
+2025-08-05 14:00:21 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理19个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome
+2025-08-05 14:00:23 [program_spider] INFO: [2b65e26a-ecdb-463d-afda-e76b5bee10fe] 正在处理子页面(深度1) (已处理20个页面): https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application

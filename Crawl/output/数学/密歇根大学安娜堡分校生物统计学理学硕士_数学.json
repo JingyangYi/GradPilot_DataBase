@@ -1,0 +1,19 @@
+{
+  "crawl_time": "2025-08-05T07:09:58.119867",
+  "pages": [
+    {
+      "content": "",
+      "crawl_status": "success",
+      "depth": 0,
+      "links": [],
+      "title": "",
+      "url": "https://sph.umich.edu/biostat/programs/masters.html"
+    }
+  ],
+  "program_name": "密歇根大学安娜堡分校生物统计学理学硕士",
+  "project_id": "a44fc0a7-0fec-40b0-9610-f3dec7f58d28",
+  "root_url": "https://sph.umich.edu/biostat/programs/masters.html",
+  "source_file": "数学.json",
+  "status": "completed",
+  "total_pages": 1
+}
