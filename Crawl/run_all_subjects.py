@@ -4,11 +4,11 @@ import sys
 
 # 第1组 (1-23)
 group1 = [
-    # "urls_subject/交通运输/交通运输_urls.csv",
-    # "urls_subject/人力资源管理/人力资源管理_urls.csv",
-    # "urls_subject/会计/会计_urls.csv",
-    # "urls_subject/体育/体育_urls.csv",
-    # "urls_subject/供应链管理/供应链管理_urls.csv",
+    "urls_subject/交通运输/交通运输_urls.csv",
+    "urls_subject/人力资源管理/人力资源管理_urls.csv",
+    "urls_subject/会计/会计_urls.csv",
+    "urls_subject/体育/体育_urls.csv",
+    "urls_subject/供应链管理/供应链管理_urls.csv",
     "urls_subject/信息系统/信息系统_urls.csv",
     "urls_subject/公共卫生/公共卫生_1.csv",
     "urls_subject/公共卫生/公共卫生_2.csv",

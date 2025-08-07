@@ -3,19 +3,19 @@
     "会计": {
       "status": "running",
       "total": 0,
-      "completed": 102,
+      "completed": 134,
       "failed": 1
     },
     "人力资源管理": {
       "status": "running",
       "total": 0,
-      "completed": 103,
+      "completed": 189,
       "failed": 2
     },
     "交通运输": {
       "status": "running",
       "total": 0,
-      "completed": 83,
+      "completed": 221,
       "failed": 0
     },
     "体育": {
@@ -73,5 +73,5 @@
     }
   ],
   "completed_subjects": [],
-  "last_update": "2025-08-07T13:38:27.371907"
+  "last_update": "2025-08-07T16:51:02.468165"
 }

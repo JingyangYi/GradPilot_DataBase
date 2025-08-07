@@ -669,55 +669,48 @@ class ProgramSpider(scrapy.Spider):
     
     def deduplicate_text_content(self, content_parts):
         """
-        文本去重：过滤重复的大段文本内容
-        
-        主要解决问题：
-        1. 响应式设计导致的同一内容在桌面版/移动版中重复
-        2. SEO优化造成的关键信息多处显示
-        3. 页面模板重用导致的内容重复
-        4. 导航、面包屑等在多个区域的重复文本
-        
-        去重策略：
-        - 对于长度>30的文本段落进行去重（避免过度去重短文本）
-        - 使用标准化文本（去空格、转小写）进行比较
-        - 保留首次出现的文本，丢弃后续重复
-        - 短文本（<=30字符）直接保留，不参与去重
-        
-        Args:
-            content_parts (list): 原始提取的文本段落列表
-            
-        Returns:
-            list: 去重后的文本段落列表
+        文本去重：行级去重 + 统一规范化 (改进版)
+
+        改进点：
+        1. 先按换行拆分为行级片段，粒度更细；
+        2. 统一去掉前缀标记（如 [HTML_TABLE] 等）和行首符号（•、-、数字序号等）；
+        3. 长度 <10 的行视为噪声直接过滤；
+        4. 使用规范化文本（去空白、转小写）做去重判断。
         """
         if not content_parts:
             return content_parts
-            
-        # 用于记录已见过的长文本（标准化后）
-        seen_long_texts = set()
+
         deduplicated_parts = []
-        
-        for text in content_parts:
-            if not text or not isinstance(text, str):
+        seen = set()
+
+        for part in content_parts:
+            if not part or not isinstance(part, str):
                 continue
-                
-            text_stripped = text.strip()
-            if not text_stripped:
-                continue
-                
-            # 对于短文本（<=30字符），直接保留，不进行去重
-            # 这样可以避免过度去重标题、标签等短内容
-            if len(text_stripped) <= 30:
-                deduplicated_parts.append(text_stripped)
-                continue
-                
-            # 对长文本进行标准化：去除多余空白、转小写，用于去重比较
-            normalized_text = ' '.join(text_stripped.lower().split())
-            
-            # 如果这段长文本之前没有出现过，则保留
-            if normalized_text not in seen_long_texts:
-                seen_long_texts.add(normalized_text)
-                deduplicated_parts.append(text_stripped)  # 保存原始格式的文本
-                
+
+            # 拆分行，避免整块文本去重失败
+            for line in part.split('\n'):
+                text = line.strip()
+                if not text:
+                    continue
+
+                # 去掉像 [HTML_TABLE]、[GRID_TABLE] 等前缀标记
+                text_no_prefix = re.sub(r'^\[[A-Z_]+\]\s*', '', text)
+                # 去掉行首 bullet / 破折号 / 序号等
+                text_no_prefix = re.sub(r'^[•●\-\u2022\s\d\.\)\(]+', '', text_no_prefix)
+
+                # 规范化：去多余空白、转小写
+                normalized = ' '.join(text_no_prefix.lower().split())
+                if len(normalized) < 10:
+                    # 信息量过低，跳过
+                    continue
+
+                if normalized in seen:
+                    continue
+                seen.add(normalized)
+
+                # 保留原始行文本（含符号，保持可读性）
+                deduplicated_parts.append(text)
+
         return deduplicated_parts
             
     def extract_text_elements(self, soup):
@@ -735,13 +728,10 @@ class ProgramSpider(scrapy.Spider):
                 content_parts.append(text)
                 
         for tag in soup.find_all(['ul', 'ol']):
-            items = []
             for li in tag.find_all('li'):
                 item_text = li.get_text().strip()
                 if item_text:
-                    items.append(f"• {item_text}")
-            if items:
-                content_parts.append('\n'.join(items))
+                    content_parts.append(f"• {item_text}")
                 
         return content_parts
         
@@ -878,6 +868,7 @@ class ProgramSpider(scrapy.Spider):
             #     self.logger.info(f"[{project_id}] ... 还有 {len(remaining_links)-20} 个链接未显示")
                     
             links = []
+            returned_urls = set()  # 页面内URL去重
             valid_count = 0
             keyword_matched_count = 0
             
@@ -902,6 +893,11 @@ class ProgramSpider(scrapy.Spider):
                     if matched_keyword:
                         keyword_matched_count += 1
                         # 保存为结构化字典，便于JSON中查看和理解
+                        # 页面内URL唯一性去重
+                        if href in returned_urls:
+                            continue  # 跳过重复 URL
+                        returned_urls.add(href)
+
                         link_info = {
                             "url": href,                    # 链接地址
                             "anchor_text": anchor_text,     # 锚文本（链接显示的文字）

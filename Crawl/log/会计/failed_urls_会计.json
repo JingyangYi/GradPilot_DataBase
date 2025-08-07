@@ -1,0 +1,145 @@
+[
+  {
+    "project_id": "30eb55bd-9338-4474-908f-178942b46505",
+    "program_name": "康奈尔大学管理学硕士-会计方向",
+    "source_file": "会计",
+    "url": "https://www.johnson.cornell.edu/programs/mps-in-management-accounting-specialization/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div "
+  },
+  {
+    "project_id": "d40c7601-7e3c-4472-958e-18e0006d9582",
+    "program_name": "澳大利亚国立大学专业会计硕士",
+    "source_file": "会计",
+    "url": "https://policies.anu.edu.au/ppl/document/ANUP_6546951",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8",
+      "set-cookie": "JSESSIONID=0meDhNbV9Fm2Mk3yM1jvL0G516N2HNLc9qRj91cUAbKJSEHCfBeo!505060896!NONE; path=/; HttpOnly"
+    },
+    "response_preview": "  <!DOCTYPE html>  <!--[if lt IE 7 ]> <html lang=\"en\" class=\"no-js ie6\"> <![endif]-->      <!--[if IE 7 ]>    <html lang=\"en\" class=\"no-js ie7\"> <![endif]-->      <!--[if IE 8 ]>    <html lang=\"en\" cl"
+  },
+  {
+    "project_id": "d40c7601-7e3c-4472-958e-18e0006d9582",
+    "program_name": "澳大利亚国立大学专业会计硕士",
+    "source_file": "会计",
+    "url": "http://www.uac.edu.au/future-applicants/admission-criteria/tertiary-qualifications",
+    "error": "HttpError: Ignoring non-200 response (HTTP 502)",
+    "error_type": "HttpError",
+    "http_status": 502,
+    "response_headers": {},
+    "response_preview": ""
+  },
+  {
+    "project_id": "43c05191-d9fd-4f30-b2cd-3efe4f88649f",
+    "program_name": "香港中文大学会计学硕士",
+    "source_file": "会计",
+    "url": "https://dev14-7.ysdhk.com/cuhkgraduateschooladmission/admissions/requirements",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "nginx",
+      "content-type": "text/html; charset=iso-8859-1"
+    },
+    "response_preview": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\"> <html><head> <title>404 Not Found</title> </head><body> <h1>Not Found</h1> <p>The requested URL was not found on this server.</p> <hr> <address>Apach"
+  },
+  {
+    "project_id": "43c05191-d9fd-4f30-b2cd-3efe4f88649f",
+    "program_name": "香港中文大学会计学硕士",
+    "source_file": "会计",
+    "url": "https://embachinese.baf.cuhk.edu.hk/application/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache/2.4.29 (Ubuntu)",
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "response_preview": "<!DOCTYPE html> <html lang=\"zh-hant\"> \t<head> \t\t<meta charset=\"UTF-8\" /> \t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> \t\t<link rel=\"pingback\" href=\"https://embachinese.baf.cuhk.edu.hk/xmlrpc"
+  },
+  {
+    "project_id": "e018db37-5c8f-4a87-b123-dae9b11e8163",
+    "program_name": "爱丁堡大学会计与财务管理理学硕士",
+    "source_file": "会计",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=1126",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div "
+  },
+  {
+    "project_id": "1049a187-043b-4482-a5f5-447c7a417ffd",
+    "program_name": "莫纳什大学会计学硕士（1.5年制）",
+    "source_file": "会计",
+    "url": "https://www.monash.edu/study/courses/find-a-course/accounting-b6038?international=true",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=I_7Hp7CiSTydxXdpcdCBHmIfUTsc4EP3QSOM3eo3WV8-1754553290-1.0.1.1-KRUHKpIUdVcRp43GA7hLBLMnrW9qE2BkOKf0cCRS1vWf4.C5Dsb3n.y0TnW7vXsprTSYmpX.Jf3oRHmMCZ5h.UtEEZ9aRm67c2ay_GsJY3g; path=/; expires=Thu,",
+      "cf-ray": "96b5355209d12b8d-LAX"
+    },
+    "response_preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  },
+  {
+    "project_id": "a5512690-0bc4-43cb-97b7-fc0a6aec4940",
+    "program_name": "莫纳什大学专业会计硕士",
+    "source_file": "会计",
+    "url": "https://www.monash.edu/study/courses/find-a-course/professional-accounting-b6011?international=true",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=SL62uXo9Mxi0KL2OHihPL3a1Wj6E1uZogaiFeVkx6LQ-1754553293-1.0.1.1-wAd5VzN0lmHmlGceTBfk5q0Bj5kCTy_J2L7b72zINByH8mVF397W3387GewFMDpAF7jTy9lUyApmn1vNDyoA.0OEgD5OgSf5ME30eYdOdy4; path=/; expires=Thu,",
+      "cf-ray": "96b53566a891c3a8-LAX"
+    },
+    "response_preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  },
+  {
+    "project_id": "8044c76a-3d1d-441f-ae84-36039b30eae1",
+    "program_name": "哥伦比亚大学会计与基本面分析硕士",
+    "source_file": "会计",
+    "url": "https://academics.business.columbia.edu/msafa",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=BqOrJ.2ENq2NKTrqupy4hqE3omKxRGtQ1Z85hufl87g-1754553296-1.0.1.1-gOMAmdetXgO5f82hjBLePzNt379ejkKyFWctgMlPb9q5c.VtiZw0MRfbBiUJsEh26LRGwk5T0PwOOmcX3BTi.RIkz_gZENCU7Yv12yp4Nrg; path=/; expires=Thu,",
+      "cf-ray": "96b535774e29dbc2-LAX"
+    },
+    "response_preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  },
+  {
+    "project_id": "d8a53654-6fc9-462f-8170-4afaac61e98c",
+    "program_name": "布里斯托大学会计、问责与可持续发展理学硕士",
+    "source_file": "会计",
+    "url": "https://www.bris.ac.uk/unit-programme-catalogue/RouteStructure.jsa?byCohort=N&ayrCode=25%2F26&programmeCode=9ACFI002DT",
+    "error": "HttpError: Ignoring non-200 response (HTTP 500)",
+    "error_type": "HttpError",
+    "http_status": 500,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html;charset=UTF-8"
+    },
+    "response_preview": "                          <!DOCTYPE html> <html lang=\"en\"> <head>   <meta charset=\"utf-8\">   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">    <title>Unit and p"
+  }
+]
