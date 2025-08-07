@@ -1,0 +1,689 @@
+2025-08-06 23:41:54 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-06 23:41:54 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-06 23:41:54 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/urls_subject/人力资源管理/人力资源管理_urls.csv
+2025-08-06 23:41:54 [program_spider] INFO: 文件是否存在: True
+2025-08-06 23:41:54 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:41:54 [program_spider] INFO: 原始总项目数: 51
+2025-08-06 23:41:54 [program_spider] INFO: 将要爬取 51 个项目
+2025-08-06 23:41:54 [program_spider] INFO: 允许的域名: ['mschcma.nus.edu.sg', 'study.unimelb.edu.au', 'www.sydney.edu.au', 'www.kcl.ac.uk', 'www.ed.ac.uk', 'www.manchester.ac.uk', 'www.bristol.ac.uk', 'www.polyu.edu.hk', 'www.lse.ac.uk', 'www.birmingham.ac.uk', 'www.uwa.edu.au', 'www.gla.ac.uk', 'adelaideuni.edu.au', 'courses.leeds.ac.uk', 'www.southampton.ac.uk', 'www.sheffield.ac.uk', 'www.durham.ac.uk', 'www.uts.edu.au', 'www.nottingham.ac.uk', 'www.uu.nl', 'www.qmul.ac.uk', 'www.rmit.edu.au', 'www.bath.ac.uk', 'sgs.upm.edu.my', 'www.ncl.ac.uk', 'www.liverpool.ac.uk', 'www.rug.nl', 'humanities.utm.my', 'www.exeter.ac.uk', 'www.lancaster.ac.uk', 'www.york.ac.uk', 'www.cardiff.ac.uk', 'coursefinder.uow.edu.au', 'www.henley.ac.uk', 'www.qub.ac.uk']
+2025-08-06 23:41:54 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-06 23:41:54 [program_spider] INFO: ================================================================================
+2025-08-06 23:41:54 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-06 23:41:54 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-06 23:41:54 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-06 23:41:54 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/人力资源管理/人力资源管理_urls_20250806_234154.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-06 23:41:54 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-06 23:41:54 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-06 23:41:54 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-06 23:41:54 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:41:54 [program_spider] INFO: 开始爬取项目 [1/51]
+2025-08-06 23:41:54 [program_spider] INFO: 项目名称: 新加坡国立大学人力资本管理与分析理学硕士
+2025-08-06 23:41:54 [program_spider] INFO: 项目ID: 7bdb83d4-6849-4c45-8520-1d568577b47d
+2025-08-06 23:41:54 [program_spider] INFO: 根URL: https://mschcma.nus.edu.sg/
+2025-08-06 23:41:54 [program_spider] INFO: 剩余项目数: 50
+2025-08-06 23:41:54 [program_spider] INFO: ================================================================================
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:41:54 [scrapy.core.engine] INFO: Spider opened
+2025-08-06 23:41:54 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 正在处理根页面 (已处理0个页面): https://mschcma.nus.edu.sg/
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 页面总链接数: 0
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 移除导航后链接数: 0 (移除了 0 个导航链接)
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 有效链接数: 0, 关键词匹配数: 0, 最终提取数: 0
+2025-08-06 23:41:54 [program_spider] WARNING: [7bdb83d4-6849-4c45-8520-1d568577b47d] 页面 https://mschcma.nus.edu.sg/ (depth=0, is_root=True) 没有提取到任何符合条件的链接
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 提取链接完成，去重前 0 个链接，去重后 0 个新请求（去重了 0 个重复链接）
+2025-08-06 23:41:54 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 正在完成项目
+2025-08-06 23:41:55 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 项目完成: 新加坡国立大学人力资本管理与分析理学硕士
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d]   - 总页数: 1
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d]   - 成功页数: 1
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d]   - 失败页数: 0
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d]   - 成功率: 100.0%
+2025-08-06 23:41:55 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:41:55 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/新加坡国立大学人力资本管理与分析理学硕士_人力资源管理.json
+2025-08-06 23:41:55 [program_spider] INFO: [7bdb83d4-6849-4c45-8520-1d568577b47d] 仍有 50 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:41:55 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:41:55 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:41:55 [program_spider] INFO: 开始爬取项目 [2/51]
+2025-08-06 23:41:55 [program_spider] INFO: 项目名称: 墨尔本大学管理学硕士（人力资源）
+2025-08-06 23:41:55 [program_spider] INFO: 项目ID: ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c
+2025-08-06 23:41:55 [program_spider] INFO: 根URL: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/
+2025-08-06 23:41:55 [program_spider] INFO: 剩余项目数: 49
+2025-08-06 23:41:55 [program_spider] INFO: ================================================================================
+2025-08-06 23:41:55 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理根页面 (已处理0个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 页面总链接数: 52
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 移除导航后链接数: 30 (移除了 0 个导航链接)
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 有效链接数: 29, 关键词匹配数: 16, 最终提取数: 16
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 页面 https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/ (depth=0, is_root=True) 提取到 16 个链接
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/study-with-us/graduate-courses (锚文本: 'Graduate Coursework', 匹配关键词: 'graduate')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/how-to-apply/ (锚文本: 'Arrow-right  
+        How to apply', 匹配关键词: 'apply')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/entry-requirements/ (锚文本: 'Entry requirements', 匹配关键词: 'requirements')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/structure/ (锚文本: 'Course structure', 匹配关键词: 'course')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/career-outcomes/ (锚文本: 'Career outcomes', 匹配关键词: 'career')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/fees/ (锚文本: 'Fees & scholarships', 匹配关键词: 'scholarship')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management/ (锚文本: 'Master of Management', 匹配关键词: 'master')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-accounting/ (锚文本: 'Master of Management (Accounting)', 匹配关键词: 'master')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-accounting-and-finance/ (锚文本: 'Master of Management (Accounting & Finance)', 匹配关键词: 'master')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-finance/ (锚文本: 'Master of Management (Finance)', 匹配关键词: 'master')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-management-marketing/ (锚文本: 'Master of Management (Marketing)', 匹配关键词: 'master')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/find?in_c=hcta (锚文本: 'Arrow-right  
+      Find a course', 匹配关键词: 'course')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 爬取子链接: https://study.unimelb.edu.au/how-to-apply?in_c=hcta (锚文本: 'Arrow-right  
+      How to apply', 匹配关键词: 'apply')
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 提取链接完成，去重前 16 个链接，去重后 13 个新请求（去重了 3 个重复链接）
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 1 -> 14, 操作: 添加13个子页面请求
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 添加 13 个新请求，当前剩余: 13
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 14 -> 13, 操作: 完成页面解析
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理1个页面): https://study.unimelb.edu.au/study-with-us/graduate-courses
+2025-08-06 23:41:58 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-06 23:42:00 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理2个页面): https://study.unimelb.edu.au/how-to-apply?in_c=hcta
+2025-08-06 23:42:00 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:42:05 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理3个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-marketing/
+2025-08-06 23:42:05 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:42:07 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理4个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-finance/
+2025-08-06 23:42:07 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:42:09 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理5个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-accounting-and-finance/
+2025-08-06 23:42:09 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:42:11 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理6个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-accounting/
+2025-08-06 23:42:11 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:42:13 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理7个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management/
+2025-08-06 23:42:13 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:42:15 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理8个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/fees/
+2025-08-06 23:42:15 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-06 23:42:17 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理9个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/career-outco...
+2025-08-06 23:42:17 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-06 23:42:19 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理10个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/structure/
+2025-08-06 23:42:19 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-06 23:42:21 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理11个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/entry-requir...
+2025-08-06 23:42:21 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:42:23 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理12个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/how-to-apply...
+2025-08-06 23:42:23 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:42:24 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在处理子页面(深度1) (已处理13个页面): https://study.unimelb.edu.au/find/?in_c=hcta
+2025-08-06 23:42:24 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 正在完成项目
+2025-08-06 23:42:25 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 项目完成: 墨尔本大学管理学硕士（人力资源）
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c]   - 总页数: 14
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c]   - 成功页数: 14
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c]   - 失败页数: 0
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c]   - 成功率: 100.0%
+2025-08-06 23:42:25 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:42:25 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/墨尔本大学管理学硕士人力资源_人力资源管理.json
+2025-08-06 23:42:25 [program_spider] INFO: [ffc04d4f-ad6a-4c0c-8b80-8bf08337d62c] 仍有 49 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:42:25 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:42:25 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:42:25 [program_spider] INFO: 开始爬取项目 [3/51]
+2025-08-06 23:42:25 [program_spider] INFO: 项目名称: 悉尼大学人力资源管理与劳资关系硕士
+2025-08-06 23:42:25 [program_spider] INFO: 项目ID: 61524c2b-4280-4dba-893d-180d11a14a80
+2025-08-06 23:42:25 [program_spider] INFO: 根URL: https://www.sydney.edu.au/courses/courses/pc/master-of-human-resource-management-and-industrial-relations.html
+2025-08-06 23:42:25 [program_spider] INFO: 剩余项目数: 48
+2025-08-06 23:42:25 [program_spider] INFO: ================================================================================
+2025-08-06 23:42:25 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 正在处理根页面 (已处理0个页面): https://www.sydney.edu.au/courses/courses/pc/master-of-human-resource-management-and-industrial-rela...
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 页面总链接数: 59
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 移除导航后链接数: 49 (移除了 0 个导航链接)
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 有效链接数: 47, 关键词匹配数: 2, 最终提取数: 2
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 页面 https://www.sydney.edu.au/courses/courses/pc/master-of-human-resource-management-and-industrial-relations.html (depth=0, is_root=True) 提取到 2 个链接
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 爬取子链接: https://www.sydney.edu.au/content/corporate/about-us/careers-at-sydney.html (锚文本: 'Careers at Sydney', 匹配关键词: 'career')
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 提取链接完成，去重前 2 个链接，去重后 1 个新请求（去重了 1 个重复链接）
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 计数器变更: 1 -> 2, 操作: 添加1个子页面请求
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 添加 1 个新请求，当前剩余: 1
+2025-08-06 23:42:26 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:42:32 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 正在处理子页面(深度1) (已处理1个页面): https://www.sydney.edu.au/about-us/careers-at-sydney.html
+2025-08-06 23:42:32 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 正在完成项目
+2025-08-06 23:42:33 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 项目完成: 悉尼大学人力资源管理与劳资关系硕士
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80]   - 总页数: 2
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80]   - 成功页数: 2
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80]   - 失败页数: 0
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80]   - 成功率: 100.0%
+2025-08-06 23:42:33 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:42:33 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/悉尼大学人力资源管理与劳资关系硕士_人力资源管理.json
+2025-08-06 23:42:33 [program_spider] INFO: [61524c2b-4280-4dba-893d-180d11a14a80] 仍有 48 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:42:33 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:42:33 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:42:33 [program_spider] INFO: 开始爬取项目 [4/51]
+2025-08-06 23:42:33 [program_spider] INFO: 项目名称: 伦敦大学国王学院人力资源管理与组织分析理学硕士
+2025-08-06 23:42:33 [program_spider] INFO: 项目ID: 51858991-7c9d-45bb-b80f-dcb8bed76492
+2025-08-06 23:42:33 [program_spider] INFO: 根URL: https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational-analysis-msc
+2025-08-06 23:42:33 [program_spider] INFO: 剩余项目数: 47
+2025-08-06 23:42:33 [program_spider] INFO: ================================================================================
+2025-08-06 23:42:33 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 正在处理根页面 (已处理0个页面): https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational...
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 页面总链接数: 121
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 移除导航后链接数: 21 (移除了 0 个导航链接)
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 有效链接数: 20, 关键词匹配数: 2, 最终提取数: 2
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 页面 https://www.kcl.ac.uk/study/postgraduate-taught/courses/human-resource-management-and-organisational-analysis-msc (depth=0, is_root=True) 提取到 2 个链接
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 爬取子链接: https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 爬取子链接: https://www.kcl.ac.uk/business/postgraduate/postgraduate-scholarships (锚文本: 'Postgraduate Scholarships (King's Business School)', 匹配关键词: 'graduate')
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 提取链接完成，去重前 2 个链接，去重后 2 个新请求（去重了 0 个重复链接）
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 计数器变更: 1 -> 3, 操作: 添加2个子页面请求
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 添加 2 个新请求，当前剩余: 2
+2025-08-06 23:42:34 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:42:36 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 正在处理子页面(深度1) (已处理1个页面): https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply
+2025-08-06 23:42:36 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:42:38 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 正在处理子页面(深度1) (已处理2个页面): https://www.kcl.ac.uk/business/postgraduate/postgraduate-scholarships
+2025-08-06 23:42:38 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 正在完成项目
+2025-08-06 23:42:39 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 项目完成: 伦敦大学国王学院人力资源管理与组织分析理学硕士
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492]   - 总页数: 3
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492]   - 成功页数: 3
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492]   - 失败页数: 0
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492]   - 成功率: 100.0%
+2025-08-06 23:42:39 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:42:39 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/伦敦大学国王学院人力资源管理与组织分析理学硕士_人力资源管理.json
+2025-08-06 23:42:39 [program_spider] INFO: [51858991-7c9d-45bb-b80f-dcb8bed76492] 仍有 47 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:42:39 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:42:39 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:42:39 [program_spider] INFO: 开始爬取项目 [5/51]
+2025-08-06 23:42:39 [program_spider] INFO: 项目名称: 爱丁堡大学国际人力资源管理理学硕士
+2025-08-06 23:42:39 [program_spider] INFO: 项目ID: d65b8efe-8f42-4d37-8004-2d3544bdbf98
+2025-08-06 23:42:39 [program_spider] INFO: 根URL: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880
+2025-08-06 23:42:39 [program_spider] INFO: 剩余项目数: 46
+2025-08-06 23:42:39 [program_spider] INFO: ================================================================================
+2025-08-06 23:42:39 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 请求失败详情:
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   URL: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   错误类型: HttpError
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   错误描述: Ignoring non-200 response
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   HTTP状态码: 403
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   响应头: server: Pantheon; content-type: text/html; charset=utf-8
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   响应预览: <!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style="font-family:Arial, Helvetica, sans-serif; text-align: center">           <div ...
+2025-08-06 23:42:40 [program_spider] ERROR: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   请求头: user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-06 23:42:40 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-06 23:42:40 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 已处理页面: 1, 剩余请求数: 0
+2025-08-06 23:42:40 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 项目在错误处理中完成，立即收尾 …
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 正在完成项目
+2025-08-06 23:42:41 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 项目完成: 爱丁堡大学国际人力资源管理理学硕士
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   - 总页数: 0
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   - 成功页数: 0
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   - 失败页数: 1
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98]   - 成功率: 0.0%
+2025-08-06 23:42:41 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:42:41 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/爱丁堡大学国际人力资源管理理学硕士_人力资源管理.json
+2025-08-06 23:42:41 [program_spider] INFO: [d65b8efe-8f42-4d37-8004-2d3544bdbf98] 仍有 46 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:42:41 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:42:41 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:42:41 [program_spider] INFO: 开始爬取项目 [6/51]
+2025-08-06 23:42:41 [program_spider] INFO: 项目名称: 爱丁堡大学人力资源管理理学硕士
+2025-08-06 23:42:41 [program_spider] INFO: 项目ID: f83dfbb7-93e9-4fe0-add2-c9eeb73cc116
+2025-08-06 23:42:41 [program_spider] INFO: 根URL: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755
+2025-08-06 23:42:41 [program_spider] INFO: 剩余项目数: 45
+2025-08-06 23:42:41 [program_spider] INFO: ================================================================================
+2025-08-06 23:42:41 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 请求失败详情:
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   URL: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   错误类型: HttpError
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   错误描述: Ignoring non-200 response
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   HTTP状态码: 403
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   响应头: server: Pantheon; content-type: text/html; charset=utf-8
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   响应预览: <!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style="font-family:Arial, Helvetica, sans-serif; text-align: center">           <div ...
+2025-08-06 23:42:42 [program_spider] ERROR: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-06 23:42:42 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-06 23:42:42 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 已处理页面: 1, 剩余请求数: 0
+2025-08-06 23:42:42 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 项目在错误处理中完成，立即收尾 …
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 正在完成项目
+2025-08-06 23:42:43 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 项目完成: 爱丁堡大学人力资源管理理学硕士
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   - 总页数: 0
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   - 成功页数: 0
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   - 失败页数: 1
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116]   - 成功率: 0.0%
+2025-08-06 23:42:43 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:42:43 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/爱丁堡大学人力资源管理理学硕士_人力资源管理.json
+2025-08-06 23:42:43 [program_spider] INFO: [f83dfbb7-93e9-4fe0-add2-c9eeb73cc116] 仍有 45 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:42:43 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:42:43 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:42:43 [program_spider] INFO: 开始爬取项目 [7/51]
+2025-08-06 23:42:43 [program_spider] INFO: 项目名称: 曼彻斯特大学人力资源管理与劳资关系理学硕士
+2025-08-06 23:42:43 [program_spider] INFO: 项目ID: 1297b4f5-f671-4c03-81ec-2d62977b7b35
+2025-08-06 23:42:43 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/
+2025-08-06 23:42:43 [program_spider] INFO: 剩余项目数: 44
+2025-08-06 23:42:43 [program_spider] INFO: ================================================================================
+2025-08-06 23:42:43 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:42:43 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-indu...
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 页面总链接数: 209
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 移除导航后链接数: 52 (移除了 0 个导航链接)
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 有效链接数: 49, 关键词匹配数: 24, 最终提取数: 24
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 页面 https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/ (depth=0, is_root=True) 提取到 24 个链接
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/ (锚文本: 'Taught master's', 匹配关键词: 'master')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/ (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/ (锚文本: 'A-Z list of courses', 匹配关键词: 'course')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/brochure-request/ (锚文本: 'Download our course brochure', 匹配关键词: 'course')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.alliancembs.manchester.ac.uk/blogs/?author=Aditi%20Verma (锚文本: 'Discover more about the course', 匹配关键词: 'course')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/entry-requirements/ (锚文本: 'Entry requirements', 匹配关键词: 'requirements')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/application-and-selection/ (锚文本: 'Application and selection', 匹配关键词: 'application')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/course-details/ (锚文本: 'Course details', 匹配关键词: 'course')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/careers/ (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ (锚文本: 'Apply online >>', 匹配关键词: 'apply')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=19217 (锚文本: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes', 匹配关键词: 'graduate')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/scholarships-and-funding/ (锚文本: 'scholarships and funding.', 匹配关键词: 'funding')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/database/display/?id=00000289 (锚文本: 'Alliance MBS Masters Scholarships for UK/EU/International students', 匹配关键词: 'master')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/msc-human-resources-and-industrial-relations/ (锚文本: 'https://www.alliancembs.manchester.ac.uk/study/masters/msc-human-resources-and-industrial-relations/', 匹配关键词: 'master')
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 提取链接完成，去重前 24 个链接，去重后 14 个新请求（去重了 10 个重复链接）
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 1 -> 15, 操作: 添加14个子页面请求
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 添加 14 个新请求，当前剩余: 14
+2025-08-06 23:42:44 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 15 -> 14, 操作: 完成页面解析
+2025-08-06 23:42:45 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理1个页面): https://www.alliancembs.manchester.ac.uk/study/masters/msc-human-resources-and-industrial-relations/
+2025-08-06 23:42:45 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 14 -> 13, 操作: 完成页面解析
+2025-08-06 23:42:45 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理2个页面): https://www.manchester.ac.uk/study/masters/
+2025-08-06 23:42:45 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-06 23:42:53 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理3个页面): https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-indu...
+2025-08-06 23:42:53 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:42:53 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理4个页面): https://www.alliancembs.manchester.ac.uk/study/masters/brochure-request/
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理5个页面): https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-indu...
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理6个页面): https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-indu...
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理7个页面): https://www.alliancembs.manchester.ac.uk/blogs/?author=Aditi%20Verma
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:42:54 [scrapy.extensions.logstats] INFO: Crawled 31 pages (at 31 pages/min), scraped 6 items (at 6 items/min)
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理8个页面): https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/
+2025-08-06 23:42:54 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:42:56 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理9个页面): https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-indu...
+2025-08-06 23:42:56 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-06 23:42:59 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理10个页面): https://www.manchester.ac.uk/study/masters/courses/list/
+2025-08-06 23:42:59 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-06 23:43:01 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理11个页面): https://www.manchester.ac.uk/study/masters/courses/
+2025-08-06 23:43:01 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-06 23:43:01 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://documents.manchester.ac.uk/display.aspx?DocID=19217. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2025-08-06 23:43:02 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理12个页面): https://www.alliancembs.manchester.ac.uk/study/masters/scholarships-and-funding/
+2025-08-06 23:43:02 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:43:03 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理13个页面): https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:43:03 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 跳过非HTML内容: https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:43:03 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 2 -> 1, 操作: 完成非HTML页面处理
+2025-08-06 23:43:03 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 剩余请求数: 1
+2025-08-06 23:43:03 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在处理子页面(深度1) (已处理14个页面): https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/database/display...
+2025-08-06 23:43:03 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 正在完成项目
+2025-08-06 23:43:04 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 项目完成: 曼彻斯特大学人力资源管理与劳资关系理学硕士
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35]   - 总页数: 15
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35]   - 成功页数: 14
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35]   - 失败页数: 1
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35]   - 成功率: 93.3%
+2025-08-06 23:43:04 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:43:04 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/曼彻斯特大学人力资源管理与劳资关系理学硕士_人力资源管理.json
+2025-08-06 23:43:04 [program_spider] INFO: [1297b4f5-f671-4c03-81ec-2d62977b7b35] 仍有 44 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:43:04 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:43:04 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:43:04 [program_spider] INFO: 开始爬取项目 [8/51]
+2025-08-06 23:43:04 [program_spider] INFO: 项目名称: 曼彻斯特大学国际人力资源管理与比较劳资关系理学硕士
+2025-08-06 23:43:04 [program_spider] INFO: 项目ID: e939830c-253c-4605-8f71-7adae40c8c8f
+2025-08-06 23:43:04 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/
+2025-08-06 23:43:04 [program_spider] INFO: 剩余项目数: 43
+2025-08-06 23:43:04 [program_spider] INFO: ================================================================================
+2025-08-06 23:43:04 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-manag...
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 页面总链接数: 210
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 移除导航后链接数: 53 (移除了 0 个导航链接)
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 有效链接数: 50, 关键词匹配数: 25, 最终提取数: 25
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 页面 https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/ (depth=0, is_root=True) 提取到 25 个链接
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/ (锚文本: 'Taught master's', 匹配关键词: 'master')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/ (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/ (锚文本: 'A-Z list of courses', 匹配关键词: 'course')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/brochure-request/ (锚文本: 'Download our course brochure', 匹配关键词: 'course')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.alliancembs.manchester.ac.uk/blogs/?author=Melvin%20Thomas%20Titus (锚文本: 'Discover more about the course', 匹配关键词: 'course')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/entry-requirements/ (锚文本: 'Entry requirements', 匹配关键词: 'requirements')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/application-and-selection/ (锚文本: 'Application and selection', 匹配关键词: 'application')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/course-details/ (锚文本: 'Course details', 匹配关键词: 'course')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/careers/ (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ (锚文本: 'How to apply >>', 匹配关键词: 'apply')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=19217 (锚文本: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes', 匹配关键词: 'graduate')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/scholarships-and-funding/ (锚文本: 'scholarships and funding.', 匹配关键词: 'funding')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/database/display/?id=00000289 (锚文本: 'Alliance MBS Masters Scholarships for UK/EU/International students', 匹配关键词: 'master')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/msc-international-human-resource-management-and-comparative-industrial-relations/ (锚文本: 'https://www.alliancembs.manchester.ac.uk/study/masters/msc-international-human-resource-management-and-comparative-industrial-relations/', 匹配关键词: 'master')
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 提取链接完成，去重前 25 个链接，去重后 14 个新请求（去重了 11 个重复链接）
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 1 -> 15, 操作: 添加14个子页面请求
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 添加 14 个新请求，当前剩余: 14
+2025-08-06 23:43:11 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 15 -> 14, 操作: 完成页面解析
+2025-08-06 23:43:12 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理1个页面): https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:43:12 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 跳过非HTML内容: https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:43:12 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 14 -> 13, 操作: 完成非HTML页面处理
+2025-08-06 23:43:12 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 剩余请求数: 13
+2025-08-06 23:43:13 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理2个页面): https://www.alliancembs.manchester.ac.uk/study/masters/msc-international-human-resource-management-a...
+2025-08-06 23:43:13 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-06 23:43:21 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理3个页面): https://www.manchester.ac.uk/study/masters/
+2025-08-06 23:43:21 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:43:22 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理4个页面): https://www.alliancembs.manchester.ac.uk/study/masters/scholarships-and-funding/
+2025-08-06 23:43:22 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:43:26 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理5个页面): https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/database/display...
+2025-08-06 23:43:26 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:43:28 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理6个页面): https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/
+2025-08-06 23:43:28 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:43:29 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理7个页面): https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-manag...
+2025-08-06 23:43:29 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:43:31 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理8个页面): https://www.alliancembs.manchester.ac.uk/blogs/?author=Melvin%20Thomas%20Titus
+2025-08-06 23:43:31 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:43:33 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理9个页面): https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-manag...
+2025-08-06 23:43:33 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-06 23:43:36 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理10个页面): https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-manag...
+2025-08-06 23:43:36 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-06 23:43:37 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理11个页面): https://www.manchester.ac.uk/study/masters/courses/list/
+2025-08-06 23:43:37 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-06 23:43:39 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理12个页面): https://www.manchester.ac.uk/study/masters/courses/
+2025-08-06 23:43:39 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:43:46 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/course-details/. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2025-08-06 23:43:47 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理13个页面): https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-manag...
+2025-08-06 23:43:47 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:43:54 [scrapy.extensions.logstats] INFO: Crawled 51 pages (at 20 pages/min), scraped 7 items (at 1 items/min)
+2025-08-06 23:44:33 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在处理子页面(深度1) (已处理14个页面): https://www.alliancembs.manchester.ac.uk/study/masters/brochure-request/
+2025-08-06 23:44:33 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 正在完成项目
+2025-08-06 23:44:34 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 项目完成: 曼彻斯特大学国际人力资源管理与比较劳资关系理学硕士
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f]   - 总页数: 15
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f]   - 成功页数: 14
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f]   - 失败页数: 1
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f]   - 成功率: 93.3%
+2025-08-06 23:44:34 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:44:34 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/曼彻斯特大学国际人力资源管理与比较劳资关系理学硕士_人力资源管理.json
+2025-08-06 23:44:34 [program_spider] INFO: [e939830c-253c-4605-8f71-7adae40c8c8f] 仍有 43 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:44:34 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:44:34 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:44:34 [program_spider] INFO: 开始爬取项目 [9/51]
+2025-08-06 23:44:34 [program_spider] INFO: 项目名称: 曼彻斯特大学组织心理学理学硕士
+2025-08-06 23:44:34 [program_spider] INFO: 项目ID: 2ab1e5f1-040f-4d2c-b403-c677168323ab
+2025-08-06 23:44:34 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/
+2025-08-06 23:44:34 [program_spider] INFO: 剩余项目数: 42
+2025-08-06 23:44:34 [program_spider] INFO: ================================================================================
+2025-08-06 23:44:34 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 页面总链接数: 212
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 移除导航后链接数: 55 (移除了 0 个导航链接)
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 有效链接数: 52, 关键词匹配数: 26, 最终提取数: 26
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 页面 https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/ (depth=0, is_root=True) 提取到 26 个链接
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/ (锚文本: 'Taught master's', 匹配关键词: 'master')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/ (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/ (锚文本: 'A-Z list of courses', 匹配关键词: 'course')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/brochure-request/ (锚文本: 'Download our course brochure', 匹配关键词: 'course')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.alliancembs.manchester.ac.uk/blogs/?type=Masters (锚文本: 'Discover more about the course', 匹配关键词: 'course')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/entry-requirements/ (锚文本: 'Entry requirements', 匹配关键词: 'requirements')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/application-and-selection/ (锚文本: 'Application and selection', 匹配关键词: 'application')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/course-details/ (锚文本: 'Course details', 匹配关键词: 'course')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/careers/ (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.bps.org.uk/join-us/membership/graduate-membership (锚文本: 'Graduate Basis for Chartered Membership (GBC) of the BPS', 匹配关键词: 'graduate')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/ (锚文本: 'Apply online >>', 匹配关键词: 'apply')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=19217 (锚文本: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes', 匹配关键词: 'graduate')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/scholarships-and-funding/ (锚文本: 'scholarships and funding.', 匹配关键词: 'funding')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/database/display/?id=00000289 (锚文本: 'Alliance MBS Masters Scholarships for UK/EU/International students', 匹配关键词: 'master')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 爬取子链接: https://www.alliancembs.manchester.ac.uk/study/masters/msc-organisational-psychology/ (锚文本: 'https://www.alliancembs.manchester.ac.uk/study/masters/msc-organisational-psychology/', 匹配关键词: 'master')
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 提取链接完成，去重前 26 个链接，去重后 15 个新请求（去重了 11 个重复链接）
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 1 -> 16, 操作: 添加15个子页面请求
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 添加 15 个新请求，当前剩余: 15
+2025-08-06 23:44:35 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 16 -> 15, 操作: 完成页面解析
+2025-08-06 23:44:36 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理1个页面): https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:44:36 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 跳过非HTML内容: https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:44:36 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 15 -> 14, 操作: 完成非HTML页面处理
+2025-08-06 23:44:36 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 剩余请求数: 14
+2025-08-06 23:44:36 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理2个页面): https://www.alliancembs.manchester.ac.uk/study/masters/msc-organisational-psychology/
+2025-08-06 23:44:36 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 14 -> 13, 操作: 完成页面解析
+2025-08-06 23:44:37 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理3个页面): https://www.manchester.ac.uk/study/masters/
+2025-08-06 23:44:37 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-06 23:44:37 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理4个页面): https://www.bps.org.uk/graduate-membership-gmbpss
+2025-08-06 23:44:37 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:44:39 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理5个页面): https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/database/display...
+2025-08-06 23:44:39 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:44:39 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理6个页面): https://www.alliancembs.manchester.ac.uk/study/masters/how-to-apply/
+2025-08-06 23:44:39 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:44:42 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理7个页面): https://www.alliancembs.manchester.ac.uk/blogs/?type=Masters
+2025-08-06 23:44:42 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:44:44 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理8个页面): https://www.alliancembs.manchester.ac.uk/study/masters/brochure-request/
+2025-08-06 23:44:44 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:44:45 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理9个页面): https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/applicat...
+2025-08-06 23:44:45 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:44:49 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理10个页面): https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/entry-re...
+2025-08-06 23:44:49 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-06 23:44:51 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理11个页面): https://www.manchester.ac.uk/study/masters/courses/list/
+2025-08-06 23:44:51 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-06 23:44:52 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理12个页面): https://www.manchester.ac.uk/study/masters/courses/
+2025-08-06 23:44:52 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-06 23:44:54 [scrapy.extensions.logstats] INFO: Crawled 66 pages (at 15 pages/min), scraped 8 items (at 1 items/min)
+2025-08-06 23:44:54 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理13个页面): https://www.alliancembs.manchester.ac.uk/study/masters/scholarships-and-funding/
+2025-08-06 23:44:54 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:44:56 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/careers/. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2025-08-06 23:44:56 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理14个页面): https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/careers/
+2025-08-06 23:44:56 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:44:59 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在处理子页面(深度1) (已处理15个页面): https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/course-d...
+2025-08-06 23:44:59 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 正在完成项目
+2025-08-06 23:45:00 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 项目完成: 曼彻斯特大学组织心理学理学硕士
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab]   - 总页数: 16
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab]   - 成功页数: 15
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab]   - 失败页数: 1
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab]   - 成功率: 93.8%
+2025-08-06 23:45:00 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:45:00 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/曼彻斯特大学组织心理学理学硕士_人力资源管理.json
+2025-08-06 23:45:00 [program_spider] INFO: [2ab1e5f1-040f-4d2c-b403-c677168323ab] 仍有 42 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:45:00 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:45:00 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:45:00 [program_spider] INFO: 开始爬取项目 [10/51]
+2025-08-06 23:45:00 [program_spider] INFO: 项目名称: 曼彻斯特大学人力资源开发（国际发展）理学硕士
+2025-08-06 23:45:00 [program_spider] INFO: 项目ID: ab47e3b4-05cf-4297-a935-4da0565f66d9
+2025-08-06 23:45:00 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/
+2025-08-06 23:45:00 [program_spider] INFO: 剩余项目数: 41
+2025-08-06 23:45:00 [program_spider] INFO: ================================================================================
+2025-08-06 23:45:00 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-interna...
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 页面总链接数: 212
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 移除导航后链接数: 55 (移除了 0 个导航链接)
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 有效链接数: 51, 关键词匹配数: 24, 最终提取数: 24
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 页面 https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/ (depth=0, is_root=True) 提取到 24 个链接
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/ (锚文本: 'Taught master's', 匹配关键词: 'master')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/ (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/ (锚文本: 'A-Z list of courses', 匹配关键词: 'course')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.seed.manchester.ac.uk/study/taught-masters/brochure-request/?utm_source=course_profile&utm_medium=subject_brochure&utm_campaign=humspgt25&utm_content=globaldevelopment (锚文本: 'Download our course brochure', 匹配关键词: 'course')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/entry-requirements/ (锚文本: 'Entry requirements', 匹配关键词: 'requirements')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/application-and-selection/ (锚文本: 'Application and selection', 匹配关键词: 'application')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/course-details/ (锚文本: 'Course details', 匹配关键词: 'course')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/careers/ (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/admissions/how-to-apply/ (锚文本: 'Apply online', 匹配关键词: 'apply')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: http://www.manchester.ac.uk/postgraduate/fees/ (锚文本: 'postgraduate fees', 匹配关键词: 'graduate')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=19217 (锚文本: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes', 匹配关键词: 'graduate')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/ (锚文本: 'Fees and funding', 匹配关键词: 'funding')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/funding/uk-eu-student-advice/masters-bursary/ (锚文本: 'Manchester Master's Bursaries', 匹配关键词: 'master')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.manchester.ac.uk/study/masters/humanities-campaigns/scholarships/ (锚文本: 'Humanities Postgraduate Scholarships', 匹配关键词: 'graduate')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 爬取子链接: https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/ (锚文本: 'Equity and Merit scholarship scheme.', 匹配关键词: 'scholarship')
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 提取链接完成，去重前 24 个链接，去重后 15 个新请求（去重了 9 个重复链接）
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 1 -> 16, 操作: 添加15个子页面请求
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 添加 15 个新请求，当前剩余: 15
+2025-08-06 23:45:06 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 16 -> 15, 操作: 完成页面解析
+2025-08-06 23:45:07 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理1个页面): https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:45:07 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 跳过非HTML内容: https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:45:07 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 15 -> 14, 操作: 完成非HTML页面处理
+2025-08-06 23:45:07 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 剩余请求数: 14
+2025-08-06 23:45:09 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理2个页面): https://www.seed.manchester.ac.uk/study/taught-masters/brochure-request/?utm_source=course_profile&u...
+2025-08-06 23:45:09 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 14 -> 13, 操作: 完成页面解析
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 请求失败详情:
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   URL: https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   错误类型: HttpError
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   错误描述: Ignoring non-200 response
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   HTTP状态码: 404
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   响应头: server: Apache; content-type: text/html
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   响应预览: <!doctype html>  <!--[if lt IE 7]>   <html class="no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->  <!--[if IE 7]>      <html class="no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6" lang="...
+2025-08-06 23:45:11 [program_spider] ERROR: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-06 23:45:11 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 13 -> 12, 操作: 处理请求错误
+2025-08-06 23:45:11 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 已处理页面: 4, 剩余请求数: 12
+2025-08-06 23:45:16 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理4个页面): https://www.manchester.ac.uk/study/masters/
+2025-08-06 23:45:16 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:45:21 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理5个页面): https://www.manchester.ac.uk/study/masters/humanities-campaigns/scholarships/
+2025-08-06 23:45:21 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:45:26 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理6个页面): https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/
+2025-08-06 23:45:26 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:45:30 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理7个页面): https://www.manchester.ac.uk/study/masters/admissions/how-to-apply/
+2025-08-06 23:45:30 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:45:32 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理8个页面): https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-interna...
+2025-08-06 23:45:32 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:45:34 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理9个页面): https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-interna...
+2025-08-06 23:45:34 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:45:36 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理10个页面): https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-interna...
+2025-08-06 23:45:36 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-06 23:45:38 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理11个页面): https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-interna...
+2025-08-06 23:45:38 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-06 23:45:40 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理12个页面): https://www.manchester.ac.uk/study/masters/courses/list/
+2025-08-06 23:45:40 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-06 23:45:42 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理13个页面): https://www.manchester.ac.uk/study/masters/courses/
+2025-08-06 23:45:42 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:45:54 [scrapy.extensions.logstats] INFO: Crawled 82 pages (at 16 pages/min), scraped 9 items (at 1 items/min)
+2025-08-06 23:45:54 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理14个页面): https://www.manchester.ac.uk/study/postgraduate/fees/
+2025-08-06 23:45:54 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:45:56 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在处理子页面(深度1) (已处理15个页面): https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/masters-bursary/
+2025-08-06 23:45:56 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 正在完成项目
+2025-08-06 23:45:57 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 项目完成: 曼彻斯特大学人力资源开发（国际发展）理学硕士
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   - 总页数: 15
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   - 成功页数: 14
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   - 失败页数: 2
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9]   - 成功率: 87.5%
+2025-08-06 23:45:57 [program_spider] INFO: ------------------------------------------------------------
+2025-08-06 23:45:57 [program_spider] INFO: 成功保存项目数据: output/人力资源管理/曼彻斯特大学人力资源开发国际发展理学硕士_人力资源管理.json
+2025-08-06 23:45:57 [program_spider] INFO: [ab47e3b4-05cf-4297-a935-4da0565f66d9] 仍有 41 个项目待爬，将在爬虫空闲时继续。
+2025-08-06 23:45:57 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-06 23:45:57 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:45:57 [program_spider] INFO: 开始爬取项目 [11/51]
+2025-08-06 23:45:57 [program_spider] INFO: 项目名称: 曼彻斯特大学人力资源管理（国际发展）理学硕士
+2025-08-06 23:45:57 [program_spider] INFO: 项目ID: 1252433f-f4a5-4374-b282-bf6be96ae799
+2025-08-06 23:45:57 [program_spider] INFO: 根URL: https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/
+2025-08-06 23:45:57 [program_spider] INFO: 剩余项目数: 40
+2025-08-06 23:45:57 [program_spider] INFO: ================================================================================
+2025-08-06 23:45:57 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理根页面 (已处理0个页面): https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-internat...
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 页面总链接数: 212
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 移除导航后链接数: 55 (移除了 0 个导航链接)
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 有效链接数: 51, 关键词匹配数: 24, 最终提取数: 24
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 页面 https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/ (depth=0, is_root=True) 提取到 24 个链接
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/ (锚文本: 'Taught master's', 匹配关键词: 'master')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/ (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/ (锚文本: 'A-Z list of courses', 匹配关键词: 'course')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.seed.manchester.ac.uk/study/taught-masters/brochure-request/?utm_source=course_profile&utm_medium=subject_brochure&utm_campaign=humspgt25&utm_content=globaldevelopment (锚文本: 'Download our course brochure', 匹配关键词: 'course')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/entry-requirements/ (锚文本: 'Entry requirements', 匹配关键词: 'requirements')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/application-and-selection/ (锚文本: 'Application and selection', 匹配关键词: 'application')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/course-details/ (锚文本: 'Course details', 匹配关键词: 'course')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/careers/ (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/admissions/how-to-apply/ (锚文本: 'Apply online', 匹配关键词: 'apply')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: http://www.manchester.ac.uk/postgraduate/fees/ (锚文本: 'postgraduate fees', 匹配关键词: 'graduate')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://documents.manchester.ac.uk/display.aspx?DocID=19217 (锚文本: 'Policy on additional costs incurred by students on undergraduate and postgraduate taught programmes', 匹配关键词: 'graduate')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/ (锚文本: 'Fees and funding', 匹配关键词: 'funding')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/funding/uk-eu-student-advice/masters-bursary/ (锚文本: 'Manchester Master's Bursaries', 匹配关键词: 'master')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.manchester.ac.uk/study/masters/humanities-campaigns/scholarships/ (锚文本: 'Humanities Postgraduate Scholarships', 匹配关键词: 'graduate')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 爬取子链接: https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/ (锚文本: 'Equity and Merit scholarship scheme.', 匹配关键词: 'scholarship')
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 提取链接完成，去重前 24 个链接，去重后 15 个新请求（去重了 9 个重复链接）
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 1 -> 16, 操作: 添加15个子页面请求
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 添加 15 个新请求，当前剩余: 15
+2025-08-06 23:45:58 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 16 -> 15, 操作: 完成页面解析
+2025-08-06 23:45:59 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理1个页面): https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:45:59 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 跳过非HTML内容: https://documents.manchester.ac.uk/display.aspx?DocID=19217
+2025-08-06 23:45:59 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 15 -> 14, 操作: 完成非HTML页面处理
+2025-08-06 23:45:59 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 剩余请求数: 14
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799] 请求失败详情:
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   URL: https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   错误类型: HttpError
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   错误描述: Ignoring non-200 response
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   HTTP状态码: 404
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   响应头: server: Apache; content-type: text/html
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   响应预览: <!doctype html>  <!--[if lt IE 7]>   <html class="no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->  <!--[if IE 7]>      <html class="no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6" lang="...
+2025-08-06 23:46:00 [program_spider] ERROR: [1252433f-f4a5-4374-b282-bf6be96ae799]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-06 23:46:00 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 14 -> 13, 操作: 处理请求错误
+2025-08-06 23:46:00 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 已处理页面: 3, 剩余请求数: 13
+2025-08-06 23:46:00 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理3个页面): https://www.seed.manchester.ac.uk/study/taught-masters/brochure-request/?utm_source=course_profile&u...
+2025-08-06 23:46:00 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-06 23:46:00 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理4个页面): https://www.manchester.ac.uk/study/masters/
+2025-08-06 23:46:00 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:46:02 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理5个页面): https://www.manchester.ac.uk/study/masters/humanities-campaigns/scholarships/
+2025-08-06 23:46:02 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:46:06 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理6个页面): https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/
+2025-08-06 23:46:06 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:46:10 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理7个页面): https://www.manchester.ac.uk/study/masters/admissions/how-to-apply/
+2025-08-06 23:46:10 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:46:12 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理8个页面): https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-internat...
+2025-08-06 23:46:12 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:46:14 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理9个页面): https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-internat...
+2025-08-06 23:46:14 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:46:16 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理10个页面): https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-internat...
+2025-08-06 23:46:16 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-06 23:46:18 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理11个页面): https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-internat...
+2025-08-06 23:46:18 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-06 23:46:20 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理12个页面): https://www.manchester.ac.uk/study/masters/courses/list/
+2025-08-06 23:46:20 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-06 23:46:22 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理13个页面): https://www.manchester.ac.uk/study/masters/courses/
+2025-08-06 23:46:22 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-06 23:46:34 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理14个页面): https://www.manchester.ac.uk/study/postgraduate/fees/
+2025-08-06 23:46:34 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-06 23:46:36 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 正在处理子页面(深度1) (已处理15个页面): https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/masters-bursary/
+2025-08-06 23:46:36 [program_spider] INFO: [1252433f-f4a5-4374-b282-bf6be96ae799] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-06 23:46:37 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2025-08-06 23:46:37 [scrapy.crawler] INFO: Received SIGINT twice, forcing unclean shutdown

@@ -1,0 +1,124 @@
+[
+  {
+    "project_id": "27d1829a-3649-4132-9a80-c60953c56553",
+    "program_name": "南洋理工大学运动与体育研究理学硕士",
+    "source_file": "体育.json",
+    "url": "https://wcms-prod-admin.ntu.edu.sg/nie/programmes/graduate-education/modular-graduate-courses",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=utf-8",
+      "cf-ray": "96b09fb68c9208ca-LAX"
+    },
+    "response_preview": " <!DOCTYPE html> <html class='no-js' lang='en'> <head> <meta charset=\"utf-8\"><script type=\"text/html\" id=\"sf-tracking-consent-manager\">  \t<!--<div class=\"consent-container\" id=\"tracking-consent-dialog",
+    "timestamp": "2025-08-07T02:33:41.662693"
+  },
+  {
+    "project_id": "3c4f437a-5b3b-4936-8e99-fdbb50b99439",
+    "program_name": "爱丁堡大学健康体育活动理学硕士",
+    "source_file": "体育.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=824",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T02:37:02.663813"
+  },
+  {
+    "project_id": "cf1317ab-c790-4137-a2a6-1231fb1c452b",
+    "program_name": "爱丁堡大学舞蹈科学与教育理学硕士",
+    "source_file": "体育.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=421",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T02:37:04.498710"
+  },
+  {
+    "project_id": "c61ea838-0686-4247-82dd-819061f613a0",
+    "program_name": "伯明翰大学高性能运动理学硕士",
+    "source_file": "体育.json",
+    "url": "https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=02&pgCrse=25009&searchTerm=002025",
+    "error": "TimeoutError: User timeout caused connection failure: Getting https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=02&pgCrse=25009&searchTerm=002025 took longer than 30.0 seconds..",
+    "error_type": "TimeoutError",
+    "http_status": null,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T02:40:52.350321"
+  },
+  {
+    "project_id": "4684c79f-8613-4fb8-bd9e-97c49d7de222",
+    "program_name": "利物浦大学体育商业与管理理学硕士",
+    "source_file": "体育.json",
+    "url": "https://www.liverpool.ac.uk/careers/students/career-events/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "UoL Web Server",
+      "content-type": "text/html",
+      "set-cookie": "citrix_ns_id=AAc7Q6KTaDt7SmEAAAAAADvZhfYpa8N13yjGO6VOjJSk40Rm1gGgJqn8wRGhGqVdOw==FKOTaA==rZJ2ujdUfZrb6giP_3kkcJefvqA=; Domain=.liverpool.ac.uk; Path=/; HttpOnly"
+    },
+    "response_preview": "<!DOCTYPE html>    <html lang=\"en\">      <head>      <!--PAGE TITLE-->    <title>404 Error Page - 404 Error Page - University of Liverpool </title>      <!--META DATA-->  <meta http-equiv=\"Content-Typ",
+    "timestamp": "2025-08-07T02:43:44.708322"
+  },
+  {
+    "project_id": "4684c79f-8613-4fb8-bd9e-97c49d7de222",
+    "program_name": "利物浦大学体育商业与管理理学硕士",
+    "source_file": "体育.json",
+    "url": "https://www.liverpool.ac.uk/management/news/stories/title,1433609,en.html",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "UoL Web Server",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "citrix_ns_id=AAc7Q6KTaDt7SmEAAAAAADvZhfYpa8N13yjGO6VOjJSk40Rm1gGgJqn8wRGhGqVdOw==IqOTaA==ZSYvLoK1_RIkIZIdy_JNY_fH3YY=; Domain=.liverpool.ac.uk; Path=/; HttpOnly"
+    },
+    "response_preview": "  <!doctype html>  <html lang=\"en-GB\">    <head>    <meta charset=\"UTF-8\" />    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />    <title>      404 Error Page | University of ",
+    "timestamp": "2025-08-07T02:43:58.790931"
+  },
+  {
+    "project_id": "ddc9e75d-c18d-4bea-bf5b-366fec1697ac",
+    "program_name": "埃克塞特大学体育管理理学硕士",
+    "source_file": "体育.json",
+    "url": "https://www.exeter.ac.uk/study/englishlanguagerequirements/profile-",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=sZDppbszGuy0AJDVFumvJJHQhCodgfKslnZcq9Um0QWwx2sxBNQkTET0HE4GpHMBUE5NSE7IqxFvkI7qg8VH3JX0HPXNDB1KVEUANjnyv6Dn9pIMXGo3qaMiOru8; Expires=Wed, 13 Aug 2025 18:45:10 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "                <!DOCTYPE html>  <html lang=\"en\">  <head>  <title>404 error page | University of Exeter</title>  <meta charset=\"utf-8\">  <meta name=\"viewport\" content=\"width=device-width, initial-scal",
+    "timestamp": "2025-08-07T02:45:11.158724"
+  },
+  {
+    "project_id": "521bb2c2-b1eb-4121-bfce-12bec65753c0",
+    "program_name": "埃克塞特大学体育与健康科学理学硕士",
+    "source_file": "体育.json",
+    "url": "https://www.exeter.ac.uk/study/englishlanguagerequirements/profile-",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=Z3/aklPaRgufwcaJqldRdtn5gcVsmoLljWaBfjmZ6Eb4vXwBvLR5t6q+ZMBSY70Jhe1MoNxHw9d1spgT2qel9FfXeUUiEtZ0SwKnxKuqUtOY1VqNsHet7YJ2iYfr; Expires=Wed, 13 Aug 2025 18:45:34 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "                <!DOCTYPE html>  <html lang=\"en\">  <head>  <title>404 error page | University of Exeter</title>  <meta charset=\"utf-8\">  <meta name=\"viewport\" content=\"width=device-width, initial-scal",
+    "timestamp": "2025-08-07T02:45:35.154524"
+  }
+]

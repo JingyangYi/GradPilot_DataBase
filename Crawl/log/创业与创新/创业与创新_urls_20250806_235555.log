@@ -1,0 +1,147 @@
+2025-08-06 23:55:55 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-06 23:55:55 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-06 23:55:55 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/urls_subject/创业与创新/创业与创新_urls.csv
+2025-08-06 23:55:55 [program_spider] INFO: 文件是否存在: True
+2025-08-06 23:55:55 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:55:55 [program_spider] INFO: 原始总项目数: 73
+2025-08-06 23:55:55 [program_spider] INFO: 将要爬取 73 个项目
+2025-08-06 23:55:55 [program_spider] INFO: 允许的域名: ['www.imperial.ac.uk', 'www.postgraduate.study.cam.ac.uk', 'scale.nus.edu.sg', 'fass.nus.edu.sg', 'www.ucl.ac.uk', 'www.ntu.edu.sg', 'study.unimelb.edu.au', 'www.epfl.ch', 'www.kcl.ac.uk', 'programsandcourses.anu.edu.au', 'www.ed.ac.uk', 'www.manchester.ac.uk', 'study.uq.edu.au', 'future-students.uq.edu.au', 'prog-crs.hkust.edu.hk', 'fytgs.hkust-gz.edu.cn', 'www.bristol.ac.uk', 'www.uva.nl', 'www.polyu.edu.hk', 'www.lse.ac.uk', 'www.cityu.edu.hk', 'prime.brown.edu', 'warwick.ac.uk', 'www.birmingham.ac.uk', 'adelaideuni.edu.au', 'courses.leeds.ac.uk', 'www.southampton.ac.uk', 'www.durham.ac.uk', 'www.nottingham.ac.uk', 'www.uu.nl', 'www.qmul.ac.uk', 'www.rmit.edu.au', 'www.bath.ac.uk', 'admission.usm.my', 'econ.upm.edu.my', 'www.ncl.ac.uk', 'www.tue.nl', 'www.marshall.usc.edu', 'www.liverpool.ac.uk', 'www.rug.nl', 'management.utm.my', 'www.exeter.ac.uk', 'www.lancaster.ac.uk', 'www.york.ac.uk', 'www.cardiff.ac.uk', 'www.curtin.edu.au', 'coursefinder.uow.edu.au', 'www.henley.ac.uk']
+2025-08-06 23:55:55 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-06 23:55:55 [program_spider] INFO: ================================================================================
+2025-08-06 23:55:55 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-06 23:55:55 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-06 23:55:55 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+2025-08-06 23:55:55 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-06 23:55:55 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 10,
+ 'AUTOTHROTTLE_START_DELAY': 2,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 5,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 2,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/创业与创新/创业与创新_urls_20250806_235555.log',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.8,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-06 23:55:55 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-06 23:55:55 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-06 23:55:55 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-06 23:55:55 [scrapy.core.engine] INFO: Spider opened
+2025-08-06 23:55:55 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-06 23:55:55 [program_spider] DEBUG: start_requests 被调用
+2025-08-06 23:55:55 [program_spider] DEBUG: 项目队列不为空，有 73 个项目
+2025-08-06 23:55:55 [program_spider] INFO: 
+================================================================================
+2025-08-06 23:55:55 [program_spider] INFO: 开始爬取项目 [1/73]
+2025-08-06 23:55:55 [program_spider] INFO: 项目名称: 帝国理工学院创新、创业与管理理学硕士
+2025-08-06 23:55:55 [program_spider] INFO: 项目ID: 947a8d33-fb5b-4c26-b490-600a3bf37faf
+2025-08-06 23:55:55 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/
+2025-08-06 23:55:55 [program_spider] INFO: 剩余项目数: 72
+2025-08-06 23:55:55 [program_spider] INFO: ================================================================================
+2025-08-06 23:55:55 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-06 23:55:55 [program_spider] DEBUG: start_next_project 返回了 1 个请求
+2025-08-06 23:55:55 [program_spider] DEBUG: yielding 请求 1: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/
+2025-08-06 23:55:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/> (referer: None)
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 页面总链接数: 366
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 移除导航后链接数: 42 (移除了 0 个导航链接)
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/about-the-site/accessibility/ (锚文本: 'View accessibility support page')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 关键词: 'course')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 关键词: 'apply')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/business-school/masters/brochure (锚文本: 'Request a brochure')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/business-school/masters/mailing-list (锚文本: 'Sign up to our newsletter')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/?addCourse=1202156 (锚文本: 'Add to course compare', 关键词: 'course')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/study/request-info/ (锚文本: 'Request info')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/business-school/ (锚文本: 'Imperial Business School')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 关键词: 'course')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.associationofmbas.com/ (锚文本: 'Association of MBAs (AMBA)')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: http://www.aacsb.edu/accreditation (锚文本: 'Association to Advance Collegiate Schools of Business (AACSB)')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.efmdglobal.org/accreditations/business-schools/equis/ (锚文本: 'European Quality Improvement System (EQUIS)')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 关键词: 'requirements')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/study/apply/postgraduate-taught/entry-requirements/accepted-qualifications/ (锚文本: 'accepted qualifications')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 关键词: 'admission')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 关键词: 'apply')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 关键词: 'master')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/business-school/masters/innovation-entrepreneurship-management/admissions/ (锚文本: 'application process', 关键词: 'application')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Find out more about the application fee and waiver', 关键词: 'application')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 关键词: 'master')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 无效链接: mailto:business.school@imperial.ac.uk (锚文本: 'business.school@imperial.ac.uk')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/business-school/programmes/ (锚文本: 'Imperial Business School website')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/business-school/programmes/mailing-list/ (锚文本: 'Join our mailing list')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/study/visit/postgraduate/ (锚文本: 'Events, tasters and talks')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 链接不匹配关键词: https://www.imperial.ac.uk/students/terms-and-conditions/ (锚文本: 'Read our terms and conditions')
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 匹配链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 关键词: 'program')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 有效链接数: 25, 关键词匹配数: 12, 最终提取数: 12
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/ (depth=0, is_root=True) 提取到 12 个链接
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/?addCourse=1202156 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/business-school/masters/innovation-entrepreneurship-management/admissions/ (锚文本: 'application process', 匹配关键词: 'application')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Find out more about the application fee and waiver', 匹配关键词: 'application')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 提取链接完成，去重前 12 个链接，去重后 11 个新请求（去重了 1 个重复链接）
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 1 -> 12, 操作: 添加11个子页面请求
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 添加 11 个新请求，当前剩余: 11
+2025-08-06 23:55:57 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-06 23:55:57 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 已处理页面: 1, 剩余请求数: 11
+2025-08-06 23:55:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.imperial.ac.uk/study/courses/compare/> (referer: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/)
+2025-08-06 23:55:58 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 正在处理子页面(深度1) (已处理1个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-06 23:55:58 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-06 23:55:58 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 已处理页面: 2, 剩余请求数: 10
+2025-08-06 23:56:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/> (referer: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/)
+2025-08-06 23:56:00 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://myimperial.powerappsportals.com/> (referer: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/)
+2025-08-06 23:56:00 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-06 23:56:00 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-06 23:56:00 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 已处理页面: 3, 剩余请求数: 9
+2025-08-06 23:56:00 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 正在处理子页面(深度1) (已处理3个页面): https://myimperial.powerappsportals.com/
+2025-08-06 23:56:00 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-06 23:56:00 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 已处理页面: 4, 剩余请求数: 8
+2025-08-06 23:56:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/> (referer: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/)
+2025-08-06 23:56:02 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-06 23:56:02 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-06 23:56:02 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 已处理页面: 5, 剩余请求数: 7
+2025-08-06 23:56:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/> (referer: https://www.imperial.ac.uk/study/courses/postgraduate-taught/innovation-entrepreneurship-management/)
+2025-08-06 23:56:04 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-06 23:56:04 [program_spider] INFO: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-06 23:56:04 [program_spider] DEBUG: [947a8d33-fb5b-4c26-b490-600a3bf37faf] 已处理页面: 6, 剩余请求数: 6

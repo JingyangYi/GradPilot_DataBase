@@ -1,0 +1,563 @@
+[
+  {
+    "project_id": "d65b8efe-8f42-4d37-8004-2d3544bdbf98",
+    "program_name": "爱丁堡大学国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-06T23:20:34.939286"
+  },
+  {
+    "project_id": "f83dfbb7-93e9-4fe0-add2-c9eeb73cc116",
+    "program_name": "爱丁堡大学人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-06T23:20:36.887196"
+  },
+  {
+    "project_id": "ab47e3b4-05cf-4297-a935-4da0565f66d9",
+    "program_name": "曼彻斯特大学人力资源开发（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-06T23:21:36.551334"
+  },
+  {
+    "project_id": "1252433f-f4a5-4374-b282-bf6be96ae799",
+    "program_name": "曼彻斯特大学人力资源管理（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-06T23:22:14.326855"
+  },
+  {
+    "project_id": "c9dcc948-84dc-441d-b17b-037bebb0c748",
+    "program_name": "曼彻斯特大学组织变革与发展理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-06T23:22:54.224160"
+  },
+  {
+    "project_id": "bcaad038-0f96-45ac-853f-f9794253098a",
+    "program_name": "伦敦政治经济学院人力资源与组织（组织行为学）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.lse.ac.uk/resources/calendar/programmeRegulations/taughtMasters/2016_MScHumanResourcesAndOrganisations.htm",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "    <!DOCTYPE html>    <html lang=\"en-gb\">  <head><meta charset=\"utf-8\"><title>  \t404  </title>        <style>        .row,.container,.mainContent,.mainContent--midTone,.clearFix,.findanexpertSidebar_",
+    "timestamp": "2025-08-06T23:26:28.199003"
+  },
+  {
+    "project_id": "6fc2bae4-9ef0-4762-9509-96c8f06a3088",
+    "program_name": "伦敦政治经济学院人力资源与组织（国际雇佣关系）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.lse.ac.uk/resources/calendar/programmeRegulations/taughtMasters/2016_MScHumanResourcesAndOrganisations.htm",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "    <!DOCTYPE html>    <html lang=\"en-gb\">  <head><meta charset=\"utf-8\"><title>  \t404  </title>        <style>        .row,.container,.mainContent,.mainContent--midTone,.clearFix,.findanexpertSidebar_",
+    "timestamp": "2025-08-06T23:26:58.622991"
+  },
+  {
+    "project_id": "5629f820-c238-4b05-825b-c1d370e327f7",
+    "program_name": "伦敦政治经济学院人力资源与组织（人力资源管理）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.lse.ac.uk/resources/calendar/programmeRegulations/taughtMasters/2016_MScHumanResourcesAndOrganisations.htm",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "    <!DOCTYPE html>    <html lang=\"en-gb\">  <head><meta charset=\"utf-8\"><title>  \t404  </title>        <style>        .row,.container,.mainContent,.mainContent--midTone,.clearFix,.findanexpertSidebar_",
+    "timestamp": "2025-08-06T23:27:29.467246"
+  },
+  {
+    "project_id": "d65b8efe-8f42-4d37-8004-2d3544bdbf98",
+    "program_name": "爱丁堡大学国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-06T23:42:40.189211"
+  },
+  {
+    "project_id": "f83dfbb7-93e9-4fe0-add2-c9eeb73cc116",
+    "program_name": "爱丁堡大学人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-06T23:42:42.165394"
+  },
+  {
+    "project_id": "ab47e3b4-05cf-4297-a935-4da0565f66d9",
+    "program_name": "曼彻斯特大学人力资源开发（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-06T23:45:11.685407"
+  },
+  {
+    "project_id": "1252433f-f4a5-4374-b282-bf6be96ae799",
+    "program_name": "曼彻斯特大学人力资源管理（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-06T23:46:00.050291"
+  },
+  {
+    "project_id": "d65b8efe-8f42-4d37-8004-2d3544bdbf98",
+    "program_name": "爱丁堡大学国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:02:47.559969"
+  },
+  {
+    "project_id": "f83dfbb7-93e9-4fe0-add2-c9eeb73cc116",
+    "program_name": "爱丁堡大学人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:02:49.618589"
+  },
+  {
+    "project_id": "ab47e3b4-05cf-4297-a935-4da0565f66d9",
+    "program_name": "曼彻斯特大学人力资源开发（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-07T00:03:47.725082"
+  },
+  {
+    "project_id": "1252433f-f4a5-4374-b282-bf6be96ae799",
+    "program_name": "曼彻斯特大学人力资源管理（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-07T00:04:29.949248"
+  },
+  {
+    "project_id": "c9dcc948-84dc-441d-b17b-037bebb0c748",
+    "program_name": "曼彻斯特大学组织变革与发展理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-07T00:05:07.932662"
+  },
+  {
+    "project_id": "d65b8efe-8f42-4d37-8004-2d3544bdbf98",
+    "program_name": "爱丁堡大学国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:50:14.548322"
+  },
+  {
+    "project_id": "f83dfbb7-93e9-4fe0-add2-c9eeb73cc116",
+    "program_name": "爱丁堡大学人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:50:16.418127"
+  },
+  {
+    "project_id": "ab47e3b4-05cf-4297-a935-4da0565f66d9",
+    "program_name": "曼彻斯特大学人力资源开发（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-07T00:51:14.533695"
+  },
+  {
+    "project_id": "1252433f-f4a5-4374-b282-bf6be96ae799",
+    "program_name": "曼彻斯特大学人力资源管理（国际发展）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-07T00:51:54.072311"
+  },
+  {
+    "project_id": "c9dcc948-84dc-441d-b17b-037bebb0c748",
+    "program_name": "曼彻斯特大学组织变革与发展理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.gdi.manchester.ac.uk/study/taught-masters/funding-opportunities/merit-awards/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html"
+    },
+    "response_preview": "<!doctype html>  <!--[if lt IE 7]>   <html class=\"no-js ie6 ie lt-ie10 lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->  <!--[if IE 7]>      <html class=\"no-js ie7 ie lt-ie10 lt-ie9 lt-ie8 gt-ie6\" lang=\"",
+    "timestamp": "2025-08-07T00:52:34.159502"
+  },
+  {
+    "project_id": "bcaad038-0f96-45ac-853f-f9794253098a",
+    "program_name": "伦敦政治经济学院人力资源与组织（组织行为学）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.lse.ac.uk/resources/calendar/programmeRegulations/taughtMasters/2016_MScHumanResourcesAndOrganisations.htm",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "    <!DOCTYPE html>    <html lang=\"en-gb\">  <head><meta charset=\"utf-8\"><title>  \t404  </title>        <style>        .row,.container,.mainContent,.mainContent--midTone,.clearFix,.findanexpertSidebar_",
+    "timestamp": "2025-08-07T00:55:41.110978"
+  },
+  {
+    "project_id": "6fc2bae4-9ef0-4762-9509-96c8f06a3088",
+    "program_name": "伦敦政治经济学院人力资源与组织（国际雇佣关系）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.lse.ac.uk/resources/calendar/programmeRegulations/taughtMasters/2016_MScHumanResourcesAndOrganisations.htm",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "    <!DOCTYPE html>    <html lang=\"en-gb\">  <head><meta charset=\"utf-8\"><title>  \t404  </title>        <style>        .row,.container,.mainContent,.mainContent--midTone,.clearFix,.findanexpertSidebar_",
+    "timestamp": "2025-08-07T00:56:11.533754"
+  },
+  {
+    "project_id": "5629f820-c238-4b05-825b-c1d370e327f7",
+    "program_name": "伦敦政治经济学院人力资源与组织（人力资源管理）理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.lse.ac.uk/resources/calendar/programmeRegulations/taughtMasters/2016_MScHumanResourcesAndOrganisations.htm",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "    <!DOCTYPE html>    <html lang=\"en-gb\">  <head><meta charset=\"utf-8\"><title>  \t404  </title>        <style>        .row,.container,.mainContent,.mainContent--midTone,.clearFix,.findanexpertSidebar_",
+    "timestamp": "2025-08-07T00:56:41.407478"
+  },
+  {
+    "project_id": "452b0db6-08c8-4b31-b218-88f29b3c17e2",
+    "program_name": "伯明翰大学公共管理硕士（人力资源）",
+    "source_file": "人力资源管理.json",
+    "url": "https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=07&pgCrse=30289&searchTerm=002025",
+    "error": "TimeoutError: User timeout caused connection failure: Getting https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=07&pgCrse=30289&searchTerm=002025 took longer than 30.0 seconds..",
+    "error_type": "TimeoutError",
+    "http_status": null,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T00:58:46.153491"
+  },
+  {
+    "project_id": "452b0db6-08c8-4b31-b218-88f29b3c17e2",
+    "program_name": "伯明翰大学公共管理硕士（人力资源）",
+    "source_file": "人力资源管理.json",
+    "url": "https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=07&pgCrse=07943&searchTerm=002025",
+    "error": "TimeoutError: User timeout caused connection failure: Getting https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=07&pgCrse=07943&searchTerm=002025 took longer than 30.0 seconds..",
+    "error_type": "TimeoutError",
+    "http_status": null,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T00:58:48.149780"
+  },
+  {
+    "project_id": "b408d391-0be2-4fbd-b529-cf22ba2d904a",
+    "program_name": "利兹大学人力资源管理文学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://catalogue.leeds.ac.uk/Programme/202526?code=MA-BS%2FHRM-PT",
+    "error": "HttpError: Ignoring non-200 response (HTTP 500)",
+    "error_type": "HttpError",
+    "http_status": 500,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T01:02:30.810035"
+  },
+  {
+    "project_id": "b408d391-0be2-4fbd-b529-cf22ba2d904a",
+    "program_name": "利兹大学人力资源管理文学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://catalogue.leeds.ac.uk/Programme/202526?code=MA-BS%2FHRM",
+    "error": "HttpError: Ignoring non-200 response (HTTP 500)",
+    "error_type": "HttpError",
+    "http_status": 500,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T01:02:34.038059"
+  },
+  {
+    "project_id": "d4434222-b576-4b7b-b5d6-81e8cead7f48",
+    "program_name": "悉尼科技大学人力资源管理硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://studyonline.uts.edu.au/online-courses/C04444",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T01:10:22.218259"
+  },
+  {
+    "project_id": "98fe9c0a-c354-454f-b3f2-da015ef10d9a",
+    "program_name": "乌得勒支大学战略人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.uu.nl/en/masters/strategic-human-resource-management",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "response_preview": "<!DOCTYPE html><html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\"><head><link rel=\"preload\" as=\"font\" type=\"font/woff2\" crossorigin href=\"/themes/custom/corp/dist/fonts/merriweather-bold.woff2\"",
+    "timestamp": "2025-08-07T01:11:53.921211"
+  },
+  {
+    "project_id": "5b60f3c7-c4f8-4ed3-a33d-742f740886dc",
+    "program_name": "伦敦大学玛丽皇后学院国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.qmul.ac.uk/investing-campus/graduate-centre/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=Kg/JOkj6X/eLAUT7YLv0OREwT4tdUDfLJreJOZjM3HujcCidWSihJbwjHDcscw9/dyZ1xDJPNXPdRgu7H+ZTNjwFCUye2YIKGUAodTUCIYwnCvSB/a2amH/cse2A; Expires=Wed, 13 Aug 2025 17:12:23 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "<!DOCTYPE html>  <html lang=\"en\" data-js=\"no\">  <head>      <meta charset=\"utf-8\">      <title>Sorry, the page you requested could not be found - Queen Mary University of London</title>      <meta nam",
+    "timestamp": "2025-08-07T01:12:23.833509"
+  },
+  {
+    "project_id": "9ad43164-975c-4489-8838-37eb7da172d0",
+    "program_name": "利物浦大学人力资源管理与战略组织理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.liverpool.ac.uk/careers/students/career-events/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "UoL Web Server",
+      "content-type": "text/html",
+      "set-cookie": "citrix_ns_id=AAI7No-TaDv_uGAAAAAAADvZhfYpa8N13yjGOyF1yO1FJVxAunFcccGtOevS4871Ow==DZCTaA==ldHrKFoREs1pP_goi7vkrt8ino4=; Domain=.liverpool.ac.uk; Path=/; HttpOnly"
+    },
+    "response_preview": "<!DOCTYPE html>    <html lang=\"en\">      <head>      <!--PAGE TITLE-->    <title>404 Error Page - 404 Error Page - University of Liverpool </title>      <!--META DATA-->  <meta http-equiv=\"Content-Typ",
+    "timestamp": "2025-08-07T01:22:33.785370"
+  },
+  {
+    "project_id": "f6225325-be2c-44d0-add4-75e29fd15d9d",
+    "program_name": "埃克塞特大学人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.exeter.ac.uk/study/englishlanguagerequirements/profile-",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=sfS/LhRwcTf27MMvU+LsiJ8kmspWUDGQQOU6424p3N4eDYjyyW77M1SRzmlpVc2U0swxp7pJdosrXTKdRCBrYjxS4DUn03DBP0pUUzeXiUpc/ngsHu6zkxQVRPv3; Expires=Wed, 13 Aug 2025 17:24:13 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "                <!DOCTYPE html>  <html lang=\"en\">  <head>  <title>404 error page | University of Exeter</title>  <meta charset=\"utf-8\">  <meta name=\"viewport\" content=\"width=device-width, initial-scal",
+    "timestamp": "2025-08-07T01:24:14.022540"
+  },
+  {
+    "project_id": "58678ec4-125d-4a0e-9209-1379e4bdbf53",
+    "program_name": "埃克塞特大学国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.exeter.ac.uk/study/englishlanguagerequirements/profile-",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=zkFpeFfZqXRNNnnP3/u6024OqnjXlSjx7LVkcFE4u/1+Q/RLekU2o9Pp0A0f4Rqjr0UUsBgPwEc6+olygTF7YBjZwXGYiJ3cGidwFEClkXvH0nPodVNLaabMEs/s; Expires=Wed, 13 Aug 2025 17:24:39 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "                <!DOCTYPE html>  <html lang=\"en\">  <head>  <title>404 error page | University of Exeter</title>  <meta charset=\"utf-8\">  <meta name=\"viewport\" content=\"width=device-width, initial-scal",
+    "timestamp": "2025-08-07T01:24:39.757236"
+  },
+  {
+    "project_id": "4aedb181-5b83-47d1-b46b-4b7d08a893dc",
+    "program_name": "卡迪夫大学人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/human-resource-management-msc",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=maNFc4pYl5LVMxq9DJZf9vN74X0fuvmHZCKZrRVCP8c-1754501151-1.0.1.1-YVEwCQMTy9cMhyVcQUOsW.TakRYqFOXxgbdws.rl.TNDS.7cSQ8iZja3zl8qYZMAYaEFmSBOMkAMkWOV4ArFByMmJMovjrXGTjaQdfeJoMU; path=/; expires=Wed,",
+      "cf-ray": "96b03c625dd47edd-LAX"
+    },
+    "response_preview": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]>    <html class=\"no-",
+    "timestamp": "2025-08-07T01:25:51.310290"
+  },
+  {
+    "project_id": "3432b5e6-31e7-4e14-a445-c41d61f15775",
+    "program_name": "卡迪夫大学国际人力资源管理理学硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/msc-international-human-resource-management",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=ynqV4JoaDRw1096SNbfnsp40zssoyBqH6vwPgO42YGw-1754501152-1.0.1.1-NN6H61K0KPj90E1BdX6e7Dvx4nt2O7U0RRNzL7tXPQqn8v53FUKVo1aY3HKAgxSJkmpWk0RnBmU5dpLf7uDovV2JCmNvIqA9gpSpgEP1i78; path=/; expires=Wed,",
+      "cf-ray": "96b03c6bed677edd-LAX"
+    },
+    "response_preview": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]>    <html class=\"no-",
+    "timestamp": "2025-08-07T01:25:52.767914"
+  },
+  {
+    "project_id": "86ae3407-fe6f-441f-94ac-3a6452f8e353",
+    "program_name": "伍伦贡大学人力资源管理硕士",
+    "source_file": "人力资源管理.json",
+    "url": "https://www.uow.edu.au/study/courses/courses/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 500)",
+    "error_type": "HttpError",
+    "http_status": 500,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=g/fPfAJkuLojr4GVhQ9WgsuOXg5n3sfHfMJTSNbI0U2C7FG/11rsr0nl4C6lKRwAq8ngnXs3Z8/g4zUDMsRizLtscJ1UX76O8PM/qcdbpSTE6jcuvpL08pc3CjhV; Expires=Wed, 13 Aug 2025 17:26:18 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "                ",
+    "timestamp": "2025-08-07T01:26:18.847509"
+  }
+]

@@ -39,14 +39,20 @@ class ProgramSpider(scrapy.Spider):
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
         """自定义构造函数，用于注册 spider_idle 信号处理器"""
+        # 从crawler设置中获取URLs文件路径
+        urls_file = crawler.settings.get('URLS_FILE')
+        if urls_file:
+            kwargs['csv_file'] = urls_file
+            
         spider = super(ProgramSpider, cls).from_crawler(crawler, *args, **kwargs)
         crawler.signals.connect(spider.spider_idle, signal=signals.spider_idle)
         return spider
     
-    def __init__(self, csv_file='program_urls.csv', *args, **kwargs):
+    def __init__(self, csv_file='program_urls.csv', start_index=0, *args, **kwargs):
         super(ProgramSpider, self).__init__(*args, **kwargs)
         
         self.csv_file = csv_file
+        self.start_index = int(start_index)  # 支持从指定索引开始
         self.project_queue = []
         self.current_project = None
         self.current_project_id = None
@@ -62,8 +68,12 @@ class ProgramSpider(scrapy.Spider):
         
     def load_projects(self):
         """从CSV文件加载项目列表"""
-        # 向上两级目录到crawl文件夹，然后加上csv文件名
-        csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), self.csv_file)
+        # 如果是绝对路径，直接使用；否则拼接相对路径
+        if os.path.isabs(str(self.csv_file)):
+            csv_path = str(self.csv_file)
+        else:
+            # 向上两级目录到crawl文件夹，然后加上csv文件名
+            csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), self.csv_file)
         
         self.logger.info(f"尝试加载CSV文件: {csv_path}")
         self.logger.info(f"文件是否存在: {os.path.exists(csv_path)}")
@@ -71,6 +81,7 @@ class ProgramSpider(scrapy.Spider):
         try:
             with open(csv_path, 'r', encoding='utf-8-sig') as f:  # 处理BOM字符
                 reader = csv.DictReader(f)
+                all_projects = []
                 for row in reader:
                     project = {
                         'id': row['id'],
@@ -78,15 +89,23 @@ class ProgramSpider(scrapy.Spider):
                         'url': row['program_url'],
                         'source_file': row['source_file']
                     }
-                    self.project_queue.append(project)
+                    all_projects.append(project)
                     
                     domain = urlparse(project['url']).netloc
                     if domain not in self.allowed_domains:
                         self.allowed_domains.append(domain)
+                
+                # 从指定索引开始加载项目
+                original_total = len(all_projects)
+                self.project_queue = all_projects[self.start_index:]
+                self.total_projects = len(self.project_queue)
+                self.completed_projects = self.start_index  # 已跳过的项目算作已完成
                         
-            self.total_projects = len(self.project_queue)
             self.logger.info("\n" + "="*80)
-            self.logger.info(f"成功加载 {self.total_projects} 个项目")
+            self.logger.info(f"原始总项目数: {original_total}")
+            if self.start_index > 0:
+                self.logger.info(f"从索引 {self.start_index} 开始，跳过了 {self.start_index} 个项目")
+            self.logger.info(f"将要爬取 {self.total_projects} 个项目")
             self.logger.info(f"允许的域名: {self.allowed_domains}")
             self.logger.info("将按顺序逐个项目进行爬取")
             self.logger.info("="*80)
@@ -102,8 +121,9 @@ class ProgramSpider(scrapy.Spider):
     def start_requests(self):
         """开始第一个项目的爬取，其他项目将在前一个完成后依次启动"""
         if self.project_queue:
-            return self.start_next_project()
-        return []
+            for request in self.start_next_project():
+                yield request
+        return
             
     def start_next_project(self):
         """启动下一个项目的爬取"""
@@ -146,10 +166,24 @@ class ProgramSpider(scrapy.Spider):
         self.logger.info(f"剩余项目数: {len(self.project_queue)}")
         self.logger.info("="*80)
         
+        old_count = self.request_counters[project_id]
         self.request_counters[project_id] += 1
+        self.logger.info(f"[{project_id}] 计数器变更: {old_count} -> {self.request_counters[project_id]}, 操作: 启动根页面请求")
+        
+        # 验证URL有效性
+        url = self.current_project['url']
+        if not url or url.strip() in ['暂无', 'N/A', 'None', ''] or not url.startswith(('http://', 'https://')):
+            self.logger.warning(f"[{project_id}] 跳过无效URL: {url}")
+            # 先减少计数器，然后完成项目
+            self.request_counters[project_id] -= 1
+            self._complete_project_sync(project_id)  # 同步完成项目，不yield Item
+            # 继续处理下一个项目
+            if self.project_queue:
+                yield from self.start_next_project()
+            return
         
         request = scrapy.Request(
-            url=self.current_project['url'],
+            url=url,
             callback=self.parse_page,
             errback=self.handle_error,
             meta={
@@ -162,7 +196,7 @@ class ProgramSpider(scrapy.Spider):
         )
         # 重置根页面的深度为0，避免深度限制问题
         request.meta['depth'] = 0
-        return [request]
+        yield request
         
     def parse_page(self, response):
         """解析页面内容"""
@@ -193,7 +227,9 @@ class ProgramSpider(scrapy.Spider):
             self.project_data[project_id]['failed_pages'] += 1
             
             # 检查项目是否完成  
+            old_count = self.request_counters[project_id]
             self.request_counters[project_id] -= 1
+            self.logger.info(f"[{project_id}] 计数器变更: {old_count} -> {self.request_counters[project_id]}, 操作: 完成非HTML页面处理")
             self.logger.info(f"[{project_id}] 剩余请求数: {self.request_counters[project_id]}")
             
             if self.request_counters[project_id] <= 0:
@@ -201,11 +237,14 @@ class ProgramSpider(scrapy.Spider):
             return
             
         try:
+            # 🎯 一次解析HTML，多次复用 - 性能优化核心
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
             page_data = {
                 'url': response.url,
                 'depth': depth,
-                'title': self.extract_title(response),
-                'content': self.extract_content(response),
+                'title': self.extract_title_from_soup(soup),
+                'content': self.extract_content_from_soup(soup),
                 'links': [],
                 'crawl_status': 'success'
             }
@@ -216,7 +255,7 @@ class ProgramSpider(scrapy.Spider):
             # 修改链接提取条件：允许根页面(is_root=True)或深度小于1的页面提取链接
             is_root = response.meta.get('is_root', False)
             if depth < 1 or is_root:
-                links = self.extract_links(response) # 仅匹配锚文本
+                links = self.extract_links_from_soup(soup, response) # 仅匹配锚文本
                 page_data['links'] = links
                 
                 # 调试信息：如果没有提取到链接，记录详细信息
@@ -265,7 +304,9 @@ class ProgramSpider(scrapy.Spider):
                 
                 # 一次性更新计数器（仅统计真正会被调度的请求）
                 if new_requests:
+                    old_count = self.request_counters[project_id]
                     self.request_counters[project_id] += len(new_requests)
+                    self.logger.info(f"[{project_id}] 计数器变更: {old_count} -> {self.request_counters[project_id]}, 操作: 添加{len(new_requests)}个子页面请求")
                     self.logger.info(
                         f"[{project_id}] 添加 {len(new_requests)} 个新请求，当前剩余: {self.request_counters[project_id] - 1}")
 
@@ -286,7 +327,9 @@ class ProgramSpider(scrapy.Spider):
                     yield from self.complete_project(pending_project_id)
         
         # 最后检查当前项目是否完成（在所有yield操作完成后）
+        old_count = self.request_counters[project_id]
         self.request_counters[project_id] -= 1
+        self.logger.info(f"[{project_id}] 计数器变更: {old_count} -> {self.request_counters[project_id]}, 操作: 完成页面解析")
         processed_pages_after = current_project_data['successful_pages'] + current_project_data['failed_pages']
         self.logger.debug(f"[{project_id}] 已处理页面: {processed_pages_after}, 剩余请求数: {self.request_counters[project_id]}")
         
@@ -345,7 +388,9 @@ class ProgramSpider(scrapy.Spider):
         self.project_data[project_id]['failed_pages'] += 1
 
         # 更新计数器
+        old_count = self.request_counters[project_id]
         self.request_counters[project_id] -= 1
+        self.logger.info(f"[{project_id}] 计数器变更: {old_count} -> {self.request_counters[project_id]}, 操作: 处理请求错误")
         current_project_data = self.project_data[project_id]
         processed_pages = current_project_data['successful_pages'] + current_project_data['failed_pages']
         self.logger.info(f"[{project_id}] 已处理页面: {processed_pages}, 剩余请求数: {self.request_counters[project_id]}")
@@ -359,77 +404,161 @@ class ProgramSpider(scrapy.Spider):
             yield from self.complete_project(project_id)
     
     def record_failed_request(self, project_id, failure):
-        """记录失败的请求到状态文件"""
+        """记录失败的请求到学科专门的失败日志文件"""
         try:
             import json
             import os
             from datetime import datetime
             
-            # 构建状态文件路径
-            status_file = os.path.join(
-                os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))), 
-                'crawl_status.json'
-            )
-            
             # 获取项目信息
             project_data = self.project_data.get(project_id, {})
             program_name = project_data.get('program_name', 'Unknown')
-            source_file = project_data.get('source_file', 'unknown.json').replace('.json', '')
+            source_file_raw = project_data.get('source_file', 'unknown.csv')
             
-            # 构建错误信息
+            # 统一处理source_file，移除所有可能的扩展名
+            source_file = source_file_raw.replace('.csv', '').replace('.json', '')
+            
+            # 提取学科名称（去掉可能的数字后缀，如"计算机_1" -> "计算机"）
+            subject_name = source_file.split('_')[0] if '_' in source_file else source_file
+            
+            # 构建失败日志文件路径
+            # __file__ = .../crawl/program_crawler/spiders/program_spider.py
+            # 需要4个dirname到达crawl目录：spiders -> program_crawler -> crawl
+            crawl_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+            log_dir = os.path.join(crawl_dir, 'log', subject_name)
+            
+            # 确保学科日志目录存在
+            if not os.path.exists(log_dir):
+                os.makedirs(log_dir)
+            
+            failed_log_file = os.path.join(log_dir, f'failed_urls_{source_file}.json')
+            
+            # 构建详细错误信息
             error_msg = f"{failure.type.__name__}: {failure.value}"
-            if hasattr(failure.value, 'response') and failure.value.response is not None:
-                error_msg += f" (HTTP {failure.value.response.status})"
+            http_status = None
+            response_headers = {}
+            response_preview = ""
             
-            # 创建失败项目记录
-            failed_project = {
+            if hasattr(failure.value, 'response') and failure.value.response is not None:
+                response = failure.value.response
+                http_status = response.status
+                error_msg += f" (HTTP {response.status})"
+                
+                # 提取响应头
+                important_headers = ['server', 'content-type', 'set-cookie', 'cf-ray']
+                for header in important_headers:
+                    if header.encode() in response.headers:
+                        value = response.headers.get(header).decode('utf-8', errors='ignore')[:200]
+                        response_headers[header] = value
+                
+                # 提取响应体预览
+                if hasattr(response, 'text') and len(response.text) > 0:
+                    response_preview = response.text[:200].replace('\n', ' ').replace('\r', ' ')
+            
+            # 创建失败记录（去掉timestamp字段）
+            failed_record = {
                 'project_id': project_id,
                 'program_name': program_name,
                 'source_file': source_file,
                 'url': failure.request.url,
                 'error': error_msg,
                 'error_type': failure.type.__name__,
-                'timestamp': datetime.now().isoformat()
+                'http_status': http_status,
+                'response_headers': response_headers,
+                'response_preview': response_preview
             }
             
-            # 读取现有状态
-            if os.path.exists(status_file):
-                with open(status_file, 'r', encoding='utf-8') as f:
-                    crawl_status = json.load(f)
+            # 读取现有失败记录
+            failed_records = []
+            if os.path.exists(failed_log_file):
+                with open(failed_log_file, 'r', encoding='utf-8') as f:
+                    failed_records = json.load(f)
+            
+            # 🎯 URL去重：检查是否已存在相同URL的失败记录
+            existing_urls = {record['url'] for record in failed_records}
+            if failure.request.url not in existing_urls:
+                failed_records.append(failed_record)
+                self.logger.info(f"[{project_id}] 新增失败URL记录: {failure.request.url}")
             else:
-                crawl_status = {
-                    "subjects": {},
-                    "failed_projects": [],
-                    "completed_subjects": [],
-                    "last_update": None
-                }
+                self.logger.debug(f"[{project_id}] 失败URL已存在，跳过重复记录: {failure.request.url}")
             
-            # 添加失败项目
-            crawl_status['failed_projects'].append(failed_project)
-            crawl_status['last_update'] = datetime.now().isoformat()
-            
-            # 更新学科失败计数
-            if source_file not in crawl_status['subjects']:
-                crawl_status['subjects'][source_file] = {
-                    'status': 'running',
-                    'total': 0,
-                    'completed': 0,
-                    'failed': 0
-                }
-            crawl_status['subjects'][source_file]['failed'] += 1
-            
-            # 保存状态
-            with open(status_file, 'w', encoding='utf-8') as f:
-                json.dump(crawl_status, f, ensure_ascii=False, indent=2)
-                
-            self.logger.debug(f"[{project_id}] 失败记录已保存到状态文件")
+            # 保存失败记录（仅在有新记录时写入）
+            if failure.request.url not in existing_urls:
+                with open(failed_log_file, 'w', encoding='utf-8') as f:
+                    json.dump(failed_records, f, ensure_ascii=False, indent=2)
+                self.logger.info(f"[{project_id}] 失败记录已保存到: {failed_log_file}")
+            else:
+                self.logger.debug(f"[{project_id}] 未保存重复失败记录")
             
         except Exception as e:
             # 状态记录失败不应影响主流程
             self.logger.warning(f"[{project_id}] 记录失败状态时出错: {e}")
             
+    def _complete_project_sync(self, project_id):
+        """同步完成项目，直接处理Item而不yield（用于Request生成器中）"""
+        import time
+        time.sleep(1)  # 给并发请求1秒缓冲时间，确保所有请求都已处理完毕
+        
+        self.logger.info(f"[{project_id}] 正在完成项目")
+        
+        # 检查项目是否已经完成过，避免重复处理
+        if not hasattr(self, '_completed_projects'):
+            self._completed_projects = set()
+        
+        if project_id in self._completed_projects:
+            self.logger.info(f"[{project_id}] 项目已经完成过，跳过")
+            return
+            
+        self._completed_projects.add(project_id)
+        
+        project_data = self.project_data[project_id]
+        project_data['status'] = 'completed'
+        project_data['total_pages'] = len(project_data['pages'])
+        
+        total_attempts = project_data['successful_pages'] + project_data['failed_pages']
+        success_rate = (project_data['successful_pages'] / max(1, total_attempts)) * 100
+        
+        # 更清晰的项目完成日志
+        self.logger.info("\n" + "-"*60)
+        self.logger.info(f"[{project_id}] 项目完成: {project_data['program_name']}")
+        self.logger.info(f"[{project_id}]   - 总页数: {project_data['total_pages']}")
+        self.logger.info(f"[{project_id}]   - 成功页数: {project_data['successful_pages']}")
+        self.logger.info(f"[{project_id}]   - 失败页数: {project_data['failed_pages']}")
+        self.logger.info(f"[{project_id}]   - 成功率: {success_rate:.1f}%")
+        self.logger.info("-"*60)
+        
+        # 直接通过pipeline处理item，不通过yield
+        item = ProgramPageItem()
+        item['project_id'] = project_data['project_id']
+        item['program_name'] = project_data['program_name']
+        item['source_file'] = project_data['source_file']
+        item['root_url'] = project_data['root_url']
+        item['crawl_time'] = project_data['crawl_time']
+        item['pages'] = project_data['pages']
+        item['total_pages'] = project_data['total_pages']
+        item['status'] = project_data['status']
+        
+        # 直接调用pipeline处理item
+        self.crawler.engine.scraper.itemproc.process_item(item, self)
+        
+        self.completed_projects += 1
+        self.is_processing_project = False  # 释放当前项目状态
+        
+        # 不在此处直接启动下一个项目，而是留给 spider_idle 信号统一调度，
+        # 以避免深度叠加导致的 DEPTH_LIMIT 丢包
+        if self.project_queue:
+            self.logger.info(f"[{project_id}] 仍有 {len(self.project_queue)} 个项目待爬，将在爬虫空闲时继续。")
+        else:
+            self.logger.info("\n" + "="*50)
+            self.logger.info("所有项目已完成")
+            self.logger.info(f"完成率: {self.completed_projects}/{self.total_projects} (100%)")
+            self.logger.info("="*50)
+    
     def complete_project(self, project_id):
-        """完成当前项目，输出统计信息并开始下一个项目"""
+        """完成当前项目，输出统计信息并开始下一个项目（生成器版本，用于正常流程）"""
+        import time
+        time.sleep(1)  # 给并发请求1秒缓冲时间，确保所有请求都已处理完毕
+        
         self.logger.info(f"[{project_id}] 正在完成项目")
         
         # 检查项目是否已经完成过，避免重复处理
@@ -489,19 +618,38 @@ class ProgramSpider(scrapy.Spider):
         return 'text/html' in content_type
         
     def extract_title(self, response):
-        """提取页面标题"""
+        """提取页面标题（兼容性方法，建议使用extract_title_from_soup）"""
         try:
             soup = BeautifulSoup(response.text, 'html.parser')
+            return self.extract_title_from_soup(soup)
+        except:
+            return ""
+            
+    def extract_title_from_soup(self, soup):
+        """从soup对象提取页面标题"""
+        try:
+            if soup is None:
+                return ""
             title_tag = soup.find('title')
             return title_tag.get_text().strip() if title_tag else ""
         except:
             return ""
             
     def extract_content(self, response):
-        """提取页面内容（带文本去重）"""
+        """提取页面内容（兼容性方法，建议使用extract_content_from_soup）"""
         try:
             soup = BeautifulSoup(response.text, 'html.parser')
+            return self.extract_content_from_soup(soup)
+        except Exception as e:
+            self.logger.error(f"内容提取失败: {e}")
+            return ""
             
+    def extract_content_from_soup(self, soup):
+        """从soup对象提取页面内容（带文本去重）"""
+        try:
+            if soup is None:
+                return ""
+                
             for script in soup(["script", "style", "nav", "header", "footer", "aside"]):
                 script.decompose()
                 
@@ -680,12 +828,22 @@ class ProgramSpider(scrapy.Spider):
         return content if content else ""
         
     def extract_links(self, response):
-        """提取页面链接并进行过滤；仅获取锚文本匹配的links"""
+        """提取页面链接并进行过滤（兼容性方法，建议使用extract_links_from_soup）"""
         try:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            return self.extract_links_from_soup(soup, response)
+        except Exception as e:
+            self.logger.error(f"链接提取失败: {e}")
+            return []
+            
+    def extract_links_from_soup(self, soup, response):
+        """从soup对象提取页面链接并进行过滤；仅获取锚文本匹配的links"""
+        try:
+            if soup is None:
+                return []
+                
             # 从 response 中获取 project_id
             project_id = response.meta.get('project_id', 'unknown')
-            
-            soup = BeautifulSoup(response.text, 'html.parser')
             
             # 统计所有链接
             all_links = soup.find_all('a', href=True)
@@ -824,7 +982,20 @@ class ProgramSpider(scrapy.Spider):
         """当爬虫即将 idle 时，如果队列中还有项目，则启动下一个项目"""
         if self.project_queue and not self.is_processing_project:
             self.logger.info("spider_idle 触发，调度下一个项目 …")
-            for req in self.start_next_project():
-                # 直接通过 engine 调度，避免深度叠加（Scrapy ≥2.9 的 crawl 只接受 request 参数）
-                self.crawler.engine.crawl(req)
-            raise DontCloseSpider  # 告诉 Scrapy 暂时不要关闭
+            responses = list(self.start_next_project())
+            requests = []
+            
+            # 分离Request和Item对象
+            for obj in responses:
+                if hasattr(obj, 'url') and hasattr(obj, 'callback'):
+                    # 这是一个Request对象
+                    requests.append(obj)
+                else:
+                    # 这是一个Item对象，直接通过pipeline处理
+                    self.crawler.engine.scraper.itemproc.process_item(obj, self)
+            
+            if requests:
+                for req in requests:
+                    # 直接通过 engine 调度，避免深度叠加（Scrapy ≥2.9 的 crawl 只接受 request 参数）
+                    self.crawler.engine.crawl(req)
+                raise DontCloseSpider  # 告诉 Scrapy 暂时不要关闭

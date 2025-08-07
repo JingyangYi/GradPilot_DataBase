@@ -17,33 +17,14 @@ from scrapy.utils.project import get_project_settings
 def main():
     # 解析命令行参数
     parser = argparse.ArgumentParser(description='大学项目网页爬虫')
-    parser.add_argument('--test', action='store_true', 
-                       help='使用测试模式，默认为完整模式')
-    parser.add_argument('--csv-file', type=str,
-                       help='指定自定义CSV文件路径')
+    parser.add_argument('csv_file', type=str,
+                       help='指定CSV文件路径')
     
     args = parser.parse_args()
     
-    # 确定使用的CSV文件
-    if args.csv_file:
-        csv_file = args.csv_file
-        print(f"使用自定义CSV文件: {csv_file}")
-    elif args.test:
-        csv_file = 'test_urls.csv'
-        print("测试模式：使用test_urls.csv")
-        
-        # 检查测试文件是否存在，不存在则生成
-        if not os.path.exists(csv_file):
-            print("测试文件不存在，正在生成...")
-            try:
-                from generate_test_urls import generate_test_urls
-                generate_test_urls()
-            except ImportError:
-                print("无法导入生成测试URL的模块，请先运行: python generate_test_urls.py")
-                return
-    else:
-        csv_file = 'program_urls.csv'
-        print("完整模式：使用program_urls.csv（12,486个项目）")
+    # 使用指定的CSV文件
+    csv_file = args.csv_file
+    print(f"使用CSV文件: {csv_file}")
     
     # 检查CSV文件是否存在
     if not os.path.exists(csv_file):
@@ -56,13 +37,19 @@ def main():
     
     # 配置日志输出
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    mode = 'test' if args.test else 'full'
-    log_filename = f'crawl_{mode}_{timestamp}.log'
-    log_filepath = os.path.join('log', log_filename)
+    # 从CSV文件路径中提取文件名（不含扩展名）
+    csv_basename = os.path.splitext(os.path.basename(csv_file))[0]
     
-    # 确保 log 目录存在
-    if not os.path.exists('log'):
-        os.makedirs('log')
+    # 提取学科名称（去掉可能的数字后缀，如"计算机_1" -> "计算机"）
+    subject_name = csv_basename.split('_')[0] if '_' in csv_basename else csv_basename
+    
+    log_filename = f'{csv_basename}_{timestamp}.log'
+    subject_log_dir = os.path.join('log', subject_name)
+    log_filepath = os.path.join(subject_log_dir, log_filename)
+    
+    # 确保学科日志目录存在
+    if not os.path.exists(subject_log_dir):
+        os.makedirs(subject_log_dir)
     
     # 初始化Scrapy设置
     settings = get_project_settings()

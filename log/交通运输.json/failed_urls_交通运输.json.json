@@ -1,0 +1,230 @@
+[
+  {
+    "project_id": "7982a88c-592c-486b-b237-ef638e426b81",
+    "program_name": "加州大学伯克利分校交通运输工程工学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://ce.berkeley.edu/programs/trans",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-06T23:19:25.990816"
+  },
+  {
+    "project_id": "2e98b59e-d503-4da2-a106-fab40f0acd0a",
+    "program_name": "慕尼黑工业大学运输系统",
+    "source_file": "交通运输.json",
+    "url": "https://wiki.tum.de/download/attachments/876675783/TS_FPSO_2020_AptitudeAssessment_web.pdf?version=1&modificationDate=1655218658663&api=v2",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "openresty",
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "response_preview": "<!DOCTYPE html> <html lang=\"de-DE\"> <head>      <meta charset=\"utf-8\">       <title>Redirect - BayernCollab</title>     <meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>     <meta name=\"viewport\"",
+    "timestamp": "2025-08-06T23:19:46.610353"
+  },
+  {
+    "project_id": "7982a88c-592c-486b-b237-ef638e426b81",
+    "program_name": "加州大学伯克利分校交通运输工程工学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://ce.berkeley.edu/programs/trans",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-06T23:41:30.844700"
+  },
+  {
+    "project_id": "2e98b59e-d503-4da2-a106-fab40f0acd0a",
+    "program_name": "慕尼黑工业大学运输系统",
+    "source_file": "交通运输.json",
+    "url": "https://wiki.tum.de/download/attachments/876675783/TS_FPSO_2020_AptitudeAssessment_web.pdf?version=1&modificationDate=1655218658663&api=v2",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "openresty",
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "response_preview": "<!DOCTYPE html> <html lang=\"de-DE\"> <head>      <meta charset=\"utf-8\">       <title>Redirect - BayernCollab</title>     <meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>     <meta name=\"viewport\"",
+    "timestamp": "2025-08-06T23:41:51.114444"
+  },
+  {
+    "project_id": "7982a88c-592c-486b-b237-ef638e426b81",
+    "program_name": "加州大学伯克利分校交通运输工程工学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://ce.berkeley.edu/programs/trans",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:01:37.426194"
+  },
+  {
+    "project_id": "2e98b59e-d503-4da2-a106-fab40f0acd0a",
+    "program_name": "慕尼黑工业大学运输系统",
+    "source_file": "交通运输.json",
+    "url": "https://wiki.tum.de/download/attachments/876675783/TS_FPSO_2020_AptitudeAssessment_web.pdf?version=1&modificationDate=1655218658663&api=v2",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "openresty",
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "response_preview": "<!DOCTYPE html> <html lang=\"de-DE\"> <head>      <meta charset=\"utf-8\">       <title>Redirect - BayernCollab</title>     <meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>     <meta name=\"viewport\"",
+    "timestamp": "2025-08-07T00:01:57.295780"
+  },
+  {
+    "project_id": "7982a88c-592c-486b-b237-ef638e426b81",
+    "program_name": "加州大学伯克利分校交通运输工程工学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://ce.berkeley.edu/programs/trans",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:25:12.560869"
+  },
+  {
+    "project_id": "2e98b59e-d503-4da2-a106-fab40f0acd0a",
+    "program_name": "慕尼黑工业大学运输系统",
+    "source_file": "交通运输.json",
+    "url": "https://wiki.tum.de/download/attachments/876675783/TS_FPSO_2020_AptitudeAssessment_web.pdf?version=1&modificationDate=1655218658663&api=v2",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "openresty",
+      "content-type": "text/html; charset=UTF-8"
+    },
+    "response_preview": "<!DOCTYPE html> <html lang=\"de-DE\"> <head>      <meta charset=\"utf-8\">       <title>Redirect - BayernCollab</title>     <meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>     <meta name=\"viewport\"",
+    "timestamp": "2025-08-07T00:25:32.515665"
+  },
+  {
+    "project_id": "50b3dc91-a268-40a4-a940-faf2b7be38e5",
+    "program_name": "莫纳什大学交通与移动规划硕士",
+    "source_file": "交通运输.json",
+    "url": "https://www.monash.edu/study/courses/find-a-course/transport-and-mobility-planning-e6016?international=true",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=gQEnZpIf_hpnFErxvcEUyXt8Id20aHmnlmh0W081AeI-1754497578-1.0.1.1-3eyrtgWgU04YQB3DFapv.HpgRSlOGHeeJW0uT8T7hsEgsg5sWqA1zOZAfg1rGoGJhz9OBiyfZx3oOyJo3_CjYY.nVD1NRYprPYz0a_hnf6k; path=/; expires=Wed,",
+      "cf-ray": "96afe52c28847c5f-LAX"
+    },
+    "response_preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam",
+    "timestamp": "2025-08-07T00:26:19.072771"
+  },
+  {
+    "project_id": "07a6312b-ce5e-4005-aa53-6d5a37e48a62",
+    "program_name": "马来亚大学道路安全工程硕士",
+    "source_file": "交通运输.json",
+    "url": "https://study.um.edu.my/how-to-apply-master-rsquo-s-degree",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "nginx/1.20.1",
+      "content-type": "text/html; charset=iso-8859-1"
+    },
+    "response_preview": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\"> <html><head> <title>404 Not Found</title> </head><body> <h1>Not Found</h1> <p>The requested URL /how-to-apply-master-rsquo-s-degree.html was not foun",
+    "timestamp": "2025-08-07T00:28:53.969667"
+  },
+  {
+    "project_id": "4c024b88-269e-42f6-ba5b-b7d9f88d0642",
+    "program_name": "伯明翰大学铁路系统工程与集成理学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=04&pgCrse=34514&searchTerm=002025",
+    "error": "TimeoutError: User timeout caused connection failure: Getting https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=04&pgCrse=34514&searchTerm=002025 took longer than 30.0 seconds..",
+    "error_type": "TimeoutError",
+    "http_status": null,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T00:31:08.481454"
+  },
+  {
+    "project_id": "e5910297-6c00-4670-b899-b54ca57d5ced",
+    "program_name": "利兹大学空气质量解决方案与数据科学理学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://courses.leeds.ac.uk/j836/air-quality-solutions-msc",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Web Server",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "testcourses.leeds.ac.uk=test; path=/; domain=courses.leeds.ac.uk; secure; HttpOnly"
+    },
+    "response_preview": " <!DOCTYPE html> <html class=\"no-js\" lang=\"en\">       <head>     <meta charset=\"UTF-8\">     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">     <meta http-equiv=\"X-UA-Compatible",
+    "timestamp": "2025-08-07T00:32:23.808815"
+  },
+  {
+    "project_id": "14d0fb5b-b4bd-40a3-8a39-f55a294e1d56",
+    "program_name": "加州大学戴维斯分校运输技术与政策理学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://www.ucdavis.edu/graduate-programs/transportation-technology-and-policy",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T00:47:37.849890"
+  },
+  {
+    "project_id": "1f7efc07-ffbe-4436-9194-3d438a205d3e",
+    "program_name": "马来西亚理工大学交通工程硕士",
+    "source_file": "交通运输.json",
+    "url": "https://civil.utm.my/v2/postgraduate/meaq/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "nginx",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "dtCookie=v_4_srv_5_sn_0AA78E7C81665442BD1E0D2D565CE4E4_perc_100000_ol_0_mul_1_app-3A0b887cd49115ff91_0_rcs-3Acss_0; Path=/; Domain=.utm.my"
+    },
+    "response_preview": "<!DOCTYPE html> <html lang=\"en-US\"> <head> \t<meta charset=\"UTF-8\" /> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"> \t<link rel=\"pingback\" href=\"https://civil.utm.my/xmlrpc.php\" />  \t<script typ",
+    "timestamp": "2025-08-07T00:49:19.962443"
+  },
+  {
+    "project_id": "d4da5ea7-b4b6-4a16-b1de-a00d40be97d1",
+    "program_name": "卡迪夫大学运输与规划理学硕士",
+    "source_file": "交通运输.json",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/transport-and-planning-msc",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=GNOekrYuDYQ2H4F3WkPLjSdIaGsQOpF9D4loBMZuW6c-1754498961-1.0.1.1-ywRi.lcMWJxSHvQNxRDL44A.gtUTeoxCotpXsvcAgZXA1Ff8FU1t.a9Jgh4A4YIe.EbXPwX8SY1aOd7bn_m28KBwavSpAc3hKFKXhvEADrM; path=/; expires=Wed,",
+      "cf-ray": "96b006ed6884f643-LAX"
+    },
+    "response_preview": "<!DOCTYPE html> <!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]--> <!--[if IE 8]>    <html class=\"no-",
+    "timestamp": "2025-08-07T00:49:21.658226"
+  }
+]

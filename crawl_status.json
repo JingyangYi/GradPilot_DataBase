@@ -1,0 +1,77 @@
+{
+  "subjects": {
+    "会计": {
+      "status": "running",
+      "total": 0,
+      "completed": 102,
+      "failed": 1
+    },
+    "人力资源管理": {
+      "status": "running",
+      "total": 0,
+      "completed": 103,
+      "failed": 2
+    },
+    "交通运输": {
+      "status": "running",
+      "total": 0,
+      "completed": 83,
+      "failed": 0
+    },
+    "体育": {
+      "status": "running",
+      "total": 0,
+      "completed": 19,
+      "failed": 0
+    },
+    "供应链管理": {
+      "status": "running",
+      "total": 0,
+      "completed": 95,
+      "failed": 0
+    },
+    "信息系统": {
+      "status": "running",
+      "total": 0,
+      "completed": 131,
+      "failed": 0
+    },
+    "公共卫生": {
+      "status": "running",
+      "total": 0,
+      "completed": 4,
+      "failed": 0
+    }
+  },
+  "failed_projects": [
+    {
+      "project_id": "30eb55bd-9338-4474-908f-178942b46505",
+      "program_name": "康奈尔大学管理学硕士-会计方向",
+      "source_file": "会计",
+      "url": "https://www.johnson.cornell.edu/programs/mps-in-management-accounting-specialization/",
+      "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+      "error_type": "HttpError",
+      "timestamp": "2025-08-06T21:42:47.817567"
+    },
+    {
+      "project_id": "d65b8efe-8f42-4d37-8004-2d3544bdbf98",
+      "program_name": "爱丁堡大学国际人力资源管理理学硕士",
+      "source_file": "人力资源管理",
+      "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=880",
+      "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+      "error_type": "HttpError",
+      "timestamp": "2025-08-06T21:42:48.486753"
+    },
+    {
+      "project_id": "f83dfbb7-93e9-4fe0-add2-c9eeb73cc116",
+      "program_name": "爱丁堡大学人力资源管理理学硕士",
+      "source_file": "人力资源管理",
+      "url": "https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2025&id=755",
+      "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+      "error_type": "HttpError",
+      "timestamp": "2025-08-06T21:42:49.423766"
+    }
+  ],
+  "completed_subjects": [],
+  "last_update": "2025-08-07T13:38:27.371907"
+}

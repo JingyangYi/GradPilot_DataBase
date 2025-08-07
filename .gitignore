@@ -1,2 +1,2 @@
 # 忽略 output 下的所有文件
-GradPilot_DataBase/Crawl/output/**
+crawl/output/

@@ -1,0 +1,311 @@
+2025-08-07 13:37:39 [scrapy.utils.log] INFO: Scrapy 2.11.1 started (bot: program_crawler)
+2025-08-07 13:37:39 [scrapy.utils.log] INFO: Versions: lxml 4.9.3.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.2, Twisted 23.10.0, Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ], pyOpenSSL 24.2.1 (OpenSSL 3.0.15 3 Sep 2024), cryptography 43.0.0, Platform macOS-15.5-arm64-arm-64bit
+2025-08-07 13:37:39 [program_spider] INFO: 尝试加载CSV文件: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/urls_subject/公共卫生/公共卫生_1.csv
+2025-08-07 13:37:39 [program_spider] INFO: 文件是否存在: True
+2025-08-07 13:37:39 [program_spider] INFO: 
+================================================================================
+2025-08-07 13:37:39 [program_spider] INFO: 原始总项目数: 100
+2025-08-07 13:37:39 [program_spider] INFO: 将要爬取 100 个项目
+2025-08-07 13:37:39 [program_spider] INFO: 允许的域名: ['www.imperial.ac.uk', 'healthpolicy.fsi.stanford.edu', 'www.ox.ac.uk', 'www.hsph.harvard.edu', 'hsph.harvard.edu', 'www.postgraduate.study.cam.ac.uk', 'medicine.nus.edu.sg', 'masters.nus.edu.sg', 'www.ucl.ac.uk', 'portal.hku.hk', 'publichealth.bsd.uchicago.edu', 'publichealth.berkeley.edu', 'sph.berkeley.edu', 'study.unimelb.edu.au', 'degrees.unsw.edu.au', 'www.unsw.edu.au', 'ysph.yale.edu', 'publichealth.jhu.edu', 'www.sydney.edu.au', 'www.kcl.ac.uk', 'programsandcourses.anu.edu.au', 'www.gs.cuhk.edu.hk', 'www.ed.ac.uk', 'www.manchester.ac.uk', 'www.monash.edu', 'www.publichealth.columbia.edu', 'study.uq.edu.au', 'sph.umich.edu', 'ph.ucla.edu', 'www.bristol.ac.uk', 'publichealth.nyu.edu', 'wagner.nyu.edu']
+2025-08-07 13:37:39 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-07 13:37:39 [program_spider] INFO: ================================================================================
+2025-08-07 13:37:39 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-07 13:37:39 [py.warnings] WARNING: /opt/anaconda3/lib/python3.12/site-packages/scrapy/utils/request.py:254: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2025-08-07 13:37:39 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-07 13:37:39 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 6,
+ 'AUTOTHROTTLE_START_DELAY': 1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 32,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/公共卫生/公共卫生_1_20250807_133739.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.5,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-07 13:37:39 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-07 13:37:39 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-07 13:37:39 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-07 13:37:39 [scrapy.core.engine] INFO: Spider opened
+2025-08-07 13:37:39 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-07 13:37:39 [program_spider] INFO: 
+================================================================================
+2025-08-07 13:37:39 [program_spider] INFO: 开始爬取项目 [1/100]
+2025-08-07 13:37:39 [program_spider] INFO: 项目名称: 帝国理工学院全球健康管理理学硕士
+2025-08-07 13:37:39 [program_spider] INFO: 项目ID: 7d777836-404d-45b5-bab9-99f53164c101
+2025-08-07 13:37:39 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/international-health-management/
+2025-08-07 13:37:39 [program_spider] INFO: 剩余项目数: 99
+2025-08-07 13:37:39 [program_spider] INFO: ================================================================================
+2025-08-07 13:37:39 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/global-health-management/
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 页面总链接数: 39
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 移除导航后链接数: 39 (移除了 0 个导航链接)
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 有效链接数: 26, 关键词匹配数: 15, 最终提取数: 15
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/global-health-management/ (depth=0, is_root=True) 提取到 15 个链接
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/global-health-management/?addCourse=1202412 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/ (锚文本: 'Learn more about application rounds for Master's courses', 匹配关键词: 'master')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/business-school/masters/global-health-management/admissions/ (锚文本: 'application process', 匹配关键词: 'application')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Find out more about the application fee and waiver', 匹配关键词: 'application')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 提取链接完成，去重前 15 个链接，去重后 12 个新请求（去重了 3 个重复链接）
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 1 -> 13, 操作: 添加12个子页面请求
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 添加 12 个新请求，当前剩余: 12
+2025-08-07 13:37:41 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-07 13:37:42 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理1个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-07 13:37:42 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-07 13:37:43 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理2个页面): https://myimperial.powerappsportals.com/
+2025-08-07 13:37:43 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-07 13:37:43 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-07 13:37:43 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-07 13:37:44 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-07 13:37:44 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-07 13:37:45 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-07 13:37:45 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-07 13:37:46 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-07 13:37:46 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-07 13:37:49 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/deadlines/
+2025-08-07 13:37:49 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-07 13:37:50 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-07 13:37:50 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-07 13:37:50 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-07 13:37:50 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-07 13:37:51 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-07 13:37:51 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-07 13:37:52 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/global-health-management/?addCourse=120...
+2025-08-07 13:37:52 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-07 13:37:55 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在处理子页面(深度1) (已处理12个页面): https://www.imperial.ac.uk/business-school/masters/global-health-management/admissions/
+2025-08-07 13:37:55 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 正在完成项目
+2025-08-07 13:37:56 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 项目完成: 帝国理工学院全球健康管理理学硕士
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101]   - 总页数: 13
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101]   - 成功页数: 13
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101]   - 失败页数: 0
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101]   - 成功率: 100.0%
+2025-08-07 13:37:56 [program_spider] INFO: ------------------------------------------------------------
+2025-08-07 13:37:56 [program_spider] INFO: 成功保存项目数据: output/公共卫生/帝国理工学院全球健康管理理学硕士_公共卫生.json
+2025-08-07 13:37:56 [program_spider] INFO: [7d777836-404d-45b5-bab9-99f53164c101] 仍有 99 个项目待爬，将在爬虫空闲时继续。
+2025-08-07 13:37:56 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-07 13:37:56 [program_spider] INFO: 
+================================================================================
+2025-08-07 13:37:56 [program_spider] INFO: 开始爬取项目 [2/100]
+2025-08-07 13:37:56 [program_spider] INFO: 项目名称: 帝国理工学院流行病学理学硕士
+2025-08-07 13:37:56 [program_spider] INFO: 项目ID: 033ebaff-adc8-4142-ac87-0829936f64f4
+2025-08-07 13:37:56 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/epidemiology/
+2025-08-07 13:37:56 [program_spider] INFO: 剩余项目数: 98
+2025-08-07 13:37:56 [program_spider] INFO: ================================================================================
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/epidemiology/
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 页面总链接数: 41
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 移除导航后链接数: 41 (移除了 0 个导航链接)
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 有效链接数: 30, 关键词匹配数: 16, 最终提取数: 16
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/epidemiology/ (depth=0, is_root=True) 提取到 16 个链接
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/school-public-health/study/postgraduate/funding-and-scholarships/ (锚文本: 'SPH Masters Scholarships', 匹配关键词: 'master')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/epidemiology/?addCourse=1198976 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 提取链接完成，去重前 16 个链接，去重后 12 个新请求（去重了 4 个重复链接）
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 1 -> 13, 操作: 添加12个子页面请求
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 添加 12 个新请求，当前剩余: 12
+2025-08-07 13:37:56 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-07 13:37:57 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理1个页面): https://myimperial.powerappsportals.com/
+2025-08-07 13:37:57 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-07 13:38:00 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-07 13:38:00 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-07 13:38:02 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-07 13:38:02 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-07 13:38:03 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-07 13:38:04 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-07 13:38:04 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-07 13:38:05 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-07 13:38:05 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-07 13:38:05 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-07 13:38:06 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-07 13:38:07 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-07 13:38:07 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-07 13:38:07 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-07 13:38:08 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-07 13:38:08 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-07 13:38:09 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-07 13:38:09 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-07 13:38:11 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/epidemiology/?addCourse=1198976
+2025-08-07 13:38:11 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-07 13:38:11 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在处理子页面(深度1) (已处理12个页面): https://www.imperial.ac.uk/school-public-health/study/postgraduate/funding-and-scholarships/
+2025-08-07 13:38:11 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-07 13:38:12 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 正在完成项目
+2025-08-07 13:38:13 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-07 13:38:13 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 项目完成: 帝国理工学院流行病学理学硕士
+2025-08-07 13:38:13 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4]   - 总页数: 13
+2025-08-07 13:38:13 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4]   - 成功页数: 13
+2025-08-07 13:38:13 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4]   - 失败页数: 0
+2025-08-07 13:38:13 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4]   - 成功率: 100.0%
+2025-08-07 13:38:13 [program_spider] INFO: ------------------------------------------------------------
+2025-08-07 13:38:13 [program_spider] INFO: 成功保存项目数据: output/公共卫生/帝国理工学院流行病学理学硕士_公共卫生.json
+2025-08-07 13:38:13 [program_spider] INFO: [033ebaff-adc8-4142-ac87-0829936f64f4] 仍有 98 个项目待爬，将在爬虫空闲时继续。
+2025-08-07 13:38:13 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-07 13:38:13 [program_spider] INFO: 
+================================================================================
+2025-08-07 13:38:13 [program_spider] INFO: 开始爬取项目 [3/100]
+2025-08-07 13:38:13 [program_spider] INFO: 项目名称: 帝国理工学院公共健康硕士
+2025-08-07 13:38:13 [program_spider] INFO: 项目ID: a678f33b-eb15-43f7-b396-7e1529234e6a
+2025-08-07 13:38:13 [program_spider] INFO: 根URL: https://www.imperial.ac.uk/study/courses/postgraduate-taught/public-health-masters/
+2025-08-07 13:38:13 [program_spider] INFO: 剩余项目数: 97
+2025-08-07 13:38:13 [program_spider] INFO: ================================================================================
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理根页面 (已处理0个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/public-health-masters/
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 页面总链接数: 43
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 移除导航后链接数: 43 (移除了 0 个导航链接)
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 有效链接数: 32, 关键词匹配数: 16, 最终提取数: 16
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 页面 https://www.imperial.ac.uk/study/courses/postgraduate-taught/public-health-masters/ (depth=0, is_root=True) 提取到 16 个链接
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/courses/compare/ (锚文本: 'Course compare
+0', 匹配关键词: 'course')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://myimperial.powerappsportals.com/ (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/school-public-health/study/postgraduate/funding-and-scholarships/ (锚文本: 'SPH Masters Scholarships', 匹配关键词: 'master')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/courses/postgraduate-taught/public-health-masters/?addCourse=1199034 (锚文本: 'Add to course compare', 匹配关键词: 'course')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/apply/course-changes/ (锚文本: 'potential course changes', 匹配关键词: 'course')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/apply/english-language/ (锚文本: 'English language requirements', 匹配关键词: 'requirements')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/apply/contact/ (锚文本: 'relevant admissions team', 匹配关键词: 'admission')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/ (锚文本: 'Read full details about the application fee and waiver', 匹配关键词: 'application')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/ (锚文本: 'how to apply for a Master's course', 匹配关键词: 'master')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/ (锚文本: 'tuition fees payment terms', 匹配关键词: 'tuition')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/ (锚文本: 'Postgraduate Master’s Loan', 匹配关键词: 'master')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 爬取子链接: https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-information/programme-specifications/ (锚文本: 'Programme specifications', 匹配关键词: 'program')
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 提取链接完成，去重前 16 个链接，去重后 12 个新请求（去重了 4 个重复链接）
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 1 -> 13, 操作: 添加12个子页面请求
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 添加 12 个新请求，当前剩余: 12
+2025-08-07 13:38:13 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-07 13:38:14 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理1个页面): https://myimperial.powerappsportals.com/
+2025-08-07 13:38:14 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-07 13:38:14 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理2个页面): https://www.imperial.ac.uk/study/courses/compare/
+2025-08-07 13:38:14 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-07 13:38:15 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理3个页面): https://www.imperial.ac.uk/staff/tools-and-reference/quality-assurance-enhancement/programme-informa...
+2025-08-07 13:38:15 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-07 13:38:16 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理4个页面): https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/loans/masters-loan/
+2025-08-07 13:38:16 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-07 13:38:17 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理5个页面): https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/
+2025-08-07 13:38:17 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-07 13:38:18 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理6个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/
+2025-08-07 13:38:18 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-07 13:38:19 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理7个页面): https://www.imperial.ac.uk/study/apply/postgraduate-taught/application-process/application-fee/
+2025-08-07 13:38:19 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-07 13:38:20 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理8个页面): https://www.imperial.ac.uk/study/apply/contact/
+2025-08-07 13:38:20 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-07 13:38:21 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理9个页面): https://www.imperial.ac.uk/study/apply/english-language/
+2025-08-07 13:38:21 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-07 13:38:22 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理10个页面): https://www.imperial.ac.uk/study/apply/course-changes/
+2025-08-07 13:38:22 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-07 13:38:23 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理11个页面): https://www.imperial.ac.uk/study/courses/postgraduate-taught/public-health-masters/?addCourse=119903...
+2025-08-07 13:38:23 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-07 13:38:24 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在处理子页面(深度1) (已处理12个页面): https://www.imperial.ac.uk/school-public-health/study/postgraduate/funding-and-scholarships/
+2025-08-07 13:38:24 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 正在完成项目
+2025-08-07 13:38:25 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 项目完成: 帝国理工学院公共健康硕士
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a]   - 总页数: 13
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a]   - 成功页数: 13
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a]   - 失败页数: 0
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a]   - 成功率: 100.0%
+2025-08-07 13:38:25 [program_spider] INFO: ------------------------------------------------------------
+2025-08-07 13:38:25 [program_spider] INFO: 成功保存项目数据: output/公共卫生/帝国理工学院公共健康硕士_公共卫生.json
+2025-08-07 13:38:25 [program_spider] INFO: [a678f33b-eb15-43f7-b396-7e1529234e6a] 仍有 97 个项目待爬，将在爬虫空闲时继续。
+2025-08-07 13:38:25 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-07 13:38:25 [program_spider] INFO: 
+================================================================================
+2025-08-07 13:38:25 [program_spider] INFO: 开始爬取项目 [4/100]
+2025-08-07 13:38:25 [program_spider] INFO: 项目名称: 斯坦福大学健康政策硕士
+2025-08-07 13:38:25 [program_spider] INFO: 项目ID: ebb227d3-deeb-4715-86c1-6e8832f15807
+2025-08-07 13:38:25 [program_spider] INFO: 根URL: https://healthpolicy.fsi.stanford.edu/content/ms-health-policy
+2025-08-07 13:38:25 [program_spider] INFO: 剩余项目数: 96
+2025-08-07 13:38:25 [program_spider] INFO: ================================================================================
+2025-08-07 13:38:25 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807] 请求失败详情:
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   URL: https://healthpolicy.fsi.stanford.edu/content/ms-health-policy
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   错误类型: HttpError
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   错误描述: Ignoring non-200 response
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   HTTP状态码: 403
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   响应头: server: Pantheon; content-type: text/html; charset=utf-8
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   响应预览: <!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style="font-family:Arial, Helvetica, sans-serif; text-align: center">           <div ...
+2025-08-07 13:38:26 [program_spider] ERROR: [ebb227d3-deeb-4715-86c1-6e8832f15807]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-07 13:38:26 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-07 13:38:26 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 已处理页面: 1, 剩余请求数: 0
+2025-08-07 13:38:26 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 新增失败URL记录: https://healthpolicy.fsi.stanford.edu/content/ms-health-policy
+2025-08-07 13:38:26 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 失败记录已保存到: /Users/yijingyang/Library/CloudStorage/OneDrive-个人/GradPilot/ProgramDB/crawl/log/公共卫生/failed_urls_公共卫生.json
+2025-08-07 13:38:26 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 项目在错误处理中完成，立即收尾 …
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 正在完成项目
+2025-08-07 13:38:27 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 项目完成: 斯坦福大学健康政策硕士
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807]   - 总页数: 0
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807]   - 成功页数: 0
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807]   - 失败页数: 1
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807]   - 成功率: 0.0%
+2025-08-07 13:38:27 [program_spider] INFO: ------------------------------------------------------------
+2025-08-07 13:38:27 [program_spider] INFO: 成功保存项目数据: output/公共卫生/斯坦福大学健康政策硕士_公共卫生.json
+2025-08-07 13:38:27 [program_spider] INFO: [ebb227d3-deeb-4715-86c1-6e8832f15807] 仍有 96 个项目待爬，将在爬虫空闲时继续。
+2025-08-07 13:38:27 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-07 13:38:27 [program_spider] INFO: 
+================================================================================
+2025-08-07 13:38:27 [program_spider] INFO: 开始爬取项目 [5/100]
+2025-08-07 13:38:27 [program_spider] INFO: 项目名称: 牛津大学转化健康科学理学硕士
+2025-08-07 13:38:27 [program_spider] INFO: 项目ID: b2ffa782-3f50-4503-8dea-48f452b5e66b
+2025-08-07 13:38:27 [program_spider] INFO: 根URL: https://www.ox.ac.uk/admissions/graduate/courses/msc-translational-health-sciences
+2025-08-07 13:38:27 [program_spider] INFO: 剩余项目数: 95
+2025-08-07 13:38:27 [program_spider] INFO: ================================================================================
+2025-08-07 13:38:27 [program_spider] INFO: [b2ffa782-3f50-4503-8dea-48f452b5e66b] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-07 13:38:31 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2025-08-07 13:38:31 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2025-08-07 13:38:31 [program_spider] INFO: [b2ffa782-3f50-4503-8dea-48f452b5e66b] 正在处理根页面 (已处理0个页面): https://www.ox.ac.uk/admissions/graduate/courses/msc-translational-health-sciences

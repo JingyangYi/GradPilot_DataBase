@@ -1,0 +1,61 @@
+[
+  {
+    "project_id": "4f643c3b-3f2c-4f19-959e-a4eda09c98c0",
+    "program_name": "伯明翰大学供应链管理理学硕士",
+    "source_file": "供应链管理.json",
+    "url": "https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=07&pgCrse=38007&searchTerm=002025",
+    "error": "TimeoutError: User timeout caused connection failure: Getting https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getModuleDetailsList&pgSubj=07&pgCrse=38007&searchTerm=002025 took longer than 30.0 seconds..",
+    "error_type": "TimeoutError",
+    "http_status": null,
+    "response_headers": {},
+    "response_preview": "",
+    "timestamp": "2025-08-07T02:54:39.484524"
+  },
+  {
+    "project_id": "88320e32-c4eb-4a75-8a69-6ef611912537",
+    "program_name": "宾夕法尼亚州立大学供应链管理硕士",
+    "source_file": "供应链管理.json",
+    "url": "https://mscm.smeal.psu.edu/program-details/tuition",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "content-type": "text/html;charset=utf-8",
+      "set-cookie": "serverid=p0103; path=/"
+    },
+    "response_preview": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en-us\" xml:lang=\"en-us\">     <",
+    "timestamp": "2025-08-07T02:55:21.536726"
+  },
+  {
+    "project_id": "4c9d0f71-8530-4ef3-8968-87508d68588f",
+    "program_name": "伦敦大学玛丽皇后学院供应链管理理学硕士",
+    "source_file": "供应链管理.json",
+    "url": "https://www.qmul.ac.uk/investing-campus/graduate-centre/",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "AWSALBCORS=TiFqdnq59Ald3m9SCpduhkAeKjnOB0sFBjVwIl3wrK54Gt2o5lYrOZJ0OHwmV7HMEmUYp7x0oBGOl1OjfZ3wZKCUPUv5Y59Xo87a9k6WyPx1nMATX5NXFUX8QMFt; Expires=Wed, 13 Aug 2025 23:57:54 GMT; Path=/; SameSite=None; S"
+    },
+    "response_preview": "<!DOCTYPE html>  <html lang=\"en\" data-js=\"no\">  <head>      <meta charset=\"utf-8\">      <title>Sorry, the page you requested could not be found - Queen Mary University of London</title>      <meta nam",
+    "timestamp": "2025-08-07T07:57:54.247202"
+  },
+  {
+    "project_id": "038f0900-6380-4ed5-9c98-3d59cafd9c5f",
+    "program_name": "威斯康星大学麦迪逊分校供应链管理理学硕士",
+    "source_file": "供应链管理.json",
+    "url": "https://wsb.wisc.edu/programs-degrees/masters/supply-chain",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "Pantheon",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "response_preview": "<!DOCTYPE HTML>       <html>         <head>           <title>403 - Forbidden</title>         </head>         <body style=\"font-family:Arial, Helvetica, sans-serif; text-align: center\">           <div ",
+    "timestamp": "2025-08-07T07:57:56.029756"
+  }
+]
