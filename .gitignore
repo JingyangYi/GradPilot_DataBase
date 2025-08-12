@@ -1,2 +1,7 @@
 # 忽略 output 下的所有文件
 crawl/output/
+crawl/log
+classifier/log_20250812/
+classifier/output_20250812/
+classifier/data_20250812/
+classifier/reports_20250812/

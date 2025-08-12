@@ -934,10 +934,13 @@ class ProgramSpider(scrapy.Spider):
             return False
             
     def get_matched_keyword(self, url, anchor_text):
-        """获取匹配的白名单关键词；仅匹配anchor_text"""
+        """获取匹配的白名单关键词；检查anchor_text中是否包含白名单关键词"""
         from ..url_filter import URL_WHITELIST_KEYWORDS
         
-        text_to_check = (anchor_text).lower()
+        if not anchor_text:
+            return None
+            
+        text_to_check = anchor_text.lower()
         
         for keyword in URL_WHITELIST_KEYWORDS:
             if keyword in text_to_check:

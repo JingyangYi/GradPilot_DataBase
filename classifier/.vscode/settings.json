@@ -1,0 +1,5 @@
+{
+  "editor.largeFileOptimizations": false,
+  "json.maxItemsComputed": 100000,
+  "files.maxMemoryForLargeFilesMB": 2048
+}
