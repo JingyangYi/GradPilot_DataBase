@@ -16,11 +16,11 @@ import re
 
 # 白名单关键词 - 仅当 URL 或链接文本包含下列关键词时才会被爬取
 URL_WHITELIST_KEYWORDS = [
-    'master', 'graduate', 'program', 'course', 'curriculum', 'structure', 'module',
-    'apply', 'admission', 'requirements', 'deadline', 'application', 'entry requirements',
-    'tuition', 'funding', 'scholarship',
-    'duration', 'thesis', 'dissertation',
-    'frequently asked questions', 'career', 'certificates', 'tracks', 'faqs'
+    'program', 'course', 'curriculum', 'module',
+    'apply', 'admission', 'requirement', 'deadline', 'application', 'requirements',
+    'tuition', 'entry', 'financial', 'funding', 'scholarship',
+    'frequently asked questions', 'career', 'certificates', 'track', 'faqs', 'faq', 'frequently',
+    'concentration', 'specialization', 'capstone', 'thesis', 'project', 'internship'
 ]
 
 # 链接文本黑名单 - 基于链接描述文本的过滤

@@ -847,7 +847,7 @@ class ProgramSpider(scrapy.Spider):
             #     self.logger.info(f"[{project_id}] 原始链接{i+1}: '{anchor_text}' -> {href}")
             
             # 删除导航元素 - 减少误删，只删除明确的导航和页脚
-            nav_selectors = ['footer', '.navigation', '.menu', '.navbar', "header"]  # 移除了'nav'避免误删页面主要内容
+            nav_selectors = ['footer', '.menu', "header"]  # 移除了'nav'避免误删页面主要内容
             removed_nav_count = 0
             for selector in nav_selectors:
                 nav_elements = soup.select(selector)
