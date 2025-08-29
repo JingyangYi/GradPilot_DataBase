@@ -139,7 +139,18 @@ class JsonWriterPipeline:
     
     def update_crawl_status(self, item, status, error_msg=None):
         """更新爬取状态追踪"""
-        status_file = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'crawl_status.json')
+        # 修改为保存在 crawl/status_log 目录中
+        crawl_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+        status_log_dir = os.path.join(crawl_dir, 'status_log')
+        
+        # 确保状态日志目录存在
+        if not os.path.exists(status_log_dir):
+            os.makedirs(status_log_dir)
+        
+        # 生成带时间戳的文件名 (格式: YYMMDDHHMM)
+        from datetime import datetime
+        timestamp = datetime.now().strftime('%y%m%d%H%M')
+        status_file = os.path.join(status_log_dir, f'crawl_status_{timestamp}.json')
         
         try:
             # 读取现有状态

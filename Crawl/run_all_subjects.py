@@ -147,7 +147,7 @@ group5 = [
 ]
 
 # 选择要运行的组 (修改这里选择组号)
-selected_group = group1  # 改为 group1, group2, group3, group4, group5
+selected_group = group5  # 改为 group1, group2, group3, group4, group5
 
 print(f"开始爬取选定组，共 {len(selected_group)} 个CSV文件")
 

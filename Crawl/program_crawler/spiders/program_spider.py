@@ -244,7 +244,7 @@ class ProgramSpider(scrapy.Spider):
                 'url': response.url,
                 'depth': depth,
                 'title': self.extract_title_from_soup(soup),
-                'content': self.extract_content_from_soup(soup),
+                'content': self.extract_structured_content_from_soup(soup),  # 统一使用结构化内容
                 'links': [],
                 'crawl_status': 'success'
             }
@@ -635,187 +635,6 @@ class ProgramSpider(scrapy.Spider):
         except:
             return ""
             
-    def extract_content(self, response):
-        """提取页面内容（兼容性方法，建议使用extract_content_from_soup）"""
-        try:
-            soup = BeautifulSoup(response.text, 'html.parser')
-            return self.extract_content_from_soup(soup)
-        except Exception as e:
-            self.logger.error(f"内容提取失败: {e}")
-            return ""
-            
-    def extract_content_from_soup(self, soup):
-        """从soup对象提取页面内容（带文本去重）"""
-        try:
-            if soup is None:
-                return ""
-                
-            for script in soup(["script", "style", "nav", "header", "footer", "aside"]):
-                script.decompose()
-                
-            content_parts = []
-            
-            content_parts.extend(self.extract_text_elements(soup))
-            content_parts.extend(self.extract_tables(soup))
-            
-            # 应用文本去重：过滤掉重复的大段文本，避免响应式设计、SEO重复等导致的冗余
-            deduplicated_parts = self.deduplicate_text_content(content_parts)
-            
-            return '\n'.join(filter(None, deduplicated_parts))
-            
-        except Exception as e:
-            self.logger.error(f"内容提取失败: {e}")
-            return ""
-    
-    def deduplicate_text_content(self, content_parts):
-        """
-        文本去重：行级去重 + 统一规范化 (改进版)
-
-        改进点：
-        1. 先按换行拆分为行级片段，粒度更细；
-        2. 统一去掉前缀标记（如 [HTML_TABLE] 等）和行首符号（•、-、数字序号等）；
-        3. 长度 <10 的行视为噪声直接过滤；
-        4. 使用规范化文本（去空白、转小写）做去重判断。
-        """
-        if not content_parts:
-            return content_parts
-
-        deduplicated_parts = []
-        seen = set()
-
-        for part in content_parts:
-            if not part or not isinstance(part, str):
-                continue
-
-            # 拆分行，避免整块文本去重失败
-            for line in part.split('\n'):
-                text = line.strip()
-                if not text:
-                    continue
-
-                # 去掉像 [HTML_TABLE]、[GRID_TABLE] 等前缀标记
-                text_no_prefix = re.sub(r'^\[[A-Z_]+\]\s*', '', text)
-                # 去掉行首 bullet / 破折号 / 序号等
-                text_no_prefix = re.sub(r'^[•●\-\u2022\s\d\.\)\(]+', '', text_no_prefix)
-
-                # 规范化：去多余空白、转小写
-                normalized = ' '.join(text_no_prefix.lower().split())
-                if len(normalized) < 10:
-                    # 信息量过低，跳过
-                    continue
-
-                if normalized in seen:
-                    continue
-                seen.add(normalized)
-
-                # 保留原始行文本（含符号，保持可读性）
-                deduplicated_parts.append(text)
-
-        return deduplicated_parts
-            
-    def extract_text_elements(self, soup):
-        """提取常规文本元素"""
-        content_parts = []
-        
-        for tag in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
-            text = tag.get_text().strip()
-            if text:
-                content_parts.append(f"[HEADING] {text}")
-                
-        for tag in soup.find_all('p'):
-            text = tag.get_text().strip()
-            if text and len(text) > 10:
-                content_parts.append(text)
-                
-        for tag in soup.find_all(['ul', 'ol']):
-            for li in tag.find_all('li'):
-                item_text = li.get_text().strip()
-                if item_text:
-                    content_parts.append(f"• {item_text}")
-                
-        return content_parts
-        
-    def extract_tables(self, soup):
-        """提取各种表格形式的内容"""
-        content_parts = []
-        
-        for table in soup.find_all('table'):
-            table_content = self.extract_html_table(table)
-            if table_content:
-                content_parts.append(f"[HTML_TABLE]\n{table_content}")
-                
-        for grid in soup.find_all(class_=re.compile(r'grid|row|col')):
-            grid_content = self.extract_grid_layout(grid)
-            if grid_content:
-                content_parts.append(f"[GRID_TABLE]\n{grid_content}")
-                
-        for dl in soup.find_all('dl'):
-            dl_content = self.extract_definition_list(dl)
-            if dl_content:
-                content_parts.append(f"[DEFINITION_LIST]\n{dl_content}")
-                
-        for card in soup.find_all(class_=re.compile(r'card|panel|box')):
-            card_content = self.extract_card_content(card)
-            if card_content:
-                content_parts.append(f"[CARD]\n{card_content}")
-                
-        return content_parts
-        
-    def extract_html_table(self, table):
-        """提取HTML表格内容"""
-        rows = []
-        for tr in table.find_all('tr'):
-            cells = []
-            for cell in tr.find_all(['td', 'th']):
-                cell_text = cell.get_text().strip()
-                cells.append(cell_text)
-            if cells:
-                rows.append(' | '.join(cells))
-        return '\n'.join(rows)
-        
-    def extract_grid_layout(self, grid):
-        """提取CSS Grid/Flexbox布局内容"""
-        items = []
-        for item in grid.find_all(class_=re.compile(r'col|item|cell')):
-            text = item.get_text().strip()
-            if text and len(text) > 5:
-                items.append(text)
-        return '\n'.join(items) if len(items) > 1 else ""
-        
-    def extract_definition_list(self, dl):
-        """提取定义列表内容"""
-        items = []
-        current_term = ""
-        
-        for child in dl.children:
-            if hasattr(child, 'name'):
-                if child.name == 'dt':
-                    current_term = child.get_text().strip()
-                elif child.name == 'dd' and current_term:
-                    definition = child.get_text().strip()
-                    items.append(f"{current_term}: {definition}")
-                    current_term = ""
-                    
-        return '\n'.join(items)
-        
-    def extract_card_content(self, card):
-        """提取卡片式布局内容"""
-        title = ""
-        content = ""
-        
-        title_elem = card.find(class_=re.compile(r'title|header|heading'))
-        if title_elem:
-            title = title_elem.get_text().strip()
-            
-        content_elem = card.find(class_=re.compile(r'content|body|text'))
-        if content_elem:
-            content = content_elem.get_text().strip()
-        else:
-            content = card.get_text().strip()
-            
-        if title and content:
-            return f"{title}\n{content}"
-        return content if content else ""
         
     def extract_links(self, response):
         """提取页面链接并进行过滤（兼容性方法，建议使用extract_links_from_soup）"""
@@ -965,14 +784,117 @@ class ProgramSpider(scrapy.Spider):
                 
         if unfinished_projects:
             self.logger.warning(f"发现未完成的项目: {unfinished_projects}")
+    
+    def extract_structured_content_from_soup(self, soup):
+        """
+        提取保留HTML结构的内容用于RAG系统
+        保留标题层级、表格结构等关键信息
+        """
+        try:
+            if soup is None:
+                return ""
             
-        # 尝试完成所有待完成的项目
-        if hasattr(self, '_projects_to_complete') and self._projects_to_complete:
-            self.logger.warning(f"发现待完成项目: {list(self._projects_to_complete)}")
+            # 移除不需要的元素但保留主要内容结构
+            for script in soup(["script", "style", "nav", "header", "footer", "aside"]):
+                script.decompose()
+            
+            content_parts = []
+            
+            # 提取并保留标题结构
+            content_parts.extend(self.extract_structured_headings(soup))
+            
+            # 提取并保留表格结构
+            content_parts.extend(self.extract_structured_tables(soup))
+            
+            # 提取段落和列表内容
+            content_parts.extend(self.extract_structured_text_elements(soup))
+            
+            return '\n'.join(filter(None, content_parts))
+            
+        except Exception as e:
+            self.logger.error(f"结构化内容提取失败: {e}")
+            return ""
+    
+    def extract_structured_headings(self, soup):
+        """提取保留层级的标题结构"""
+        content_parts = []
         
-        if self.total_projects > 0:
-            completion_rate = (self.completed_projects / self.total_projects) * 100
-            self.logger.info(f"完成率: {completion_rate:.1f}%")
+        for tag in soup.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
+            text = tag.get_text().strip()
+            if text:
+                tag_name = tag.name.upper()
+                content_parts.append(f"<{tag_name}>{text}</{tag_name}>")
+        
+        return content_parts
+    
+    def extract_structured_tables(self, soup):
+        """提取保留结构的表格内容"""
+        content_parts = []
+        
+        for table in soup.find_all('table'):
+            table_html = self.extract_clean_table_html(table)
+            if table_html:
+                content_parts.append(table_html)
+        
+        return content_parts
+    
+    def extract_clean_table_html(self, table):
+        """提取清理后的表格HTML结构"""
+        try:
+            # 创建新的表格结构
+            table_content = ["<table>"]
+            
+            for tr in table.find_all('tr'):
+                row_content = ["<tr>"]
+                
+                for cell in tr.find_all(['td', 'th']):
+                    cell_text = cell.get_text().strip()
+                    tag_name = cell.name
+                    if cell_text:
+                        row_content.append(f"<{tag_name}>{cell_text}</{tag_name}>")
+                    else:
+                        row_content.append(f"<{tag_name}></{tag_name}>")
+                
+                if len(row_content) > 1:  # 如果有内容才添加行
+                    row_content.append("</tr>")
+                    table_content.append("".join(row_content))
+            
+            table_content.append("</table>")
+            
+            # 只有表格有实际内容才返回
+            if len(table_content) > 2:  # 超过开始和结束标签
+                return "\n".join(table_content)
+            
+            return ""
+            
+        except Exception as e:
+            self.logger.error(f"表格HTML提取失败: {e}")
+            return ""
+    
+    def extract_structured_text_elements(self, soup):
+        """提取其他文本元素，保持基本结构"""
+        content_parts = []
+        
+        # 提取段落
+        for tag in soup.find_all('p'):
+            text = tag.get_text().strip()
+            if text and len(text) > 10:
+                content_parts.append(f"<p>{text}</p>")
+        
+        # 提取列表，保持结构
+        for tag in soup.find_all(['ul', 'ol']):
+            list_items = []
+            for li in tag.find_all('li'):
+                item_text = li.get_text().strip()
+                if item_text:
+                    list_items.append(f"<li>{item_text}</li>")
+            
+            if list_items:
+                list_tag = tag.name
+                list_content = [f"<{list_tag}>"] + list_items + [f"</{list_tag}>"]
+                content_parts.append("\n".join(list_content))
+        
+        return content_parts
 
     # ------------------------------------------------------------------
     # signal handlers
