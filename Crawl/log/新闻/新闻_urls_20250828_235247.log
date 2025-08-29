@@ -1,0 +1,574 @@
+2025-08-28 23:52:47 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: program_crawler)
+2025-08-28 23:52:47 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.14.4',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.9.23 (main, Jun  5 2025, 13:40:20) - [GCC 11.2.0]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Linux-5.15.0-144-generic-x86_64-with-glibc2.35'}
+2025-08-28 23:52:47 [program_spider] INFO: 尝试加载CSV文件: /net/scratch/jingyang/GradPilot_DataBase/Crawl/urls_subject/新闻/新闻_urls.csv
+2025-08-28 23:52:47 [program_spider] INFO: 文件是否存在: True
+2025-08-28 23:52:47 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:52:47 [program_spider] INFO: 原始总项目数: 33
+2025-08-28 23:52:47 [program_spider] INFO: 将要爬取 33 个项目
+2025-08-28 23:52:47 [program_spider] INFO: 允许的域名: ['journalism.stanford.edu', 'portal.hku.hk', 'journalism.berkeley.edu', 'study.unimelb.edu.au', 'www.unsw.edu.au', 'www.sydney.edu.au', 'www.gs.cuhk.edu.hk', 'www.monash.edu', 'journalism.columbia.edu', 'www.medill.northwestern.edu', 'journalism.nyu.edu', 'media.illinois.edu', 'courses.leeds.ac.uk', 'www.bu.edu', 'www.sheffield.ac.uk', 'www.ncl.ac.uk', 'annenberg.usc.edu', 'www.rug.nl', 'www.cardiff.ac.uk', 'www.curtin.edu.au']
+2025-08-28 23:52:47 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-28 23:52:47 [program_spider] INFO: ================================================================================
+2025-08-28 23:52:47 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-28 23:52:48 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-28 23:52:48 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 6,
+ 'AUTOTHROTTLE_START_DELAY': 1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 32,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/新闻/新闻_urls_20250828_235247.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.5,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-28 23:52:48 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-28 23:52:48 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.start.StartSpiderMiddleware',
+ 'scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-28 23:52:49 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-28 23:52:49 [scrapy.core.engine] INFO: Spider opened
+2025-08-28 23:52:49 [py.warnings] WARNING: /home/jingyang22/.conda/envs/gp/lib/python3.9/site-packages/scrapy/core/spidermw.py:433: ScrapyDeprecationWarning: program_crawler.spiders.program_spider.ProgramSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-28 23:52:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-28 23:52:49 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:52:49 [program_spider] INFO: 开始爬取项目 [1/33]
+2025-08-28 23:52:49 [program_spider] INFO: 项目名称: 斯坦福大学新闻学硕士
+2025-08-28 23:52:49 [program_spider] INFO: 项目ID: e2751438-079a-4284-9ce7-3e3b8878e6ef
+2025-08-28 23:52:49 [program_spider] INFO: 根URL: https://journalism.stanford.edu/
+2025-08-28 23:52:49 [program_spider] INFO: 剩余项目数: 32
+2025-08-28 23:52:49 [program_spider] INFO: ================================================================================
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 正在处理根页面 (已处理0个页面): https://journalism.stanford.edu/
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 页面总链接数: 17
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 移除导航后链接数: 17 (移除了 0 个导航链接)
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 有效链接数: 17, 关键词匹配数: 4, 最终提取数: 1
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 页面 https://journalism.stanford.edu/ (depth=0, is_root=True) 提取到 1 个链接
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 爬取子链接: https://journalism101821.sites.stanford.edu/curriculum (锚文本: 'See Curriculum', 匹配关键词: 'curriculum')
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 提取链接完成，去重前 1 个链接，去重后 1 个新请求（去重了 0 个重复链接）
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 计数器变更: 1 -> 2, 操作: 添加1个子页面请求
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 添加 1 个新请求，当前剩余: 1
+2025-08-28 23:52:49 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:52:51 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 正在处理子页面(深度1) (已处理1个页面): https://journalism.stanford.edu/curriculum
+2025-08-28 23:52:51 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 正在完成项目
+2025-08-28 23:52:52 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 项目完成: 斯坦福大学新闻学硕士
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef]   - 总页数: 2
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef]   - 成功页数: 2
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef]   - 失败页数: 0
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef]   - 成功率: 100.0%
+2025-08-28 23:52:52 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:52:52 [program_spider] INFO: [e2751438-079a-4284-9ce7-3e3b8878e6ef] 仍有 32 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:52:52 [program_spider] INFO: 成功保存项目数据: output/新闻/斯坦福大学新闻学硕士_新闻.json
+2025-08-28 23:52:52 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:52:52 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:52:52 [program_spider] INFO: 开始爬取项目 [2/33]
+2025-08-28 23:52:52 [program_spider] INFO: 项目名称: 香港大学新闻学硕士
+2025-08-28 23:52:52 [program_spider] INFO: 项目ID: aae73463-b3fc-47bc-ae07-6a83aa73658f
+2025-08-28 23:52:52 [program_spider] INFO: 根URL: https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-journalism-socsc
+2025-08-28 23:52:52 [program_spider] INFO: 剩余项目数: 31
+2025-08-28 23:52:52 [program_spider] INFO: ================================================================================
+2025-08-28 23:52:52 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 正在处理根页面 (已处理0个页面): https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-journalism-socsc
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 页面总链接数: 24
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 移除导航后链接数: 24 (移除了 0 个导航链接)
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 有效链接数: 9, 关键词匹配数: 2, 最终提取数: 1
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 页面 https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-journalism-socsc (depth=0, is_root=True) 提取到 1 个链接
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 爬取子链接: http://jmsc.hku.hk/mjadmissions/ (锚文本: 'Programme Website', 匹配关键词: 'program')
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 提取链接完成，去重前 1 个链接，去重后 1 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 计数器变更: 1 -> 2, 操作: 添加1个子页面请求
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 添加 1 个新请求，当前剩余: 1
+2025-08-28 23:53:19 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:22 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for http://jmsc.hku.hk/mjadmissions/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:22 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 正在处理子页面(深度1) (已处理1个页面): http://jmsc.hku.hk/mjadmissions/
+2025-08-28 23:53:22 [program_spider] ERROR: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 解析页面失败 http://jmsc.hku.hk/mjadmissions/: Response content isn't text
+2025-08-28 23:53:22 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 正在完成项目
+2025-08-28 23:53:23 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 项目完成: 香港大学新闻学硕士
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f]   - 总页数: 1
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f]   - 成功页数: 1
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f]   - 失败页数: 1
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f]   - 成功率: 50.0%
+2025-08-28 23:53:23 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:23 [program_spider] INFO: [aae73463-b3fc-47bc-ae07-6a83aa73658f] 仍有 31 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:23 [program_spider] INFO: 成功保存项目数据: output/新闻/香港大学新闻学硕士_新闻.json
+2025-08-28 23:53:23 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:23 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:23 [program_spider] INFO: 开始爬取项目 [3/33]
+2025-08-28 23:53:23 [program_spider] INFO: 项目名称: 加州大学伯克利分校新闻硕士
+2025-08-28 23:53:23 [program_spider] INFO: 项目ID: e28c926e-32ca-45ba-b54b-f9bd6418f2b8
+2025-08-28 23:53:23 [program_spider] INFO: 根URL: https://journalism.berkeley.edu/
+2025-08-28 23:53:23 [program_spider] INFO: 剩余项目数: 30
+2025-08-28 23:53:23 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:23 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:23 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://journalism.berkeley.edu/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:23 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 正在处理根页面 (已处理0个页面): https://journalism.berkeley.edu/
+2025-08-28 23:53:23 [program_spider] ERROR: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 解析页面失败 https://journalism.berkeley.edu/: Response content isn't text
+2025-08-28 23:53:23 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 正在完成项目
+2025-08-28 23:53:24 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 项目完成: 加州大学伯克利分校新闻硕士
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8]   - 总页数: 0
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8]   - 成功页数: 0
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8]   - 失败页数: 1
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8]   - 成功率: 0.0%
+2025-08-28 23:53:24 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:24 [program_spider] INFO: [e28c926e-32ca-45ba-b54b-f9bd6418f2b8] 仍有 30 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:24 [program_spider] INFO: 成功保存项目数据: output/新闻/加州大学伯克利分校新闻硕士_新闻.json
+2025-08-28 23:53:24 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:24 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:24 [program_spider] INFO: 开始爬取项目 [4/33]
+2025-08-28 23:53:24 [program_spider] INFO: 项目名称: 墨尔本大学国际新闻学硕士
+2025-08-28 23:53:24 [program_spider] INFO: 项目ID: 5b52f38e-7f50-4a43-b63b-0856dc75c294
+2025-08-28 23:53:24 [program_spider] INFO: 根URL: https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/
+2025-08-28 23:53:24 [program_spider] INFO: 剩余项目数: 29
+2025-08-28 23:53:24 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:24 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 正在处理根页面 (已处理0个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 页面总链接数: 17
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 移除导航后链接数: 17 (移除了 0 个导航链接)
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 有效链接数: 17, 关键词匹配数: 5, 最终提取数: 4
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 页面 https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/ (depth=0, is_root=True) 提取到 4 个链接
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 爬取子链接: https://study.unimelb.edu.au/study-with-us/graduate-courses (锚文本: 'Graduate Coursework', 匹配关键词: 'course')
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/how-to-apply/ (锚文本: 'Arrow-right  
+        How to apply', 匹配关键词: 'apply')
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 爬取子链接: https://study.unimelb.edu.au/find?in_c=hcta (锚文本: 'Arrow-right  
+      Find a course', 匹配关键词: 'course')
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 爬取子链接: https://study.unimelb.edu.au/how-to-apply?in_c=hcta (锚文本: 'Arrow-right  
+      How to apply', 匹配关键词: 'apply')
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 提取链接完成，去重前 4 个链接，去重后 4 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 1 -> 5, 操作: 添加4个子页面请求
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 添加 4 个新请求，当前剩余: 4
+2025-08-28 23:53:26 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:53:27 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 正在处理子页面(深度1) (已处理1个页面): https://study.unimelb.edu.au/study-with-us/graduate-courses
+2025-08-28 23:53:27 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:53:28 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 正在处理子页面(深度1) (已处理2个页面): https://study.unimelb.edu.au/how-to-apply?in_c=hcta
+2025-08-28 23:53:28 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:53:30 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 正在处理子页面(深度1) (已处理3个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/how-to-apply/
+2025-08-28 23:53:30 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:32 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 正在处理子页面(深度1) (已处理4个页面): https://study.unimelb.edu.au/find/?in_c=hcta
+2025-08-28 23:53:32 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 正在完成项目
+2025-08-28 23:53:33 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 项目完成: 墨尔本大学国际新闻学硕士
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294]   - 总页数: 5
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294]   - 成功页数: 5
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294]   - 失败页数: 0
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294]   - 成功率: 100.0%
+2025-08-28 23:53:33 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:33 [program_spider] INFO: [5b52f38e-7f50-4a43-b63b-0856dc75c294] 仍有 29 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:33 [program_spider] INFO: 成功保存项目数据: output/新闻/墨尔本大学国际新闻学硕士_新闻.json
+2025-08-28 23:53:33 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:33 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:33 [program_spider] INFO: 开始爬取项目 [5/33]
+2025-08-28 23:53:33 [program_spider] INFO: 项目名称: 墨尔本大学新闻学硕士
+2025-08-28 23:53:33 [program_spider] INFO: 项目ID: 9fd8c3bc-477f-4ae8-afb2-2eb150929a99
+2025-08-28 23:53:33 [program_spider] INFO: 根URL: https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/
+2025-08-28 23:53:33 [program_spider] INFO: 剩余项目数: 28
+2025-08-28 23:53:33 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:33 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 正在处理根页面 (已处理0个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 页面总链接数: 17
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 移除导航后链接数: 17 (移除了 0 个导航链接)
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 有效链接数: 17, 关键词匹配数: 5, 最终提取数: 4
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 页面 https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/ (depth=0, is_root=True) 提取到 4 个链接
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 爬取子链接: https://study.unimelb.edu.au/study-with-us/graduate-courses (锚文本: 'Graduate Coursework', 匹配关键词: 'course')
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 爬取子链接: https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/how-to-apply/ (锚文本: 'Arrow-right  
+        How to apply', 匹配关键词: 'apply')
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 爬取子链接: https://study.unimelb.edu.au/find?in_c=hcta (锚文本: 'Arrow-right  
+      Find a course', 匹配关键词: 'course')
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 爬取子链接: https://study.unimelb.edu.au/how-to-apply?in_c=hcta (锚文本: 'Arrow-right  
+      How to apply', 匹配关键词: 'apply')
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 提取链接完成，去重前 4 个链接，去重后 4 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 1 -> 5, 操作: 添加4个子页面请求
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 添加 4 个新请求，当前剩余: 4
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 正在处理子页面(深度1) (已处理1个页面): https://study.unimelb.edu.au/study-with-us/graduate-courses
+2025-08-28 23:53:35 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:53:36 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 正在处理子页面(深度1) (已处理2个页面): https://study.unimelb.edu.au/how-to-apply?in_c=hcta
+2025-08-28 23:53:36 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:53:39 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 正在处理子页面(深度1) (已处理3个页面): https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/how-to-apply/
+2025-08-28 23:53:39 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:40 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 正在处理子页面(深度1) (已处理4个页面): https://study.unimelb.edu.au/find/?in_c=hcta
+2025-08-28 23:53:40 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 正在完成项目
+2025-08-28 23:53:41 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 项目完成: 墨尔本大学新闻学硕士
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99]   - 总页数: 5
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99]   - 成功页数: 5
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99]   - 失败页数: 0
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99]   - 成功率: 100.0%
+2025-08-28 23:53:41 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:41 [program_spider] INFO: [9fd8c3bc-477f-4ae8-afb2-2eb150929a99] 仍有 28 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:41 [program_spider] INFO: 成功保存项目数据: output/新闻/墨尔本大学新闻学硕士_新闻.json
+2025-08-28 23:53:41 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:41 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:41 [program_spider] INFO: 开始爬取项目 [6/33]
+2025-08-28 23:53:41 [program_spider] INFO: 项目名称: 新南威尔士大学新闻与传播硕士
+2025-08-28 23:53:41 [program_spider] INFO: 项目ID: e3663e75-373c-45ff-9679-3c2cb462a9d0
+2025-08-28 23:53:41 [program_spider] INFO: 根URL: https://www.unsw.edu.au/study/postgraduate/master-of-journalism-and-communication?studentType=international
+2025-08-28 23:53:41 [program_spider] INFO: 剩余项目数: 27
+2025-08-28 23:53:41 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:41 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理根页面 (已处理0个页面): https://www.unsw.edu.au/study/postgraduate/master-of-journalism-and-communication?studentType=intern...
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 页面总链接数: 38
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 移除导航后链接数: 38 (移除了 0 个导航链接)
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 有效链接数: 36, 关键词匹配数: 11, 最终提取数: 6
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 页面 https://www.unsw.edu.au/study/postgraduate/master-of-journalism-and-communication?studentType=international (depth=0, is_root=True) 提取到 6 个链接
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 爬取子链接: https://www.unswcollege.edu.au/study/academic-english-overview (锚文本: 'UNSW College’s Academic English Programs', 匹配关键词: 'program')
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 爬取子链接: https://www.unsw.edu.au/study/how-to-apply/english-language-requirements (锚文本: 'English Language Requirements', 匹配关键词: 'requirement')
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 爬取子链接: https://applyonline.unsw.edu.au/login (锚文本: 'Apply Online', 匹配关键词: 'apply')
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 爬取子链接: https://www.unsw.edu.au/study/international-students/admissions-info (锚文本: 'international admissions information page', 匹配关键词: 'admission')
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 爬取子链接: https://www.scholarships.unsw.edu.au/ (锚文本: 'Explore Scholarships', 匹配关键词: 'scholarship')
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 爬取子链接: https://www.youtube.com/watch?v=JIzbbvbq558 (锚文本: 'Careers Unlocked: Will AI & Technology Enhance Creative Industries?
+            
+
+
+
+              Hear from our academic and expert panel as they explore the future of design and creative industries at a time of unprecedented technological change.
+            
+
+
+                Our Events', 匹配关键词: 'career')
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 提取链接完成，去重前 6 个链接，去重后 6 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 1 -> 7, 操作: 添加6个子页面请求
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 添加 6 个新请求，当前剩余: 6
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理子页面(深度1) (已处理1个页面): https://www.unsw.edu.au/study/international-students/admissions-info
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-28 23:53:42 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.youtube.com/watch?v=JIzbbvbq558 from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:42 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理子页面(深度1) (已处理2个页面): https://www.unswcollege.edu.au/study/academic-english-overview
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理子页面(深度1) (已处理3个页面): https://www.youtube.com/watch?v=JIzbbvbq558
+2025-08-28 23:53:43 [program_spider] ERROR: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 解析页面失败 https://www.youtube.com/watch?v=JIzbbvbq558: Response content isn't text
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理子页面(深度1) (已处理4个页面): https://applyonline.unsw.edu.au/login
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理子页面(深度1) (已处理5个页面): https://www.unsw.edu.au/study/how-to-apply/english-language-requirements
+2025-08-28 23:53:43 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:44 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在处理子页面(深度1) (已处理6个页面): https://www.scholarships.unsw.edu.au/
+2025-08-28 23:53:44 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 正在完成项目
+2025-08-28 23:53:45 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 项目完成: 新南威尔士大学新闻与传播硕士
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0]   - 总页数: 6
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0]   - 成功页数: 6
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0]   - 失败页数: 1
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0]   - 成功率: 85.7%
+2025-08-28 23:53:45 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:45 [program_spider] INFO: [e3663e75-373c-45ff-9679-3c2cb462a9d0] 仍有 27 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:45 [program_spider] INFO: 成功保存项目数据: output/新闻/新南威尔士大学新闻与传播硕士_新闻.json
+2025-08-28 23:53:45 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:45 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:45 [program_spider] INFO: 开始爬取项目 [7/33]
+2025-08-28 23:53:45 [program_spider] INFO: 项目名称: 悉尼大学媒体实践硕士
+2025-08-28 23:53:45 [program_spider] INFO: 项目ID: d2db42f2-cc95-4522-a551-730e55b31b78
+2025-08-28 23:53:45 [program_spider] INFO: 根URL: https://www.sydney.edu.au/courses/courses/pc/master-of-media-practice.html
+2025-08-28 23:53:45 [program_spider] INFO: 剩余项目数: 26
+2025-08-28 23:53:45 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 正在处理根页面 (已处理0个页面): https://www.sydney.edu.au/courses/courses/pc/master-of-media-practice.html
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 页面总链接数: 43
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 移除导航后链接数: 43 (移除了 0 个导航链接)
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 有效链接数: 41, 关键词匹配数: 2, 最终提取数: 1
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 页面 https://www.sydney.edu.au/courses/courses/pc/master-of-media-practice.html (depth=0, is_root=True) 提取到 1 个链接
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 爬取子链接: https://www.sydney.edu.au/content/corporate/about-us/careers-at-sydney.html (锚文本: 'Careers at Sydney', 匹配关键词: 'career')
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 提取链接完成，去重前 1 个链接，去重后 1 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 计数器变更: 1 -> 2, 操作: 添加1个子页面请求
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 添加 1 个新请求，当前剩余: 1
+2025-08-28 23:53:45 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:48 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 正在处理子页面(深度1) (已处理1个页面): https://www.sydney.edu.au/about-us/careers-at-sydney.html
+2025-08-28 23:53:48 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 正在完成项目
+2025-08-28 23:53:49 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 项目完成: 悉尼大学媒体实践硕士
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78]   - 总页数: 2
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78]   - 成功页数: 2
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78]   - 失败页数: 0
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78]   - 成功率: 100.0%
+2025-08-28 23:53:49 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:49 [scrapy.extensions.logstats] INFO: Crawled 24 pages (at 24 pages/min), scraped 6 items (at 6 items/min)
+2025-08-28 23:53:49 [program_spider] INFO: [d2db42f2-cc95-4522-a551-730e55b31b78] 仍有 26 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:49 [program_spider] INFO: 成功保存项目数据: output/新闻/悉尼大学媒体实践硕士_新闻.json
+2025-08-28 23:53:49 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:49 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:49 [program_spider] INFO: 开始爬取项目 [8/33]
+2025-08-28 23:53:49 [program_spider] INFO: 项目名称: 香港中文大学新闻学文学硕士
+2025-08-28 23:53:49 [program_spider] INFO: 项目ID: 55175d8a-7b14-4190-94f3-e0e3471fb922
+2025-08-28 23:53:49 [program_spider] INFO: 根URL: https://www.gs.cuhk.edu.hk/admissions/programme/social-science#ma-in-journalism
+2025-08-28 23:53:49 [program_spider] INFO: 剩余项目数: 25
+2025-08-28 23:53:49 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:49 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理根页面 (已处理0个页面): https://www.gs.cuhk.edu.hk/admissions/programme/social-science
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 页面总链接数: 418
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 移除导航后链接数: 380 (移除了 0 个导航链接)
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 有效链接数: 233, 关键词匹配数: 117, 最终提取数: 26
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 页面 https://www.gs.cuhk.edu.hk/admissions/programme/social-science (depth=0, is_root=True) 提取到 26 个链接
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gradsch.cuhk.edu.hk/OnlineApp/login_email.aspx (锚文本: 'Application System', 匹配关键词: 'application')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/admissions/requirements (锚文本: 'general requirements', 匹配关键词: 'requirement')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.arch.cuhk.edu.hk/programmes/degrees/mphil-phd-in-architecture (锚文本: 'list of application materials', 匹配关键词: 'application')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/admissions/how-to-apply (锚文本: 'Apply Now', 匹配关键词: 'apply')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://admission.econ.cuhk.edu.hk/pg/phd-economics/ (锚文本: 'our Department admission website', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: http://admission.econ.cuhk.edu.hk/postgraduate/ (锚文本: 'http://admission.econ.cuhk.edu.hk/postgraduate/', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/programme/inter-faculty (锚文本: 'programme page', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/admission-rpg/ (锚文本: 'https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/admission-rpg/', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mphil-phd-in-government-and-public-administration/index.html (锚文本: 'https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mphil-phd-in-government-and-public-administration/index.html', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: http://www.soc.cuhk.edu.hk/admissions-2/mphil-phd-programme/ (锚文本: 'http://www.soc.cuhk.edu.hk/admissions-2/mphil-phd-programme/', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.arch.cuhk.edu.hk/programmes/degrees/march (锚文本: 'https://www.arch.cuhk.edu.hk/programmes/degrees/march', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.arch.cuhk.edu.hk/programmes/degrees/msud (锚文本: 'application requirements and procedures', 匹配关键词: 'requirement')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/ftss (锚文本: 'Hong Kong Future Talents Scholarship Scheme for Advanced Studies', 匹配关键词: 'scholarship')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://admission.econ.cuhk.edu.hk/pg/master-economics/ (锚文本: 'https://admission.econ.cuhk.edu.hk/pg/master-economics/', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mssc-in-government-and-politics-greater-china/ (锚文本: 'https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mssc-in-government-and-politics-greater-china/', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: http://www.iseis.cuhk.edu.hk/en/msgpm.html (锚文本: 'programme website', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: http://www.soc.cuhk.edu.hk/admissions-2/ma-programme/ (锚文本: 'http://www.soc.cuhk.edu.hk/admissions-2/ma-programme/', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/scholarship-for-overseas-study.html (锚文本: 'Scholarship for overseas study', 匹配关键词: 'scholarship')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/financial-aid.html (锚文本: 'Financial Aid HongKong', 匹配关键词: 'financial')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/postgraduate-scholarships.html (锚文本: 'Hong Kong Scholarships', 匹配关键词: 'scholarship')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/fellowship-award.html (锚文本: 'Hong Kong Fellowship Application', 匹配关键词: 'application')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/ (锚文本: 'Home - CUHK Graduate School Admission', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/why-cuhk/about-cuhk (锚文本: 'About CUHK - Why CUHK - CUHK Graduate School Admission', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/why-cuhk/study-options (锚文本: 'Study Options - Why CUHK - CUHK Graduate School Admission', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/programme/arts (锚文本: 'Arts - Programme - CUHK Graduate School Admission', 匹配关键词: 'program')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 爬取子链接: https://www.gs.cuhk.edu.hk/admissions/contact-us (锚文本: 'Contact Us - CUHK Graduate School Admission', 匹配关键词: 'admission')
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 提取链接完成，去重前 26 个链接，去重后 26 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 1 -> 27, 操作: 添加26个子页面请求
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 添加 26 个新请求，当前剩余: 26
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 27 -> 26, 操作: 完成页面解析
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理1个页面): https://www.gs.cuhk.edu.hk/admissions/contact-us
+2025-08-28 23:53:51 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 26 -> 25, 操作: 完成页面解析
+2025-08-28 23:53:52 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.arch.cuhk.edu.hk/programmes/degrees/msud from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理2个页面): https://www.arch.cuhk.edu.hk/programmes/degrees/msud
+2025-08-28 23:53:52 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922] 解析页面失败 https://www.arch.cuhk.edu.hk/programmes/degrees/msud: Response content isn't text
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 25 -> 24, 操作: 完成页面解析
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理3个页面): https://admission.econ.cuhk.edu.hk/pg/master-economics/
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 24 -> 23, 操作: 完成页面解析
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理4个页面): http://www.iseis.cuhk.edu.hk/en/msgpm.html
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 23 -> 22, 操作: 完成页面解析
+2025-08-28 23:53:52 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.arch.cuhk.edu.hk/programmes/degrees/march from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理5个页面): https://www.gradsch.cuhk.edu.hk/OnlineApp/login_email.aspx
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 22 -> 21, 操作: 完成页面解析
+2025-08-28 23:53:52 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理6个页面): https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mssc-in-government-and-politics-gr...
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 21 -> 20, 操作: 完成页面解析
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理7个页面): https://www.arch.cuhk.edu.hk/programmes/degrees/march
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922] 解析页面失败 https://www.arch.cuhk.edu.hk/programmes/degrees/march: Response content isn't text
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 20 -> 19, 操作: 完成页面解析
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理8个页面): https://www.grm.cuhk.edu.hk/en/pg/research-postgraduate/admission-rpg/
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 19 -> 18, 操作: 完成页面解析
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理9个页面): https://www.gs.cuhk.edu.hk/admissions/programme/arts
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 18 -> 17, 操作: 完成页面解析
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922] 请求失败详情:
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   URL: https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mphil-phd-in-government-and-public-administration/index.html
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   错误类型: HttpError
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   HTTP状态码: 404
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   响应头: server: Apache; content-type: text/html; charset=UTF-8; set-cookie: qtrans_front_language=en; expires=Sat, 29 Aug 2026 04:53:53 GMT; Max-Age=31536000; path=/; HttpOnly; SameSite=Lax
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   响应预览: <!DOCTYPE html> <html class="en_US" lang="en_US">  <head>   <meta charset="utf-8" />  <meta name="robots" content="index, follow" />  <meta name="viewport" content="width=device-width, initial-scale=1...
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 17 -> 16, 操作: 处理请求错误
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 已处理页面: 11, 剩余请求数: 16
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 新增失败URL记录: https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mphil-phd-in-government-and-public-administration/index.html
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/新闻/failed_urls_新闻.json
+2025-08-28 23:53:53 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.arch.cuhk.edu.hk/programmes/degrees/mphil-phd-in-architecture from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理11个页面): https://www.gs.cuhk.edu.hk/admissions/why-cuhk/study-options
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 16 -> 15, 操作: 完成页面解析
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理12个页面): https://www.arch.cuhk.edu.hk/programmes/degrees/mphil-phd-in-architecture
+2025-08-28 23:53:53 [program_spider] ERROR: [55175d8a-7b14-4190-94f3-e0e3471fb922] 解析页面失败 https://www.arch.cuhk.edu.hk/programmes/degrees/mphil-phd-in-architecture: Response content isn't text
+2025-08-28 23:53:53 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 15 -> 14, 操作: 完成页面解析
+2025-08-28 23:53:54 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理13个页面): https://admission.econ.cuhk.edu.hk/pg/phd-economics/
+2025-08-28 23:53:54 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 14 -> 13, 操作: 完成页面解析
+2025-08-28 23:53:54 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理14个页面): https://www.gs.cuhk.edu.hk/admissions/why-cuhk/about-cuhk
+2025-08-28 23:53:54 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-28 23:53:55 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理15个页面): https://www.gs.cuhk.edu.hk/admissions/
+2025-08-28 23:53:55 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-28 23:53:56 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理16个页面): https://www.soc.cuhk.edu.hk/postgraduate/ma-programme/admissions/
+2025-08-28 23:53:56 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-28 23:53:56 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理17个页面): https://admission.econ.cuhk.edu.hk/pg/
+2025-08-28 23:53:56 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-28 23:53:58 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理18个页面): https://www.soc.cuhk.edu.hk/postgraduate/mphil-phd-programme/introduction/
+2025-08-28 23:53:58 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-28 23:54:00 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理19个页面): https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/ftss
+2025-08-28 23:54:00 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-28 23:54:01 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理20个页面): https://www.gs.cuhk.edu.hk/admissions/programme/inter-faculty
+2025-08-28 23:54:01 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-28 23:54:02 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理21个页面): https://www.gs.cuhk.edu.hk/admissions/admissions/how-to-apply
+2025-08-28 23:54:02 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-28 23:54:03 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理22个页面): https://www.gs.cuhk.edu.hk/admissions/admissions/requirements
+2025-08-28 23:54:03 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:54:04 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理23个页面): https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships
+2025-08-28 23:54:04 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:54:05 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理24个页面): https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships
+2025-08-28 23:54:05 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:54:06 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理25个页面): https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships
+2025-08-28 23:54:06 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:54:07 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在处理子页面(深度1) (已处理26个页面): https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships
+2025-08-28 23:54:07 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 正在完成项目
+2025-08-28 23:54:08 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 项目完成: 香港中文大学新闻学文学硕士
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922]   - 总页数: 23
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922]   - 成功页数: 23
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922]   - 失败页数: 4
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922]   - 成功率: 85.2%
+2025-08-28 23:54:08 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:54:08 [program_spider] INFO: [55175d8a-7b14-4190-94f3-e0e3471fb922] 仍有 25 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:54:08 [program_spider] INFO: 成功保存项目数据: output/新闻/香港中文大学新闻学文学硕士_新闻.json
+2025-08-28 23:54:08 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:54:08 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:08 [program_spider] INFO: 开始爬取项目 [9/33]
+2025-08-28 23:54:08 [program_spider] INFO: 项目名称: 莫纳什大学新闻学硕士
+2025-08-28 23:54:08 [program_spider] INFO: 项目ID: d33238b1-a7a4-4d09-8ced-e6b3a621a13a
+2025-08-28 23:54:08 [program_spider] INFO: 根URL: https://www.monash.edu/study/courses/find-a-course/journalism-a6008?international=true
+2025-08-28 23:54:08 [program_spider] INFO: 剩余项目数: 24
+2025-08-28 23:54:08 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:08 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:54:15 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.monash.edu/study/courses/find-a-course/journalism-a6008?international=true from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:54:15 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 正在处理根页面 (已处理0个页面): https://www.monash.edu/study/courses/find-a-course/journalism-a6008?international=true
+2025-08-28 23:54:15 [program_spider] ERROR: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 解析页面失败 https://www.monash.edu/study/courses/find-a-course/journalism-a6008?international=true: Response content isn't text
+2025-08-28 23:54:15 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 正在完成项目
+2025-08-28 23:54:16 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 项目完成: 莫纳什大学新闻学硕士
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a]   - 总页数: 0
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a]   - 成功页数: 0
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a]   - 失败页数: 1
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a]   - 成功率: 0.0%
+2025-08-28 23:54:16 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:54:16 [program_spider] INFO: [d33238b1-a7a4-4d09-8ced-e6b3a621a13a] 仍有 24 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:54:16 [program_spider] INFO: 成功保存项目数据: output/新闻/莫纳什大学新闻学硕士_新闻.json
+2025-08-28 23:54:16 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:54:16 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:16 [program_spider] INFO: 开始爬取项目 [10/33]
+2025-08-28 23:54:16 [program_spider] INFO: 项目名称: 莫纳什大学新闻学硕士双学位（莫纳什大学-华威大学）
+2025-08-28 23:54:16 [program_spider] INFO: 项目ID: 19e5b2d5-f13d-40a0-80fb-22519200a5e6
+2025-08-28 23:54:16 [program_spider] INFO: 根URL: https://www.monash.edu/study/courses/find-a-course/journalism-double-masters-with-university-of-warwick-a6015?international=true
+2025-08-28 23:54:16 [program_spider] INFO: 剩余项目数: 23
+2025-08-28 23:54:16 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:16 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:54:16 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.monash.edu/study/courses/find-a-course/journalism-double-masters-with-university-of-warwick-a6015?international=true from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 请求失败详情:
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   URL: https://www.monash.edu/study/courses/find-a-course/journalism-double-masters-with-university-of-warwick-a6015?international=true
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   错误类型: HttpError
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   错误描述: Ignoring non-200 response
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   HTTP状态码: 403
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=z_uNK2IFWnuU0cFHLS5fPSJBO7R0GstpRaFpkPjwPv8-1756443256-1.0.1.1-Th6yvT134TS7xY6vl_YY8x5QMOV42_d2fmazHGH.z.eJsyvZOWnSU9xfJn3Bg0Fd9vfQ.PLrSWsgJIhihm36qtLTLBgw5tPUdzS1vPw4JzU; path=/; expires=Fri,; cf-ray: 9769730fb929fa1d-ORD
+2025-08-28 23:54:16 [program_spider] ERROR: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   请求头: user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:54:16 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:54:16 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:54:16 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 新增失败URL记录: https://www.monash.edu/study/courses/find-a-course/journalism-double-masters-with-university-of-warwick-a6015?international=true
+2025-08-28 23:54:16 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/新闻/failed_urls_新闻.json
+2025-08-28 23:54:16 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 正在完成项目
+2025-08-28 23:54:17 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 项目完成: 莫纳什大学新闻学硕士双学位（莫纳什大学-华威大学）
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   - 总页数: 0
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   - 成功页数: 0
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   - 失败页数: 1
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6]   - 成功率: 0.0%
+2025-08-28 23:54:17 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:54:17 [program_spider] INFO: [19e5b2d5-f13d-40a0-80fb-22519200a5e6] 仍有 23 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:54:17 [program_spider] INFO: 成功保存项目数据: output/新闻/莫纳什大学新闻学硕士双学位莫纳什大学_华威大学_新闻.json
+2025-08-28 23:54:17 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:54:17 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:17 [program_spider] INFO: 开始爬取项目 [11/33]
+2025-08-28 23:54:17 [program_spider] INFO: 项目名称: 哥伦比亚大学新闻学文学硕士
+2025-08-28 23:54:17 [program_spider] INFO: 项目ID: 0690105d-9e7f-4cb2-bcbb-fd825a90c938
+2025-08-28 23:54:17 [program_spider] INFO: 根URL: https://journalism.columbia.edu/ma-degree
+2025-08-28 23:54:17 [program_spider] INFO: 剩余项目数: 22
+2025-08-28 23:54:17 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:17 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 请求失败详情:
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   URL: https://journalism.columbia.edu/ma-degree
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   错误类型: HttpError
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   错误描述: Ignoring non-200 response
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   HTTP状态码: 403
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=LWU0pOxf.bZ3x3WraNC39JzJuJNhwMiCfOOvXmo6iKU-1756443257-1.0.1.1-rbJwTnhH1AdGC4yvQ3BLPycjBL9gEgHYI69QI0xt78ko21Jhx0UhQoCxQDLEHjji0nJw6oy.0e.vKgvRmvet6TtXBzbO4I5Ia_TJxI9LT9g; path=/; expires=Fri,; cf-ray: 976973173b3beac2-ORD
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   响应预览: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam...
+2025-08-28 23:54:17 [program_spider] ERROR: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   请求头: user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:54:17 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:54:17 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:54:17 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 新增失败URL记录: https://journalism.columbia.edu/ma-degree
+2025-08-28 23:54:17 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/新闻/failed_urls_新闻.json
+2025-08-28 23:54:17 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 正在完成项目
+2025-08-28 23:54:18 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 项目完成: 哥伦比亚大学新闻学文学硕士
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   - 总页数: 0
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   - 成功页数: 0
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   - 失败页数: 1
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938]   - 成功率: 0.0%
+2025-08-28 23:54:18 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:54:18 [program_spider] INFO: [0690105d-9e7f-4cb2-bcbb-fd825a90c938] 仍有 22 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:54:18 [program_spider] INFO: 成功保存项目数据: output/新闻/哥伦比亚大学新闻学文学硕士_新闻.json
+2025-08-28 23:54:18 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:54:18 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:18 [program_spider] INFO: 开始爬取项目 [12/33]
+2025-08-28 23:54:18 [program_spider] INFO: 项目名称: 西北大学（美国）新闻学硕士
+2025-08-28 23:54:18 [program_spider] INFO: 项目ID: 5894022f-b2a9-4cfc-9f76-aa780163d111
+2025-08-28 23:54:18 [program_spider] INFO: 根URL: https://www.medill.northwestern.edu/journalism/graduate-journalism/index.html
+2025-08-28 23:54:18 [program_spider] INFO: 剩余项目数: 21
+2025-08-28 23:54:18 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:18 [program_spider] INFO: [5894022f-b2a9-4cfc-9f76-aa780163d111] 计数器变更: 0 -> 1, 操作: 启动根页面请求

@@ -1,0 +1,165 @@
+2025-08-28 23:54:11 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: program_crawler)
+2025-08-28 23:54:11 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.14.4',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.9.23 (main, Jun  5 2025, 13:40:20) - [GCC 11.2.0]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Linux-5.15.0-144-generic-x86_64-with-glibc2.35'}
+2025-08-28 23:54:11 [program_spider] INFO: 尝试加载CSV文件: /net/scratch/jingyang/GradPilot_DataBase/Crawl/urls_subject/建筑/建筑_1.csv
+2025-08-28 23:54:11 [program_spider] INFO: 文件是否存在: True
+2025-08-28 23:54:11 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:11 [program_spider] INFO: 原始总项目数: 100
+2025-08-28 23:54:11 [program_spider] INFO: 将要爬取 100 个项目
+2025-08-28 23:54:11 [program_spider] INFO: 允许的域名: ['www.postgraduate.study.cam.ac.uk', 'ethz.ch', 'cde.nus.edu.sg', 'www.ucl.ac.uk', 'portal.hku.hk', '', 'ced.berkeley.edu', 'study.unimelb.edu.au', 'www.unsw.edu.au', 'www.architecture.yale.edu', 'www.tum.de', 'www.sydney.edu.au']
+2025-08-28 23:54:11 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-28 23:54:11 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:11 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-28 23:54:11 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-28 23:54:11 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 6,
+ 'AUTOTHROTTLE_START_DELAY': 1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 32,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/建筑/建筑_1_20250828_235411.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.5,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-28 23:54:11 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-28 23:54:11 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.start.StartSpiderMiddleware',
+ 'scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-28 23:54:11 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-28 23:54:11 [scrapy.core.engine] INFO: Spider opened
+2025-08-28 23:54:11 [py.warnings] WARNING: /home/jingyang22/.conda/envs/gp/lib/python3.9/site-packages/scrapy/core/spidermw.py:433: ScrapyDeprecationWarning: program_crawler.spiders.program_spider.ProgramSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-28 23:54:11 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-28 23:54:11 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:11 [program_spider] INFO: 开始爬取项目 [1/100]
+2025-08-28 23:54:11 [program_spider] INFO: 项目名称: 剑桥大学规划、发展与再造哲学硕士
+2025-08-28 23:54:11 [program_spider] INFO: 项目ID: 334807ef-479e-4667-a613-8915305669d0
+2025-08-28 23:54:11 [program_spider] INFO: 根URL: https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr
+2025-08-28 23:54:11 [program_spider] INFO: 剩余项目数: 99
+2025-08-28 23:54:11 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:11 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理根页面 (已处理0个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 页面总链接数: 220
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 移除导航后链接数: 210 (移除了 0 个导航链接)
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 有效链接数: 203, 关键词匹配数: 46, 最终提取数: 39
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 页面 https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr (depth=0, is_root=True) 提取到 39 个链接
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Undergraduate courses', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.undergraduate.study.cam.ac.uk/applying?ucam-ref=global-header (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses?ucam-ref=global-header (锚文本: 'Postgraduate courses', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply?ucam-ref=global-header (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header (锚文本: 'Fees and funding', 匹配关键词: 'funding')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-header (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/student-support/learn-language-cambridge (锚文本: 'Language tuition', 匹配关键词: 'tuition')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/why-cambridge/careers (锚文本: 'Careers', 匹配关键词: 'career')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses-overview (锚文本: 'Courses', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses (锚文本: 'Course Directory', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/applying-university-funding (锚文本: 'Applying for University funding', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/doctoral-training-programmes (锚文本: 'Doctoral training programmes', 匹配关键词: 'program')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/funding/external-funding-and-loans (锚文本: 'External funding and loans', 匹配关键词: 'funding')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply (锚文本: 'Applying', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/application-deadlines (锚文本: 'Application deadlines', 匹配关键词: 'deadline')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/entry-requirements (锚文本: 'Before you apply', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/before/english-language-requirements (锚文本: 'English language requirements', 匹配关键词: 'requirement')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/supporting-documents (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee (锚文本: 'Application fee', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/international-applications (锚文本: 'International applications', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/ai-postgraduate-applications (锚文本: 'AI and postgraduate applications', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/how/admissions-fraud (锚文本: 'Admissions fraud', 匹配关键词: 'admission')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/how-assess-application (锚文本: 'After you apply', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/application-outcome (锚文本: 'Outcome of your application', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/after/defer-change-course-start (锚文本: 'Defer your application', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/apply/track-application (锚文本: 'Track your application', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme (锚文本: 'AIM applicant support programme', 匹配关键词: 'program')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events/internships (锚文本: 'Research Internships', 匹配关键词: 'internship')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr/requirements (锚文本: 'Requirements', 匹配关键词: 'requirement')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr/apply (锚文本: 'How To Apply', 匹配关键词: 'apply')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/events (锚文本: 'Postgraduate Admissions Events', 匹配关键词: 'admission')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://camadmissions.zendesk.com/hc/en-gb/requests/new (锚文本: 'Application - related enquiries', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: http://www.landecon.cam.ac.uk/postgraduate-study/planning-growth-and-regeneration (锚文本: 'Course on Department Website', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/how-do-i-apply/application-funding-deadlines (锚文本: 'Deadlines page', 匹配关键词: 'deadline')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.postgraduate.study.cam.ac.uk/admissions-statistics (锚文本: 'Admissions statistics', 匹配关键词: 'admission')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://apply.postgraduate.study.cam.ac.uk/applicant/login (锚文本: 'Start an application', 匹配关键词: 'application')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 爬取子链接: https://www.educ.cam.ac.uk/?ucam-ref=global-footer (锚文本: 'Courses in education', 匹配关键词: 'course')
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 提取链接完成，去重前 39 个链接，去重后 39 个新请求（去重了 0 个重复链接）
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 1 -> 40, 操作: 添加39个子页面请求
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 添加 39 个新请求，当前剩余: 39
+2025-08-28 23:54:12 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 40 -> 39, 操作: 完成页面解析
+2025-08-28 23:54:12 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://camadmissions.zendesk.com/hc/en-gb/requests/new from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0] 请求失败详情:
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0]   URL: https://camadmissions.zendesk.com/hc/en-gb/requests/new
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0]   错误类型: HttpError
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0]   错误描述: Ignoring non-200 response
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0]   HTTP状态码: 403
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=qLbas_m.hOQRfj9NaK5FW46OFQcPLcEto1LdxbKS1Vw-1756443252-1.0.1.1-jbQYBhGsjqyus9GidWAdFj.B24HbngjFpXueGDW_QKUR4k2iV5mq4qjzYyK6MJRrQIEm9gqt1qDchyDn8ROY3ovPCv6ENjqgktp6WeCw4C4; path=/; expires=Fri,; cf-ray: 976972fa78144227-ORD
+2025-08-28 23:54:13 [program_spider] ERROR: [334807ef-479e-4667-a613-8915305669d0]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 39 -> 38, 操作: 处理请求错误
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 已处理页面: 2, 剩余请求数: 38
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 新增失败URL记录: https://camadmissions.zendesk.com/hc/en-gb/requests/new
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/建筑/failed_urls_建筑.json
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理2个页面): https://www.undergraduate.study.cam.ac.uk/courses?ucam-ref=global-header
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 38 -> 37, 操作: 完成页面解析
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理3个页面): https://www.postgraduate.study.cam.ac.uk/admissions-statistics
+2025-08-28 23:54:13 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 37 -> 36, 操作: 完成页面解析
+2025-08-28 23:54:15 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理4个页面): https://www.postgraduate.study.cam.ac.uk/events
+2025-08-28 23:54:15 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 36 -> 35, 操作: 完成页面解析
+2025-08-28 23:54:15 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理5个页面): https://apply.postgraduate.study.cam.ac.uk/applicant/login?dswid=-4945
+2025-08-28 23:54:15 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 35 -> 34, 操作: 完成页面解析
+2025-08-28 23:54:16 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理6个页面): https://www.landecon.cam.ac.uk/course-page/mphil-planning-growth-and-regeneration
+2025-08-28 23:54:16 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 34 -> 33, 操作: 完成页面解析
+2025-08-28 23:54:16 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理7个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr/apply
+2025-08-28 23:54:16 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 33 -> 32, 操作: 完成页面解析
+2025-08-28 23:54:17 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理8个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-footer
+2025-08-28 23:54:17 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 32 -> 31, 操作: 完成页面解析
+2025-08-28 23:54:17 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理9个页面): https://www.postgraduate.study.cam.ac.uk/courses/directory/lelemppgr/requirements
+2025-08-28 23:54:17 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 31 -> 30, 操作: 完成页面解析
+2025-08-28 23:54:17 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理10个页面): https://www.undergraduate.study.cam.ac.uk/apply?ucam-ref=global-header
+2025-08-28 23:54:17 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 30 -> 29, 操作: 完成页面解析
+2025-08-28 23:54:18 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理11个页面): https://faculty.educ.cam.ac.uk/?ucam-ref=global-header
+2025-08-28 23:54:18 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 29 -> 28, 操作: 完成页面解析
+2025-08-28 23:54:18 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理12个页面): https://www.postgraduate.study.cam.ac.uk/events/internships
+2025-08-28 23:54:18 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 28 -> 27, 操作: 完成页面解析
+2025-08-28 23:54:19 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 正在处理子页面(深度1) (已处理13个页面): https://www.postgraduate.study.cam.ac.uk/events/aim-applicant-support-programme
+2025-08-28 23:54:19 [program_spider] INFO: [334807ef-479e-4667-a613-8915305669d0] 计数器变更: 27 -> 26, 操作: 完成页面解析

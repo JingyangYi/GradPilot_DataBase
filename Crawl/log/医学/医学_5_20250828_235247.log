@@ -1,0 +1,800 @@
+2025-08-28 23:52:47 [scrapy.utils.log] INFO: Scrapy 2.13.3 started (bot: program_crawler)
+2025-08-28 23:52:47 [scrapy.utils.log] INFO: Versions:
+{'lxml': '6.0.0',
+ 'libxml2': '2.14.4',
+ 'cssselect': '1.3.0',
+ 'parsel': '1.10.0',
+ 'w3lib': '2.3.1',
+ 'Twisted': '25.5.0',
+ 'Python': '3.9.23 (main, Jun  5 2025, 13:40:20) - [GCC 11.2.0]',
+ 'pyOpenSSL': '25.1.0 (OpenSSL 3.5.1 1 Jul 2025)',
+ 'cryptography': '45.0.5',
+ 'Platform': 'Linux-5.15.0-144-generic-x86_64-with-glibc2.35'}
+2025-08-28 23:52:47 [program_spider] INFO: 尝试加载CSV文件: /net/scratch/jingyang/GradPilot_DataBase/Crawl/urls_subject/医学/医学_5.csv
+2025-08-28 23:52:47 [program_spider] INFO: 文件是否存在: True
+2025-08-28 23:52:47 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:52:47 [program_spider] INFO: 原始总项目数: 25
+2025-08-28 23:52:47 [program_spider] INFO: 将要爬取 25 个项目
+2025-08-28 23:52:47 [program_spider] INFO: 允许的域名: ['www.hyms.ac.uk', 'www.cardiff.ac.uk', 'www.curtin.edu.au', 'www.medizin.unibe.ch', 'www.reading.ac.uk', 'www.qub.ac.uk']
+2025-08-28 23:52:47 [program_spider] INFO: 将按顺序逐个项目进行爬取
+2025-08-28 23:52:47 [program_spider] INFO: ================================================================================
+2025-08-28 23:52:47 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-08-28 23:52:48 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.throttle.AutoThrottle']
+2025-08-28 23:52:48 [scrapy.crawler] INFO: Overridden settings:
+{'AUTOTHROTTLE_ENABLED': True,
+ 'AUTOTHROTTLE_MAX_DELAY': 6,
+ 'AUTOTHROTTLE_START_DELAY': 1,
+ 'AUTOTHROTTLE_TARGET_CONCURRENCY': 2.0,
+ 'BOT_NAME': 'program_crawler',
+ 'CONCURRENT_REQUESTS': 32,
+ 'DEPTH_LIMIT': 2,
+ 'DOWNLOAD_DELAY': 1,
+ 'DOWNLOAD_TIMEOUT': 30,
+ 'LOG_FILE': 'log/医学/医学_5_20250828_235247.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'program_crawler.spiders',
+ 'RANDOMIZE_DOWNLOAD_DELAY': 0.5,
+ 'RETRY_TIMES': 3,
+ 'SPIDER_MODULES': ['program_crawler.spiders'],
+ 'TELNETCONSOLE_ENABLED': False}
+2025-08-28 23:52:48 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'program_crawler.middlewares.RandomUserAgentMiddleware',
+ 'program_crawler.middlewares.BrowserHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-08-28 23:52:48 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.start.StartSpiderMiddleware',
+ 'scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-08-28 23:52:49 [scrapy.middleware] INFO: Enabled item pipelines:
+['program_crawler.pipelines.JsonWriterPipeline']
+2025-08-28 23:52:49 [scrapy.core.engine] INFO: Spider opened
+2025-08-28 23:52:49 [py.warnings] WARNING: /home/jingyang22/.conda/envs/gp/lib/python3.9/site-packages/scrapy/core/spidermw.py:433: ScrapyDeprecationWarning: program_crawler.spiders.program_spider.ProgramSpider defines the deprecated start_requests() method. start_requests() has been deprecated in favor of a new method, start(), to support asynchronous code execution. start_requests() will stop being called in a future version of Scrapy. If you use Scrapy 2.13 or higher only, replace start_requests() with start(); note that start() is a coroutine (async def). If you need to maintain compatibility with lower Scrapy versions, when overriding start_requests() in a spider class, override start() as well; you can use super() to reuse the inherited start() implementation without copy-pasting. See the release notes of Scrapy 2.13 for details: https://docs.scrapy.org/en/2.13/news.html
+  warn(
+
+2025-08-28 23:52:49 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-08-28 23:52:49 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:52:49 [program_spider] INFO: 开始爬取项目 [1/25]
+2025-08-28 23:52:49 [program_spider] INFO: 项目名称: 约克大学（英国）临床解剖学与教育理学硕士
+2025-08-28 23:52:49 [program_spider] INFO: 项目ID: 1853ce99-54ac-4a85-b3e1-907ba2cdbcda
+2025-08-28 23:52:49 [program_spider] INFO: 根URL: https://www.hyms.ac.uk/postgraduate-taught/msc-in-clinical-anatomy-and-education
+2025-08-28 23:52:49 [program_spider] INFO: 剩余项目数: 24
+2025-08-28 23:52:49 [program_spider] INFO: ================================================================================
+2025-08-28 23:52:49 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:52:49 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理根页面 (已处理0个页面): https://www.hyms.ac.uk/postgraduate-taught/msc-in-clinical-anatomy-and-education
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 页面总链接数: 42
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 移除导航后链接数: 42 (移除了 0 个导航链接)
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 有效链接数: 32, 关键词匹配数: 10, 最终提取数: 7
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 页面 https://www.hyms.ac.uk/postgraduate-taught/msc-in-clinical-anatomy-and-education (depth=0, is_root=True) 提取到 7 个链接
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught (锚文本: 'Postgraduate taught programmes', 匹配关键词: 'program')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://www.york.ac.uk/study/postgraduate/courses/apply?course=DPMCLISAEH1 (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://www.hull.ac.uk/choose-hull/study-at-hull/admissions/tuition-fee-deposit (锚文本: 'University of Hull Tuition Fee Deposit', 匹配关键词: 'tuition')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://link.springer.com/article/10.1007/s40670-022-01593-y (锚文本: 'The Use of Ultrasound in Undergraduate Medical Anatomy Education: a Systematic Review with Narrative Synthesis.', 匹配关键词: 'thesis')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 爬取子链接: https://doi.org/10.1007/s40670-020-01021-z (锚文本: 'Exploring the Hidden Curriculum’s Impact on Medical Students: Professionalism, Identity Formation and the Need for Transparency', 匹配关键词: 'curriculum')
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 提取链接完成，去重前 7 个链接，去重后 7 个新请求（去重了 0 个重复链接）
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 1 -> 8, 操作: 添加7个子页面请求
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 添加 7 个新请求，当前剩余: 7
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理1个页面): https://www.hyms.ac.uk/postgraduate-taught
+2025-08-28 23:52:50 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-28 23:52:51 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理2个页面): https://www.york.ac.uk/study/postgraduate/courses/apply?course=DPMCLISAEH1
+2025-08-28 23:52:51 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-28 23:52:51 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理3个页面): https://www.hull.ac.uk/study/undergraduate/how-to-apply
+2025-08-28 23:52:51 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:52:51 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理4个页面): https://www.hyms.ac.uk/postgraduate-taught/funding
+2025-08-28 23:52:51 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:52:52 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理5个页面): https://www.hyms.ac.uk/postgraduate-taught/how-to-apply
+2025-08-28 23:52:52 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:52:53 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理6个页面): https://link.springer.com/article/10.1007/s40670-022-01593-y
+2025-08-28 23:52:53 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:52:54 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在处理子页面(深度1) (已处理7个页面): https://link.springer.com/article/10.1007/s40670-020-01021-z
+2025-08-28 23:52:54 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 正在完成项目
+2025-08-28 23:52:55 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 项目完成: 约克大学（英国）临床解剖学与教育理学硕士
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda]   - 总页数: 8
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda]   - 成功页数: 8
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda]   - 失败页数: 0
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda]   - 成功率: 100.0%
+2025-08-28 23:52:55 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:52:55 [program_spider] INFO: [1853ce99-54ac-4a85-b3e1-907ba2cdbcda] 仍有 24 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:52:55 [program_spider] INFO: 成功保存项目数据: output/医学/约克大学英国临床解剖学与教育理学硕士_医学.json
+2025-08-28 23:52:55 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:52:55 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:52:55 [program_spider] INFO: 开始爬取项目 [2/25]
+2025-08-28 23:52:55 [program_spider] INFO: 项目名称: 约克大学（英国）临床解剖学理学硕士
+2025-08-28 23:52:55 [program_spider] INFO: 项目ID: 17aa3ada-af1b-4774-8a5f-15bf52019c13
+2025-08-28 23:52:55 [program_spider] INFO: 根URL: https://www.hyms.ac.uk/postgraduate-taught/msc-in-clinical-anatomy
+2025-08-28 23:52:55 [program_spider] INFO: 剩余项目数: 23
+2025-08-28 23:52:55 [program_spider] INFO: ================================================================================
+2025-08-28 23:52:55 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理根页面 (已处理0个页面): https://www.hyms.ac.uk/postgraduate-taught/msc-in-clinical-anatomy
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 页面总链接数: 39
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 移除导航后链接数: 39 (移除了 0 个导航链接)
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 有效链接数: 29, 关键词匹配数: 10, 最终提取数: 7
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 页面 https://www.hyms.ac.uk/postgraduate-taught/msc-in-clinical-anatomy (depth=0, is_root=True) 提取到 7 个链接
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught (锚文本: 'Postgraduate taught programmes', 匹配关键词: 'program')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://www.york.ac.uk/study/postgraduate/courses/apply?course=DPMCLISANH1 (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://www.hull.ac.uk/choose-hull/study-at-hull/admissions/tuition-fee-deposit (锚文本: 'University of Hull Tuition Fee Deposit', 匹配关键词: 'tuition')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://link.springer.com/article/10.1007/s40670-022-01593-y (锚文本: 'The Use of Ultrasound in Undergraduate Medical Anatomy Education: a Systematic Review with Narrative Synthesis.', 匹配关键词: 'thesis')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 爬取子链接: https://doi.org/10.1007/s40670-020-01021-z (锚文本: 'Exploring the Hidden Curriculum’s Impact on Medical Students: Professionalism, Identity Formation and the Need for Transparency', 匹配关键词: 'curriculum')
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 提取链接完成，去重前 7 个链接，去重后 7 个新请求（去重了 0 个重复链接）
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 1 -> 8, 操作: 添加7个子页面请求
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 添加 7 个新请求，当前剩余: 7
+2025-08-28 23:52:56 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-28 23:52:57 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理1个页面): https://www.york.ac.uk/study/postgraduate/courses/apply?course=DPMCLISANH1
+2025-08-28 23:52:57 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-28 23:52:57 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理2个页面): https://www.hyms.ac.uk/postgraduate-taught
+2025-08-28 23:52:57 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-28 23:52:57 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理3个页面): https://www.hull.ac.uk/study/undergraduate/how-to-apply
+2025-08-28 23:52:58 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:52:58 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理4个页面): https://www.hyms.ac.uk/postgraduate-taught/funding
+2025-08-28 23:52:58 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:52:58 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理5个页面): https://link.springer.com/article/10.1007/s40670-022-01593-y
+2025-08-28 23:52:59 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:52:59 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理6个页面): https://www.hyms.ac.uk/postgraduate-taught/how-to-apply
+2025-08-28 23:52:59 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:00 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在处理子页面(深度1) (已处理7个页面): https://link.springer.com/article/10.1007/s40670-020-01021-z
+2025-08-28 23:53:01 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 正在完成项目
+2025-08-28 23:53:02 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 项目完成: 约克大学（英国）临床解剖学理学硕士
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13]   - 总页数: 8
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13]   - 成功页数: 8
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13]   - 失败页数: 0
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13]   - 成功率: 100.0%
+2025-08-28 23:53:02 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:02 [program_spider] INFO: [17aa3ada-af1b-4774-8a5f-15bf52019c13] 仍有 23 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:02 [program_spider] INFO: 成功保存项目数据: output/医学/约克大学英国临床解剖学理学硕士_医学.json
+2025-08-28 23:53:02 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:02 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:02 [program_spider] INFO: 开始爬取项目 [3/25]
+2025-08-28 23:53:02 [program_spider] INFO: 项目名称: 约克大学（英国）医师助理研究理学硕士
+2025-08-28 23:53:02 [program_spider] INFO: 项目ID: 656e0220-151b-4344-a370-a68d2a44af14
+2025-08-28 23:53:02 [program_spider] INFO: 根URL: https://www.hyms.ac.uk/postgraduate-taught/msc-in-physician-associate-studies
+2025-08-28 23:53:02 [program_spider] INFO: 剩余项目数: 22
+2025-08-28 23:53:02 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 正在处理根页面 (已处理0个页面): https://www.hyms.ac.uk/postgraduate-taught/msc-in-physician-associate-studies
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 页面总链接数: 29
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 移除导航后链接数: 29 (移除了 0 个导航链接)
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 有效链接数: 19, 关键词匹配数: 6, 最终提取数: 4
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 页面 https://www.hyms.ac.uk/postgraduate-taught/msc-in-physician-associate-studies (depth=0, is_root=True) 提取到 4 个链接
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught (锚文本: 'Postgraduate taught programmes', 匹配关键词: 'program')
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught/how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 爬取子链接: https://www.hyms.ac.uk/postgraduate-taught/funding (锚文本: 'Funding', 匹配关键词: 'funding')
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 爬取子链接: https://www.healthcareers.nhs.uk/explore-roles/medical-associate-professions/roles-medical-associate-professions/physician-associate (锚文本: 'NHS health careers website', 匹配关键词: 'career')
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 提取链接完成，去重前 4 个链接，去重后 4 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 1 -> 5, 操作: 添加4个子页面请求
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 添加 4 个新请求，当前剩余: 4
+2025-08-28 23:53:02 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:53:03 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 正在处理子页面(深度1) (已处理1个页面): https://www.hyms.ac.uk/postgraduate-taught
+2025-08-28 23:53:03 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:53:04 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.healthcareers.nhs.uk/explore-roles/medical-associate-professions/roles-medical-associate-professions/physician-associate from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:04 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 正在处理子页面(深度1) (已处理2个页面): https://www.healthcareers.nhs.uk/explore-roles/medical-associate-professions/roles-medical-associate...
+2025-08-28 23:53:04 [program_spider] ERROR: [656e0220-151b-4344-a370-a68d2a44af14] 解析页面失败 https://www.healthcareers.nhs.uk/explore-roles/medical-associate-professions/roles-medical-associate-professions/physician-associate: Response content isn't text
+2025-08-28 23:53:04 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:53:04 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 正在处理子页面(深度1) (已处理3个页面): https://www.hyms.ac.uk/postgraduate-taught/funding
+2025-08-28 23:53:04 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:53:05 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 正在处理子页面(深度1) (已处理4个页面): https://www.hyms.ac.uk/postgraduate-taught/how-to-apply
+2025-08-28 23:53:05 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 正在完成项目
+2025-08-28 23:53:06 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 项目完成: 约克大学（英国）医师助理研究理学硕士
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14]   - 总页数: 4
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14]   - 成功页数: 4
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14]   - 失败页数: 1
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14]   - 成功率: 80.0%
+2025-08-28 23:53:06 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:06 [program_spider] INFO: [656e0220-151b-4344-a370-a68d2a44af14] 仍有 22 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:06 [program_spider] INFO: 成功保存项目数据: output/医学/约克大学英国医师助理研究理学硕士_医学.json
+2025-08-28 23:53:06 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:06 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:06 [program_spider] INFO: 开始爬取项目 [4/25]
+2025-08-28 23:53:06 [program_spider] INFO: 项目名称: 卡迪夫大学临床牙科（口腔修复学）硕士
+2025-08-28 23:53:06 [program_spider] INFO: 项目ID: 6dd44759-e5a7-4c50-abe8-8efd622ee226
+2025-08-28 23:53:06 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-prosthodontics
+2025-08-28 23:53:06 [program_spider] INFO: 剩余项目数: 21
+2025-08-28 23:53:06 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:06 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:07 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-prosthodontics from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 请求失败详情:
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-prosthodontics
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   错误类型: HttpError
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   HTTP状态码: 403
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=LUWqTaaFSDs.xCfwbaaWjJ4YC3lkOcaL1pzAi11.LHc-1756443187-1.0.1.1-Z0WGVxlTDVLho.ukBbOepV6ECLemmSKYYkKNKiMqmbGcYQbTEMmWdOrgGUs60J2aawVQDkSrnxVzEOarogR1H1lf1wz_X6mocri.Si9KgOI; path=/; expires=Fri,; cf-ray: 9769715f8e3661a5-ORD
+2025-08-28 23:53:07 [program_spider] ERROR: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:07 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:07 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:07 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-prosthodontics
+2025-08-28 23:53:07 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:07 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 正在完成项目
+2025-08-28 23:53:08 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 项目完成: 卡迪夫大学临床牙科（口腔修复学）硕士
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   - 总页数: 0
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   - 成功页数: 0
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   - 失败页数: 1
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226]   - 成功率: 0.0%
+2025-08-28 23:53:08 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:08 [program_spider] INFO: [6dd44759-e5a7-4c50-abe8-8efd622ee226] 仍有 21 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:08 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学临床牙科口腔修复学硕士_医学.json
+2025-08-28 23:53:08 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:08 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:08 [program_spider] INFO: 开始爬取项目 [5/25]
+2025-08-28 23:53:08 [program_spider] INFO: 项目名称: 卡迪夫大学临床牙科（牙髓病学）硕士
+2025-08-28 23:53:08 [program_spider] INFO: 项目ID: 6601cb14-ad6a-44c5-8167-ef80b7554a24
+2025-08-28 23:53:08 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-endodontology
+2025-08-28 23:53:08 [program_spider] INFO: 剩余项目数: 20
+2025-08-28 23:53:08 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:08 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:12 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-endodontology from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:12 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 正在处理根页面 (已处理0个页面): https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-endo...
+2025-08-28 23:53:12 [program_spider] ERROR: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 解析页面失败 https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-endodontology: Response content isn't text
+2025-08-28 23:53:12 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 正在完成项目
+2025-08-28 23:53:13 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 项目完成: 卡迪夫大学临床牙科（牙髓病学）硕士
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24]   - 总页数: 0
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24]   - 成功页数: 0
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24]   - 失败页数: 1
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24]   - 成功率: 0.0%
+2025-08-28 23:53:13 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:13 [program_spider] INFO: [6601cb14-ad6a-44c5-8167-ef80b7554a24] 仍有 20 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:13 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学临床牙科牙髓病学硕士_医学.json
+2025-08-28 23:53:13 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:13 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:13 [program_spider] INFO: 开始爬取项目 [6/25]
+2025-08-28 23:53:13 [program_spider] INFO: 项目名称: 卡迪夫大学物理疗法理学硕士
+2025-08-28 23:53:13 [program_spider] INFO: 项目ID: a3a00787-b4a6-472e-bc65-79c64b1ab3fa
+2025-08-28 23:53:13 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/physiotherapy-msc
+2025-08-28 23:53:13 [program_spider] INFO: 剩余项目数: 19
+2025-08-28 23:53:13 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:13 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:13 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/physiotherapy-msc from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 请求失败详情:
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/physiotherapy-msc
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   错误类型: HttpError
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   HTTP状态码: 403
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=FAbzG2Bt1DbaPJQ5eJM_4soN04uNA0Hd5F_agNC1kcU-1756443193-1.0.1.1-1rGRheMvg5s7QQHBcEbQJlvCStk4.a_3f8z4H6khyGSExZ3GMERR4ulf1hMKmz6O6fqNogWIvMSrJuQOBmL.K6K0mn3QQ5ltvezrohX87rg; path=/; expires=Fri,; cf-ray: 976971864fac608e-ORD
+2025-08-28 23:53:13 [program_spider] ERROR: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   请求头: user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:13 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:13 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:13 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/physiotherapy-msc
+2025-08-28 23:53:13 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:13 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 正在完成项目
+2025-08-28 23:53:14 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 项目完成: 卡迪夫大学物理疗法理学硕士
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   - 总页数: 0
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   - 成功页数: 0
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   - 失败页数: 1
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa]   - 成功率: 0.0%
+2025-08-28 23:53:14 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:14 [program_spider] INFO: [a3a00787-b4a6-472e-bc65-79c64b1ab3fa] 仍有 19 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:14 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学物理疗法理学硕士_医学.json
+2025-08-28 23:53:14 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:14 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:14 [program_spider] INFO: 开始爬取项目 [7/25]
+2025-08-28 23:53:14 [program_spider] INFO: 项目名称: 卡迪夫大学职业疗法理学硕士
+2025-08-28 23:53:14 [program_spider] INFO: 项目ID: 5f98c16b-5fe5-41ac-af5e-acecbc779bba
+2025-08-28 23:53:14 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/occupational-therapy-msc
+2025-08-28 23:53:14 [program_spider] INFO: 剩余项目数: 18
+2025-08-28 23:53:14 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:14 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:15 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/occupational-therapy-msc from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 请求失败详情:
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/occupational-therapy-msc
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   错误类型: HttpError
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   HTTP状态码: 403
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=uPphtupTPHX4BZ4nr.r63C7b4aTPslFdLtbuLpMyKbo-1756443195-1.0.1.1-wp87VmxyKw78pUVewrALu_tHY0hF97FsakLGcPLjF1WTc3UvwiUHaFB5fEVGE8Isig0ZyomTqBhbnCo2SqFyWsDL1TjqbO9UoaG2qoLG1E4; path=/; expires=Fri,; cf-ray: 976971924ecb10f2-ORD
+2025-08-28 23:53:15 [program_spider] ERROR: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   请求头: user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:15 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:15 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:15 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/occupational-therapy-msc
+2025-08-28 23:53:15 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:15 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 正在完成项目
+2025-08-28 23:53:16 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 项目完成: 卡迪夫大学职业疗法理学硕士
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   - 总页数: 0
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   - 成功页数: 0
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   - 失败页数: 1
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba]   - 成功率: 0.0%
+2025-08-28 23:53:16 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:16 [program_spider] INFO: [5f98c16b-5fe5-41ac-af5e-acecbc779bba] 仍有 18 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:16 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学职业疗法理学硕士_医学.json
+2025-08-28 23:53:16 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:16 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:16 [program_spider] INFO: 开始爬取项目 [8/25]
+2025-08-28 23:53:16 [program_spider] INFO: 项目名称: 卡迪夫大学应用生物信息学与基因组学理学硕士
+2025-08-28 23:53:16 [program_spider] INFO: 项目ID: be342770-5802-4d0a-ab30-71d4a35319b6
+2025-08-28 23:53:16 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-bioinformatics-and-genomics-msc-full-time
+2025-08-28 23:53:16 [program_spider] INFO: 剩余项目数: 17
+2025-08-28 23:53:16 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:16 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:17 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-bioinformatics-and-genomics-msc-full-time from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6] 请求失败详情:
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-bioinformatics-and-genomics-msc-full-time
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6]   错误类型: HttpError
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6]   HTTP状态码: 403
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=xyZPEfJ3.4Y5EzPyv0Lp_zU5eCDMI8R_O6shlnrgAFk-1756443197-1.0.1.1-60i9Omzm3o0mEQMq8SXop_5WotK9shKSanYMJ6c8qeQx9nBIUstHBU4xucc5MAOrbAnOH5yUugiZLC9XuVhr2ocoodjCIpHfgBTaVYDqF04; path=/; expires=Fri,; cf-ray: 9769719e4d07eaf1-ORD
+2025-08-28 23:53:17 [program_spider] ERROR: [be342770-5802-4d0a-ab30-71d4a35319b6]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:17 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:17 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:17 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-bioinformatics-and-genomics-msc-full-time
+2025-08-28 23:53:17 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:17 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 正在完成项目
+2025-08-28 23:53:18 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 项目完成: 卡迪夫大学应用生物信息学与基因组学理学硕士
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6]   - 总页数: 0
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6]   - 成功页数: 0
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6]   - 失败页数: 1
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6]   - 成功率: 0.0%
+2025-08-28 23:53:18 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:18 [program_spider] INFO: [be342770-5802-4d0a-ab30-71d4a35319b6] 仍有 17 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:18 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学应用生物信息学与基因组学理学硕士_医学.json
+2025-08-28 23:53:18 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:18 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:18 [program_spider] INFO: 开始爬取项目 [9/25]
+2025-08-28 23:53:18 [program_spider] INFO: 项目名称: 卡迪夫大学临床验光理学硕士
+2025-08-28 23:53:18 [program_spider] INFO: 项目ID: 66fc8878-5831-4c19-8c55-e50654e292ea
+2025-08-28 23:53:18 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/clinical-optometry-msc-full-time
+2025-08-28 23:53:18 [program_spider] INFO: 剩余项目数: 16
+2025-08-28 23:53:18 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:18 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:19 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/clinical-optometry-msc-full-time from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea] 请求失败详情:
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/clinical-optometry-msc-full-time
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea]   错误类型: HttpError
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea]   HTTP状态码: 403
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=Yc2jYbZt2gbOfFiDhsAuJSQHJ0GiiIrO4wOK6NKV.SY-1756443199-1.0.1.1-.9ktcCu9dyik9H0gnJjGgSD2MSoqdIhz1ySEPlq2p98NYHSSHuGvVQz.YRH2fT94fDin.UWFrYK5tB.CUhnW77A5jZ4x48kGhyQwFy98sfg; path=/; expires=Fri,; cf-ray: 976971aa4adfa3e2-ORD
+2025-08-28 23:53:19 [program_spider] ERROR: [66fc8878-5831-4c19-8c55-e50654e292ea]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:19 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:19 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:19 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/clinical-optometry-msc-full-time
+2025-08-28 23:53:19 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:19 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 正在完成项目
+2025-08-28 23:53:20 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 项目完成: 卡迪夫大学临床验光理学硕士
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea]   - 总页数: 0
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea]   - 成功页数: 0
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea]   - 失败页数: 1
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea]   - 成功率: 0.0%
+2025-08-28 23:53:20 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:20 [program_spider] INFO: [66fc8878-5831-4c19-8c55-e50654e292ea] 仍有 16 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:20 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学临床验光理学硕士_医学.json
+2025-08-28 23:53:20 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:20 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:20 [program_spider] INFO: 开始爬取项目 [10/25]
+2025-08-28 23:53:20 [program_spider] INFO: 项目名称: 卡迪夫大学种植学理学硕士
+2025-08-28 23:53:20 [program_spider] INFO: 项目ID: 4dd353cd-f0c3-4bba-8e58-ee08ce72a74c
+2025-08-28 23:53:20 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/implantology-msc
+2025-08-28 23:53:20 [program_spider] INFO: 剩余项目数: 15
+2025-08-28 23:53:20 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:20 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:21 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/implantology-msc from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 请求失败详情:
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/implantology-msc
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   错误类型: HttpError
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   HTTP状态码: 403
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=SofbO3I_kr_7lggpJvvEpRBy.8o_X0dfmSjpp7bZS3Y-1756443201-1.0.1.1-6PmwnOlpl1eLeHdA9KgO7ANqDDYEDYUmG.3pbv8FwXRm6QQ__ISFGO.LANw8nt1kTtQzMxP1VMcC21QfjV7j0Ak981RmK2ZdkgIuPpFjGgk; path=/; expires=Fri,; cf-ray: 976971b639ef22d5-ORD
+2025-08-28 23:53:21 [program_spider] ERROR: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:21 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:21 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:21 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/implantology-msc
+2025-08-28 23:53:21 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:21 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 正在完成项目
+2025-08-28 23:53:22 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 项目完成: 卡迪夫大学种植学理学硕士
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   - 总页数: 0
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   - 成功页数: 0
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   - 失败页数: 1
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c]   - 成功率: 0.0%
+2025-08-28 23:53:22 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:22 [program_spider] INFO: [4dd353cd-f0c3-4bba-8e58-ee08ce72a74c] 仍有 15 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:22 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学种植学理学硕士_医学.json
+2025-08-28 23:53:22 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:22 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:22 [program_spider] INFO: 开始爬取项目 [11/25]
+2025-08-28 23:53:22 [program_spider] INFO: 项目名称: 卡迪夫大学口腔正畸学硕士
+2025-08-28 23:53:22 [program_spider] INFO: 项目ID: 542aeaa5-076e-494e-9349-61c34bd11294
+2025-08-28 23:53:22 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/orthodontics-mscd
+2025-08-28 23:53:22 [program_spider] INFO: 剩余项目数: 14
+2025-08-28 23:53:22 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:22 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:22 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/orthodontics-mscd from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294] 请求失败详情:
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294]   URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/orthodontics-mscd
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294]   错误类型: HttpError
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294]   错误描述: Ignoring non-200 response
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294]   HTTP状态码: 403
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294]   响应头: server: cloudflare; content-type: text/html; charset=UTF-8; set-cookie: __cf_bm=JNkUDzD0.pzDz430AB.v5EbKFrzezpVf.hJZ7BfQtHY-1756443202-1.0.1.1-G7sr2f70c3DWUpioX831_iZKNTAm.ezY9egqEoWxi4erNITyfv8cOGiuF3nViAy1EFfnBnW9lszgEwOFAqIr_KhtMOow1EK4Yi6FtVUl8MI; path=/; expires=Fri,; cf-ray: 976971c23e1310f7-ORD
+2025-08-28 23:53:23 [program_spider] ERROR: [542aeaa5-076e-494e-9349-61c34bd11294]   请求头: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Sa; accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,app; accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7; accept-encoding: gzip, deflate, br, zstd
+2025-08-28 23:53:23 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 计数器变更: 1 -> 0, 操作: 处理请求错误
+2025-08-28 23:53:23 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 已处理页面: 1, 剩余请求数: 0
+2025-08-28 23:53:23 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 新增失败URL记录: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/orthodontics-mscd
+2025-08-28 23:53:23 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 失败记录已保存到: /net/scratch/jingyang/GradPilot_DataBase/Crawl/log/医学/failed_urls_医学.json
+2025-08-28 23:53:23 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 项目在错误处理中完成，立即收尾 …
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 正在完成项目
+2025-08-28 23:53:24 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 项目完成: 卡迪夫大学口腔正畸学硕士
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294]   - 总页数: 0
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294]   - 成功页数: 0
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294]   - 失败页数: 1
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294]   - 成功率: 0.0%
+2025-08-28 23:53:24 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:24 [program_spider] INFO: [542aeaa5-076e-494e-9349-61c34bd11294] 仍有 14 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:24 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学口腔正畸学硕士_医学.json
+2025-08-28 23:53:24 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:24 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:24 [program_spider] INFO: 开始爬取项目 [12/25]
+2025-08-28 23:53:24 [program_spider] INFO: 项目名称: 卡迪夫大学高级医疗保健实践理学硕士
+2025-08-28 23:53:24 [program_spider] INFO: 项目ID: 830b7cdc-a83e-4ed8-8119-535770aa4772
+2025-08-28 23:53:24 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/advanced-healthcare-practice-msc-full-time-18-months
+2025-08-28 23:53:24 [program_spider] INFO: 剩余项目数: 13
+2025-08-28 23:53:24 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:24 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:28 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/advanced-healthcare-practice-msc-full-time-18-months from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:28 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772] 正在处理根页面 (已处理0个页面): https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/advanced-healthcare-practice-msc-...
+2025-08-28 23:53:28 [program_spider] ERROR: [830b7cdc-a83e-4ed8-8119-535770aa4772] 解析页面失败 https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/advanced-healthcare-practice-msc-full-time-18-months: Response content isn't text
+2025-08-28 23:53:28 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772] 正在完成项目
+2025-08-28 23:53:29 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772] 项目完成: 卡迪夫大学高级医疗保健实践理学硕士
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772]   - 总页数: 0
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772]   - 成功页数: 0
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772]   - 失败页数: 1
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772]   - 成功率: 0.0%
+2025-08-28 23:53:29 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:29 [program_spider] INFO: [830b7cdc-a83e-4ed8-8119-535770aa4772] 仍有 13 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:29 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学高级医疗保健实践理学硕士_医学.json
+2025-08-28 23:53:29 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:29 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:29 [program_spider] INFO: 开始爬取项目 [13/25]
+2025-08-28 23:53:29 [program_spider] INFO: 项目名称: 卡迪夫大学应用与实验临床免疫学理学硕士
+2025-08-28 23:53:29 [program_spider] INFO: 项目ID: e7152b9b-aa73-4711-8138-c1b1aa13d3db
+2025-08-28 23:53:29 [program_spider] INFO: 根URL: https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-and-experimental-clinical-immunology-msc-full-time-1-year2
+2025-08-28 23:53:29 [program_spider] INFO: 剩余项目数: 12
+2025-08-28 23:53:29 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:29 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:33 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-and-experimental-clinical-immunology-msc-full-time-1-year2 from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:33 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 正在处理根页面 (已处理0个页面): https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-and-experimental-clinical...
+2025-08-28 23:53:33 [program_spider] ERROR: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 解析页面失败 https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-and-experimental-clinical-immunology-msc-full-time-1-year2: Response content isn't text
+2025-08-28 23:53:33 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 正在完成项目
+2025-08-28 23:53:34 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 项目完成: 卡迪夫大学应用与实验临床免疫学理学硕士
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db]   - 总页数: 0
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db]   - 成功页数: 0
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db]   - 失败页数: 1
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db]   - 成功率: 0.0%
+2025-08-28 23:53:34 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:34 [program_spider] INFO: [e7152b9b-aa73-4711-8138-c1b1aa13d3db] 仍有 12 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:34 [program_spider] INFO: 成功保存项目数据: output/医学/卡迪夫大学应用与实验临床免疫学理学硕士_医学.json
+2025-08-28 23:53:34 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:34 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:34 [program_spider] INFO: 开始爬取项目 [14/25]
+2025-08-28 23:53:34 [program_spider] INFO: 项目名称: 科廷大学营养学硕士
+2025-08-28 23:53:34 [program_spider] INFO: 项目ID: 26f645ed-3161-4d7d-aabd-a4f8e34c8310
+2025-08-28 23:53:34 [program_spider] INFO: 根URL: https://www.curtin.edu.au/study/offering/course-pg-master-of-dietetics--mg-diets/
+2025-08-28 23:53:34 [program_spider] INFO: 剩余项目数: 11
+2025-08-28 23:53:34 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:34 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:37 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.curtin.edu.au/study/offering/course-pg-master-of-dietetics--mg-diets/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:37 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 正在处理根页面 (已处理0个页面): https://www.curtin.edu.au/study/offering/course-pg-master-of-dietetics--mg-diets/
+2025-08-28 23:53:37 [program_spider] ERROR: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 解析页面失败 https://www.curtin.edu.au/study/offering/course-pg-master-of-dietetics--mg-diets/: Response content isn't text
+2025-08-28 23:53:37 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 正在完成项目
+2025-08-28 23:53:38 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 项目完成: 科廷大学营养学硕士
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310]   - 总页数: 0
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310]   - 成功页数: 0
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310]   - 失败页数: 1
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310]   - 成功率: 0.0%
+2025-08-28 23:53:38 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:38 [program_spider] INFO: [26f645ed-3161-4d7d-aabd-a4f8e34c8310] 仍有 11 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:38 [program_spider] INFO: 成功保存项目数据: output/医学/科廷大学营养学硕士_医学.json
+2025-08-28 23:53:38 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:38 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:38 [program_spider] INFO: 开始爬取项目 [15/25]
+2025-08-28 23:53:38 [program_spider] INFO: 项目名称: 科廷大学临床运动生理学硕士
+2025-08-28 23:53:38 [program_spider] INFO: 项目ID: 33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf
+2025-08-28 23:53:38 [program_spider] INFO: 根URL: https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-exercise-physiology--mc-cexphy/
+2025-08-28 23:53:38 [program_spider] INFO: 剩余项目数: 10
+2025-08-28 23:53:38 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:38 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:42 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-exercise-physiology--mc-cexphy/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:42 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 正在处理根页面 (已处理0个页面): https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-exercise-physiology--mc-cexphy...
+2025-08-28 23:53:42 [program_spider] ERROR: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 解析页面失败 https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-exercise-physiology--mc-cexphy/: Response content isn't text
+2025-08-28 23:53:42 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 正在完成项目
+2025-08-28 23:53:43 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 项目完成: 科廷大学临床运动生理学硕士
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf]   - 总页数: 0
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf]   - 成功页数: 0
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf]   - 失败页数: 1
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf]   - 成功率: 0.0%
+2025-08-28 23:53:43 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:43 [program_spider] INFO: [33b39e9e-df0a-4b4a-9d0b-5da92bbbaddf] 仍有 10 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:43 [program_spider] INFO: 成功保存项目数据: output/医学/科廷大学临床运动生理学硕士_医学.json
+2025-08-28 23:53:43 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:43 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:43 [program_spider] INFO: 开始爬取项目 [16/25]
+2025-08-28 23:53:43 [program_spider] INFO: 项目名称: 科廷大学临床物理治疗硕士
+2025-08-28 23:53:43 [program_spider] INFO: 项目ID: 829b8beb-e90b-4b27-a084-ca1ba7d5d199
+2025-08-28 23:53:43 [program_spider] INFO: 根URL: https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-physiotherapy--mc-phyth/
+2025-08-28 23:53:43 [program_spider] INFO: 剩余项目数: 9
+2025-08-28 23:53:43 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:43 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:45 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-physiotherapy--mc-phyth/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:45 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 正在处理根页面 (已处理0个页面): https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-physiotherapy--mc-phyth/
+2025-08-28 23:53:45 [program_spider] ERROR: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 解析页面失败 https://www.curtin.edu.au/study/offering/course-pg-master-of-clinical-physiotherapy--mc-phyth/: Response content isn't text
+2025-08-28 23:53:45 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 正在完成项目
+2025-08-28 23:53:46 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 项目完成: 科廷大学临床物理治疗硕士
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199]   - 总页数: 0
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199]   - 成功页数: 0
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199]   - 失败页数: 1
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199]   - 成功率: 0.0%
+2025-08-28 23:53:46 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:46 [program_spider] INFO: [829b8beb-e90b-4b27-a084-ca1ba7d5d199] 仍有 9 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:46 [program_spider] INFO: 成功保存项目数据: output/医学/科廷大学临床物理治疗硕士_医学.json
+2025-08-28 23:53:46 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:46 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:46 [program_spider] INFO: 开始爬取项目 [17/25]
+2025-08-28 23:53:46 [program_spider] INFO: 项目名称: 科廷大学言语疗法硕士
+2025-08-28 23:53:46 [program_spider] INFO: 项目ID: b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6
+2025-08-28 23:53:46 [program_spider] INFO: 根URL: https://www.curtin.edu.au/study/offering/course-pg-master-of-speech-pathology--mg-sppath/
+2025-08-28 23:53:46 [program_spider] INFO: 剩余项目数: 8
+2025-08-28 23:53:46 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:46 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:49 [scrapy.extensions.logstats] INFO: Crawled 34 pages (at 34 pages/min), scraped 16 items (at 16 items/min)
+2025-08-28 23:53:49 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.curtin.edu.au/study/offering/course-pg-master-of-speech-pathology--mg-sppath/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:49 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 正在处理根页面 (已处理0个页面): https://www.curtin.edu.au/study/offering/course-pg-master-of-speech-pathology--mg-sppath/
+2025-08-28 23:53:49 [program_spider] ERROR: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 解析页面失败 https://www.curtin.edu.au/study/offering/course-pg-master-of-speech-pathology--mg-sppath/: Response content isn't text
+2025-08-28 23:53:49 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 正在完成项目
+2025-08-28 23:53:50 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 项目完成: 科廷大学言语疗法硕士
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6]   - 总页数: 0
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6]   - 成功页数: 0
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6]   - 失败页数: 1
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6]   - 成功率: 0.0%
+2025-08-28 23:53:50 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:50 [program_spider] INFO: [b19fb8bc-5c95-40e0-b217-ddb3b6e3c0a6] 仍有 8 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:50 [program_spider] INFO: 成功保存项目数据: output/医学/科廷大学言语疗法硕士_医学.json
+2025-08-28 23:53:50 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:50 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:50 [program_spider] INFO: 开始爬取项目 [18/25]
+2025-08-28 23:53:50 [program_spider] INFO: 项目名称: 科廷大学护理实践硕士
+2025-08-28 23:53:50 [program_spider] INFO: 项目ID: 267eb135-b8f7-4441-8c7f-5dc0ac2e3b41
+2025-08-28 23:53:50 [program_spider] INFO: 根URL: https://www.curtin.edu.au/study/offering/course-pg-master-of-nursing-practice--mg-nurspr/
+2025-08-28 23:53:50 [program_spider] INFO: 剩余项目数: 7
+2025-08-28 23:53:50 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:50 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:54 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.curtin.edu.au/study/offering/course-pg-master-of-nursing-practice--mg-nurspr/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.
+2025-08-28 23:53:54 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 正在处理根页面 (已处理0个页面): https://www.curtin.edu.au/study/offering/course-pg-master-of-nursing-practice--mg-nurspr/
+2025-08-28 23:53:54 [program_spider] ERROR: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 解析页面失败 https://www.curtin.edu.au/study/offering/course-pg-master-of-nursing-practice--mg-nurspr/: Response content isn't text
+2025-08-28 23:53:54 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 正在完成项目
+2025-08-28 23:53:55 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 项目完成: 科廷大学护理实践硕士
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41]   - 总页数: 0
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41]   - 成功页数: 0
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41]   - 失败页数: 1
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41]   - 成功率: 0.0%
+2025-08-28 23:53:55 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:53:55 [program_spider] INFO: [267eb135-b8f7-4441-8c7f-5dc0ac2e3b41] 仍有 7 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:53:55 [program_spider] INFO: 成功保存项目数据: output/医学/科廷大学护理实践硕士_医学.json
+2025-08-28 23:53:55 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:53:55 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:53:55 [program_spider] INFO: 开始爬取项目 [19/25]
+2025-08-28 23:53:55 [program_spider] INFO: 项目名称: 伯尔尼大学生物医学理学硕士
+2025-08-28 23:53:55 [program_spider] INFO: 项目ID: 2e2dd386-d83e-4c8f-b876-2ada95d6eb16
+2025-08-28 23:53:55 [program_spider] INFO: 根URL: https://www.medizin.unibe.ch/studium/studienprogramme/master_in_biomedical_sciences/index_ger.html
+2025-08-28 23:53:55 [program_spider] INFO: 剩余项目数: 6
+2025-08-28 23:53:55 [program_spider] INFO: ================================================================================
+2025-08-28 23:53:55 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 正在处理根页面 (已处理0个页面): https://www.medizin.unibe.ch/studium/studienprogramme/master_in_biomedical_sciences/index_ger.html
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 页面总链接数: 45
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 移除导航后链接数: 45 (移除了 0 个导航链接)
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 有效链接数: 32, 关键词匹配数: 4, 最终提取数: 3
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 页面 https://www.medizin.unibe.ch/studium/studienprogramme/master_in_biomedical_sciences/index_ger.html (depth=0, is_root=True) 提取到 3 个链接
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 爬取子链接: https://www.unibe.ch/studium/studienangebote/master/studienprogramme/index_ger.html (锚文本: 'Studienprogramme', 匹配关键词: 'program')
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 爬取子链接: https://www.unibe.ch/studium/daten/wechsel_studienprogramm/index_ger.html (锚文本: 'Antrag auf Wechsel Studienprogramm/e', 匹配关键词: 'program')
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 爬取子链接: https://www.unibe.ch/e1006/e15237/e554209/BMS_ger.pdf (锚文本: 'welche ohne Einstufung zum Eintritt in das gewünschte Masterstudienprogramm berechtigen', 匹配关键词: 'program')
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 提取链接完成，去重前 3 个链接，去重后 3 个新请求（去重了 0 个重复链接）
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 计数器变更: 1 -> 4, 操作: 添加3个子页面请求
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 添加 3 个新请求，当前剩余: 3
+2025-08-28 23:53:56 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:53:57 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 正在处理子页面(深度1) (已处理1个页面): https://www.unibe.ch/studium/studienangebote/master/studienprogramme/index_ger.html
+2025-08-28 23:53:57 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:53:57 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 正在处理子页面(深度1) (已处理2个页面): https://www.unibe.ch/e1006/e15237/e554209/BMS_ger.pdf
+2025-08-28 23:53:57 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 跳过非HTML内容: https://www.unibe.ch/e1006/e15237/e554209/BMS_ger.pdf
+2025-08-28 23:53:57 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 计数器变更: 2 -> 1, 操作: 完成非HTML页面处理
+2025-08-28 23:53:57 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 剩余请求数: 1
+2025-08-28 23:53:59 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 正在处理子页面(深度1) (已处理3个页面): https://www.unibe.ch/studium/daten/wechsel_studienprogramm/index_ger.html
+2025-08-28 23:53:59 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 正在完成项目
+2025-08-28 23:54:00 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 项目完成: 伯尔尼大学生物医学理学硕士
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16]   - 总页数: 4
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16]   - 成功页数: 3
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16]   - 失败页数: 1
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16]   - 成功率: 75.0%
+2025-08-28 23:54:00 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:54:00 [program_spider] INFO: [2e2dd386-d83e-4c8f-b876-2ada95d6eb16] 仍有 6 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:54:00 [program_spider] INFO: 成功保存项目数据: output/医学/伯尔尼大学生物医学理学硕士_医学.json
+2025-08-28 23:54:00 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:54:00 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:00 [program_spider] INFO: 开始爬取项目 [20/25]
+2025-08-28 23:54:00 [program_spider] INFO: 项目名称: 雷丁大学医师助理理学硕士
+2025-08-28 23:54:00 [program_spider] INFO: 项目ID: 7b46442b-5279-49a6-8b24-ae2eb276f3e0
+2025-08-28 23:54:00 [program_spider] INFO: 根URL: https://www.reading.ac.uk/ready-to-study/study/subject-area/physician-associate-pg/msc-physician-associate
+2025-08-28 23:54:00 [program_spider] INFO: 剩余项目数: 5
+2025-08-28 23:54:00 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:00 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理根页面 (已处理0个页面): https://www.reading.ac.uk/ready-to-study/study/subject-area/physician-associate-pg/msc-physician-ass...
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 页面总链接数: 282
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 移除导航后链接数: 282 (移除了 0 个导航链接)
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 有效链接数: 274, 关键词匹配数: 12, 最终提取数: 11
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 页面 https://www.reading.ac.uk/ready-to-study/study/subject-area/physician-associate-pg/msc-physician-associate (depth=0, is_root=True) 提取到 11 个链接
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/foundation-programmes-ug (锚文本: 'Foundation programmes', 匹配关键词: 'program')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/international-foundation-programme-ifp-ug (锚文本: 'International Foundation Programme (IFP)', 匹配关键词: 'program')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/project-management-pg (锚文本: 'Project Management', 匹配关键词: 'project')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/subject-area/foundation-programmes-ug (锚文本: 'Foundation programmes', 匹配关键词: 'program')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/subject-area/international-foundation-programme-ifp-ug (锚文本: 'International Foundation Programme (IFP)', 匹配关键词: 'program')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/subject-area/project-management-pg (锚文本: 'Project Management', 匹配关键词: 'project')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/physician-associate-pg/msc-physician-associate (锚文本: 'See 2025/26 entry', 匹配关键词: 'entry')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/fees-and-funding (锚文本: 'our dedicated fees and funding page', 匹配关键词: 'funding')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/fees-and-funding/fees-and-funding-pg.aspx (锚文本: 'our fees and funding information', 匹配关键词: 'funding')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://risis.reading.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?process=siw_ipp_app&code1=P_ADM&code2=0001 (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/postgraduate-study/masters-how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 提取链接完成，去重前 11 个链接，去重后 11 个新请求（去重了 0 个重复链接）
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 1 -> 12, 操作: 添加11个子页面请求
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 添加 11 个新请求，当前剩余: 11
+2025-08-28 23:54:01 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-28 23:54:02 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理1个页面): https://risis.reading.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?process=siw_ipp_app&code1=P_ADM&code2...
+2025-08-28 23:54:02 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-28 23:54:02 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理2个页面): https://www.reading.ac.uk/ready-to-study/study/2025/foundation-programmes-ug
+2025-08-28 23:54:02 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 10 -> 9, 操作: 完成页面解析
+2025-08-28 23:54:06 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理3个页面): https://www.reading.ac.uk/ready-to-study/study/2025/physician-associate-pg/msc-physician-associate
+2025-08-28 23:54:06 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 9 -> 8, 操作: 完成页面解析
+2025-08-28 23:54:07 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理4个页面): https://www.reading.ac.uk/ready-to-study/study/subject-area/project-management-pg
+2025-08-28 23:54:07 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 8 -> 7, 操作: 完成页面解析
+2025-08-28 23:54:08 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理5个页面): https://www.reading.ac.uk/ready-to-study/study/subject-area/international-foundation-programme-ifp-u...
+2025-08-28 23:54:08 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 7 -> 6, 操作: 完成页面解析
+2025-08-28 23:54:09 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理6个页面): https://www.reading.ac.uk/ready-to-study/study/subject-area/foundation-programmes-ug
+2025-08-28 23:54:09 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 6 -> 5, 操作: 完成页面解析
+2025-08-28 23:54:10 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理7个页面): https://www.reading.ac.uk/ready-to-study/study/2025/project-management-pg
+2025-08-28 23:54:10 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 5 -> 4, 操作: 完成页面解析
+2025-08-28 23:54:11 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理8个页面): https://www.reading.ac.uk/ready-to-study/study/2025/international-foundation-programme-ifp-ug
+2025-08-28 23:54:11 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 4 -> 3, 操作: 完成页面解析
+2025-08-28 23:54:12 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理9个页面): https://www.reading.ac.uk/ready-to-study/study/how-to-apply/masters-how-to-apply
+2025-08-28 23:54:12 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 3 -> 2, 操作: 完成页面解析
+2025-08-28 23:54:13 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理10个页面): https://www.reading.ac.uk/ready-to-study/study/fees-and-funding/fees-and-funding-pg
+2025-08-28 23:54:13 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 2 -> 1, 操作: 完成页面解析
+2025-08-28 23:54:15 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在处理子页面(深度1) (已处理11个页面): https://www.reading.ac.uk/ready-to-study/study/fees-and-funding
+2025-08-28 23:54:15 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 计数器变更: 1 -> 0, 操作: 完成页面解析
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 正在完成项目
+2025-08-28 23:54:16 [program_spider] INFO: 
+------------------------------------------------------------
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 项目完成: 雷丁大学医师助理理学硕士
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0]   - 总页数: 12
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0]   - 成功页数: 12
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0]   - 失败页数: 0
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0]   - 成功率: 100.0%
+2025-08-28 23:54:16 [program_spider] INFO: ------------------------------------------------------------
+2025-08-28 23:54:16 [program_spider] INFO: [7b46442b-5279-49a6-8b24-ae2eb276f3e0] 仍有 5 个项目待爬，将在爬虫空闲时继续。
+2025-08-28 23:54:16 [program_spider] INFO: 成功保存项目数据: output/医学/雷丁大学医师助理理学硕士_医学.json
+2025-08-28 23:54:16 [program_spider] INFO: spider_idle 触发，调度下一个项目 …
+2025-08-28 23:54:16 [program_spider] INFO: 
+================================================================================
+2025-08-28 23:54:16 [program_spider] INFO: 开始爬取项目 [21/25]
+2025-08-28 23:54:16 [program_spider] INFO: 项目名称: 雷丁大学言语与语言治疗理学硕士
+2025-08-28 23:54:16 [program_spider] INFO: 项目ID: 25f6055f-4c96-4b51-becc-77b86f7cae82
+2025-08-28 23:54:16 [program_spider] INFO: 根URL: https://www.reading.ac.uk/ready-to-study/study/subject-area/Speech-and-language-therapy-pg/msc-speech-and-language-therapy
+2025-08-28 23:54:16 [program_spider] INFO: 剩余项目数: 4
+2025-08-28 23:54:16 [program_spider] INFO: ================================================================================
+2025-08-28 23:54:16 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 计数器变更: 0 -> 1, 操作: 启动根页面请求
+2025-08-28 23:54:17 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 正在处理根页面 (已处理0个页面): https://www.reading.ac.uk/ready-to-study/study/subject-area/Speech-and-language-therapy-pg/msc-speec...
+2025-08-28 23:54:17 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 页面总链接数: 289
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 移除导航后链接数: 289 (移除了 0 个导航链接)
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 有效链接数: 281, 关键词匹配数: 13, 最终提取数: 12
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 页面 https://www.reading.ac.uk/ready-to-study/study/subject-area/Speech-and-language-therapy-pg/msc-speech-and-language-therapy (depth=0, is_root=True) 提取到 12 个链接
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/foundation-programmes-ug (锚文本: 'Foundation programmes', 匹配关键词: 'program')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/international-foundation-programme-ifp-ug (锚文本: 'International Foundation Programme (IFP)', 匹配关键词: 'program')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/project-management-pg (锚文本: 'Project Management', 匹配关键词: 'project')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/subject-area/foundation-programmes-ug (锚文本: 'Foundation programmes', 匹配关键词: 'program')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/subject-area/international-foundation-programme-ifp-ug (锚文本: 'International Foundation Programme (IFP)', 匹配关键词: 'program')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/subject-area/project-management-pg (锚文本: 'Project Management', 匹配关键词: 'project')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/2025/speech-and-language-therapy-pg/msc-speech-and-language-therapy (锚文本: 'See 2025/26 entry', 匹配关键词: 'entry')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/fees-and-funding (锚文本: 'our dedicated fees and funding page', 匹配关键词: 'funding')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.practitioners.slc.co.uk/media/1206/sfe_long_courses_loan_fs_1718_d.pdf (锚文本: 'Long Courses Loan', 匹配关键词: 'course')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://thefundingclinic.org.uk/postgraduate/ (锚文本: 'Funding Clinic', 匹配关键词: 'funding')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://risis.reading.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?process=siw_ipp_app&code1=P_ADM&code2=0001 (锚文本: 'Apply now', 匹配关键词: 'apply')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 爬取子链接: https://www.reading.ac.uk/ready-to-study/study/postgraduate-study/masters-how-to-apply (锚文本: 'How to apply', 匹配关键词: 'apply')
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 提取链接完成，去重前 12 个链接，去重后 12 个新请求（去重了 0 个重复链接）
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 计数器变更: 1 -> 13, 操作: 添加12个子页面请求
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 添加 12 个新请求，当前剩余: 12
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 计数器变更: 13 -> 12, 操作: 完成页面解析
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 正在处理子页面(深度1) (已处理1个页面): https://risis.reading.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?process=siw_ipp_app&code1=P_ADM&code2...
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 计数器变更: 12 -> 11, 操作: 完成页面解析
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 正在处理子页面(深度1) (已处理2个页面): https://www.reading.ac.uk/ready-to-study/study/2025/foundation-programmes-ug
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 计数器变更: 11 -> 10, 操作: 完成页面解析
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 正在处理子页面(深度1) (已处理3个页面): https://www.practitioners.slc.co.uk/media/1206/sfe_long_courses_loan_fs_1718_d.pdf
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 跳过非HTML内容: https://www.practitioners.slc.co.uk/media/1206/sfe_long_courses_loan_fs_1718_d.pdf
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 计数器变更: 10 -> 9, 操作: 完成非HTML页面处理
+2025-08-28 23:54:18 [program_spider] INFO: [25f6055f-4c96-4b51-becc-77b86f7cae82] 剩余请求数: 9
+2025-08-28 23:54:19 [scrapy.downloadermiddlewares.httpcompression] WARNING: HttpCompressionMiddleware cannot decode the response for https://www.thefundingclinic.org.uk/postgraduate/ from unsupported encoding(s) 'br'. You need to install brotli or brotlicffi to decode 'br'.

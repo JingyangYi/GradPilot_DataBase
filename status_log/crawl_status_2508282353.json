@@ -1,0 +1,37 @@
+{
+  "subjects": {
+    "交通运输": {
+      "status": "running",
+      "total": 0,
+      "completed": 4,
+      "failed": 0
+    },
+    "医学": {
+      "status": "running",
+      "total": 0,
+      "completed": 17,
+      "failed": 0
+    },
+    "市场营销": {
+      "status": "running",
+      "total": 0,
+      "completed": 4,
+      "failed": 0
+    },
+    "电气电子": {
+      "status": "running",
+      "total": 0,
+      "completed": 2,
+      "failed": 0
+    },
+    "新闻": {
+      "status": "running",
+      "total": 0,
+      "completed": 6,
+      "failed": 0
+    }
+  },
+  "failed_projects": [],
+  "completed_subjects": [],
+  "last_update": "2025-08-28T23:53:55.480648"
+}

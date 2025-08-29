@@ -1,0 +1,114 @@
+[
+  {
+    "project_id": "6dd44759-e5a7-4c50-abe8-8efd622ee226",
+    "program_name": "卡迪夫大学临床牙科（口腔修复学）硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/master-of-clinical-dentistry-prosthodontics",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=LUWqTaaFSDs.xCfwbaaWjJ4YC3lkOcaL1pzAi11.LHc-1756443187-1.0.1.1-Z0WGVxlTDVLho.ukBbOepV6ECLemmSKYYkKNKiMqmbGcYQbTEMmWdOrgGUs60J2aawVQDkSrnxVzEOarogR1H1lf1wz_X6mocri.Si9KgOI; path=/; expires=Fri,",
+      "cf-ray": "9769715f8e3661a5-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "a3a00787-b4a6-472e-bc65-79c64b1ab3fa",
+    "program_name": "卡迪夫大学物理疗法理学硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/physiotherapy-msc",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=FAbzG2Bt1DbaPJQ5eJM_4soN04uNA0Hd5F_agNC1kcU-1756443193-1.0.1.1-1rGRheMvg5s7QQHBcEbQJlvCStk4.a_3f8z4H6khyGSExZ3GMERR4ulf1hMKmz6O6fqNogWIvMSrJuQOBmL.K6K0mn3QQ5ltvezrohX87rg; path=/; expires=Fri,",
+      "cf-ray": "976971864fac608e-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "5f98c16b-5fe5-41ac-af5e-acecbc779bba",
+    "program_name": "卡迪夫大学职业疗法理学硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/occupational-therapy-msc",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=uPphtupTPHX4BZ4nr.r63C7b4aTPslFdLtbuLpMyKbo-1756443195-1.0.1.1-wp87VmxyKw78pUVewrALu_tHY0hF97FsakLGcPLjF1WTc3UvwiUHaFB5fEVGE8Isig0ZyomTqBhbnCo2SqFyWsDL1TjqbO9UoaG2qoLG1E4; path=/; expires=Fri,",
+      "cf-ray": "976971924ecb10f2-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "be342770-5802-4d0a-ab30-71d4a35319b6",
+    "program_name": "卡迪夫大学应用生物信息学与基因组学理学硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/applied-bioinformatics-and-genomics-msc-full-time",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=xyZPEfJ3.4Y5EzPyv0Lp_zU5eCDMI8R_O6shlnrgAFk-1756443197-1.0.1.1-60i9Omzm3o0mEQMq8SXop_5WotK9shKSanYMJ6c8qeQx9nBIUstHBU4xucc5MAOrbAnOH5yUugiZLC9XuVhr2ocoodjCIpHfgBTaVYDqF04; path=/; expires=Fri,",
+      "cf-ray": "9769719e4d07eaf1-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "66fc8878-5831-4c19-8c55-e50654e292ea",
+    "program_name": "卡迪夫大学临床验光理学硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/clinical-optometry-msc-full-time",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=Yc2jYbZt2gbOfFiDhsAuJSQHJ0GiiIrO4wOK6NKV.SY-1756443199-1.0.1.1-.9ktcCu9dyik9H0gnJjGgSD2MSoqdIhz1ySEPlq2p98NYHSSHuGvVQz.YRH2fT94fDin.UWFrYK5tB.CUhnW77A5jZ4x48kGhyQwFy98sfg; path=/; expires=Fri,",
+      "cf-ray": "976971aa4adfa3e2-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "4dd353cd-f0c3-4bba-8e58-ee08ce72a74c",
+    "program_name": "卡迪夫大学种植学理学硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/implantology-msc",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=SofbO3I_kr_7lggpJvvEpRBy.8o_X0dfmSjpp7bZS3Y-1756443201-1.0.1.1-6PmwnOlpl1eLeHdA9KgO7ANqDDYEDYUmG.3pbv8FwXRm6QQ__ISFGO.LANw8nt1kTtQzMxP1VMcC21QfjV7j0Ak981RmK2ZdkgIuPpFjGgk; path=/; expires=Fri,",
+      "cf-ray": "976971b639ef22d5-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "542aeaa5-076e-494e-9349-61c34bd11294",
+    "program_name": "卡迪夫大学口腔正畸学硕士",
+    "source_file": "医学",
+    "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/orthodontics-mscd",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=JNkUDzD0.pzDz430AB.v5EbKFrzezpVf.hJZ7BfQtHY-1756443202-1.0.1.1-G7sr2f70c3DWUpioX831_iZKNTAm.ezY9egqEoWxi4erNITyfv8cOGiuF3nViAy1EFfnBnW9lszgEwOFAqIr_KhtMOow1EK4Yi6FtVUl8MI; path=/; expires=Fri,",
+      "cf-ray": "976971c23e1310f7-ORD"
+    },
+    "response_preview": ""
+  }
+]

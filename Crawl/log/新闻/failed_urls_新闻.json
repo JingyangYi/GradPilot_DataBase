@@ -1,0 +1,49 @@
+[
+  {
+    "project_id": "55175d8a-7b14-4190-94f3-e0e3471fb922",
+    "program_name": "香港中文大学新闻学文学硕士",
+    "source_file": "新闻",
+    "url": "https://sgps.cuhk.edu.hk/study-programmes/postgraduate-programmes/mphil-phd-in-government-and-public-administration/index.html",
+    "error": "HttpError: Ignoring non-200 response (HTTP 404)",
+    "error_type": "HttpError",
+    "http_status": 404,
+    "response_headers": {
+      "server": "Apache",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "qtrans_front_language=en; expires=Sat, 29 Aug 2026 04:53:53 GMT; Max-Age=31536000; path=/; HttpOnly; SameSite=Lax"
+    },
+    "response_preview": "<!DOCTYPE html> <html class=\"en_US\" lang=\"en_US\">  <head>   <meta charset=\"utf-8\" />  <meta name=\"robots\" content=\"index, follow\" />  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1"
+  },
+  {
+    "project_id": "19e5b2d5-f13d-40a0-80fb-22519200a5e6",
+    "program_name": "莫纳什大学新闻学硕士双学位（莫纳什大学-华威大学）",
+    "source_file": "新闻",
+    "url": "https://www.monash.edu/study/courses/find-a-course/journalism-double-masters-with-university-of-warwick-a6015?international=true",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=z_uNK2IFWnuU0cFHLS5fPSJBO7R0GstpRaFpkPjwPv8-1756443256-1.0.1.1-Th6yvT134TS7xY6vl_YY8x5QMOV42_d2fmazHGH.z.eJsyvZOWnSU9xfJn3Bg0Fd9vfQ.PLrSWsgJIhihm36qtLTLBgw5tPUdzS1vPw4JzU; path=/; expires=Fri,",
+      "cf-ray": "9769730fb929fa1d-ORD"
+    },
+    "response_preview": ""
+  },
+  {
+    "project_id": "0690105d-9e7f-4cb2-bcbb-fd825a90c938",
+    "program_name": "哥伦比亚大学新闻学文学硕士",
+    "source_file": "新闻",
+    "url": "https://journalism.columbia.edu/ma-degree",
+    "error": "HttpError: Ignoring non-200 response (HTTP 403)",
+    "error_type": "HttpError",
+    "http_status": 403,
+    "response_headers": {
+      "server": "cloudflare",
+      "content-type": "text/html; charset=UTF-8",
+      "set-cookie": "__cf_bm=LWU0pOxf.bZ3x3WraNC39JzJuJNhwMiCfOOvXmo6iKU-1756443257-1.0.1.1-rbJwTnhH1AdGC4yvQ3BLPycjBL9gEgHYI69QI0xt78ko21Jhx0UhQoCxQDLEHjji0nJw6oy.0e.vKgvRmvet6TtXBzbO4I5Ia_TJxI9LT9g; path=/; expires=Fri,",
+      "cf-ray": "976973173b3beac2-ORD"
+    },
+    "response_preview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+  }
+]

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import subprocess
 import sys
+import argparse
 
 # 第1组 (1-23)
 group1 = [
@@ -146,21 +147,40 @@ group5 = [
     "urls_subject/食品科学/食品科学_urls.csv"
 ]
 
-# 选择要运行的组 (修改这里选择组号)
-selected_group = group5  # 改为 group1, group2, group3, group4, group5
+def main():
+    # 设置命令行参数解析
+    parser = argparse.ArgumentParser(description='运行指定组的爬虫')
+    parser.add_argument('group', type=int, choices=[1, 2, 3, 4, 5], 
+                       help='选择要运行的组号 (1-5)')
+    
+    args = parser.parse_args()
+    
+    # 根据参数选择对应的组
+    groups = {
+        1: group1,
+        2: group2,
+        3: group3,
+        4: group4,
+        5: group5
+    }
+    
+    selected_group = groups[args.group]
+    
+    print(f"开始爬取第{args.group}组，共 {len(selected_group)} 个CSV文件")
+    
+    for i, csv_file in enumerate(selected_group, 1):
+        print(f"\n[{i}/{len(selected_group)}] 爬取: {csv_file}")
+        try:
+            subprocess.run([sys.executable, "run_crawler.py", csv_file], check=True)
+            print(f"✓ 完成")
+        except subprocess.CalledProcessError:
+            print(f"✗ 失败")
+            break
+        except KeyboardInterrupt:
+            print("\n用户中断")
+            break
+    
+    print(f"\n第{args.group}组爬取结束")
 
-print(f"开始爬取选定组，共 {len(selected_group)} 个CSV文件")
-
-for i, csv_file in enumerate(selected_group, 1):
-    print(f"\n[{i}/{len(selected_group)}] 爬取: {csv_file}")
-    try:
-        subprocess.run([sys.executable, "run_crawler.py", csv_file], check=True)
-        print(f"✓ 完成")
-    except subprocess.CalledProcessError:
-        print(f"✗ 失败")
-        break
-    except KeyboardInterrupt:
-        print("\n用户中断")
-        break
-
-print("\n该组爬取结束")
+if __name__ == "__main__":
+    main()
