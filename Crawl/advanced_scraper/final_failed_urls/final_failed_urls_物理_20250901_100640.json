@@ -1,0 +1,54 @@
+{
+  "crawl_time": "2025-09-01T10:06:40.407053",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "物理",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 3,
+  "failed_urls": [
+    {
+      "project_id": "9b5931b6-f6a6-4674-a41f-80d91ed35d34",
+      "program_name": "荷语鲁汶大学天文学和天体物理学",
+      "source_file": "物理",
+      "url": "https://www.kuleuven.be/programmes/master-astronomy-astrophysics",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 98.01,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:04:21.656576"
+    },
+    {
+      "project_id": "00507ddd-f32e-4314-b8f1-ae0b326f05ba",
+      "program_name": "荷语鲁汶大学物理学",
+      "source_file": "物理",
+      "url": "https://www.kuleuven.be/programmes/master-physics",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 96.12,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:05:59.778226"
+    },
+    {
+      "project_id": "c2964d39-3dfe-4ec3-9aed-068dbdd8091f",
+      "program_name": "香港城市大学物理学数据建模与量子技术理学硕士",
+      "source_file": "物理",
+      "url": "https://www.cityu.edu.hk/pg/programme/p50",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 36.61,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:06:38.388210"
+    }
+  ],
+  "error_statistics": {
+    "Other": 3
+  }
+}

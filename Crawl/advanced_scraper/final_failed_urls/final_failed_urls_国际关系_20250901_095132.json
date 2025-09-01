@@ -1,0 +1,41 @@
+{
+  "crawl_time": "2025-09-01T09:51:32.506737",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "国际关系",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 2,
+  "failed_urls": [
+    {
+      "project_id": "541f78cd-3372-497e-929c-e71d7d0e2e55",
+      "program_name": "卡迪夫大学社会科学研究方法理学硕士（国际关系）",
+      "source_file": "国际关系",
+      "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/social-science-research-methods-international-relations-msc",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 38.15,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:50:10.038742"
+    },
+    {
+      "project_id": "219327f4-2d60-4008-8939-85a3e5e4feb5",
+      "program_name": "瓦格宁根大学国际发展研究理学硕士",
+      "source_file": "国际关系",
+      "url": "https://www.wur.nl/en/Education-Programmes/master/MSc-programmes/MSc-International-Development-Studies.htm",
+      "error_type": "HTTP_504",
+      "final_error_message": "HTTP 504",
+      "http_status_code": 504,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 78.45,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:51:30.496927"
+    }
+  ],
+  "error_statistics": {
+    "Other": 1,
+    "HTTP_504": 1
+  }
+}

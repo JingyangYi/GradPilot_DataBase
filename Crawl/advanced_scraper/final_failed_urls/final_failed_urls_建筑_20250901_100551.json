@@ -1,0 +1,68 @@
+{
+  "crawl_time": "2025-09-01T10:05:51.027183",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "建筑",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 4,
+  "failed_urls": [
+    {
+      "project_id": "a694b7a9-1e2d-408d-a923-6ee6d079d595",
+      "program_name": "荷语鲁汶大学建筑学（布鲁塞尔）",
+      "source_file": "建筑",
+      "url": "https://www.kuleuven.be/programmes/master-architecture",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 94.55,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:03:54.738235"
+    },
+    {
+      "project_id": "5dd986dc-3a86-4743-b08a-b4a92e6adf23",
+      "program_name": "香港城市大学建筑学硕士",
+      "source_file": "建筑",
+      "url": "https://www.cityu.edu.hk/pg/programme/p82",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 35.15,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:04:31.892923"
+    },
+    {
+      "project_id": "8c4d7dc8-9004-4727-8b24-8c92e840c92f",
+      "program_name": "香港城市大学城巿设计与规划学硕士",
+      "source_file": "建筑",
+      "url": "https://www.cityu.edu.hk/pg/programme/p64",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 36.23,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:05:10.125959"
+    },
+    {
+      "project_id": "0e26f562-468e-4e15-be40-c2297faad3a6",
+      "program_name": "香港城市大学房屋及都市管理文学硕士",
+      "source_file": "建筑",
+      "url": "https://www.cityu.edu.hk/pg/programme/p78",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 36.87,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:05:49.001964"
+    }
+  ],
+  "error_statistics": {
+    "Other": 4
+  }
+}

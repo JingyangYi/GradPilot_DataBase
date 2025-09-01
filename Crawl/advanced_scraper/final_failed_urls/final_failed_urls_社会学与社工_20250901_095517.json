@@ -1,0 +1,55 @@
+{
+  "crawl_time": "2025-09-01T09:55:17.024358",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "社会学与社工",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 3,
+  "failed_urls": [
+    {
+      "project_id": "10124c59-525c-4338-aa17-857aa944eeb2",
+      "program_name": "卡迪夫大学社会科学研究方法理学硕士（科学与技术研究）",
+      "source_file": "社会学与社工",
+      "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/social-science-research-methods-msc",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 38.24,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:54:24.850855"
+    },
+    {
+      "project_id": "10353e76-a2de-4e3a-be82-b3af79917571",
+      "program_name": "德州农工大学社会学理学硕士",
+      "source_file": "社会学与社工",
+      "url": "https://grad.tamu.edu/academics/program-directory/sociology-ms",
+      "error_type": "HTTP_503",
+      "final_error_message": "HTTP 503",
+      "http_status_code": 503,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 7.73,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:54:34.582805"
+    },
+    {
+      "project_id": "c5abdf2c-6c90-4d98-b363-991cbf7c7be5",
+      "program_name": "密歇根州立大学社会学硕士",
+      "source_file": "社会学与社工",
+      "url": "https://reg.msu.edu/AcademicPrograms/ProgramDetail.aspx?Program=SOCIOLO_MA",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 38.43,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:55:15.017147"
+    }
+  ],
+  "error_statistics": {
+    "Other": 2,
+    "HTTP_503": 1
+  }
+}

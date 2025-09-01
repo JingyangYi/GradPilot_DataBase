@@ -20,7 +20,7 @@ URL_WHITELIST_KEYWORDS = [
     'apply', 'admission', 'requirement', 'deadline', 'application', 'requirements',
     'tuition', 'entry', 'financial', 'funding', 'scholarship',
     'frequently asked questions', 'career', 'certificates', 'track', 'faqs', 'faq', 'frequently',
-    'concentration', 'specialization', 'capstone', 'thesis', 'project', 'internship'
+    'concentration', 'specialization', 'capstone', 'thesis', 'project', 'internship', 'area', 'foucs',
 ]
 
 # 链接文本黑名单 - 基于链接描述文本的过滤

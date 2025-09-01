@@ -64,6 +64,10 @@ class ProgramSpider(scrapy.Spider):
         self.failed_projects = 0
         self.is_processing_project = False
         
+        # 为当前爬取会话生成时间戳，用于失败日志文件命名
+        from datetime import datetime
+        self.crawl_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        
         self.load_projects()
         
     def load_projects(self):
@@ -240,24 +244,50 @@ class ProgramSpider(scrapy.Spider):
             # 🎯 一次解析HTML，多次复用 - 性能优化核心
             soup = BeautifulSoup(response.text, 'html.parser')
             
+            # 修改链接提取条件：允许根页面(is_root=True)或深度小于1的页面提取链接
+            is_root = response.meta.get('is_root', False)
+            links = []
+            if depth < 1 or is_root:
+                links = self.extract_links_from_soup(soup, response) # 先提取链接，使用完整的soup
+            
+            title = self.extract_title_from_soup(soup)
+            content = self.extract_structured_content_from_soup(soup)  # 再提取内容（会删除导航元素）
+            
+            # 验证内容质量
+            is_meaningful, reason = self.is_content_meaningful(title, content, links, response)
+            
             page_data = {
                 'url': response.url,
                 'depth': depth,
-                'title': self.extract_title_from_soup(soup),
-                'content': self.extract_structured_content_from_soup(soup),  # 统一使用结构化内容
-                'links': [],
-                'crawl_status': 'success'
+                'title': title,
+                'content': content,
+                'links': links,
+                'crawl_status': 'success' if is_meaningful else 'content_quality_failed',
+                'failure_reason': None if is_meaningful else reason
             }
             
             self.project_data[project_id]['pages'].append(page_data)
-            self.project_data[project_id]['successful_pages'] += 1
             
-            # 修改链接提取条件：允许根页面(is_root=True)或深度小于1的页面提取链接
-            is_root = response.meta.get('is_root', False)
-            if depth < 1 or is_root:
-                links = self.extract_links_from_soup(soup, response) # 仅匹配锚文本
-                page_data['links'] = links
+            if is_meaningful:
+                self.project_data[project_id]['successful_pages'] += 1
+            else:
+                self.project_data[project_id]['failed_pages'] += 1
+                self.logger.warning(f"[{project_id}] 内容质量验证失败: {reason}")
                 
+                # 对于根页面的内容质量失败，记录到失败日志
+                is_root = response.meta.get('is_root', False)
+                if is_root:
+                    # 创建一个伪failure对象来复用现有的失败记录逻辑
+                    class ContentQualityFailure:
+                        def __init__(self, response, reason):
+                            self.request = response.request
+                            self.value = Exception(f"内容质量失败: {reason}")
+                            self.type = type(self.value)
+                    
+                    fake_failure = ContentQualityFailure(response, reason)
+                    self.record_failed_request(project_id, fake_failure)
+            
+            if depth < 1 or is_root:
                 # 调试信息：如果没有提取到链接，记录详细信息
                 if not links:
                     self.logger.warning(f"[{project_id}] 页面 {response.url} (depth={depth}, is_root={is_root}) 没有提取到任何符合条件的链接")
@@ -395,13 +425,16 @@ class ProgramSpider(scrapy.Spider):
         processed_pages = current_project_data['successful_pages'] + current_project_data['failed_pages']
         self.logger.info(f"[{project_id}] 已处理页面: {processed_pages}, 剩余请求数: {self.request_counters[project_id]}")
 
-        # 记录失败到状态文件
-        self.record_failed_request(project_id, failure)
+        # 仅记录根URL失败到状态文件
+        is_root = failure.request.meta.get('is_root', False)
+        if is_root:
+            self.record_failed_request(project_id, failure)
 
         # 如果当前项目所有请求都已回收，立即完成项目
         if self.request_counters[project_id] <= 0:
             self.logger.info(f"[{project_id}] 项目在错误处理中完成，立即收尾 …")
             yield from self.complete_project(project_id)
+    
     
     def record_failed_request(self, project_id, failure):
         """记录失败的请求到学科专门的失败日志文件"""
@@ -431,8 +464,6 @@ class ProgramSpider(scrapy.Spider):
             if not os.path.exists(log_dir):
                 os.makedirs(log_dir)
             
-            failed_log_file = os.path.join(log_dir, f'failed_urls_{source_file}.json')
-            
             # 构建详细错误信息
             error_msg = f"{failure.type.__name__}: {failure.value}"
             http_status = None
@@ -455,7 +486,16 @@ class ProgramSpider(scrapy.Spider):
                 if hasattr(response, 'text') and len(response.text) > 0:
                     response_preview = response.text[:200].replace('\n', ' ').replace('\r', ' ')
             
-            # 创建失败记录（去掉timestamp字段）
+            # 根据HTTP状态码确定文件后缀
+            if http_status:
+                status_suffix = f"HTTP{http_status}"
+            else:
+                status_suffix = "OTHER"
+            
+            # 按HTTP状态码分类的文件路径，包含时间戳
+            failed_log_file = os.path.join(log_dir, f'failed_urls_{source_file}_{self.crawl_timestamp}_{status_suffix}.json')
+            
+            # 创建失败记录
             failed_record = {
                 'project_id': project_id,
                 'program_name': program_name,
@@ -465,7 +505,8 @@ class ProgramSpider(scrapy.Spider):
                 'error_type': failure.type.__name__,
                 'http_status': http_status,
                 'response_headers': response_headers,
-                'response_preview': response_preview
+                'response_preview': response_preview,
+                'timestamp': datetime.now().isoformat()  # 添加时间戳
             }
             
             # 读取现有失败记录
@@ -478,9 +519,9 @@ class ProgramSpider(scrapy.Spider):
             existing_urls = {record['url'] for record in failed_records}
             if failure.request.url not in existing_urls:
                 failed_records.append(failed_record)
-                self.logger.info(f"[{project_id}] 新增失败URL记录: {failure.request.url}")
+                self.logger.info(f"[{project_id}] 新增根URL失败记录 ({status_suffix}): {failure.request.url}")
             else:
-                self.logger.debug(f"[{project_id}] 失败URL已存在，跳过重复记录: {failure.request.url}")
+                self.logger.debug(f"[{project_id}] 根URL失败记录已存在，跳过重复记录: {failure.request.url}")
             
             # 保存失败记录（仅在有新记录时写入）
             if failure.request.url not in existing_urls:
@@ -658,15 +699,15 @@ class ProgramSpider(scrapy.Spider):
             all_links = soup.find_all('a', href=True)
             self.logger.info(f"[{project_id}] 页面总链接数: {len(all_links)}")
             
-            # # 临时调试：打印所有原始链接的锚文本
-            # self.logger.info(f"[{project_id}] === 原始链接锚文本列表 ===")
-            # for i, link in enumerate(all_links):  # 只显示前20个避免日志过长
-            #     anchor_text = link.get_text().strip()
-            #     href = link.get('href', 'N/A')
-            #     self.logger.info(f"[{project_id}] 原始链接{i+1}: '{anchor_text}' -> {href}")
+            # 临时调试：打印所有原始链接的锚文本
+            self.logger.info(f"[{project_id}] === 原始链接锚文本列表 ===")
+            for i, link in enumerate(all_links):  # 只显示前20个避免日志过长
+                anchor_text = link.get_text().strip()
+                href = link.get('href', 'N/A')
+                self.logger.info(f"[{project_id}] 原始链接{i+1}: '{anchor_text}' -> {href}")
             
             # 删除导航元素 - 减少误删，只删除明确的导航和页脚
-            nav_selectors = ['footer', '.menu', "header"]  # 移除了'nav'避免误删页面主要内容
+            nav_selectors = ['footer', "header"]  # 移除了'nav'避免误删页面主要内容
             removed_nav_count = 0
             for selector in nav_selectors:
                 nav_elements = soup.select(selector)
@@ -677,14 +718,14 @@ class ProgramSpider(scrapy.Spider):
             remaining_links = soup.find_all('a', href=True)
             self.logger.info(f"[{project_id}] 移除导航后链接数: {len(remaining_links)} (移除了 {removed_nav_count} 个导航链接)")
             
-            # # 临时调试：打印移除导航后的链接锚文本
-            # self.logger.info(f"[{project_id}] === 移除导航后链接锚文本列表 ===")
-            # for i, link in enumerate(remaining_links[:20]):  # 只显示前20个
-            #     anchor_text = link.get_text().strip()
-            #     href = link.get('href', 'N/A')
-            #     self.logger.info(f"[{project_id}] 剩余链接{i+1}: '{anchor_text}' -> {href}")
-            # if len(remaining_links) > 20:
-            #     self.logger.info(f"[{project_id}] ... 还有 {len(remaining_links)-20} 个链接未显示")
+            # 临时调试：打印移除导航后的链接锚文本
+            self.logger.info(f"[{project_id}] === 移除导航后链接锚文本列表 ===")
+            for i, link in enumerate(remaining_links[:20]):  # 只显示前20个
+                anchor_text = link.get_text().strip()
+                href = link.get('href', 'N/A')
+                self.logger.info(f"[{project_id}] 剩余链接{i+1}: '{anchor_text}' -> {href}")
+            if len(remaining_links) > 20:
+                self.logger.info(f"[{project_id}] ... 还有 {len(remaining_links)-20} 个链接未显示")
                     
             links = []
             returned_urls = set()  # 页面内URL去重
@@ -723,12 +764,12 @@ class ProgramSpider(scrapy.Spider):
                             "matched_keyword": matched_keyword  # 匹配的白名单关键词
                         }
                         links.append(link_info)
-                        self.logger.debug(f"[{project_id}] 匹配链接: {href} (锚文本: '{anchor_text}', 关键词: '{matched_keyword}')")
+                        self.logger.info(f"[{project_id}] 匹配链接: {href} (锚文本: '{anchor_text}', 关键词: '{matched_keyword}')")
 
                     else:
-                        self.logger.debug(f"[{project_id}] 链接不匹配关键词: {href} (锚文本: '{anchor_text}')")
+                        self.logger.info(f"[{project_id}] 链接不匹配关键词: {href} (锚文本: '{anchor_text}')")
                 else:
-                    self.logger.debug(f"[{project_id}] 无效链接: {href} (锚文本: '{anchor_text}')")
+                    self.logger.info(f"[{project_id}] 无效链接: {href} (锚文本: '{anchor_text}')")
             
             self.logger.info(f"[{project_id}] 有效链接数: {valid_count}, 关键词匹配数: {keyword_matched_count}, 最终提取数: {len(links)}")
             return links
@@ -767,6 +808,20 @@ class ProgramSpider(scrapy.Spider):
                 
         return None
         
+    def is_content_meaningful(self, title, content, links, response):
+        """验证页面内容是否有意义 - 简化版本，只检测完全空内容"""
+        try:
+            # 简单检测：标题、内容、链接全部为空才认为失败
+            if not title.strip() and not content.strip() and not links:
+                return False, "页面无任何有效内容"
+            
+            return True, "内容有效"
+            
+        except Exception as e:
+            # 验证出错时保守处理，认为内容有效
+            self.logger.warning(f"内容质量验证出错: {e}")
+            return True, "验证出错，默认有效"
+        
     def closed(self, reason):
         """爬虫关闭时的统计信息"""
         self.logger.info("=== 爬虫完成统计 ===")
@@ -795,7 +850,7 @@ class ProgramSpider(scrapy.Spider):
                 return ""
             
             # 移除不需要的元素但保留主要内容结构
-            for script in soup(["script", "style", "nav", "header", "footer", "aside"]):
+            for script in soup(["script", "style", "header", "footer", "aside"]):
                 script.decompose()
             
             content_parts = []

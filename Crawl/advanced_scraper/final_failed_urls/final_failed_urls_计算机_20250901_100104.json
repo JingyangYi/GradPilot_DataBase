@@ -1,0 +1,96 @@
+{
+  "crawl_time": "2025-09-01T10:01:04.030260",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "计算机",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 6,
+  "failed_urls": [
+    {
+      "project_id": "4a85268b-a0fd-4c2c-9577-71a9f57c1511",
+      "program_name": "荷语鲁汶大学计算机科学工程",
+      "source_file": "计算机",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52364384.htm#activetab=diploma_omschrijving",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 97.21,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:58:45.607862"
+    },
+    {
+      "project_id": "3fb732f7-ec5c-4ce6-b060-e8537024e52d",
+      "program_name": "杜克大学网络安全",
+      "source_file": "计算机",
+      "url": "https://cybersecurity.meng.duke.edu/",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 6.75,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:58:54.358413"
+    },
+    {
+      "project_id": "f7af066a-6678-469c-8420-2d638a138efe",
+      "program_name": "杜克大学人工智能（产品创新）",
+      "source_file": "计算机",
+      "url": "https://ai.meng.duke.edu/degree",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 5.91,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:59:02.269794"
+    },
+    {
+      "project_id": "1fa68db0-e651-45da-8a4a-2c56bc83d292",
+      "program_name": "香港城市大学电脑科学理学硕士",
+      "source_file": "计算机",
+      "url": "https://www.cityu.edu.hk/pg/programme/p53",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 38.52,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:59:42.796872"
+    },
+    {
+      "project_id": "bdbb0205-f057-45d1-9627-f3e072ea91c9",
+      "program_name": "香港城市大学多媒体资讯科技理学硕士",
+      "source_file": "计算机",
+      "url": "https://www.cityu.edu.hk/pg/programme/p59",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 37.94,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:00:22.737703"
+    },
+    {
+      "project_id": "cbb02f2e-49a8-4616-86ba-50d7f0f08d31",
+      "program_name": "香港城市大学人工智能理学硕士",
+      "source_file": "计算机",
+      "url": "https://www.cityu.edu.hk/pg/programme/p75",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 37.28,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T10:01:02.024007"
+    }
+  ],
+  "error_statistics": {
+    "Other": 6
+  }
+}

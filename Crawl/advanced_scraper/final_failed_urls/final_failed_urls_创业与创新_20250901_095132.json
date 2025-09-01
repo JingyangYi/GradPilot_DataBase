@@ -1,0 +1,68 @@
+{
+  "crawl_time": "2025-09-01T09:51:32.895812",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "创业与创新",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 4,
+  "failed_urls": [
+    {
+      "project_id": "bef2316c-6879-489a-bace-a0c2fec5cec7",
+      "program_name": "卡迪夫大学商业战略与创业理学硕士",
+      "source_file": "创业与创新",
+      "url": "https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/business-strategy-and-entrepreneurship-msc",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 37.56,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:49:35.883945"
+    },
+    {
+      "project_id": "2081d8fc-6832-49c3-af46-480170c6570e",
+      "program_name": "新加坡国立大学企业开发理学硕士",
+      "source_file": "创业与创新",
+      "url": "https://scale.nus.edu.sg/programmes/graduate/msc-in-venture-creation",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 37.46,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:50:15.349890"
+    },
+    {
+      "project_id": "ccf57680-3654-4acd-8728-f1d90104615e",
+      "program_name": "新加坡国立大学文化艺术创新创业管理文学硕士",
+      "source_file": "创业与创新",
+      "url": "https://fass.nus.edu.sg/cnm/ace-master/",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 35.84,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:50:53.195402"
+    },
+    {
+      "project_id": "84a3dccb-fa12-40eb-a5c2-20c952400fb5",
+      "program_name": "香港城市大学创新创业理学硕士",
+      "source_file": "创业与创新",
+      "url": "https://www.cityu.edu.hk/pg/programme/p88",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 35.69,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:51:30.887736"
+    }
+  ],
+  "error_statistics": {
+    "Other": 4
+  }
+}

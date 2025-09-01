@@ -1,0 +1,40 @@
+{
+  "crawl_time": "2025-09-01T09:54:54.587979",
+  "description": "重试3次后依然失败的URL列表（保存到advanced_scraper目录）",
+  "subject_name": "交通运输",
+  "max_attempts": 3,
+  "total_failed_after_max_retries": 2,
+  "failed_urls": [
+    {
+      "project_id": "cdbb5594-5c45-474c-9f93-6faec0dc8716",
+      "program_name": "新加坡国立大学海事技术与管理理学硕士",
+      "source_file": "交通运输",
+      "url": "https://cde.nus.edu.sg/isem/graduate/coursework/masters-of-science-maritime-technology-management-programme/",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 36.87,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:53:14.510031"
+    },
+    {
+      "project_id": "d874e76c-6df1-4b8e-9bd8-39b86e7e4961",
+      "program_name": "荷语鲁汶大学移动与供应链",
+      "source_file": "交通运输",
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_53845475.htm#activetab=diploma_omschrijving",
+      "error_type": "Other",
+      "final_error_message": "HTTP None",
+      "http_status_code": null,
+      "attempts_made": 3,
+      "total_retry_time_seconds": 96.07,
+      "proxy_used": null,
+      "cloudflare_detected": false,
+      "timestamp": "2025-09-01T09:54:52.579142"
+    }
+  ],
+  "error_statistics": {
+    "Other": 2
+  }
+}

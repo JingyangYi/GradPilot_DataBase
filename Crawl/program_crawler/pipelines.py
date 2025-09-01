@@ -35,10 +35,15 @@ class JsonWriterPipeline:
         """
         self.output_dir = 'output'  # 输出目录名
         
-        # 如果输出目录不存在，则创建
-        if not os.path.exists(self.output_dir):
-            os.makedirs(self.output_dir)
-            print(f"创建输出目录: {self.output_dir}")
+        # 确保输出目录存在（处理并发创建的竞态条件）
+        try:
+            os.makedirs(self.output_dir, exist_ok=True)
+            if not os.path.exists(os.path.join(self.output_dir, '.gitkeep')):
+                print(f"创建输出目录: {self.output_dir}")
+        except Exception as e:
+            # 如果创建失败但目录已存在，忽略错误
+            if not os.path.exists(self.output_dir):
+                raise RuntimeError(f"无法创建输出目录 {self.output_dir}: {e}")
     
     def process_item(self, item, spider):
         """
@@ -66,10 +71,9 @@ class JsonWriterPipeline:
         safe_program_name = self.sanitize_filename(program_name)
         safe_source_file = source_file.replace('.json', '')  # 移除原有扩展名
         
-        # 根据来源文件创建子文件夹
+        # 根据来源文件创建子文件夹（处理并发创建）
         subject_dir = os.path.join(self.output_dir, safe_source_file)
-        if not os.path.exists(subject_dir):
-            os.makedirs(subject_dir)
+        os.makedirs(subject_dir, exist_ok=True)
         
         # 构建文件名：项目名_来源文件.json
         filename = f"{safe_program_name}_{safe_source_file}.json"
@@ -143,9 +147,8 @@ class JsonWriterPipeline:
         crawl_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
         status_log_dir = os.path.join(crawl_dir, 'status_log')
         
-        # 确保状态日志目录存在
-        if not os.path.exists(status_log_dir):
-            os.makedirs(status_log_dir)
+        # 确保状态日志目录存在（处理并发创建）
+        os.makedirs(status_log_dir, exist_ok=True)
         
         # 生成带时间戳的文件名 (格式: YYMMDDHHMM)
         from datetime import datetime
